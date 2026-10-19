@@ -1,16 +1,12 @@
 {
-  "generated_at": "2026-10-19T14:14:14.250448+00:00",
-  "sources_total": 9,
-  "sources_ok": 7,
-  "sources_failed": 2,
+  "generated_at": "2026-10-19T14:23:22.095685+00:00",
+  "sources_total": 11,
+  "sources_ok": 10,
+  "sources_failed": 1,
   "errors": [
     {
       "source": "CISA — Known Exploited Vulnerabilities",
       "error": "404 Client Error: Not Found for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.xml"
-    },
-    {
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "error": "404 Client Error: Not Found for url: https://www.01net.com/rss/RSS_ACTUS_securite.xml"
     }
   ],
   "items": [
@@ -63,6 +59,18 @@
       "category": "actualite"
     },
     {
+      "id": "69c559b617aa806be6c0",
+      "title": "Cybersécurité : les infrastructures critiques françaises peinent à automatiser leur réponse aux attaques",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
+      "source": "Actualités securite",
+      "date": "2026-10-19",
+      "published": "2026-10-19T12:14:00+00:00",
+      "desc": "Les réseaux électriques, les usines, les hôpitaux, les systèmes de transport et les services publics constituent le socle du (...)",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
       "id": "6b483b1190c73ddb0799",
       "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
       "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
@@ -99,6 +107,18 @@
       "category": "actualite"
     },
     {
+      "id": "44e436d15448d1831add",
+      "title": "Climb Up dans le viseur d’un pirate",
+      "url": "https://www.cyber-securite.fr/climb-up-dans-le-viseur-dun-pirate/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-19",
+      "published": "2026-10-19T11:15:56+00:00",
+      "desc": "Un pirate affirme vendre une base liée à Climb Up et à 29 salles. Un ... Lire plus L’article Climb Up dans le viseur d’un pirate est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "62badca6addc0ac9c83b",
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
       "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
@@ -123,6 +143,30 @@
       "category": "actualite"
     },
     {
+      "id": "a68286714bfc1f553366",
+      "title": "Pourquoi la « Deception Technology » est-elle l’avenir de la cybersécurité ?",
+      "url": "https://www.cyber-securite.fr/pourquoi-la-deception-technology-est-elle-lavenir-de-la-cybersecurite/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-19",
+      "published": "2026-10-19T06:35:05+00:00",
+      "desc": "La Deception Technology ne cherche pas seulement à bloquer une intrusion : elle tend des ... Lire plus L’article Pourquoi la « Deception Technology » est-elle l’avenir de la cybersécurité ? est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "02300095b15b083482f3",
+      "title": "Des pirates se servent peut-être de votre serveur Plex pour miner des cryptos",
+      "url": "https://www.01net.com/actualites/pirates-servent-peut-etre-serveur-plex-miner-cryptos.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-19",
+      "published": "2026-10-19T06:31:06+00:00",
+      "desc": "Des pirates exploitent actuellement plusieurs failles de Plex Media Server. Grâce aux vulnérabilités dénichées, ils parviennent à installer un logiciel taillé pour miner des cryptomonnaies à l'insu des utilisateurs. Pour endiguer les attaques, un correctif a été déployé.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "13914d4891785130b3de",
       "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
@@ -130,6 +174,30 @@
       "date": "2026-10-19",
       "published": "2026-10-19T06:29:44+00:00",
       "desc": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "210aa70f1ffe9280b433",
+      "title": "Microsoft 365 : attention aux accès des agents IA !",
+      "url": "https://www.cyber-securite.fr/agents-ia-microsoft-365/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-19",
+      "published": "2026-10-19T06:24:00+00:00",
+      "desc": "La multiplication des agents autonomes au sein des entreprises crée de nouvelles failles de sécurité. ... Lire plus L’article Microsoft 365 : attention aux accès des agents IA ! est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "45ac082f0a2d4f168090",
+      "title": "Ces box Orange et SFR peuvent se faire pirater à distance grâce à une faille Wi-Fi",
+      "url": "https://www.01net.com/actualites/box-orange-sfr-peuvent-piratees-distance-faille-wi-fi.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-19",
+      "published": "2026-10-19T06:11:28+00:00",
+      "desc": "Un chercheur belge a dévoilé à la conférence Hexacon une faille qui permet de pirater certaines box Internet à distance, sans connaître le mot de passe du Wi-Fi. En France, une Livebox 5 d’Orange et des box SFR sont concernées. En Belgique, jusqu’à 1,5 million d’appareils pourraient être vulnérables.",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -229,6 +297,18 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "d26ed306ef511ee27afa",
+      "title": "« La partie émergée d’un iceberg » : après les frigos, quels appareils risquent aussi de se faire pirater ?",
+      "url": "https://www.01net.com/actualites/apres-les-frigos-quels-appareils-risquent-aussi-de-se-faire-pirater.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-18",
+      "published": "2026-10-18T10:02:59+00:00",
+      "desc": "Après le piratage des frigos de centaines de supermarchés, les cybercriminels vont-ils s'en prendre à d'autres équipements connectés de notre quotidien ? Nos caméras, thermostats, box domotiques ou balances connectées peuvent-ils se retrouver sous la coupe de pirates dans un avenir proche ? Interrogés par 01net, des chercheurs alertent et soulignent que le risque dépasse largement les rayons frais de nos magasins.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "1a74dd4c9004a29993dc",
@@ -491,6 +571,18 @@
       "published": "2026-10-17T11:11:56+00:00",
       "desc": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "10e6aa84c7f2c3f14273",
+      "title": "Booking alerte : une nouvelle vague d’arnaques pourrait déferler cet hiver",
+      "url": "https://www.01net.com/actualites/booking-alerte-une-nouvelle-vague-darnaques-pourrait-deferler-cet-hiver.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-17",
+      "published": "2026-10-17T09:14:06+00:00",
+      "desc": "L’été dernier, de fausses annonces usurpant l’identité de Booking et promettant des logements à bas prix près de la tour Eiffel ont fait des dizaines de victimes. La plateforme de réservation en ligne veut éviter que l’histoire se répète en alertant sur les risques d’une nouvelle vague d’arnaques à l’approche des vacances d’hiver.",
+      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -819,6 +911,42 @@
       "category": "fuite"
     },
     {
+      "id": "e802288bd176c546eb5a",
+      "title": "Fraude par IA et deepfakes : le diagnostic croisé d’Orange Business et d’ANOZR WAY",
+      "url": "https://www.cyber-securite.fr/fraude-par-ia-et-deepfakes-le-diagnostic-croise-dorange-business-et-danozr-way/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-16",
+      "published": "2026-10-16T10:16:52+00:00",
+      "desc": "Les deepfakes alimentés par l’IA sont devenus difficiles à détecter, rendant la réduction de l’empreinte ... Lire plus L’article Fraude par IA et deepfakes : le diagnostic croisé d’Orange Business et d’ANOZR WAY est apparu en premier sur jeuxderole.com .",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "edc74d3bd7fff0eb15ef",
+      "title": "« Un scénario cauchemardesque » : ce virus infecte votre smartphone sans que vous ne puissiez rien y faire",
+      "url": "https://www.01net.com/actualites/un-scenario-cauchemardesque-ce-virus-infecte-votre-smartphone-sans-que-vous-ne-puissiez-rien-y-faire.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-16",
+      "published": "2026-10-16T09:59:51+00:00",
+      "desc": "Une cyberattaque intitulée « AdFection » vient d'être épinglée par des chercheurs. L'attaque consiste à installer un logiciel espion sur un smartphone à l'aide d'une simple publicité en ligne, sans le moindre clic de la part de la victime. Une régie publicitaire israélienne a été utilisée pour diffuser le logiciel espion, baptisé Candiru, sur des dizaines de smartphones.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "560f2c34c5ccca86eafd",
+      "title": "L’AP-HP confirme une fuite de données touchant des patients",
+      "url": "https://www.cyber-securite.fr/lap-hp-confirme-une-fuite-de-donnees-touchant-des-patients/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-16",
+      "published": "2026-10-16T09:16:50+00:00",
+      "desc": "Le 8 octobre 2026, l’AP-HP a confirmé le vol des données personnelles de 1 015 ... Lire plus L’article L’AP-HP confirme une fuite de données touchant des patients est apparu en premier sur jeuxderole.com .",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "2afcc8d3814b60bc759d",
       "title": "Microsoft: October Windows update may break Smart App Control",
       "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
@@ -827,6 +955,18 @@
       "published": "2026-10-16T08:44:22+00:00",
       "desc": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "04ddc89c868d5479e18d",
+      "title": "Fuite de données en France : la franc-maçonnerie a été piratée, des informations personnelles compromises",
+      "url": "https://www.01net.com/actualites/fuite-donnees-france-franc-maconnerie-piratee-informations-personnelles-compromises.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-16",
+      "published": "2026-10-16T08:00:55+00:00",
+      "desc": "Le Grand Orient de France, la plus ancienne organisation maçonnique de France, a été victime d'une fuite de données. Des centaines de documents internes, dont un tableau de données personnelles de membres, ont été dérobés. Deux groupes de pirates revendiquent la cyberattaque.",
+      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1107,6 +1247,18 @@
       "category": "actualite"
     },
     {
+      "id": "8fd9c82a436e1b85ead6",
+      "title": "Microsoft corrige un nombre record de 1 411 failles de sécurité",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
+      "source": "Actualités securite",
+      "date": "2026-10-15",
+      "published": "2026-10-15T17:41:35+00:00",
+      "desc": "C’est la troisième fois cette année que l’éditeur bat son propre record. Microsoft a publié un volume record (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "2b6500e8ae9c2045d1bc",
       "title": "Couleur CE",
       "url": "https://frenchbreaches.com/alertes/couleur-ce-mv9tv3s8eqb7umy8io6",
@@ -1128,6 +1280,18 @@
       "desc": "Cyberattaque en Suisse : Publica confirme une fuite de données. Jusqu'à 112 000 assurés pourraient être concernés, avec des salaires, numéros AVS et IBAN exposés.",
       "type": "fuite",
       "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "03e76ae67cbab0c9cdbe",
+      "title": "Google corrige 37 nouvelles failles Chrome, l’IA accélère encore la cadence des mises à jour",
+      "url": "https://www.01net.com/actualites/google-corrige-37-nouvelles-failles-chrome-lia-accelere-encore-la-cadence-des-mises-a-jour.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-15",
+      "published": "2026-10-15T16:11:41+00:00",
+      "desc": "Google déploie une nouvelle mise à jour de Chrome. Celle-ci corrige un total de 37 failles, dont 7 vulnérabilités critiques dans le fonctionnement du navigateur. C'est la deuxième vague de correctifs en une semaine. Le géant de Mountain View se sert massivement de l'IA pour accélérer la traque des failles, ce qui accélère la cadence des mises à jour.",
+      "type": "cve",
+      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -1335,6 +1499,30 @@
       "category": "actualite"
     },
     {
+      "id": "671e9d48005a633e7e58",
+      "title": "L’arnaque « zéro clic » peut dérober vos données via Whatsapp",
+      "url": "https://www.cyber-securite.fr/larnaque-zero-clic-peut-derober-vos-donnees-via-whatsapp/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-15",
+      "published": "2026-10-15T11:39:10+00:00",
+      "desc": "Une fraude présentée comme une arnaque zéro clic sur WhatsApp inquiète depuis le début du ... Lire plus L’article L’arnaque « zéro clic » peut dérober vos données via Whatsapp est apparu en premier sur jeuxderole.com .",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5547ff1b53b4b0e1c92f",
+      "title": "« 123456 » : le mot de passe qui a exposé des millions de données",
+      "url": "https://www.cyber-securite.fr/123456-le-mot-de-passe-trop-facile-a-deviner-qui-a-expose-des-millions-de-donnees/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-15",
+      "published": "2026-10-15T11:34:07+00:00",
+      "desc": "Au Danemark, un compte lié au registre civil aurait été protégé par « 123456 ». ... Lire plus L’article « 123456 » : le mot de passe qui a exposé des millions de données est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "a92be7e19e543bd3b9be",
       "title": "Eilik : ce robot pour enfants analyse leurs conversations chaque nuit",
       "url": "https://frenchbreaches.com/blog/eilik-ce-robot-pour-enfants-analyse-leurs-conversations-chaque-nuit",
@@ -1407,6 +1595,30 @@
       "category": "actualite"
     },
     {
+      "id": "fd1d2f9a7fa5cc434101",
+      "title": "Choisir son système d’exploitation : Windows en licence officielle",
+      "url": "https://www.cyber-securite.fr/choisir-systeme-dexploitation-windows-en-licence-officielle/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-15",
+      "published": "2026-10-15T10:29:00+00:00",
+      "desc": "Le choix d’un système d’exploitation se réduit souvent à une question de préférence. Pour une ... Lire plus L’article Choisir son système d’exploitation : Windows en licence officielle est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "05ce22146a02d08fdba6",
+      "title": "Frigos de supermarchés piratés : Claude a reproduit la cyberattaque en 28 minutes",
+      "url": "https://www.01net.com/actualites/frigos-de-supermarches-pirates-claude-a-reproduit-la-cyberattaque-en-28-minutes.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-15",
+      "published": "2026-10-15T09:02:42+00:00",
+      "desc": "28 minutes. C'est le temps qu'il a fallu à Claude pour reproduire la cyberattaque qui a fait surchauffer les frigos de centaines de supermarchés français. L'expérimentation démontre que l'offensive était à la portée de n'importe quel cybercriminel, même sans compétences techniques.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "871699ef8521713692e9",
       "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
       "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
@@ -1415,6 +1627,18 @@
       "published": "2026-10-15T08:45:10+00:00",
       "desc": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
       "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "58a9f3f9d16ad53de086",
+      "title": "Arnaques en ligne : Microsoft neutralise l’empire chinois du phishing",
+      "url": "https://www.01net.com/actualites/plus-milliard-messages-pieges-microsoft-demantele-immense-supermarche-pirate.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-15",
+      "published": "2026-10-15T08:11:16+00:00",
+      "desc": "Microsoft vient de mettre un terme aux activités de YAM Store, CoGUI et Iron Man, les trois faces d'un vaste marché cybercriminel chinois. Depuis janvier 2026, ces plateformes pirates ont permis d'envoyer plus d'un milliard d'e-mails et de SMS frauduleux à des victimes résidant dans plus de 150 pays.",
+      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1439,6 +1663,18 @@
       "published": "2026-10-15T06:43:08+00:00",
       "desc": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
       "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3384e6a72e4d8900c56b",
+      "title": "5 outils gratuits pour analyser une adresse IP suspecte",
+      "url": "https://www.cyber-securite.fr/comment-analyser-une-adresse-ip-suspecte-5-outils-gratuits-indispensables/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-15",
+      "published": "2026-10-15T06:32:06+00:00",
+      "desc": "Une adresse IP suspecte peut signaler une tentative de fraude, un scan réseau ou une ... Lire plus L’article 5 outils gratuits pour analyser une adresse IP suspecte est apparu en premier sur jeuxderole.com .",
+      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1635,6 +1871,30 @@
       "category": "actualite"
     },
     {
+      "id": "ea8a0056a65ccfa3a7c4",
+      "title": "Cyberattaque nationale : pourquoi les pirates s’attaquent maintenant aux supermarchés ?",
+      "url": "https://www.01net.com/actualites/piratage-frigos-pourquoi-hackers-attaquent-supermarches.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-14",
+      "published": "2026-10-14T16:29:09+00:00",
+      "desc": "Des centaines de supermarchés français se sont retrouvés dans le viseur des cybercriminels. Lors d'une cyberattaque inédite, les pirates ont déréglé des centaines de frigos, transformés pendant plusieurs heures en véritables chaudières. Interrogés par 01net, des experts en cybersécurité décryptent les failles du secteur de la grande distribution, devenu une cible de choix pour les hackers.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4b69f4ad20b8dfd123d0",
+      "title": "Bitdefender détecte un malware sur des Android neufs",
+      "url": "https://www.cyber-securite.fr/midnight-mimosa-malware-android/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-14",
+      "published": "2026-10-14T15:39:59+00:00",
+      "desc": "Des smartphones Android d’entrée de gamme arrivent avec un malware déjà intégré à leur système. ... Lire plus L’article Bitdefender détecte un malware sur des Android neufs est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "43917f31afceebee5e1f",
       "title": "Climb Up",
       "url": "https://frenchbreaches.com/alertes/climb-up-mv88m4y8xbpdjxtdm6n",
@@ -1763,6 +2023,18 @@
       "published": "2026-10-14T07:46:57+00:00",
       "desc": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
       "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a897a9094eb47141de01",
+      "title": "Windows vient de battre un nouveau record monstrueux",
+      "url": "https://www.01net.com/actualites/plus-de-1-400-failles-windows-le-nouveau-record-monstrueux-du-patch-tuesday-de-microsoft.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-14",
+      "published": "2026-10-14T07:05:48+00:00",
+      "desc": "Microsoft vient de publier un nouveau Patch Tuesday hors norme, avec plus de 1 400 failles corrigées dans le code de Windows. C'est la troisième fois cette année que l'éditeur bat son propre record. Sans surprise, Microsoft s'est massivement servi de l'intelligence artificielle pour débusquer les bugs.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2127,6 +2399,42 @@
       "category": "actualite"
     },
     {
+      "id": "1eabfbcc43f3633a7e1f",
+      "title": "Un botnet d’un genre nouveau : Anthropic a peur que votre TV devienne le refuge d’une IA malveillante",
+      "url": "https://www.01net.com/actualites/un-botnet-dun-genre-nouveau-anthropic-a-peur-que-votre-tv-devienne-le-refuge-dune-ia-malveillante.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-13",
+      "published": "2026-10-13T16:00:51+00:00",
+      "desc": "Une IA de 26 milliards de paramètres a tourné sur quinze box Android TV à 55 dollars, sans data center. Au rythme actuel, les chercheurs voient les premiers vers IA autonomes arriver dès la fin de l'année.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3dab6d370df574e7cd1a",
+      "title": "Cyberattaque nationale contre les supermarchés : la situation est encore pire que prévu, une seconde cible dans la tourmente",
+      "url": "https://www.01net.com/actualites/cyberattaque-nationale-contre-les-supermarches-la-situation-est-encore-pire-que-prevu-une-seconde-cible-dans-la-tourmente.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-13",
+      "published": "2026-10-13T15:29:43+00:00",
+      "desc": "Deux supermarchés ont subi une rupture de la chaîne du froid, quelques heures après la cyberattaque nationale. Les magasins sont équipés de contrôleurs électroniques qui ne sont pas fournis par Danfoss, le groupe danois au cœur de la cyberattaque. Les derniers éléments laissent penser que les pirates se sont attaqués à un autre constructeur clé de la grande distribution, Dixell. De facto, d'autres supermarchés seraient vulnérables. On fait le point.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1462ea5e3f9924d0c2cc",
+      "title": "La Cnaf signale une fuite de données sur sa plateforme Vacaf",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
+      "source": "Actualités securite",
+      "date": "2026-10-13",
+      "published": "2026-10-13T14:22:44+00:00",
+      "desc": "Ce n’est pas une première pour la Caisse nationale des allocations familiales (Cnaf). En février 2024, l’organisme avait déjà (...)",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "61ac7a0be5ca210e582e",
       "title": "Noms, numéros de Sécu, conversations médicales… Ce que révèle le piratage de MaQuestionMedicale",
       "url": "https://frenchbreaches.com/blog/noms-numeros-de-secu-conversations-medicales-ce-que-revele-le-piratage-de-maquestionmedicale",
@@ -2199,6 +2507,18 @@
       "category": "fuite"
     },
     {
+      "id": "a373c437df2f946226f3",
+      "title": "Une cyberattaque perturbe les installations frigorifiques de centaines de supermarchés",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-une-cyberattaque-perturbe-les-installations-frigorifiques-de-centaines-de-supermarches-100850.html",
+      "source": "Actualités securite",
+      "date": "2026-10-13",
+      "published": "2026-10-13T10:44:23+00:00",
+      "desc": "Plusieurs centaines de supermarchés français ont été victimes, dans la nuit du dimanche 11 au lundi 12 octobre, d’une (...)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "acdba99086b049c88b36",
       "title": "Cyberattaque Danfoss et Dixell : les frigos des supermarchés piratés, des millions d'euros de pertes",
       "url": "https://frenchbreaches.com/blog/cyberattaque-danfoss-et-dixell-les-frigos-des-supermarches-pirates-des-millions-deuros-de-pertes",
@@ -2207,6 +2527,30 @@
       "published": "2026-10-13T10:37:00+00:00",
       "desc": "Cyberattaque massive contre les frigos des supermarchés : après Danfoss, Dixell serait aussi touché. Des centaines de magasins impactés et des millions d'euros de pertes.",
       "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6f1dd952cd354922c7c2",
+      "title": "Cyberattaque « opportuniste » contre les supermarchés français : des chercheurs évoquent « une réalité largement sous-estimée »",
+      "url": "https://www.01net.com/actualites/cyberattaque-opportuniste-contre-les-supermarches-francais-des-chercheurs-evoquent-une-realite-largement-sous-estimee.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-13",
+      "published": "2026-10-13T05:25:36+00:00",
+      "desc": "Suite aux cyberattaques contre les frigos de supermarchés, la société française Synacktiv alerte sur un risque « sous-estimé ». Selon les chercheurs, des équipements de réfrigération sont accessibles depuis Internet, parfois sans le moindre mot de passe. C'est potentiellement de cette manière que des pirates sont parvenus à faire surchauffer des centaines de frigos.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0dda1c8d3c60d3a42ba1",
+      "title": "Claude : après une nouvelle dérive, Anthropic prive certaines IA d’accès Internet",
+      "url": "https://www.01net.com/actualites/claude-apres-une-nouvelle-derive-anthropic-prive-certaines-ia-dacces-internet.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-13",
+      "published": "2026-10-13T04:30:09+00:00",
+      "desc": "Un faux signalement de meurtre envoyé à la police de Philadelphie, un serveur universitaire piraté pour finir un calcul, des accès payants contournés : le créateur de Claude prive d'Internet l'ensemble de ses évaluations internes, faute de surveillance fiable.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2343,6 +2687,42 @@
       "category": "actualite"
     },
     {
+      "id": "a23db1ade9bce4551890",
+      "title": "« 123456 » : ce terrible mot de passe est responsable d’une gigantesque fuite de données",
+      "url": "https://www.01net.com/actualites/123456-ce-terrible-mot-de-passe-est-responsable-dune-gigantesque-fuite-de-donnees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-12",
+      "published": "2026-10-12T11:00:10+00:00",
+      "desc": "« 123456 ». C'est le mot de passe qu'un pirate a compromis pour s'emparer des données de 8,8 millions de personnes au Danemark. Le hacker raconte comment ce mot de passe a abouti à l'une des pires fuites de données jamais orchestrées contre une autorité publique en Europe.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "86cccd9d4633100ae9bc",
+      "title": "50°C dans les frigos : une cyberattaque oblige Intermarché, Leclerc et Super U à jeter leurs produits frais",
+      "url": "https://www.01net.com/actualites/50-degres-frigos-intermarche-systeme-u-cyberattaque-oblige-150-supermarches-jeter.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-12",
+      "published": "2026-10-12T10:13:45+00:00",
+      "desc": "Depuis la nuit de dimanche à lundi, une cyberattaque a frappé les systèmes de régulation du froid du fabricant Danfoss. En France, Intermarché, Leclerc et Super U sont touchés par ce dérèglement d'envergure. Les pirates sont parvenus à faire grimper à distance la température des frigos. Les magasins ont été obligés de tout jeter....",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ac3c58c8ad4bb63a591a",
+      "title": "Ledger trafiqués : MediaMarkt suspend la vente des portefeuilles crypto avec la découverte d’un « implant » espion",
+      "url": "https://www.01net.com/actualites/ledger-portefeuilles-pieges-avant-livraison-86-millions-dollars-voles.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-12",
+      "published": "2026-10-12T06:51:31+00:00",
+      "desc": "Des portefeuilles Ledger ont été trafiqués par des cybercriminels. La licorne française a découvert qu'un appareil vendu par CryptoBilis, son revendeur agréé en Asie du Sud-Est, contenait un composant espion destiné à dérober les clés privées des investisseurs. Plus de 86 millions de dollars ont été volés à des centaines d'utilisateurs dans le cadre cette opération. Ledger affirme que les appareils vendus sur son site officiel ne sont pas concernés.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "67c2855fece24423a7a8",
       "title": "Alloextra",
       "url": "https://frenchbreaches.com/alertes/alloextra-mv4mhd0168xtcvl3oeh",
@@ -2463,6 +2843,18 @@
       "category": "fuite"
     },
     {
+      "id": "faa5d5201020b769c195",
+      "title": "Fuite de données : la Cnaf suspend un site d’urgence après un « incident de cybersécurité »",
+      "url": "https://www.01net.com/actualites/caf-vacaf-pirate-site-coupe-urgence-fuite-donnees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-11",
+      "published": "2026-10-11T07:53:02+00:00",
+      "desc": "La Cnaf a été victime d'un incident de cybersécurité sur Vacaf, le service d'aide aux vacances des Caf. Une fuite de données a été signalée par ses équipes après la revendication d'un pirate. Suite à cet incident, la plateforme vacaf.org a été suspendue jusqu'à nouvel ordre.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "1414c0b5bd63bfbf5159",
       "title": "Armurerie du Bocage",
       "url": "https://frenchbreaches.com/alertes/armurerie-du-bocage-mv3j10sh5cptx1hgung",
@@ -2569,6 +2961,30 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "0e2582c76d55903f3bde",
+      "title": "Des milliers de photos intimes volées : la France fait tomber le site NudeLeaksTeens et arrête deux cybercriminels",
+      "url": "https://www.01net.com/actualites/plus-17-000-photos-intimes-volees-france-fait-tomber-site-nudeleaksteens-arrete-deux-cybercriminels.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-10",
+      "published": "2026-10-10T07:32:22+00:00",
+      "desc": "Deux frères de 21 et 25 ans ont été interpellés dans le nord de la France. Les deux comparses sont soupçonnés d'avoir administré NudeLeaksTeens, un site qui vendait des images intimes volées à plus de 17 000 femmes et jeunes filles. Plus de 700 000 euros de cryptomonnaies ont été saisis dans la foulée.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "713580d8a2c3f98c5a91",
+      "title": "730 millions de données volées : la police fait tomber Reacher, le moteur de recherche pirate de 3 ados",
+      "url": "https://www.01net.com/actualites/730-millions-donnees-volees-police-fait-tomber-reacher-moteur-recherche-pirate-3-ados.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-10",
+      "published": "2026-10-10T07:20:53+00:00",
+      "desc": "L'Office anti-cybercriminalité (OFAC) a interpellé les trois administrateurs présumés d'un « lookup », un moteur de recherche pirate qui revend des données personnelles volées. Le site s'était appelé Reacher, avant de se rebaptiser Stryx. Il permettait de retrouver quelqu'un à partir d'un simple numéro de téléphone ou d'un IBAN.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "fe4a45bb728aa03e3f00",
@@ -2691,6 +3107,54 @@
       "category": "fuite"
     },
     {
+      "id": "934526c6d6382b322a23",
+      "title": "Vous venez d’acheter votre smartphone ? Un virus se cache peut-être à l’intérieur",
+      "url": "https://www.01net.com/actualites/venez-acheter-smartphone-virus-cache-peut-etre-interieur.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-09",
+      "published": "2026-10-09T14:05:53+00:00",
+      "desc": "Bitdefender a découvert un nouveau « malware » baptisé Midnight Mimosa. Il peut être dans le « firmware » de certains téléphones Android entrée de gamme avant même leur premier allumage.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "085ef14536dd3b7be4cd",
+      "title": "La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
+      "source": "Actualités securite",
+      "date": "2026-10-09",
+      "published": "2026-10-09T13:56:49+00:00",
+      "desc": "La primaire de la gauche sociale-démocrate démarre sous tension. Ouverte vendredi 9 octobre à 8 heures, la plateforme de vote en ligne (...)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d670af31207fdf28a05e",
+      "title": "Détecteur d'IA : Google ouvre SynthID Detector au grand public",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
+      "source": "Actualités securite",
+      "date": "2026-10-09",
+      "published": "2026-10-09T13:55:34+00:00",
+      "desc": "L’outil entend répondre à la multiplication des contenus générés par intelligence artificielle, sans pour autant (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0f65e0ceabc53fa2b1d0",
+      "title": "Une cyberattaque frappe la plateforme de vote de la primaire de la gauche, que s’est-il passé ?",
+      "url": "https://www.01net.com/actualites/primaire-gauche-plateforme-vote-en-ligne-cyberattaque.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-09",
+      "published": "2026-10-09T13:00:15+00:00",
+      "desc": "Le vote en ligne de la primaire de la gauche a ouvert dans la matinée du 9 octobre. La plateforme e-votez, censée recueillir les votes des électeurs, a rapidement été victime d'une cyberattaque. Des pirates ont déployé une attaque de type DDoS sur la plateforme pour perturber les élections.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "844df392d528acdd0b87",
       "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
       "url": "https://www.cnil.fr/fr/ril-2026",
@@ -2701,6 +3165,42 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "46fda0fcb5b4d25ce69b",
+      "title": "Orange muscle son offre SecNumCloud",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
+      "source": "Actualités securite",
+      "date": "2026-10-09",
+      "published": "2026-10-09T09:16:16+00:00",
+      "desc": "Orange Business, la filiale BtoB d’Orange, a annoncé ce 7 octobre 2026 avoir obtenu auprès de l’Agence nationale de la sécurité (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9653816d1a5c2ee57270",
+      "title": "Cyberattaque sur l’iPhone : le malware DarkSword est de retour sous une nouvelle forme",
+      "url": "https://www.01net.com/actualites/cyberattaque-sur-liphone-le-malware-darksword-est-de-retour-sous-une-nouvelle-forme.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-09",
+      "published": "2026-10-09T09:13:11+00:00",
+      "desc": "La société iVerify, spécialisée dans la sécurité des smartphones, a découverte P7 DarkSword, une nouvelle version d'un kit de piratage encore plus perfectionnée. Elle a mené l'enquête pour en comprendre le fonctionnement et alerter les utilisateurs d'iPhone.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6cc2037c967642ae3402",
+      "title": "France Travail enquête sur une nouvelle fuite de données",
+      "url": "https://www.01net.com/actualites/france-travail-enquete-sur-une-nouvelle-fuite-de-donnees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-09",
+      "published": "2026-10-09T07:07:08+00:00",
+      "desc": "Un pirate affirme s'être introduit dans les systèmes informatiques de France Travail. Il prétend avoir volé une montagne de données personnelles, dont des numéros de téléphone. L'organisme a ouvert une enquête pour faire la lumière sur l'incident.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "5d264fcbd238dea5ac8d",
@@ -2931,6 +3431,18 @@
       "category": "fuite"
     },
     {
+      "id": "517cd16724d86847dd64",
+      "title": "Fuite de données : le plus grand CHU de France (et d’Europe) a été piraté",
+      "url": "https://www.01net.com/actualites/fuite-donnees-plus-grand-chu-france-europe-ete-pirate.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-08",
+      "published": "2026-10-08T11:00:34+00:00",
+      "desc": "L'Assistance publique – Hôpitaux de Paris (AP-HP) a été victime d'une cyberattaque. Des pirates ont dérobé les données d'identité de 1 015 patients. Pour subtiliser ces données, les hackers ont visé un logiciel de gestion des repas, utilisé dans 23 hôpitaux en France. L'AP-HP assure qu'aucune donnée médicale n'a été compromise. Une plainte a été déposée.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "52e1a5e492c7379e67f4",
       "title": "Association des Scouts de France",
       "url": "https://frenchbreaches.com/alertes/association-des-scouts-de-france-muzfbw9w6swi4ph7cjo",
@@ -2941,6 +3453,90 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "44dbbf35e395e5d1fe35",
+      "title": "Confiance numérique : les entreprises françaises privilégient la sécurité et la conformité",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
+      "source": "Actualités securite",
+      "date": "2026-10-08",
+      "published": "2026-10-08T09:42:49+00:00",
+      "desc": "La transformation numérique entre dans une nouvelle phase. Après avoir largement dématérialisé leurs processus, les (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ae22afd14bd5328dee92",
+      "title": "Nouvelle cyberattaque en France : 1 400 hôtels potentiellement piratés, des arnaques déjà en cours",
+      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-en-france-1-400-hotels-potentiellement-pirates-des-arnaques-deja-en-cours.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-07",
+      "published": "2026-10-07T15:00:10+00:00",
+      "desc": "Une cyberattaque a visé le logiciel de gestion hôtelière Medialog Hôtel. Les clients de 1 400 hôtels sont potentiellement concernés. Les données volées comprennent notamment des informations relatives à l’identité, aux coordonnées et aux réservations des clients des hôtels touchés. Les campagnes de phishing ont déjà commencé.",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f68a779e6ca1902bf48d",
+      "title": "Cybersécurité : en 2026, les entreprises passent de la défense à la résilience",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
+      "source": "Actualités securite",
+      "date": "2026-10-07",
+      "published": "2026-10-07T14:47:41+00:00",
+      "desc": "Selon le rapport, la cybersécurité est aujourd’hui davantage intégrée aux décisions de direction et à la (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a60706ef757010953d75",
+      "title": "Mistral dévoile Large 4, un modèle à plus de 1 000 milliards de paramètres",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
+      "source": "Actualités securite",
+      "date": "2026-10-07",
+      "published": "2026-10-07T14:42:23+00:00",
+      "desc": "Présenté le 5 octobre, Large 4 constitue la première concrétisation majeure de Mistral AI depuis sa levée de fonds de (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2270782b1f5488761ca4",
+      "title": "129 000 failles débusquées : Anthropic dévoile le bilan impressionnant de Claude Mythos",
+      "url": "https://www.01net.com/actualites/129-000-failles-debusquees-anthropic-devoile-le-bilan-impressionnant-claude-mythos.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-07",
+      "published": "2026-10-07T07:03:41+00:00",
+      "desc": "Anthropic révèle que Claude Mythos a débusqué au moins 129 000 failles en quelques mois. En réaction, la start-up a décidé d'élargir l'accès à son IA taillée pour la cybersécurité.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8e6ac4a4d9c4a494ac65",
+      "title": "Une fuite massive « inévitable » : chez Meta, des ingénieurs s’inquiètent de l’IA Muse",
+      "url": "https://www.01net.com/actualites/une-fuite-massive-inevitable-chez-meta-des-ingenieurs-sinquietent-de-lia-muse.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-07",
+      "published": "2026-10-07T06:00:29+00:00",
+      "desc": "Lancé il y a un mois à peine, l'agent personnel de Meta inquiète jusque dans ses propres équipes. Documents internes, failles colmatées dans l'urgence et un pronostic qui glace : la fuite massive de données serait une question de temps.",
+      "type": "actualite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "7de3788df8bc9891609f",
+      "title": "Des ChatGPT « voyous » ont pris d’assaut Wikipedia avec des millions de requêtes, que s’est-il passé ?",
+      "url": "https://www.01net.com/actualites/des-chatgpt-voyous-ont-pris-dassaut-wikipedia-avec-des-millions-de-requetes-que-sest-il-passe.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-06",
+      "published": "2026-10-06T15:42:33+00:00",
+      "desc": "Selon la directrice des produits et de la technologie de la Wikimedia Foundation, des agents IA « voyous » d’OpenAI ont effectué des millions de requêtes et visité des millions de pages sur différentes plateformes de la fondation. OpenAI a été alerté de la situation et a annoncé collaborer à l’examen du dossier.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "4f0c5d36cee9553573f2",
@@ -3015,6 +3611,30 @@
       "category": "alerte"
     },
     {
+      "id": "cf7eeb24f65255787e44",
+      "title": "ANSSI : Le gendarme de la cybersécurité français piraté",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
+      "source": "Actualités securite",
+      "date": "2026-10-05",
+      "published": "2026-10-05T12:13:30+00:00",
+      "desc": "Début septembre, l’ANSSI a annoncé avoir été victime d’une cyberattaque. Un comble pour l’agence chargée (...)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "66cea3ae1f03666e4593",
+      "title": "Microsoft pointe la montée en puissance des attaques assistées par l'IA",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
+      "source": "Actualités securite",
+      "date": "2026-10-05",
+      "published": "2026-10-05T09:36:09+00:00",
+      "desc": "L’IA ne constitue plus seulement un outil dans la boîte à outils des cyberattaquants. Elle est en train de modifier la vitesse, l’échelle (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "f9b447af38c377a8babe",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -3025,6 +3645,18 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
+    },
+    {
+      "id": "31fdc1f3d63166986046",
+      "title": "Les géants de la tech et Trump signent un accord sur la sécurité de l'IA",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
+      "source": "Actualités securite",
+      "date": "2026-10-02",
+      "published": "2026-10-02T15:57:09+00:00",
+      "desc": "Le gouvernement américain poursuit son virage vers une régulation limitée de l’intelligence artificielle. Sous l’administration (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "0ed309bdb2fbe9f48880",
@@ -3073,6 +3705,90 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
+    },
+    {
+      "id": "7043105f4b205befcabe",
+      "title": "Bercy resserre les garde-fous autour des technologies stratégiques",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-bercy-resserre-les-garde-fous-autour-des-technologies-strategiques-100819.html",
+      "source": "Actualités securite",
+      "date": "2026-09-30",
+      "published": "2026-09-30T17:55:10+00:00",
+      "desc": "Une doctrine ciblant les technologies critiques Publiée le 24 septembre par la Direction générale des entreprises (DGE), la doctrine (...)",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "406e0de78aa8b234c09e",
+      "title": "Carrefour alerte ses clients après une fuite de données chez le prestataire Shipup",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-carrefour-alerte-ses-clients-apres-une-fuite-de-donnees-chez-le-prestataire-shipup-100822.html",
+      "source": "Actualités securite",
+      "date": "2026-09-30",
+      "published": "2026-09-30T11:57:19+00:00",
+      "desc": "La liste des entreprises affectées par la compromission de Shipup continue de s’allonger. Carrefour a informé certains de ses clients (...)",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fadaeb5823dd12a9dd82",
+      "title": "OpenAI renonce à lancer son modèle GPT-6.1 Astra",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-openai-renonce-a-lancer-son-modele-gpt-61-astra-100821.html",
+      "source": "Actualités securite",
+      "date": "2026-09-30",
+      "published": "2026-09-30T09:36:48+00:00",
+      "desc": "OpenAI vient de prendre une décision inhabituelle dans la course aux modèles d'IA générative. L'entreprise a décidé (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2a00f2c6db06e841a409",
+      "title": "Anthropic dévoile Claude Sonnet 5.5",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-devoile-claude-sonnet-55-100820.html",
+      "source": "Actualités securite",
+      "date": "2026-09-29",
+      "published": "2026-09-29T12:08:26+00:00",
+      "desc": "Une semaine après la présentation de Claude Opus 5.5, Anthropic complète sa gamme avec Sonnet 5.5, son modèle intermédiaire (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1ef928e185a5fdea8cb6",
+      "title": "Un agent d'OpenAI s'introduit dans Medicare en Australie",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-un-agent-d-openai-s-introduit-dans-medicare-en-australie-100810.html",
+      "source": "Actualités securite",
+      "date": "2026-09-28",
+      "published": "2026-09-28T10:32:30+00:00",
+      "desc": "L’incident s’est produit le 18 juin, mais les autorités australiennes n’en ont été informées que près (...)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "049c5668e9788001c2a1",
+      "title": "WordPress corrige une vulnérabilité critique",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-wordpress-corrige-une-vulnerabilite-critique-100813.html",
+      "source": "Actualités securite",
+      "date": "2026-09-28",
+      "published": "2026-09-28T09:21:36+00:00",
+      "desc": "WordPress a publié le 22 septembre la version 7.1.2 de son CMS afin de corriger une vulnérabilité critique référencée (...)",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "2de6c59a582465239c32",
+      "title": "Secutec lance un outil pour contrôler le Shadow AI",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
+      "source": "Actualités securite",
+      "date": "2026-09-23",
+      "published": "2026-09-23T14:35:35+00:00",
+      "desc": "Selon une étude d’Okta, ''Global CISO Insights 2026'', publié en juillet 2026, 88 % des RSSI interrogés en France déclarent (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
     }
   ]
 }
