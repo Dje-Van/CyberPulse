@@ -6,5 +6,5 @@
   {"name":"BleepingComputer","url":"https://www.bleepingcomputer.com/feed/","category":"actualite","enabled":true},
   {"name":"CNIL — Actualités","url":"https://www.cnil.fr/fr/rss.xml","category":"fuite","enabled":true},
   {"name":"French Breaches","url":"https://frenchbreaches.com/feed.xml","category":"fuite","enabled":true},
-  {"name":"French Breaches-blog","url":"https://frenchbreaches.com/blog/feed.xml","category":"actualite","enabled":true},
+  {"name":"French Breaches-blog","url":"https://frenchbreaches.com/blog/feed.xml","category":"actualite","enabled":true}
 ]
