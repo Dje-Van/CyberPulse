@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:23:22.095685+00:00",
+  "generated_at": "2026-10-19T21:53:53.626832+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,150 @@
     }
   ],
   "items": [
+    {
+      "id": "d1504eca70b2d127b950",
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T21:49:48+00:00",
+      "desc": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b027e601f57288d756da",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T21:24:51+00:00",
+      "desc": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "66aff6750fc5ab89b432",
+      "title": "Armurerie Centrale",
+      "url": "https://frenchbreaches.com/alertes/armurerie-centrale-mvfoga33992pl35cyvq",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T19:53:00+00:00",
+      "desc": "Cyberattaque chez Armurerie Centrale : des données personnelles et justificatifs de clients dérobés Le site français Armurerie Centrale confirme avoir été victime d'un accès informatique non autorisé en septembre 2026. Noms, adresses, dates de naissance, historiques de commandes…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "fd5ecf2bcb290e58c845",
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T19:40:58+00:00",
+      "desc": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d7ef1e937037739659a2",
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T18:51:13+00:00",
+      "desc": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2b433345de9bc12f06d2",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-19",
+      "published": "2026-10-19T17:32:13+00:00",
+      "desc": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "60d2b62c6e40105bfb52",
+      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T17:27:15+00:00",
+      "desc": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "98fe862721adbe7cb835",
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "source": "The Hacker News",
+      "date": "2026-10-19",
+      "published": "2026-10-19T16:28:47+00:00",
+      "desc": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3b6286ee3ab6f0096359",
+      "title": "École d'ingénieurs du numérique (ISEP)",
+      "url": "https://frenchbreaches.com/alertes/cole-d-ing-nieurs-du-num-rique-isep-mvfh0i40fmfs06ica8",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T16:24:00+00:00",
+      "desc": "Fuite de données à l'ISEP : les informations de plus de 5 000 étudiants et utilisateurs publiées par un pirate L'ISEP, école d'ingénieurs française spécialisée dans le numérique, l'informatique et la cybersécurité, est visée par une revendication de fuite de données. Ce lundi 19…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ea701da254ceb725dc2f",
+      "title": "I-CAD",
+      "url": "https://frenchbreaches.com/alertes/i-cad-mvbcrt0yq9mamnwtom",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T15:10:00+00:00",
+      "desc": "Nouvelle fuite de données à l'I-CAD : 2,9 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Selon nos informations, l'I-CAD, le fichier national d'identification des chiens, chats et furets, serait touché par une nouvelle fuite de données, distincte de celle…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "e12aa9d4a82ec5be49d2",
+      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
+      "source": "BleepingComputer",
+      "date": "2026-10-19",
+      "published": "2026-10-19T14:55:23+00:00",
+      "desc": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e6f76086848f718ff70f",
+      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-10-19",
+      "published": "2026-10-19T14:14:07+00:00",
+      "desc": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "f50ca71af7c795cce5dc",
       "title": "Inside the Underground Market for Know Your Client Services",
@@ -215,6 +359,90 @@
       "category": "actualite"
     },
     {
+      "id": "7921a47e6cd78d3e97f1",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "9011beeca002e95b67fd",
+      "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "ef0ec883a3c12dbb29c1",
+      "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "53e685e892b783ee0b03",
+      "title": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "07aa48920ce2b686bdf9",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "a2a0312226d8e5531b25",
+      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "8729ffe7c86262a87f7b",
+      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-19",
+      "published": "2026-10-19T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "960cea34b3888722709e",
       "title": "Piratage de NAVI : près de 60 000 commandes de la célèbre équipe d’esport exposées",
       "url": "https://frenchbreaches.com/blog/piratage-de-navi-pres-de-60-000-commandes-de-la-celebre-equipe-desport-exposees",
@@ -275,25 +503,13 @@
       "category": "actualite"
     },
     {
-      "id": "ea701da254ceb725dc2f",
-      "title": "I-CAD",
-      "url": "https://frenchbreaches.com/alertes/i-cad-mvbcrt0yq9mamnwtom",
-      "source": "French Breaches",
-      "date": "2026-10-18",
-      "published": "2026-10-18T12:52:00+00:00",
-      "desc": "Nouvelle fuite de données à l'I-CAD : 2,2 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Selon nos informations, l'I-CAD, le fichier national d'identification des chiens, chats et furets, serait touché par une nouvelle fuite de données, distincte de celle…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "c9d699a731d59d14fd39",
       "title": "Axialys",
       "url": "https://frenchbreaches.com/alertes/axialys-mvdrkf84jselnsp3zb",
       "source": "French Breaches",
       "date": "2026-10-18",
       "published": "2026-10-18T11:54:00+00:00",
-      "desc": "Fuite de données chez Axialys : 63 036 lignes publiées par un pirate Une base de données attribuée à Axialys, entreprise française spécialisée dans la téléphonie cloud et les solutions de relation client, a été publiée sur un forum cybercriminel. Ce dimanche 18 octobre 2026, un p…",
+      "desc": "Fuite de données chez Axialys : 63 036 lignes publiées par un pirate ## Mise à jour du 19 octobre 2026 à 17h00 — Axialys confirme la fuite de données** Dans un communiqué publié ce lundi 19 octobre, Axialys confirme une extraction et une publication non autorisées de données prov…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -767,30 +983,6 @@
       "category": "actualite"
     },
     {
-      "id": "39949981264109196c83",
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T13:50:59+00:00",
-      "desc": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "27c670c5958b65f1ddb4",
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:01:29+00:00",
-      "desc": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "576634fb177ce16eed6f",
       "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
       "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
@@ -947,18 +1139,6 @@
       "category": "actualite"
     },
     {
-      "id": "2afcc8d3814b60bc759d",
-      "title": "Microsoft: October Windows update may break Smart App Control",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T08:44:22+00:00",
-      "desc": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "04ddc89c868d5479e18d",
       "title": "Fuite de données en France : la franc-maçonnerie a été piratée, des informations personnelles compromises",
       "url": "https://www.01net.com/actualites/fuite-donnees-france-franc-maconnerie-piratee-informations-personnelles-compromises.html",
@@ -967,18 +1147,6 @@
       "published": "2026-10-16T08:00:55+00:00",
       "desc": "Le Grand Orient de France, la plus ancienne organisation maçonnique de France, a été victime d'une fuite de données. Des centaines de documents internes, dont un tableau de données personnelles de membres, ont été dérobés. Deux groupes de pirates revendiquent la cyberattaque.",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d1065e8458584a9329bc",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T07:37:35+00:00",
-      "desc": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1004,18 +1172,6 @@
       "desc": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "166fdf646185c6edf3d9",
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T06:18:08+00:00",
-      "desc": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -1209,18 +1365,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "d0b52638beda04f74155",
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-15",
-      "published": "2026-10-15T20:25:04+00:00",
-      "desc": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "e2089d243155ed7a05c2",
@@ -2123,18 +2267,6 @@
       "category": "alerte"
     },
     {
-      "id": "72f81dbe23cafff6a9f3",
-      "title": "Multiples vulnérabilités dans les produits Adobe (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1301/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "32a370c0f2c4fb27e057",
       "title": "Multiples vulnérabilités dans Microsoft Azure (14 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1315/",
@@ -2195,18 +2327,6 @@
       "category": "alerte"
     },
     {
-      "id": "d810bfbb9db7334586b6",
-      "title": "Multiples vulnérabilités dans MongoDB Server (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1304/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans MongoDB Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "3a4262e247d1f390cb40",
       "title": "Multiples vulnérabilités dans les produits Fortinet (14 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1306/",
@@ -2243,18 +2363,6 @@
       "category": "alerte"
     },
     {
-      "id": "d77f4bc145964ab1f4bc",
-      "title": "Vulnérabilité dans Symantec Endpoint Detection and Response (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1303/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:00:00+00:00",
-      "desc": "Une vulnérabilité a été découverte dans Symantec Endpoint Detection and Response. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "ff42da43025126ca438c",
       "title": "Multiples vulnérabilités dans Microsoft .Net (14 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1313/",
@@ -2274,30 +2382,6 @@
       "date": "2026-10-14",
       "published": "2026-10-14T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "e7ed328aa4b2c11fb211",
-      "title": "Multiples vulnérabilités dans Xen (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1302/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "2b733717310dddeca76e",
-      "title": "Vulnérabilité dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:00:00+00:00",
-      "desc": "Une vulnérabilité a été découverte dans Ivanti Connect Secure (ICS). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que cette vulnérabilité CVE-2026-104935 est...",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -2360,42 +2444,6 @@
       "desc": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
       "type": "cve",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "ea27b5cc9be9a7810f86",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13",
-      "published": "2026-10-13T17:33:11+00:00",
-      "desc": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "9f98c61ecb3c8b3b53b7",
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13",
-      "published": "2026-10-13T17:28:50+00:00",
-      "desc": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "3d29c827bc05744dd0bc",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13",
-      "published": "2026-10-13T16:18:18+00:00",
-      "desc": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -2589,30 +2637,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "54a95eb33bb83292c4ac",
-      "title": "Vulnérabilité dans Schneider Electric Harmony (13 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1299/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-13",
-      "published": "2026-10-13T00:00:00+00:00",
-      "desc": "Une vulnérabilité a été découverte dans Schneider Electric Harmony. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "536272b9b81c59c7534c",
-      "title": "Multiples vulnérabilités dans les produits SAP (13 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1300/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-13",
-      "published": "2026-10-13T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection SQL (SQLi).",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
     },
     {
       "id": "ff79f350efbf5898f3e1",
@@ -3419,18 +3443,6 @@
       "category": "fuite"
     },
     {
-      "id": "6eb3cdf8149c40d3ff60",
-      "title": "Swedish Fit",
-      "url": "https://frenchbreaches.com/alertes/swedish-fit-muzfjgxyq9tkqi6egam",
-      "source": "French Breaches",
-      "date": "2026-10-08",
-      "published": "2026-10-08T11:04:00+00:00",
-      "desc": "Swedish Fit : les données de 253 000 clients et plus de 250 000 photos mises en vente par un pirate Swedish Fit, enseigne française spécialisée dans les cours collectifs de fitness, est visée par une importante revendication de fuite de données personnelles. Le 8 octobre 2026, un…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
       "id": "517cd16724d86847dd64",
       "title": "Fuite de données : le plus grand CHU de France (et d’Europe) a été piraté",
       "url": "https://www.01net.com/actualites/fuite-donnees-plus-grand-chu-france-europe-ete-pirate.html",
@@ -3441,18 +3453,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "52e1a5e492c7379e67f4",
-      "title": "Association des Scouts de France",
-      "url": "https://frenchbreaches.com/alertes/association-des-scouts-de-france-muzfbw9w6swi4ph7cjo",
-      "source": "French Breaches",
-      "date": "2026-10-08",
-      "published": "2026-10-08T10:57:00+00:00",
-      "desc": "Scouts de France : les données de 71 000 adhérents potentiellement exposées, dont des mineurs Mise à jour le 9 octobre à 15h00 Les Scouts et Guides de France confirment une cyberattaque ayant entraîné une fuite de données personnelles, constatée le 8 octobre 2026. Noms, adresses,…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "44dbbf35e395e5d1fe35",
