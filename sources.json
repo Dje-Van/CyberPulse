@@ -1,0 +1,8 @@
+[
+  {"name":"CERT-FR — Avis et alertes","url":"https://www.cert.ssi.gouv.fr/feed/","category":"alerte","enabled":true},
+  {"name":"CISA — Cybersecurity Advisories","url":"https://www.cisa.gov/cybersecurity-advisories/all.xml","category":"alerte","enabled":true},
+  {"name":"CISA — Known Exploited Vulnerabilities","url":"https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.xml","category":"cve","enabled":true},
+  {"name":"The Hacker News","url":"https://feeds.feedburner.com/TheHackersNews","category":"actualite","enabled":true},
+  {"name":"BleepingComputer","url":"https://www.bleepingcomputer.com/feed/","category":"actualite","enabled":true},
+  {"name":"CNIL — Actualités","url":"https://www.cnil.fr/fr/rss.xml","category":"fuite","enabled":true}
+]
