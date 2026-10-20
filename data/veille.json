@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:53:53.626832+00:00",
+  "generated_at": "2026-10-20T02:49:53.024066+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -653,9 +653,9 @@
       "source": "French Breaches",
       "date": "2026-10-17",
       "published": "2026-10-17T19:16:00+00:00",
-      "desc": "Hauts-de-France : nouvelle fuite de données, plus de 1 000 élèves et parents potentiellement exposés Quelques jours après la révélation d'une importante cyberattaque touchant des prestataires de la Région Hauts-de-France, une nouvelle fuite de données est revendiquée. Ce samedi 1…",
+      "desc": "Hauts-de-France : nouvelle fuite de données, plus de 1 000 élèves et parents potentiellement exposés Mise à jour le 19 octobre à 12h Alertée par FrenchBreaches, la Région Hauts-de-France a informé les 2 000 bénéficiaires du Programme régional de réussite en études longues (PRREL)…",
       "type": "fuite",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
