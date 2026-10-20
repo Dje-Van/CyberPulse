@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:49:53.024066+00:00",
+  "generated_at": "2026-10-20T10:44:18.482781+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,138 @@
     }
   ],
   "items": [
+    {
+      "id": "c8f46e5ff1ac1686c626",
+      "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
+      "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
+      "source": "CNIL — Actualités",
+      "date": "2026-10-20",
+      "published": "2026-10-20T12:00:00+00:00",
+      "desc": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "51ab14484f02c5721220",
+      "title": "« C’est un nouveau monde » : une armée d’IA vient de lancer une cyberattaque « massive », plus de 100 entreprises piratées",
+      "url": "https://www.01net.com/actualites/nouveau-monde-armee-ia-vient-lancer-cyberattaque-massive-plus-100-entreprises-piratees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-20",
+      "published": "2026-10-20T10:29:20+00:00",
+      "desc": "Plus de 100 entreprises ont été piratées par une armée d'agents IA. Déployées par un cybercriminel chinois, les intelligences artificielles ont infiltré les sites de John Deere, SharkNinja ou Cummins. Cette vaste cyberattaque n'a coûté que 5000 dollars au pirate.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2342ddb8c7ad7fec579a",
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "source": "BleepingComputer",
+      "date": "2026-10-20",
+      "published": "2026-10-20T09:46:44+00:00",
+      "desc": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "83726241ddf0864fa5e4",
+      "title": "Vol de données des licenciés à la Fédération française de tir",
+      "url": "https://www.cyber-securite.fr/vol-de-donnees-des-licencies-a-la-federation-francaise-de-tir/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-20",
+      "published": "2026-10-20T09:00:58+00:00",
+      "desc": "French Breaches rapporte le vol de près de 587 000 fiches, de 64 000 photos, ... Lire plus L’article Vol de données des licenciés à la Fédération française de tir est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "913decdbb4e099c73c50",
+      "title": "Anthropic soumet en privé un projet de loi fédéral sur l'IA",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
+      "source": "Actualités securite",
+      "date": "2026-10-20",
+      "published": "2026-10-20T08:27:05+00:00",
+      "desc": "Les représentants d’Anthropic ont discrètement soumis aux élus du Congrès américain un projet de loi visant à (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7db63f9cd155b93bc293",
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20",
+      "published": "2026-10-20T08:21:29+00:00",
+      "desc": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fee3b875f36279189fa9",
+      "title": "ServiceNow lance AI Passport pour gouverner les agents IA",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
+      "source": "Actualités securite",
+      "date": "2026-10-20",
+      "published": "2026-10-20T08:01:35+00:00",
+      "desc": "Les entreprises cherchent à mieux contrôler les agents IA qu’elles déploient dans leurs systèmes d’information. (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8aec3f414ba4d7d53ed4",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20",
+      "published": "2026-10-20T07:11:45+00:00",
+      "desc": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3887832210c30a44f725",
+      "title": "Administrateur sécurité, un métier clé en entreprise",
+      "url": "https://www.cyber-securite.fr/administrateur-securite-un-metier-cle-en-entreprise/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-20",
+      "published": "2026-10-20T06:35:37+00:00",
+      "desc": "L’administrateur sécurité protège les systèmes et les données d’une entreprise par des actions techniques régulières. ... Lire plus L’article Administrateur sécurité, un métier clé en entreprise est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "230574babe4817155f28",
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20",
+      "published": "2026-10-20T05:53:16+00:00",
+      "desc": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "41ada449c348308462af",
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "source": "The Hacker News",
+      "date": "2026-10-20",
+      "published": "2026-10-20T04:05:58+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "d1504eca70b2d127b950",
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
@@ -354,6 +486,18 @@
       "date": "2026-10-19",
       "published": "2026-10-19T06:07:08+00:00",
       "desc": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "60a4c18ddb1c8b277502",
+      "title": "Les preuves numériques au service de la sécurité publique",
+      "url": "https://www.cyber-securite.fr/role-telesurveillance-enquetes/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-19",
+      "published": "2026-10-19T05:11:59+00:00",
+      "desc": "Les services d’alarme connectée filtrent efficacement les appels d’urgence avant l’intervention des forces de l’ordre. ... Lire plus L’article Les preuves numériques au service de la sécurité publique est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -906,18 +1050,6 @@
       "date": "2026-10-16",
       "published": "2026-10-16T17:48:45+00:00",
       "desc": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "f10c7fe5846196e7c87d",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:20:03+00:00",
-      "desc": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1739,18 +1871,6 @@
       "category": "actualite"
     },
     {
-      "id": "fd1d2f9a7fa5cc434101",
-      "title": "Choisir son système d’exploitation : Windows en licence officielle",
-      "url": "https://www.cyber-securite.fr/choisir-systeme-dexploitation-windows-en-licence-officielle/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-15",
-      "published": "2026-10-15T10:29:00+00:00",
-      "desc": "Le choix d’un système d’exploitation se réduit souvent à une question de préférence. Pour une ... Lire plus L’article Choisir son système d’exploitation : Windows en licence officielle est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "05ce22146a02d08fdba6",
       "title": "Frigos de supermarchés piratés : Claude a reproduit la cyberattaque en 28 minutes",
       "url": "https://www.01net.com/actualites/frigos-de-supermarches-pirates-claude-a-reproduit-la-cyberattaque-en-28-minutes.html",
@@ -1807,18 +1927,6 @@
       "published": "2026-10-15T06:43:08+00:00",
       "desc": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "3384e6a72e4d8900c56b",
-      "title": "5 outils gratuits pour analyser une adresse IP suspecte",
-      "url": "https://www.cyber-securite.fr/comment-analyser-une-adresse-ip-suspecte-5-outils-gratuits-indispensables/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:32:06+00:00",
-      "desc": "Une adresse IP suspecte peut signaler une tentative de fraude, un scan réseau ou une ... Lire plus L’article 5 outils gratuits pour analyser une adresse IP suspecte est apparu en premier sur jeuxderole.com .",
-      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2027,18 +2135,6 @@
       "category": "actualite"
     },
     {
-      "id": "4b69f4ad20b8dfd123d0",
-      "title": "Bitdefender détecte un malware sur des Android neufs",
-      "url": "https://www.cyber-securite.fr/midnight-mimosa-malware-android/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-14",
-      "published": "2026-10-14T15:39:59+00:00",
-      "desc": "Des smartphones Android d’entrée de gamme arrivent avec un malware déjà intégré à leur système. ... Lire plus L’article Bitdefender détecte un malware sur des Android neufs est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "43917f31afceebee5e1f",
       "title": "Climb Up",
       "url": "https://frenchbreaches.com/alertes/climb-up-mv88m4y8xbpdjxtdm6n",
@@ -2203,30 +2299,6 @@
       "published": "2026-10-14T05:52:28+00:00",
       "desc": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
       "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9917fb9c5e95cc7a28f0",
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14",
-      "published": "2026-10-14T04:34:43+00:00",
-      "desc": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4bc4c10ddd8c2d7068ef",
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14",
-      "published": "2026-10-14T01:59:25+00:00",
-      "desc": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2421,30 +2493,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "eb29e636423df09f9dea",
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13",
-      "published": "2026-10-13T18:20:57+00:00",
-      "desc": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "f459c5923c1f2f1f0f03",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "source": "The Hacker News",
-      "date": "2026-10-13",
-      "published": "2026-10-13T18:03:18+00:00",
-      "desc": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "1eabfbcc43f3633a7e1f",
@@ -3419,18 +3467,6 @@
       "category": "fuite"
     },
     {
-      "id": "29793269a0058a857f47",
-      "title": "Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL",
-      "url": "https://www.cnil.fr/fr/cloture-injonction-france-travail",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-08",
-      "published": "2026-10-08T12:00:00+00:00",
-      "desc": "Par délibération du 23 septembre 2026, la CNIL a clos l’injonction prononcée le 22&nbsp;janvier 2026 à l’encontre de FRANCE TRAVAIL, sans liquider l’astreinte prévue compte tenu de sa mise en conformité.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "f42a0fb18edfa82ed24c",
       "title": "AP-HP",
       "url": "https://frenchbreaches.com/alertes/ap-hp-muzfsexoa32730drjlq",
@@ -3524,18 +3560,6 @@
       "desc": "Lancé il y a un mois à peine, l'agent personnel de Meta inquiète jusque dans ses propres équipes. Documents internes, failles colmatées dans l'urgence et un pronostic qui glace : la fuite massive de données serait une question de temps.",
       "type": "actualite",
       "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "7de3788df8bc9891609f",
-      "title": "Des ChatGPT « voyous » ont pris d’assaut Wikipedia avec des millions de requêtes, que s’est-il passé ?",
-      "url": "https://www.01net.com/actualites/des-chatgpt-voyous-ont-pris-dassaut-wikipedia-avec-des-millions-de-requetes-que-sest-il-passe.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-06",
-      "published": "2026-10-06T15:42:33+00:00",
-      "desc": "Selon la directrice des produits et de la technologie de la Wikimedia Foundation, des agents IA « voyous » d’OpenAI ont effectué des millions de requêtes et visité des millions de pages sur différentes plateformes de la fondation. OpenAI a été alerté de la situation et a annoncé collaborer à l’examen du dossier.",
-      "type": "alerte",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -3763,30 +3787,6 @@
       "published": "2026-09-28T10:32:30+00:00",
       "desc": "L’incident s’est produit le 18 juin, mais les autorités australiennes n’en ont été informées que près (...)",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "049c5668e9788001c2a1",
-      "title": "WordPress corrige une vulnérabilité critique",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-wordpress-corrige-une-vulnerabilite-critique-100813.html",
-      "source": "Actualités securite",
-      "date": "2026-09-28",
-      "published": "2026-09-28T09:21:36+00:00",
-      "desc": "WordPress a publié le 22 septembre la version 7.1.2 de son CMS afin de corriger une vulnérabilité critique référencée (...)",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "2de6c59a582465239c32",
-      "title": "Secutec lance un outil pour contrôler le Shadow AI",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-secutec-lance-un-outil-pour-controler-le-shadow-ai-100803.html",
-      "source": "Actualités securite",
-      "date": "2026-09-23",
-      "published": "2026-09-23T14:35:35+00:00",
-      "desc": "Selon une étude d’Okta, ''Global CISO Insights 2026'', publié en juillet 2026, 88 % des RSSI interrogés en France déclarent (...)",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     }
