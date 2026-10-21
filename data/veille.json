@@ -1,15 +1,175 @@
 {
-  "generated_at": "2026-10-21T02:43:50.235522+00:00",
+  "generated_at": "2026-10-21T10:55:44.113935+00:00",
   "sources_total": 11,
-  "sources_ok": 10,
-  "sources_failed": 1,
+  "sources_ok": 9,
+  "sources_failed": 2,
   "errors": [
     {
       "source": "CISA — Known Exploited Vulnerabilities",
       "error": "404 Client Error: Not Found for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.xml"
+    },
+    {
+      "source": "CNIL — Actualités",
+      "error": "503 Server Error: Service Unavailable for url: https://www.cnil.fr/fr/rss.xml"
     }
   ],
   "items": [
+    {
+      "id": "3433f5846096b827d100",
+      "title": "Microsoft says October updates didn’t actually fix VPN issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T10:14:53+00:00",
+      "desc": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "30379f2808a92d59bf3a",
+      "title": "Ransomware mortel : le pirate derrière une cyberattaque meurtrière a été arrêté",
+      "url": "https://www.01net.com/actualites/ransomware-mortel-pirate-derriere-cyberattaque-meurtriere-arrete.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-21",
+      "published": "2026-10-21T10:00:12+00:00",
+      "desc": "Soupçonné de faire partie du gang Qilin, un Russe de 28 ans a été arrêté au Japon pendant ses vacances, avant d'être extradé vers l'Allemagne. Le groupe, spécialisé dans les attaques par ransomware, est impliqué dans une cyberattaque qui a contribué à la mort d'un patient dans un hôpital de Londres.",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "8231b6f9ea3f8bfffda4",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T09:05:17+00:00",
+      "desc": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.",
+      "type": "alerte",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "f0182a53b406878e009b",
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T09:01:12+00:00",
+      "desc": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four million active installations. The vendor also offers UpdraftCentral, a remote",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "cdb08ddee200914fbd61",
+      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T08:36:24+00:00",
+      "desc": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+      "type": "alerte",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "8d25a258b5d864043a55",
+      "title": "Les données des voyageurs du réseau Zou! exposées",
+      "url": "https://www.cyber-securite.fr/les-donnees-des-voyageurs-du-reseau-zou-exposees/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-21",
+      "published": "2026-10-21T08:19:27+00:00",
+      "desc": "Le pirate, sous le pseudonyme « blocus », revendique près de 90 000 dossiers. La ... Lire plus L’article Les données des voyageurs du réseau Zou! exposées est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "503b4db3bf44591c8d84",
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T08:04:17+00:00",
+      "desc": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order. They may also no longer buy information technology products or services from the Chinese AI developer or its affiliates Homeland Security Secretary",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2f30cd1c0af42cce1757",
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T07:44:22+00:00",
+      "desc": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "37c3e5fa7177b2714e52",
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T07:26:49+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2e9c6efa3f50094b8781",
+      "title": "Nouvelle cyberattaque en France : les données de propriétaires de chiens et chats ont encore été volées",
+      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-france-donnees-proprietaires-chiens-chats-encore-volees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-21",
+      "published": "2026-10-21T07:04:35+00:00",
+      "desc": "Un pirate est parvenu à dérober les données de millions de propriétaires de chiens et de chats en France. Le truand s'est attaqué à trois fichiers français, à savoir l'I-CAD, la Centrale Canine et le LOOF. Ce dernier vient de confirmer la cyberattaque.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9ccfefac8ce0a6a4f3e9",
+      "title": "« Supervision humaine minimale » : l’armée américaine veut ses propres IA pirates pour « neutraliser les menaces »",
+      "url": "https://www.01net.com/actualites/supervision-humaine-minimale-larmee-americaine-veut-ses-propres-ia-pirates-pour-neutraliser-les-menaces.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-21",
+      "published": "2026-10-21T06:33:05+00:00",
+      "desc": "Pendant tout l'été, des agents d'IA se sont introduits seuls dans des systèmes informatiques, sans qu'on le leur demande. L'armée américaine, elle, veut désormais des agents capables d'en faire autant, sur commande.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8dbb0ccea4784e45668c",
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T06:05:15+00:00",
+      "desc": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "747406fa329984493ab5",
+      "title": "Faux dossiers de location : comment un propriétaire se protège de la fraude documentaire sans demander plus que la loi ne l’autorise ?",
+      "url": "https://www.cyber-securite.fr/faux-dossiers-location-comment-proprietaire-se-protege-de-la-fraude/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-21",
+      "published": "2026-10-21T03:27:02+00:00",
+      "desc": "La vérification des pièces permet de limiter les risques liés aux faux dossiers de location. ... Lire plus L’article Faux dossiers de location : comment un propriétaire se protège de la fraude documentaire sans demander plus que la loi ne l’autorise ? est apparu en premier sur jeuxderole.com .",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "4c1ba1c175622d229309",
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
@@ -419,18 +579,6 @@
       "category": "alerte"
     },
     {
-      "id": "c8f46e5ff1ac1686c626",
-      "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
-      "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-20",
-      "published": "2026-10-20T12:00:00+00:00",
-      "desc": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "a7c836b591fb5c91aca8",
       "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
       "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
@@ -683,18 +831,6 @@
       "category": "actualite"
     },
     {
-      "id": "b027e601f57288d756da",
-      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19",
-      "published": "2026-10-19T21:24:51+00:00",
-      "desc": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "66aff6750fc5ab89b432",
       "title": "Armurerie Centrale",
       "url": "https://frenchbreaches.com/alertes/armurerie-centrale-mvfoga33992pl35cyvq",
@@ -705,18 +841,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "fd5ecf2bcb290e58c845",
-      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-19",
-      "published": "2026-10-19T19:40:58+00:00",
-      "desc": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "2b433345de9bc12f06d2",
@@ -749,7 +873,7 @@
       "source": "French Breaches",
       "date": "2026-10-19",
       "published": "2026-10-19T16:24:00+00:00",
-      "desc": "Fuite de données à l'ISEP : les informations de plus de 5 000 étudiants et utilisateurs publiées par un pirate L'ISEP, école d'ingénieurs française spécialisée dans le numérique, l'informatique et la cybersécurité, est visée par une revendication de fuite de données. Ce lundi 19…",
+      "desc": "Fuite de données à l'ISEP : les informations de plus de 5 000 étudiants et utilisateurs publiées par un pirate Mise à jour le 21 octobre à 09h00 L'Isep confirme que les données diffusées le 19 octobre 2026 proviennent d'une ancienne cyberattaque, et non d'une nouvelle intrusion.…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -801,18 +925,6 @@
       "type": "actualite",
       "sev": "Critique",
       "category": "actualite"
-    },
-    {
-      "id": "6b483b1190c73ddb0799",
-      "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
-      "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-19",
-      "published": "2026-10-19T12:00:00+00:00",
-      "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "1b65c62c17c781a03149",
@@ -1559,42 +1671,6 @@
       "category": "alerte"
     },
     {
-      "id": "aaebf12b008c78722ecb",
-      "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
-      "url": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&nbsp;De la protection des données à la création de valeur en finance&nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises et des acteurs financiers.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8da07efb6db3ce65a7b8",
-      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
-      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont remplies.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "c95fe100c8350d7295d7",
-      "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
-      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "3f11a9ccfb4f1a93f7c7",
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
       "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
@@ -2135,18 +2211,6 @@
       "category": "alerte"
     },
     {
-      "id": "dbedb621bf9e3232d324",
-      "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "db1c119cd4bd5726aad0",
       "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
       "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
@@ -2167,30 +2231,6 @@
       "published": "2026-10-15T11:46:49+00:00",
       "desc": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "671e9d48005a633e7e58",
-      "title": "L’arnaque « zéro clic » peut dérober vos données via Whatsapp",
-      "url": "https://www.cyber-securite.fr/larnaque-zero-clic-peut-derober-vos-donnees-via-whatsapp/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:39:10+00:00",
-      "desc": "Une fraude présentée comme une arnaque zéro clic sur WhatsApp inquiète depuis le début du ... Lire plus L’article L’arnaque « zéro clic » peut dérober vos données via Whatsapp est apparu en premier sur jeuxderole.com .",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "5547ff1b53b4b0e1c92f",
-      "title": "« 123456 » : le mot de passe qui a exposé des millions de données",
-      "url": "https://www.cyber-securite.fr/123456-le-mot-de-passe-trop-facile-a-deviner-qui-a-expose-des-millions-de-donnees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:34:07+00:00",
-      "desc": "Au Danemark, un compte lié au registre civil aurait été protégé par « 123456 ». ... Lire plus L’article « 123456 » : le mot de passe qui a exposé des millions de données est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2255,18 +2295,6 @@
       "category": "fuite"
     },
     {
-      "id": "30a0f1da0cfb696abe8e",
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T10:42:16+00:00",
-      "desc": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end, the Department of Telecommunications has issued a circular urging service",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "05ce22146a02d08fdba6",
       "title": "Frigos de supermarchés piratés : Claude a reproduit la cyberattaque en 28 minutes",
       "url": "https://www.01net.com/actualites/frigos-de-supermarches-pirates-claude-a-reproduit-la-cyberattaque-en-28-minutes.html",
@@ -2274,18 +2302,6 @@
       "date": "2026-10-15",
       "published": "2026-10-15T09:02:42+00:00",
       "desc": "28 minutes. C'est le temps qu'il a fallu à Claude pour reproduire la cyberattaque qui a fait surchauffer les frigos de centaines de supermarchés français. L'expérimentation démontre que l'offensive était à la portée de n'importe quel cybercriminel, même sans compétences techniques.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "871699ef8521713692e9",
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T08:45:10+00:00",
-      "desc": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
@@ -2299,30 +2315,6 @@
       "published": "2026-10-15T08:11:16+00:00",
       "desc": "Microsoft vient de mettre un terme aux activités de YAM Store, CoGUI et Iron Man, les trois faces d'un vaste marché cybercriminel chinois. Depuis janvier 2026, ces plateformes pirates ont permis d'envoyer plus d'un milliard d'e-mails et de SMS frauduleux à des victimes résidant dans plus de 150 pays.",
       "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "43828a09caae06305882",
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T07:07:05+00:00",
-      "desc": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM. The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "ab68bb7b689bedcb6b9a",
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T06:43:08+00:00",
-      "desc": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2471,30 +2463,6 @@
       "category": "actualite"
     },
     {
-      "id": "402aaeff71af9a090371",
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14",
-      "published": "2026-10-14T18:38:56+00:00",
-      "desc": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "2720649a8fdd7cf6e4c8",
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-14",
-      "published": "2026-10-14T17:38:31+00:00",
-      "desc": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "ea8a0056a65ccfa3a7c4",
       "title": "Cyberattaque nationale : pourquoi les pirates s’attaquent maintenant aux supermarchés ?",
       "url": "https://www.01net.com/actualites/piratage-frigos-pourquoi-hackers-attaquent-supermarches.html",
@@ -2529,18 +2497,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "4b3a739cc4e144e16cc4",
-      "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
-      "url": "https://www.cnil.fr/fr/cloture-injonction-google",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-14",
-      "published": "2026-10-14T12:00:00+00:00",
-      "desc": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "ac4fdd12cbd5a4ab8091",
@@ -2829,18 +2785,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "fc7865bf7518a1d66773",
-      "title": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
-      "url": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-13",
-      "published": "2026-10-13T12:00:00+00:00",
-      "desc": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "a373c437df2f946226f3",
@@ -3443,18 +3387,6 @@
       "category": "actualite"
     },
     {
-      "id": "844df392d528acdd0b87",
-      "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
-      "url": "https://www.cnil.fr/fr/ril-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-09",
-      "published": "2026-10-09T12:00:00+00:00",
-      "desc": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp; Libertés le mardi 29&nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "46fda0fcb5b4d25ce69b",
       "title": "Orange muscle son offre SecNumCloud",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
@@ -3551,18 +3483,6 @@
       "category": "alerte"
     },
     {
-      "id": "24b9aea343ac0b857554",
-      "title": "Ordre du jour de la séance plénière du 8 octobre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-08",
-      "published": "2026-10-08T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "517cd16724d86847dd64",
       "title": "Fuite de données : le plus grand CHU de France (et d’Europe) a été piraté",
       "url": "https://www.01net.com/actualites/fuite-donnees-plus-grand-chu-france-europe-ete-pirate.html",
@@ -3583,18 +3503,6 @@
       "published": "2026-10-08T09:42:49+00:00",
       "desc": "La transformation numérique entre dans une nouvelle phase. Après avoir largement dématérialisé leurs processus, les (...)",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "ae22afd14bd5328dee92",
-      "title": "Nouvelle cyberattaque en France : 1 400 hôtels potentiellement piratés, des arnaques déjà en cours",
-      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-en-france-1-400-hotels-potentiellement-pirates-des-arnaques-deja-en-cours.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-07",
-      "published": "2026-10-07T15:00:10+00:00",
-      "desc": "Une cyberattaque a visé le logiciel de gestion hôtelière Medialog Hôtel. Les clients de 1 400 hôtels sont potentiellement concernés. Les données volées comprennent notamment des informations relatives à l’identité, aux coordonnées et aux réservations des clients des hôtels touchés. Les campagnes de phishing ont déjà commencé.",
-      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3620,30 +3528,6 @@
       "desc": "Présenté le 5 octobre, Large 4 constitue la première concrétisation majeure de Mistral AI depuis sa levée de fonds de (...)",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2270782b1f5488761ca4",
-      "title": "129 000 failles débusquées : Anthropic dévoile le bilan impressionnant de Claude Mythos",
-      "url": "https://www.01net.com/actualites/129-000-failles-debusquees-anthropic-devoile-le-bilan-impressionnant-claude-mythos.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-07",
-      "published": "2026-10-07T07:03:41+00:00",
-      "desc": "Anthropic révèle que Claude Mythos a débusqué au moins 129 000 failles en quelques mois. En réaction, la start-up a décidé d'élargir l'accès à son IA taillée pour la cybersécurité.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8e6ac4a4d9c4a494ac65",
-      "title": "Une fuite massive « inévitable » : chez Meta, des ingénieurs s’inquiètent de l’IA Muse",
-      "url": "https://www.01net.com/actualites/une-fuite-massive-inevitable-chez-meta-des-ingenieurs-sinquietent-de-lia-muse.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-07",
-      "published": "2026-10-07T06:00:29+00:00",
-      "desc": "Lancé il y a un mois à peine, l'agent personnel de Meta inquiète jusque dans ses propres équipes. Documents internes, failles colmatées dans l'urgence et un pronostic qui glace : la fuite massive de données serait une question de temps.",
-      "type": "actualite",
-      "sev": "Haute",
       "category": "actualite"
     },
     {
