@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T16:22:58.332289+00:00",
+  "generated_at": "2026-10-21T21:04:57.542736+00:00",
   "sources_total": 11,
-  "sources_ok": 7,
-  "sources_failed": 4,
+  "sources_ok": 9,
+  "sources_failed": 2,
   "errors": [
     {
       "source": "CISA — Known Exploited Vulnerabilities",
@@ -11,17 +11,129 @@
     {
       "source": "CNIL — Actualités",
       "error": "503 Server Error: Service Unavailable for url: https://www.cnil.fr/fr/rss.xml"
-    },
-    {
-      "source": "French Breaches",
-      "error": "503 Server Error: Service Unavailable for url: https://frenchbreaches.com/feed.xml"
-    },
-    {
-      "source": "French Breaches-blog",
-      "error": "503 Server Error: Service Unavailable for url: https://frenchbreaches.com/blog/feed.xml"
     }
   ],
   "items": [
+    {
+      "id": "ee05028cd237fb1c0909",
+      "title": "Failles PHP : impôts, Météo-France, préfectures… pourquoi tant de sites ferment ?",
+      "url": "https://frenchbreaches.com/blog/failles-php-impots-meteo-france-prefectures-pourquoi-tant-de-sites-ferment",
+      "source": "French Breaches-blog",
+      "date": "2026-10-21",
+      "published": "2026-10-21T20:51:00+00:00",
+      "desc": "Deux failles critiques de PHP provoquent la fermeture de nombreux sites en France : impôts, Météo-France, préfectures et médias.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "48fbf51ec71192df2d8f",
+      "title": "Institut national d'études démographiques (Ined)",
+      "url": "https://frenchbreaches.com/alertes/institut-national-d-tudes-d-mographiques-ined-mvikz1nok03if5tiw9n",
+      "source": "French Breaches",
+      "date": "2026-10-21",
+      "published": "2026-10-21T20:43:00+00:00",
+      "desc": "Cyberattaque à l'Ined : les serveurs de l'institut piratés, ses services informatiques perturbés L'Institut national d'études démographiques (Ined) a confirmé avoir été victime d'une cyberattaque détectée le samedi 17 octobre 2026. Une intrusion sur ses serveurs informatiques a e…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2484f295e9c43c283a69",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T20:31:48+00:00",
+      "desc": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "477f6f2bea58c1cc8fbf",
+      "title": "Supercell victime d'un piratage : des vidéos internes volées, les joueurs épargnés",
+      "url": "https://frenchbreaches.com/blog/supercell-victime-dun-piratage-des-videos-internes-volees-les-joueurs-epargnes",
+      "source": "French Breaches-blog",
+      "date": "2026-10-21",
+      "published": "2026-10-21T20:26:00+00:00",
+      "desc": "Supercell confirme des cyberattaques et le vol de vidéos internes. Des employés et partenaires sont concernés, mais pas les joueurs.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6815f2a0b4a0d8cf043f",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T18:57:34+00:00",
+      "desc": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "a299ef36c76884d023c2",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T18:34:42+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d9304dd4f7f5ae5de2a3",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T18:01:57+00:00",
+      "desc": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "46d945d60595af1f61b0",
+      "title": "Optiv dévoile CyberBOT",
+      "url": "https://www.cyber-securite.fr/optiv-devoile-cyberbot/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-21",
+      "published": "2026-10-21T17:27:21+00:00",
+      "desc": "Optiv lance CyberBOT, un programme gratuit pour apprendre les gestes essentiels face aux cybermenaces. Ses ... Lire plus L’article Optiv dévoile CyberBOT est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "59a7ce99a8f3de460e7b",
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "source": "The Hacker News",
+      "date": "2026-10-21",
+      "published": "2026-10-21T16:33:47+00:00",
+      "desc": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ed4ad11dc3da0c9d28e6",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T16:26:53+00:00",
+      "desc": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "974b4d9648af60524b87",
       "title": "Fausse alerte Freebox : une grosse erreur a semé la panique chez les abonnés Free",
@@ -36,12 +148,12 @@
     },
     {
       "id": "dc491bef65d2db7820a1",
-      "title": "FortiSIEM : une faille critique et un PoC est désormais public",
+      "title": "FortiSIEM : une faille critique et un PoC désormais public",
       "url": "https://www.cyber-securite.fr/fortisiem-une-faille-critique-et-un-poc-est-desormais-public/",
       "source": "CYBER-SECURITE.FR",
       "date": "2026-10-21",
       "published": "2026-10-21T15:25:29+00:00",
-      "desc": "Une faille critique touche FortiSIEM et permet une exécution de code à distance sans authentification. ... Lire plus L’article FortiSIEM : une faille critique et un PoC est désormais public est apparu en premier sur jeuxderole.com .",
+      "desc": "Une faille critique touche FortiSIEM et permet une exécution de code à distance sans authentification. ... Lire plus L’article FortiSIEM : une faille critique et un PoC désormais public est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Critique",
       "category": "actualite"
@@ -119,6 +231,18 @@
       "category": "actualite"
     },
     {
+      "id": "57abb091cf26656b5f6e",
+      "title": "La Poste Mobile",
+      "url": "https://frenchbreaches.com/alertes/la-poste-mobile-mvi3xiudmuk1ptig4ce",
+      "source": "French Breaches",
+      "date": "2026-10-21",
+      "published": "2026-10-21T12:43:00+00:00",
+      "desc": "La Poste Mobile : le groupe de hackers prorusse NoName057(16) revendique une fuite de données de 25 000 clients L'opérateur français La Poste Mobile est visé par une nouvelle revendication du groupe de hackers prorusse NoName057(16). Le 21 octobre 2026, les cybercriminels affirme…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "b45a4afc9c411c26c41c",
       "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
@@ -143,6 +267,18 @@
       "category": "actualite"
     },
     {
+      "id": "f778ef1a30ddc9386885",
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-21",
+      "published": "2026-10-21T12:00:00+00:00",
+      "desc": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of publication, they pose a risk to organizations if left unpatched. CISA urges organizations to take the following actions: Identify and inventory systems running any version of PHP across your organization. PHP is often a component of other software and prevalence may not be directly observable. Apply the patch immediately, prioritizing internet-facing systems. Organizations that cannot update immediately, or that continue to use PHP 8.1 or earlier unsupported versions, should take PHP-based systems offline until they can be patched or updated. A web application firewall may provide some protection until systems are updated or patched. Review the official PHP security advisory for guidance on patching. Monitor for suspicious activity, including PHP worker processes launching shells or downloading tools. CISA urges network defenders to review the following advisory and apply necessary updates: Security Advisory: Critical Remote Code Execution Vulnerabilities, Update Now Disclaimer The information in this report is being provided “as is” for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes,",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
       "id": "2b1381b5788ddde481e0",
       "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
       "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
@@ -151,6 +287,18 @@
       "published": "2026-10-21T11:53:34+00:00",
       "desc": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4465f49f5cade0d27d51",
+      "title": "Cyberattaque contre La Poste Mobile : des pirates prorusses revendiquent une attaque DDoS",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-contre-la-poste-mobile-des-pirates-prorusses-revendiquent-une-attaque-ddos",
+      "source": "French Breaches-blog",
+      "date": "2026-10-21",
+      "published": "2026-10-21T11:44:00+00:00",
+      "desc": "La Poste Mobile visée par une cyberattaque revendiquée par le groupe prorusse NoName057(16). Site internet, espace client et activation SIM ciblés.",
+      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -371,6 +519,18 @@
       "category": "actualite"
     },
     {
+      "id": "c1e21c923bd9efcfcbce",
+      "title": "Deux failles critiques dans PHP : des millions de sites Internet potentiellement menacés",
+      "url": "https://frenchbreaches.com/blog/deux-failles-critiques-dans-php-des-millions-de-sites-internet-potentiellement-menaces",
+      "source": "French Breaches-blog",
+      "date": "2026-10-21",
+      "published": "2026-10-21T00:18:00+00:00",
+      "desc": "Des failles majeures découvertes dans PHP pourraient permettre à des pirates de prendre le contrôle de serveurs. Un correctif est attendu.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
       "id": "959875f1072da8dcd2df",
       "title": "Multiples vulnérabilités dans les produits Mozilla (21 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1346/",
@@ -491,6 +651,42 @@
       "category": "alerte"
     },
     {
+      "id": "0865e727cffb8a2ec2a7",
+      "title": "Billets Nantes",
+      "url": "https://frenchbreaches.com/alertes/billets-nantes-mvh6pydjtys8slkzvks",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T21:16:00+00:00",
+      "desc": "Billets Nantes : les données de 161 comptes publiées par un pirate informatique Le site français Billets Nantes (billetsnantes.fr) fait l'objet d'une revendication de piratage sur un forum cybercriminel. Un attaquant affirme avoir accédé à sa base de données et récupéré les infor…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "77367114186b8a7e8843",
+      "title": "Frenchy Sushi",
+      "url": "https://frenchbreaches.com/alertes/frenchy-sushi-mvh6jsmfitdlozblgf",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T21:12:00+00:00",
+      "desc": "Frenchy Sushi : les données de 3 424 clients revendiquées par un pirate informatique Le site Frenchy Sushi, accessible à l'adresse frenchysushi.fr, fait l'objet d'une revendication de piratage sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Opek0…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b7437e120dea8048af78",
+      "title": "Padel Normandie",
+      "url": "https://frenchbreaches.com/alertes/padel-normandie-mvh6f5dxc041wra4jc",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T21:08:00+00:00",
+      "desc": "Padel Normandie : les données de 2 307 utilisateurs revendiquées par un pirate informatique Le site padel-normandie.fr fait l'objet d'une revendication de piratage sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Opek0xx affirme avoir pénétré dans…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "c16b7dbd6314982fcc14",
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
@@ -515,6 +711,42 @@
       "category": "actualite"
     },
     {
+      "id": "db90261b7833211814dd",
+      "title": "King Jouet",
+      "url": "https://frenchbreaches.com/alertes/king-jouet-mvh2wz4eji7ew5cohhq",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T19:30:00+00:00",
+      "desc": "King Jouet : près de 196 000 fiches clients publiées par un pirate, après une cyberattaque en 2025 L'enseigne française King Jouet est de nouveau citée sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Onyxx affirme avoir publié gratuitement une ba…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "62b4d8b7ced76c7b9426",
+      "title": "PortaleCo",
+      "url": "https://frenchbreaches.com/alertes/portaleco-mvh1wazxhkwj2zu1gfs",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T19:01:00+00:00",
+      "desc": "PortaleCo : les données de 103 000 clients revendiquées par un pirate informatique Mise à jour le 21 octobre à 14h30 Portaleco confirme avoir identifié et corrigé une faille de sécurité de type IDOR, après la revendication du pirate Alduin. Selon l'entreprise, le fichier de 103 0…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b02f2e1aad4ed6820426",
+      "title": "Terranota",
+      "url": "https://frenchbreaches.com/alertes/terranota-mvh1ackqc8kzf8diegm",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T18:45:00+00:00",
+      "desc": "Terranota : près de 48 000 dossiers immobiliers publiés par un pirate informatique Un pirate informatique utilisant le pseudonyme Syrv4x affirme avoir publié gratuitement une base de données attribuée à Terranota, une entreprise française spécialisée dans l'accompagnement régleme…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "5403339ab3e36b76d41a",
       "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
@@ -525,6 +757,18 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "fc305022351dba6165d1",
+      "title": "Misterbooking",
+      "url": "https://frenchbreaches.com/alertes/misterbooking-mvgyucgy6374p06vxeb",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T17:36:00+00:00",
+      "desc": "Cyberattaque chez Misterbooking : les données personnelles de clients d'hôtels potentiellement volées La plateforme de gestion hôtelière Misterbooking, éditée par le groupe Septeo, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à ses systèmes informatiques.…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "7abb23f2d705d24167e5",
@@ -549,6 +793,42 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "1d227b8c614c659c75ca",
+      "title": "Valeurs actuelles",
+      "url": "https://frenchbreaches.com/alertes/valeurs-actuelles-mvgxt8dpogb8av8bdzm",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T17:07:00+00:00",
+      "desc": "Fuite de données chez Valeurs actuelles : 45 000 factures d'abonnés revendiquées Mise à jour le 21 octobre à 12h Valeurs actuelles confirme un incident de cybersécurité survenu le 20 octobre 2026 chez le prestataire de sa boutique en ligne. Des mesures de sécurité ont été prises,…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1df77f010066ee9c103f",
+      "title": "Association francophone de padel (AFPAdel)",
+      "url": "https://frenchbreaches.com/alertes/association-francophone-de-padel-afpadel-mvgxh2pryxyvw87o0t",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T16:56:00+00:00",
+      "desc": "Fuite de données à l'AFPAdel : plus de 10 000 fiches de joueurs de padel publiées L'AFPAdel, organisme belge lié à la pratique et à l'organisation du padel en Fédération Wallonie-Bruxelles, est visée par une revendication de fuite de données. Ce mardi 20 octobre 2026, un pirate u…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "92295d2e8674a7e42884",
+      "title": "SOLIHA",
+      "url": "https://frenchbreaches.com/alertes/soliha-mvgxc2quxy1txsgtoe",
+      "source": "French Breaches",
+      "date": "2026-10-20",
+      "published": "2026-10-20T16:52:00+00:00",
+      "desc": "Fuite de données chez SOLIHA : les informations de plus de 3 000 utilisateurs publiées SOLIHA, réseau associatif français spécialisé dans l'amélioration de l'habitat et l'accompagnement des ménages, est visé par une revendication de fuite de données. Ce mardi 20 octobre 2026, un…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "584d35c71235748c5853",
@@ -611,14 +891,26 @@
       "category": "actualite"
     },
     {
-      "id": "6ed092a445d190dd880d",
-      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "source": "BleepingComputer",
+      "id": "6d14fa70d3fd0869a1cc",
+      "title": "Livre officiel des origines félines (LOOF)",
+      "url": "https://frenchbreaches.com/alertes/livre-officiel-des-origines-f-lines-loof-mvb6cesqs8p2mqrp5m",
+      "source": "French Breaches",
       "date": "2026-10-20",
-      "published": "2026-10-20T13:18:36+00:00",
-      "desc": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-      "type": "phishing",
+      "published": "2026-10-20T13:15:00+00:00",
+      "desc": "Piratage du LOOF : 654 000 lignes de données et plus de 90 000 documents revendiqués Mise à jour le 20 octobre à 12h00 Alerté par FrenchBreaches, le LOOF confirme une cyberattaque et le vol de données ! Noms, adresses, e-mails, identifiants de chats et dates de naissance potentie…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "523cb8a5c9a192aebca2",
+      "title": "Fuites de données : des millions de propriétaires de chiens et chats concernés",
+      "url": "https://frenchbreaches.com/blog/fuites-de-donnees-des-millions-de-proprietaires-de-chiens-et-chats-concernes",
+      "source": "French Breaches-blog",
+      "date": "2026-10-20",
+      "published": "2026-10-20T13:15:00+00:00",
+      "desc": "L'I-CAD, la Centrale Canine et le LOOF sont visés par des fuites de données revendiquées. Des millions de propriétaires d'animaux potentiellement touchés.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -635,16 +927,16 @@
       "category": "actualite"
     },
     {
-      "id": "801ded0a23165ffdab55",
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "source": "BleepingComputer",
+      "id": "8d626ff9f11dd6582b62",
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+      "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-20",
-      "published": "2026-10-20T12:16:32+00:00",
-      "desc": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
+      "published": "2026-10-20T12:00:00+00:00",
+      "desc": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MicroSCADA X SYS600 Product are affected: MicroSCADA X SYS600 vers:MicroSCADA_X_SYS600/<=10.7, 10.8 (CVE-2026-9852, CVE-2026-9853, CVE-2026-9854, CVE-2026-9853) CVSS Vendor Equipment v3 7.8 Hitachi Energy MicroSCADA X SYS600 2 Vulnerabilities Improper Neutralization of Formula Elements in a CSV File, Incorrect Implementation of Authentication Algorithm Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-9852 A CSV injection vulnerability exists in SYS600. Injected malicious formulas can add or modify data to the spreadsheet, insert links, exfiltrate data, and in some cases, depending on how the user has their environment configured, execute malicious code on the user’s machine. To exploit this issue attackers would need a way to create arbitrary log messages. This could be achieved through normal functionality via SCIL scripts, a log injection vulnerability, or via the SYS600 broker. This vulnerability affects all Windows users regardless of their privilege level who can run the Notify service and export the log. Read More 1 Affected Product MicroSCADA X SYS600 versions 10.7 and prior Product Status: known_affected Remediations Vendor fix Update to version 10.8 Mitigation Follow general mitigation factors/workarounds Additional Metrics Relevant CWE: CWE-1236 Improper Neutralization of Formula E",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
     },
     {
       "id": "552cbee8ac3d9b61c1e6",
@@ -653,7 +945,7 @@
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-20",
       "published": "2026-10-20T12:00:00+00:00",
-      "desc": "Advisory at a Glance Title #StopRansomware: SafePay Ransomware Original Publication October 20, 2026 Executive Summary This advisory details recent activity by the SafePay ransomware group. SafePay actors have been highly active since August 2024, targeting businesses and critical infrastructure across North America, South America, Europe, and Australia. SafePay actors typically gain access to networks by stealing or guessing passwords, exploiting vulnerabilities in security systems, and using phishing tactics. Once inside the network, SafePay actors establish control by creating new accounts or taking over existing ones. They then use legitimate system tools to move through the network, identify valuable files, and disable security protections to avoid detection. Following, they encrypt the victim’s files, making them inaccessible, and leave a ransom note demanding payment in cryptocurrency. This advisory urges organizations to follow recommended security measures to reduce the risk and impact of SafePay ransomware attacks. Affected Products CVE-2020-3259 [ Common Weakness Enumeration (CWE)-200: Exposure of Sensitive Information to an Unauthorized Actor ] CVE-2023-20269 [ CWE-288: Authentication Bypass Using an Alternate Path or Channel ] CVE-2023-27532 [ CWE-306: Missing Authentication for Critical Function ] CVE-2024-40711 [ CWE-502: Deserialization of Untrusted Data ] CVE-2024-40766 [ CWE-284: Improper Access Control ] Key Actions Regularly patch and update systems, especially firewalls, and other edge devices. Implement Zero Trust Principle. Restrict administrative tools and privileges to necessary users only. Strengthen account security by implementing identity, credential, and access management (ICAM) policies and multifactor authentication (MFA). Indicators of C",
+      "desc": "Advisory at a Glance Title #StopRansomware: SafePay Ransomware Original Publication October 20, 2026 Executive Summary This advisory details recent activity by the SafePay ransomware group. SafePay actors have been highly active since August 2024, targeting businesses and critical infrastructure across North America, South America, Europe, and Australia. SafePay actors typically gain access to networks by stealing or guessing passwords, exploiting vulnerabilities in security systems, and using phishing tactics. Once inside the network, SafePay actors establish control by creating new accounts or taking over existing ones. They then use legitimate system tools to move through the network, identify valuable files, and disable security protections to avoid detection. Next, they encrypt the victim’s files, making them inaccessible, and leave a ransom note demanding payment in cryptocurrency. This advisory urges organizations to follow recommended security measures to reduce the risk and impact of SafePay ransomware attacks. Affected Products CVE-2020-3259 [ Common Weakness Enumeration (CWE)-200: Exposure of Sensitive Information to an Unauthorized Actor ] CVE-2023-20269 [ CWE-288: Authentication Bypass Using an Alternate Path or Channel ] CVE-2023-27532 [ CWE-306: Missing Authentication for Critical Function ] CVE-2024-40711 [ CWE-502: Deserialization of Untrusted Data ] CVE-2024-40766 [ CWE-284: Improper Access Control ] Key Actions Regularly patch and update systems, especially firewalls, and other edge devices. Implement Zero Trust Principle. Restrict administrative tools and privileges to necessary users only. Strengthen account security by implementing identity, credential, and access management (ICAM) policies and multifactor authentication (MFA). Indicators of Compro",
       "type": "fuite",
       "sev": "Critique",
       "category": "alerte"
@@ -666,18 +958,6 @@
       "date": "2026-10-20",
       "published": "2026-10-20T12:00:00+00:00",
       "desc": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=13.5.1|<=13.5.4, vers:RTU500_series_CMU_Firmware/>=13.6.1|<=13.6.3, vers:RTU500_series_CMU_Firmware/>=13.7.1|<=13.7.8, vers:RTU500_series_CMU_Firmware/>=13.8.1|<=13.8.2, vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7.7 (CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6653) CVSS Vendor Equipment v3 8.8 Hitachi Energy RTU500 series CMU Firmware 7 Vulnerabilities NULL Pointer Dereference, Access of Resource Using Incompatible Type ('Type Confusion'), Use After Free, Cleartext Transmission of Sensitive Information, Insufficiently Protected Credentials, Authentication Bypass by Capture-replay, Authentication Bypass by Primary Weakness Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Exp",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "8d626ff9f11dd6582b62",
-      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-20",
-      "published": "2026-10-20T12:00:00+00:00",
-      "desc": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MicroSCADA X SYS600 Product are affected: MicroSCADA X SYS600 vers:MicroSCADA_X_SYS600/<=10.7, 10.8 (CVE-2026-9852, CVE-2026-9853, CVE-2026-9854, CVE-2026-9853) CVSS Vendor Equipment v3 7.8 Hitachi Energy MicroSCADA X SYS600 2 Vulnerabilities Improper Neutralization of Formula Elements in a CSV File, Incorrect Implementation of Authentication Algorithm Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-9852 A CSV injection vulnerability exists in SYS600. Injected malicious formulas can add or modify data to the spreadsheet, insert links, exfiltrate data, and in some cases, depending on how the user has their environment configured, execute malicious code on the user’s machine. To exploit this issue attackers would need a way to create arbitrary log messages. This could be achieved through normal functionality via SCIL scripts, a log injection vulnerability, or via the SYS600 broker. This vulnerability affects all Windows users regardless of their privilege level who can run the Notify service and export the log. Read More 1 Affected Product MicroSCADA X SYS600 versions 10.7 and prior Product Status: known_affected Remediations Vendor fix Update to version 10.8 Mitigation Follow general mitigation factors/workarounds Additional Metrics Relevant CWE: CWE-1236 Improper Neutralization of Formula E",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -751,18 +1031,6 @@
       "published": "2026-10-20T11:32:59+00:00",
       "desc": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a6071b39af0b080aa3b4",
-      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20",
-      "published": "2026-10-20T11:31:22+00:00",
-      "desc": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -935,6 +1203,18 @@
       "category": "alerte"
     },
     {
+      "id": "66aff6750fc5ab89b432",
+      "title": "Armurerie Centrale",
+      "url": "https://frenchbreaches.com/alertes/armurerie-centrale-mvfoga33992pl35cyvq",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T19:53:00+00:00",
+      "desc": "Cyberattaque chez Armurerie Centrale : des données personnelles et justificatifs de clients dérobés Le site français Armurerie Centrale confirme avoir été victime d'un accès informatique non autorisé en septembre 2026. Noms, adresses, dates de naissance, historiques de commandes…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "2b433345de9bc12f06d2",
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
@@ -957,6 +1237,30 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "3b6286ee3ab6f0096359",
+      "title": "École d'ingénieurs du numérique (ISEP)",
+      "url": "https://frenchbreaches.com/alertes/cole-d-ing-nieurs-du-num-rique-isep-mvfh0i40fmfs06ica8",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T16:24:00+00:00",
+      "desc": "Fuite de données à l'ISEP : les informations de plus de 5 000 étudiants et utilisateurs publiées par un pirate Mise à jour le 21 octobre à 09h00 L'Isep confirme que les données diffusées le 19 octobre 2026 proviennent d'une ancienne cyberattaque, et non d'une nouvelle intrusion.…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ea701da254ceb725dc2f",
+      "title": "I-CAD",
+      "url": "https://frenchbreaches.com/alertes/i-cad-mvbcrt0yq9mamnwtom",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T15:10:00+00:00",
+      "desc": "Nouvelle fuite de données à l'I-CAD : 2,9 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Selon nos informations, l'I-CAD, le fichier national d'identification des chiens, chats et furets, serait touché par une nouvelle fuite de données, distincte de celle…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "e6f76086848f718ff70f",
@@ -993,6 +1297,18 @@
       "type": "actualite",
       "sev": "Critique",
       "category": "actualite"
+    },
+    {
+      "id": "1b65c62c17c781a03149",
+      "title": "Réseau ZOU ! (Région Sud)",
+      "url": "https://frenchbreaches.com/alertes/r-seau-zou-r-gion-sud-mvf99a1li52u9t2qu8d",
+      "source": "French Breaches",
+      "date": "2026-10-19",
+      "published": "2026-10-19T12:00:00+00:00",
+      "desc": "Fuite de données chez ZOU ! : près de 90 000 dossiers d'adhérents proposés à la vente Une nouvelle fuite de données est revendiquée en France. Ce lundi 19 octobre 2026, un pirate informatique utilisant le pseudonyme blocus affirme détenir une base de données attribuée à zou.mareg…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "8674d78c6f98bb17df75",
@@ -1199,6 +1515,66 @@
       "category": "alerte"
     },
     {
+      "id": "960cea34b3888722709e",
+      "title": "Piratage de NAVI : près de 60 000 commandes de la célèbre équipe d’esport exposées",
+      "url": "https://frenchbreaches.com/blog/piratage-de-navi-pres-de-60-000-commandes-de-la-celebre-equipe-desport-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-18",
+      "published": "2026-10-18T16:03:00+00:00",
+      "desc": "Un pirate revendique une fuite chez NAVI. FrenchBreaches a analysé 59 848 commandes datées de 2020 à 2026, contenant des e-mails, téléphones et informations de paiement.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8f4964661fbc673a0033",
+      "title": "Blissim",
+      "url": "https://frenchbreaches.com/alertes/blissim-mve0347d9gvblekdsnc",
+      "source": "French Breaches",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:45:00+00:00",
+      "desc": "Fuite de données chez Blissim : près de 2 millions d'enregistrements de paiement publiés par un pirate Une nouvelle fuite de données est revendiquée en France. Ce dimanche 18 octobre 2026, un pirate informatique utilisant le pseudonyme ChimeraZ affirme avoir publié des données de…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "20888f415f6cd234783d",
+      "title": "Il achète un PC sur Vinted et découvre les données de milliers de clients d'un supermarché",
+      "url": "https://frenchbreaches.com/blog/il-achete-un-pc-sur-vinted-et-decouvre-les-donnees-de-milliers-de-clients-dun-supermarche",
+      "source": "French Breaches-blog",
+      "date": "2026-10-18",
+      "published": "2026-10-18T15:19:00+00:00",
+      "desc": "Un PC acheté sur Vinted contenait deux ans de sauvegardes d'un supermarché DIA : coordonnées de clients, mots de passe et données bancaires.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fd31cf6fd35441004ab4",
+      "title": "Cyberattaque chez ConnectWise : des entreprises privées de leurs sauvegardes",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-chez-connectwise-des-entreprises-privees-de-leurs-sauvegardes",
+      "source": "French Breaches-blog",
+      "date": "2026-10-18",
+      "published": "2026-10-18T14:48:00+00:00",
+      "desc": "Après une cyberattaque, ConnectWise bloque l'accès aux sauvegardes de ses clients. Les données sont préservées, mais inaccessibles.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c9d699a731d59d14fd39",
+      "title": "Axialys",
+      "url": "https://frenchbreaches.com/alertes/axialys-mvdrkf84jselnsp3zb",
+      "source": "French Breaches",
+      "date": "2026-10-18",
+      "published": "2026-10-18T11:54:00+00:00",
+      "desc": "Fuite de données chez Axialys : 63 036 lignes publiées par un pirate ## Mise à jour du 19 octobre 2026 à 17h00 — Axialys confirme la fuite de données** Dans un communiqué publié ce lundi 19 octobre, Axialys confirme une extraction et une publication non autorisées de données prov…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "d26ed306ef511ee27afa",
       "title": "« La partie émergée d’un iceberg » : après les frigos, quels appareils risquent aussi de se faire pirater ?",
       "url": "https://www.01net.com/actualites/apres-les-frigos-quels-appareils-risquent-aussi-de-se-faire-pirater.html",
@@ -1219,6 +1595,222 @@
       "published": "2026-10-18T08:23:02+00:00",
       "desc": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise",
       "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "147d2618196593267719",
+      "title": "OpenCode piraté : des clés d'accès à ChatGPT, Claude et Gemini potentiellement exposées",
+      "url": "https://frenchbreaches.com/blog/opencode-pirate-des-cles-dacces-a-chatgpt-claude-et-gemini-potentiellement-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T22:05:00+00:00",
+      "desc": "OpenCode confirme un piratage touchant 1,4 % de ses utilisateurs Console. Des clés d'accès aux IA d'OpenAI et Anthropic pourraient avoir fuité.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fd7eb62cf15f6f07f004",
+      "title": "Be-in-home",
+      "url": "https://frenchbreaches.com/alertes/be-in-home-mvcwenpw5kdiwkqheqg",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T21:15:00+00:00",
+      "desc": "Fuite de données chez Be-in-home : plus de 2 millions d'enregistrements mis en ligne par un pirate Une base de données associée à Be-in-home.fr, une plateforme française de gestion et de suivi de l'entretien des logements, a été publiée sur un forum cybercriminel. Ce samedi 17 oc…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7c1393415d934e0b674c",
+      "title": "Eurofiber France",
+      "url": "https://frenchbreaches.com/alertes/eurofiber-france-mvcw8ir35y412th7y14",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T21:11:00+00:00",
+      "desc": "Cyberattaque chez Eurofiber France : des données personnelles et bancaires potentiellement exposées Eurofiber France a informé ses partenaires d'un incident de sécurité identifié le 14 octobre 2026 sur une infrastructure hébergeant sa plateforme Waza. Selon un courrier de notific…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2e5b47bc90b337bc92b6",
+      "title": "Fédération Française de Tir (FFTIR)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-tir-fftir-mvaxif0cry9qfg3y9t",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T20:25:00+00:00",
+      "desc": "FFTir : les données de près de 587 000 licenciés mises en vente sur un forum cybercriminel Mise à jour du 18 octobre à 15 h 00 Selon nos informations exclusives, parmi les près de 587 000 licenciés de la Fédération française de tir (FFTir) dont les données auraient été volées, fi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "4e6dd8c663eca4f7362b",
+      "title": "Vackelys (Pompiers)",
+      "url": "https://frenchbreaches.com/alertes/vackelys-pompiers-muzhnz58lx19do6zyxd",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:48:00+00:00",
+      "desc": "Fuite de données chez Vackelys : plus de 3 500 personnes concernées, des passeports potentiellement exposés Une nouvelle fuite de données personnelles est revendiquée en France, avec un risque particulièrement sensible concernant des documents d'identité. Ce samedi 17 octobre 202…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "08984ff9b889948edcc0",
+      "title": "Malakoff Humanis",
+      "url": "https://frenchbreaches.com/alertes/malakoff-humanis-mvcsz2tmuezpml0e5j",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:38:00+00:00",
+      "desc": "Fuite de données chez Malakoff Humanis : plus de 16 500 documents, dont des données de santé, divulgués par un pirate Mise à jour le 18 octobre à 10h00 Malakoff Humanis enquête sur une revendication de vol de données liée à une cyberattaque ayant touché, le 11 août 2026, l'un de…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b7954b46102583f5f00b",
+      "title": "Zabun",
+      "url": "https://frenchbreaches.com/alertes/zabun-mvcsriubldgv96x1ky",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:34:00+00:00",
+      "desc": "Belgique : fuite de données chez Zabun, près de 900 000 personnes potentiellement concernées Une importante fuite de données est revendiquée en Belgique. Ce samedi 17 octobre 2026, un pirate informatique utilisant le pseudonyme ChimeraZ affirme avoir mis en vente une base de donn…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "d679e15613aa9acf01f2",
+      "title": "Grande Loge Féminine de France",
+      "url": "https://frenchbreaches.com/alertes/grande-loge-f-minine-de-france-mvcsgxuprbgh4t08t49",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:24:00+00:00",
+      "desc": "Fuite de données dans la franc-maçonnerie : près de 1 000 personnes liées à la Grande Loge Féminine de France exposées La franc-maçonnerie française est visée par une nouvelle revendication de fuite de données personnelles. Ce samedi 17 octobre 2026, un pirate informatique utilis…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8c2dce8a3f2a4b52c1f7",
+      "title": "Centrale Canine (LOF)",
+      "url": "https://frenchbreaches.com/alertes/centrale-canine-lof-mvb6h0v2kn5qvp6xle",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:21:00+00:00",
+      "desc": "Centrale Canine : un pirate revendique une fuite de données concernant 1,4 million de personnes La Centrale Canine, organisme français chargé notamment de la gestion du Livre des origines français (LOF), fait l'objet d'une importante revendication de fuite de données personnelles…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "8c68d914d593d3ca4fbb",
+      "title": "PRREL Ambition (Région Hauts-de-France)",
+      "url": "https://frenchbreaches.com/alertes/prrel-ambition-r-gion-hauts-de-france-mvcs49lsbqwc70966pa",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:16:00+00:00",
+      "desc": "Hauts-de-France : nouvelle fuite de données, plus de 1 000 élèves et parents potentiellement exposés Mise à jour le 19 octobre à 12h Alertée par FrenchBreaches, la Région Hauts-de-France a informé les 2 000 bénéficiaires du Programme régional de réussite en études longues (PRREL)…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "42e28d4636149c905b16",
+      "title": "Armurerie-Gilles",
+      "url": "https://frenchbreaches.com/alertes/armurerie-gilles-mvcrsfogau96hs5ci5",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:07:00+00:00",
+      "desc": "Armurerie Gilles : les données de plus de 35 000 clients mises en vente par un pirate Une nouvelle enseigne française spécialisée dans la chasse et le tir sportif est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un cybercriminel affirme avoir mis en vent…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "df36fc36b17b1b21f415",
+      "title": "Armurerie Laudier",
+      "url": "https://frenchbreaches.com/alertes/armurerie-laudier-mvcre48wsndrz97ecl9",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T19:02:00+00:00",
+      "desc": "Une armurerie française visée par une fuite de données : près de 3 800 clients concernées Une nouvelle enseigne française spécialisée dans la vente d'armes et d'équipements de chasse est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un pirate informatique…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c00e4587c7f8b89f7e59",
+      "title": "Fédération française de tir : près de 600 000 licenciés visés par une nouvelle fuite de données",
+      "url": "https://frenchbreaches.com/blog/federation-francaise-de-tir-pres-de-600-000-licencies-vises-par-une-nouvelle-fuite-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T18:52:00+00:00",
+      "desc": "La FFTir fait face à une nouvelle revendication de piratage : 586 854 fiches de licenciés, 64 000 photos d'identité et 19 000 documents seraient exposés.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d2e60a0c361fc0f66357",
+      "title": "Une grande mutuelle française ciblée par un pirate, 5 millions de dossiers menacés",
+      "url": "https://frenchbreaches.com/blog/une-grande-mutuelle-francaise-ciblee-par-un-pirate-5-millions-de-dossiers-menaces",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T18:33:00+00:00",
+      "desc": "Un pirate affirme vendre l'accès à une grande mutuelle française. Cinq millions de dossiers, dont des numéros de Sécurité sociale, seraient menacés.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b71c3ee0f6e56efdbe66",
+      "title": "IntelFind piraté : le code source d'un site de lookup de données privées divulgué",
+      "url": "https://frenchbreaches.com/blog/intelfind-pirate-le-code-source-dun-site-de-lookup-de-donnees-privees-divulgue",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T14:46:00+00:00",
+      "desc": "Un pirate divulgue le code source d'IntelFind, un moteur de recherche de données compromises, ainsi que des bases internes et fichiers sensibles.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2de097c5affc1e692052",
+      "title": "Alain Afflelou",
+      "url": "https://frenchbreaches.com/alertes/alain-afflelou-mvcha29ft5obzvo7uw9",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T14:14:00+00:00",
+      "desc": "Fuite de données chez Alain Afflelou : près de 50 000 enregistrements de facturation divulgués par un pirate Le réseau français d'optique Alain Afflelou est concerné par une nouvelle revendication de fuite de données. Un pirate informatique connu sous le pseudonyme Syrv4x affirme…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "5c84c26fef55624cd4e1",
+      "title": "Edetel Group",
+      "url": "https://frenchbreaches.com/alertes/edetel-group-mvcgq0u2xw7tx03p71i",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T13:55:00+00:00",
+      "desc": "Fuite de données chez Adetel Group : plus de 11 000 enregistrements publiés gratuitement par un pirate Le groupe français Adetel Group, spécialisé dans la conception et la fabrication de systèmes électroniques embarqués, est visé par une revendication de fuite de données. Un pira…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b5e63c0fbd51d4c32e59",
+      "title": "CAF en panne : le site inaccessible depuis plusieurs heures, un DDoS suspecté",
+      "url": "https://frenchbreaches.com/blog/caf-en-panne-le-site-inaccessible-depuis-plusieurs-heures-un-ddos-suspecte",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T13:02:00+00:00",
+      "desc": "Le site et l'application de la CAF sont inaccessibles depuis plusieurs heures ce samedi 17 octobre. Une attaque DDoS est suspectée. En parallèle, le groupe CyberTroll revendique une attaque contre l'ANSSI.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1247,6 +1839,18 @@
       "category": "actualite"
     },
     {
+      "id": "427f925050d583c4991c",
+      "title": "Paroisse Saint-Urbain–Sainte-Marie",
+      "url": "https://frenchbreaches.com/alertes/paroisse-saint-urbain-sainte-marie-mvc6rymwndmz2b0dmbr",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T09:13:00+00:00",
+      "desc": "Cyberattaque : une paroisse des Hauts-de-Seine confirme une fuite de données personnelles La paroisse Saint-Urbain–Sainte-Marie, située dans les Hauts-de-Seine, informe ses paroissiens avoir été victime d'un incident de sécurité ayant entraîné une fuite de données personnelles. S…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "614eb364146c341c3379",
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -1259,6 +1863,66 @@
       "category": "actualite"
     },
     {
+      "id": "d206cc84d0a702ce5209",
+      "title": "Grande Loge Traditionnelle de France (GLTF)",
+      "url": "https://frenchbreaches.com/alertes/grande-loge-traditionnelle-de-france-gltf-mvboimp4km30ucqk1nr",
+      "source": "French Breaches",
+      "date": "2026-10-17",
+      "published": "2026-10-17T00:47:00+00:00",
+      "desc": "Après le Grand Orient de France, la Grande Loge Traditionnelle de France visée par une fuite de 3 400 documents Après le Grand Orient de France (GODF), c'est au tour de la Grande Loge Traditionnelle de France (GLTF) d'être visée par une revendication de piratage informatique. Le…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f8ed1634c20e0de89ce7",
+      "title": "Italie : les données de 1,2 million de licenciés de tir mises en vente par un pirate",
+      "url": "https://frenchbreaches.com/blog/italie-les-donnees-de-12-million-de-licencies-de-tir-mises-en-vente-par-un-pirate",
+      "source": "French Breaches-blog",
+      "date": "2026-10-17",
+      "published": "2026-10-17T00:01:00+00:00",
+      "desc": "Un pirate affirme vendre 1,2 million de fiches liées au tir sportif italien, ainsi que des informations sur des armes et leurs détenteurs.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "89fbe70be56e8f53114f",
+      "title": "Nomad Education",
+      "url": "https://frenchbreaches.com/alertes/nomad-education-mvbmcnqo6n4tadn92k6",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T23:45:00+00:00",
+      "desc": "Fuite de données chez Nomad Education : des millions d'élèves et étudiants potentiellement concernés Des millions d'élèves et d'étudiants pourraient être concernés par une importante fuite de données visant Nomad Education, une application française de soutien scolaire. Un pirate…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "fc9f028b0789a04ce799",
+      "title": "O'Tacos",
+      "url": "https://frenchbreaches.com/alertes/o-tacos-mvbm4idbuf2ef1t8tog",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T23:39:00+00:00",
+      "desc": "Fuite de données chez O'Tacos : les adresses de plus de 334 000 clients mises en vente par un pirate La chaîne française de restauration rapide O'Tacos est visée par une nouvelle revendication de fuite de données. Un pirate informatique connu sous le pseudonyme Angel_Batista affi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2dd40634a697de77a63d",
+      "title": "Inter-Etab",
+      "url": "https://frenchbreaches.com/alertes/inter-etab-mvbltm1qureji88mucs",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T23:36:00+00:00",
+      "desc": "Fuite de données chez INTER-ETAB : près de 287 000 élèves français visés par une vente de données Le logiciel français INTER-ETAB, utilisé dans des établissements scolaires pour la gestion des stages, des évaluations et du suivi pédagogique, est au cœur d'une nouvelle revendicati…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "ebaf37949a88c936e530",
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
@@ -1269,6 +1933,30 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "af6d397623f654741e58",
+      "title": "Courtepaille Bayeux",
+      "url": "https://frenchbreaches.com/alertes/courtepaille-bayeux-mvb88as4rtz2lyik2s",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T17:12:00+00:00",
+      "desc": "Courtepaille Bayeux : près de 8 700 fiches clients mises en vente sur un forum cybercriminel Le restaurant Courtepaille de Bayeux, dans le Calvados, est visé par une revendication de fuite de données personnelles. Le 16 octobre 2026, un pirate utilisant le pseudonyme rea a publié…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f1629a1ff00b751b3990",
+      "title": "Vélogrimpe",
+      "url": "https://frenchbreaches.com/alertes/v-logrimpe-mvb7cujdb3r2s61tuo9",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T16:48:00+00:00",
+      "desc": "Vélogrimpe : des adresses e-mail de contributeurs exposées à la suite d'une erreur technique Le site Vélogrimpe, qui permet aux utilisateurs de partager des informations sur des falaises et des itinéraires accessibles à vélo, a signalé une fuite de données personnelles concernant…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "ffdcabb15288bf144b88",
@@ -1307,15 +1995,15 @@
       "category": "actualite"
     },
     {
-      "id": "576634fb177ce16eed6f",
-      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+      "id": "90ef0f2bf47ec9ed6075",
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-16",
       "published": "2026-10-16T12:00:00+00:00",
-      "desc": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation . The product outlines ten voluntary core practices to help organizations that train and evaluate highly capable super intelligence (SI) agents—particularly pre-deployment, cutting edge SI agents with reduced safeguards or other high-risk, non-public systems—prepare for and manage SI control incidents. A SI control incident occurs when one or more SI agents takes uninstructed actions that conflict with or compromise policies, controls, or security measures that scope the task and provide human oversight. This product aligns with cyber incident response best practices, includes additional SI considerations and highlights the importance of testing controls and validating containment before resuming SI agent activities. It addresses: measures for limiting agent access to information, systems, tools, and networks; monitoring for unexpected activity; preserving evidence and shutting down undesired behavior; rebuilding from verified baselines; and reporting incidents and near-misses to relevant government agencies and affected parties. For more information and resources visit CISA’s Super Intelligence page.",
-      "type": "alerte",
-      "sev": "Faible",
+      "desc": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulnerabilities (KEV) catalog on Oct. 16, 2026. CISA urges organizations with affected self-hosted Remote Support appliances to immediately take the following actions: Apply the BT26-05-RS patch, as outlined in BeyondTrust’s Security Advisory BT26-05 . Organizations on a self-hosted Remote Support version older than 24.3.1 will need to upgrade to a newer version to apply the patch. Organizations using BeyondTrust-hosted (SaaS) Remote Support deployments have already been patched. Review BeyondTrust’s blog ARMORY CASTLE and BT26-05: What Security Teams Need to Know for detailed information on the vulnerability and recommended response and mitigation actions. Limit external access to the Remote Support appliance to the services needed to support users and customers. Restrict access to administrative interfaces to trusted networks. Review BeyondTrust’s B Series Appliance on-premises security for additional guidance on securing network connectivity for self-hosted Remote Support appliances. Organizations with affected self-hosted Remote Support appliances should conduct network and memory forensics to identify evidence of potential compromise. If your organization suspects a compromise, CISA recommends taking the following actions: Isolate any suspected or confirmed compromised appliance",
+      "type": "cve",
+      "sev": "Critique",
       "category": "alerte"
     },
     {
@@ -1327,6 +2015,18 @@
       "published": "2026-10-16T12:00:00+00:00",
       "desc": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login credentials and other sensitive information or install malware on targeted devices. Election officials, candidates, and political organizations may be attractive targets because of their access to voter registration data, current government officials, and sensitive campaign information. Cyber actors are increasingly using sophisticated phishing and smishing campaigns that closely resemble legitimate communications. These efforts may include convincing emails, text messages, audio, and video content designed to manipulate recipients into disclosing sensitive information or interacting with malicious links and attachments. CISA and the FBI urge election officials, campaign personnel, and the public to review the PSA, follow recommended cybersecurity practices, and remain vigilant for suspicious emails and mobile messages.",
       "type": "phishing",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "576634fb177ce16eed6f",
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-16",
+      "published": "2026-10-16T12:00:00+00:00",
+      "desc": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation . The product outlines ten voluntary core practices to help organizations that train and evaluate highly capable super intelligence (SI) agents—particularly pre-deployment, cutting edge SI agents with reduced safeguards or other high-risk, non-public systems—prepare for and manage SI control incidents. A SI control incident occurs when one or more SI agents takes uninstructed actions that conflict with or compromise policies, controls, or security measures that scope the task and provide human oversight. This product aligns with cyber incident response best practices, includes additional SI considerations and highlights the importance of testing controls and validating containment before resuming SI agent activities. It addresses: measures for limiting agent access to information, systems, tools, and networks; monitoring for unexpected activity; preserving evidence and shutting down undesired behavior; rebuilding from verified baselines; and reporting incidents and near-misses to relevant government agencies and affected parties. For more information and resources visit CISA’s Super Intelligence page.",
+      "type": "alerte",
       "sev": "Faible",
       "category": "alerte"
     },
@@ -1343,18 +2043,6 @@
       "category": "alerte"
     },
     {
-      "id": "90ef0f2bf47ec9ed6075",
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulnerabilities (KEV) catalog on Oct. 16, 2026. CISA urges organizations with affected self-hosted Remote Support appliances to immediately take the following actions: Apply the BT26-05-RS patch, as outlined in BeyondTrust’s Security Advisory BT26-05 . Organizations on a self-hosted Remote Support version older than 24.3.1 will need to upgrade to a newer version to apply the patch. Organizations using BeyondTrust-hosted (SaaS) Remote Support deployments have already been patched. Review BeyondTrust’s blog ARMORY CASTLE and BT26-05: What Security Teams Need to Know for detailed information on the vulnerability and recommended response and mitigation actions. Limit external access to the Remote Support appliance to the services needed to support users and customers. Restrict access to administrative interfaces to trusted networks. Review BeyondTrust’s B Series Appliance on-premises security for additional guidance on securing network connectivity for self-hosted Remote Support appliances. Organizations with affected self-hosted Remote Support appliances should conduct network and memory forensics to identify evidence of potential compromise. If your organization suspects a compromise, CISA recommends taking the following actions: Isolate any suspected or confirmed compromised appliance",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "3f11a9ccfb4f1a93f7c7",
       "title": "AI Decision Models and Their Impact on AI SOC Platforms",
       "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
@@ -1367,16 +2055,28 @@
       "category": "actualite"
     },
     {
-      "id": "e802288bd176c546eb5a",
-      "title": "Fraude par IA et deepfakes : le diagnostic croisé d’Orange Business et d’ANOZR WAY",
-      "url": "https://www.cyber-securite.fr/fraude-par-ia-et-deepfakes-le-diagnostic-croise-dorange-business-et-danozr-way/",
-      "source": "CYBER-SECURITE.FR",
+      "id": "7f19a14cb874d2a1c786",
+      "title": "Les Républicains piratés : les hackers menacent de divulguer les données des adhérents",
+      "url": "https://frenchbreaches.com/blog/les-republicains-pirates-les-hackers-menacent-de-divulguer-les-donnees-des-adherents",
+      "source": "French Breaches-blog",
       "date": "2026-10-16",
-      "published": "2026-10-16T10:16:52+00:00",
-      "desc": "Les deepfakes alimentés par l’IA sont devenus difficiles à détecter, rendant la réduction de l’empreinte ... Lire plus L’article Fraude par IA et deepfakes : le diagnostic croisé d’Orange Business et d’ANOZR WAY est apparu en premier sur jeuxderole.com .",
-      "type": "phishing",
+      "published": "2026-10-16T11:27:00+00:00",
+      "desc": "Le site des Républicains a été piraté le 16 octobre 2026. Les hackers affirment avoir volé des données d'adhérents et menacent de les divulguer.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "dd54050dd649334d0812",
+      "title": "Grimaldi Forum",
+      "url": "https://frenchbreaches.com/alertes/grimaldi-forum-mvavilj5vmn4fj3vw5h",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T11:16:00+00:00",
+      "desc": "Grimaldi Forum Monaco victime d'un piratage : un accès non autorisé à son infrastructure informatique Le Grimaldi Forum Monaco annonce avoir été victime d'un incident de cybersécurité ayant entraîné un accès non autorisé à son infrastructure informatique. L'organisation appelle s…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "edc74d3bd7fff0eb15ef",
@@ -1435,6 +2135,30 @@
       "published": "2026-10-16T04:59:36+00:00",
       "desc": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
       "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9b5b15a2d1b063264fb5",
+      "title": "Ouest-France",
+      "url": "https://frenchbreaches.com/alertes/ouest-france-mvabub8ypl4qw9tiss",
+      "source": "French Breaches",
+      "date": "2026-10-16",
+      "published": "2026-10-16T02:05:00+00:00",
+      "desc": "Ouest-France victime d'un piratage : des copies de pièces d'identité potentiellement exposées Le quotidien Ouest-France informe certains de ses abonnés d'un incident de sécurité ayant touché ses formulaires de souscription. Noms, coordonnées personnelles et copies de pièces d'ide…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7da934a5f2370e8059b5",
+      "title": "Espionnage mondial : une entreprise israélienne accusée d'avoir utilisé des publicités pour pirater des ordinateurs",
+      "url": "https://frenchbreaches.com/blog/espionnage-mondial-une-entreprise-israelienne-accusee-davoir-utilise-des-publicites-pour-pirater-des-ordinateurs",
+      "source": "French Breaches-blog",
+      "date": "2026-10-16",
+      "published": "2026-10-16T00:36:00+00:00",
+      "desc": "Une enquête révèle comment une entreprise israélienne aurait utilisé des publicités ciblées pour espionner des internautes et infecter leurs appareils sans clic.",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1559,6 +2283,42 @@
       "category": "alerte"
     },
     {
+      "id": "187223b03058e67c7dca",
+      "title": "Cyberattaques en France : des hackers prorusses s'en prennent aux ports, à la défense et à des sites de l'État",
+      "url": "https://frenchbreaches.com/blog/cyberattaques-en-france-des-hackers-prorusses-sen-prennent-aux-ports-a-la-defense-et-a-des-sites-de-letat",
+      "source": "French Breaches-blog",
+      "date": "2026-10-15",
+      "published": "2026-10-15T23:29:00+00:00",
+      "desc": "Cyberattaques en France : des hackers prorusses revendiquent des attaques DDoS contre les ports, l'industrie de défense et le SGDSN. L'Italie également visée.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d9d02c4cd4134abd2709",
+      "title": "Mairie de Saillans",
+      "url": "https://frenchbreaches.com/alertes/mairie-de-saillans-mva4u7duoeidk4s95hb",
+      "source": "French Breaches",
+      "date": "2026-10-15",
+      "published": "2026-10-15T22:50:00+00:00",
+      "desc": "Cyberattaque dans la Drôme : la messagerie de la mairie de Saillans piratée, des habitants visés par une arnaque La mairie de Saillans, dans la Drôme, a été victime d'un piratage de sa messagerie électronique. Des courriels frauduleux envoyés depuis l'adresse de la commune réclam…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "fcf568de54562193daf6",
+      "title": "Clinique vétérinaire Voltaire",
+      "url": "https://frenchbreaches.com/alertes/clinique-v-t-rinaire-voltaire-mva4rshyi51tv1f51z",
+      "source": "French Breaches",
+      "date": "2026-10-15",
+      "published": "2026-10-15T22:48:00+00:00",
+      "desc": "Cyberattaque contre la Clinique vétérinaire Voltaire : la prise de rendez-vous en ligne suspendue La Clinique vétérinaire Voltaire, située dans le Nord de la France, annonce avoir été victime d'une cyberattaque. L'incident entraîne une interruption temporaire de son service de pr…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "e2089d243155ed7a05c2",
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
       "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
@@ -1571,18 +2331,6 @@
       "category": "actualite"
     },
     {
-      "id": "06720af8fb4892a0dc1d",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T18:49:33+00:00",
-      "desc": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "8fd9c82a436e1b85ead6",
       "title": "Microsoft corrige un nombre record de 1 411 failles de sécurité",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
@@ -1591,6 +2339,30 @@
       "published": "2026-10-15T17:41:35+00:00",
       "desc": "C’est la troisième fois cette année que l’éditeur bat son propre record. Microsoft a publié un volume record (...)",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2b6500e8ae9c2045d1bc",
+      "title": "Couleur CE",
+      "url": "https://frenchbreaches.com/alertes/couleur-ce-mv9tv3s8eqb7umy8io6",
+      "source": "French Breaches",
+      "date": "2026-10-15",
+      "published": "2026-10-15T17:40:00+00:00",
+      "desc": "Fuite de données chez Couleur CE : des noms et des codes de billets de cinéma exposés La plateforme Couleur CE, spécialisée notamment dans la billetterie destinée aux comités sociaux et économiques (CSE), est concernée par un incident de sécurité ayant entraîné une fuite de donné…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a9f0cdbbc5158fe9ca68",
+      "title": "Cyberattaque en Suisse : les données personnelles de milliers d'assurés potentiellement exposées",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-en-suisse-les-donnees-personnelles-de-milliers-dassures-potentiellement-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-15",
+      "published": "2026-10-15T16:46:00+00:00",
+      "desc": "Cyberattaque en Suisse : Publica confirme une fuite de données. Jusqu'à 112 000 assurés pourraient être concernés, avec des salaires, numéros AVS et IBAN exposés.",
+      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1607,28 +2379,52 @@
       "category": "actualite"
     },
     {
-      "id": "925554bf2f9c48bc27c2",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "source": "The Hacker News",
+      "id": "c5eeabb02f31883facdc",
+      "title": "Grand Orient de France (GODF)",
+      "url": "https://frenchbreaches.com/alertes/grand-orient-de-france-godf-mv9oi8r1g2i8nqlg8uh",
+      "source": "French Breaches",
       "date": "2026-10-15",
-      "published": "2026-10-15T16:01:57+00:00",
-      "desc": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
-      "type": "actualite",
+      "published": "2026-10-15T15:15:00+00:00",
+      "desc": "Franc-maçonnerie : des centaines de documents internes et financiers du Grand Orient de France exposés dans une fuite de données Mise à jour à 19h00, le 15 octobre Le Grand Orient de France a déposé plainte après la fuite de centaines de documents internes et financiers. Selon Le…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "660305841c705261817a",
+      "title": "Franc-maçonnerie : des centaines de documents internes et financiers du Grand Orient de France exposés dans une fuite de données",
+      "url": "https://frenchbreaches.com/blog/franc-maconnerie-des-centaines-de-documents-internes-et-financiers-du-grand-orient-de-france-exposes-dans-une-fuite-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-15",
+      "published": "2026-10-15T12:22:00+00:00",
+      "desc": "Franc-maçonnerie : des centaines de documents du Grand Orient de France auraient fuité, révélant des comptes rendus de réunions, des dossiers financiers et des informations internes.",
+      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
     {
-      "id": "c4b7926adcfb8ca70881",
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "source": "The Hacker News",
+      "id": "f0618fbb3f3a2bffb49e",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-15",
-      "published": "2026-10-15T16:00:26+00:00",
-      "desc": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
-      "type": "actualite",
+      "published": "2026-10-15T12:00:00+00:00",
+      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
+      "type": "cve",
       "sev": "Faible",
-      "category": "actualite"
+      "category": "alerte"
+    },
+    {
+      "id": "307fc48bec6b0bf9a16b",
+      "title": "CISA Malcolm",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-15",
+      "published": "2026-10-15T12:00:00+00:00",
+      "desc": "View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm <=v26.07.1 (CVE-2026-107336, CVE-2026-107361, CVE-2026-107337, CVE-2026-107335, CVE-2026-107334) Malcolm <=v26.08.0 (CVE-2026-107333, CVE-2026-107362) CVSS Vendor Equipment v3 8.1 CISA Malcolm 6 Vulnerabilities Authentication Bypass by Spoofing, Incorrect Authorization, Server-Side Request Forgery (SSRF), Authentication Bypass Using an Alternate Path or Channel, Cross-Site Request Forgery (CSRF), Improper Handling of Highly Compressed Data (Data Amplification) Background Critical Infrastructure Sectors: Energy, Information Technology, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-107336 Malcolm's front nginx reverse proxy defines a \"Dashboards → Arkime shortcut\" location using a case-insensitive regex matcher but a case-sensitive rewrite. A request whose path segment is not exact-lowercase (for example /IDDASH2ARK/...) enters the location (the matcher fires) but evades the rewrite (no redirect is issued), so nginx falls through to the location's proxy_pass to the Arkime backend. That location is the one proxied location in the shipped config that does not include the per-location authentication file, so the request reaches Arkime unauthenticated. The same location also forwards a client-supplied X-Forwarded-User header un-overwritten, and Arkime is configured to trust X-Forwarded-User as the authenticated username — so an unauthenticated network caller can reach the Arkime backend while supplying a forged, auto-provisioned identity. Read More 1 Affected Product CISA Malcolm <=v26.07.1 Product Status: known_affected Remediations Vendor fix This vulnerability was patched in Malcolm Version v26.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
     },
     {
       "id": "fbd4f0423b7b4a6ad8bd",
@@ -1679,28 +2475,52 @@
       "category": "alerte"
     },
     {
-      "id": "f0618fbb3f3a2bffb49e",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA — Cybersecurity Advisories",
+      "id": "a92be7e19e543bd3b9be",
+      "title": "Eilik : ce robot pour enfants analyse leurs conversations chaque nuit",
+      "url": "https://frenchbreaches.com/blog/eilik-ce-robot-pour-enfants-analyse-leurs-conversations-chaque-nuit",
+      "source": "French Breaches-blog",
       "date": "2026-10-15",
-      "published": "2026-10-15T12:00:00+00:00",
-      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
+      "published": "2026-10-15T11:20:00+00:00",
+      "desc": "Des millions de conversations stockées, des profils d’enfants constitués et de graves failles de sécurité : un chercheur français alerte sur le robot Eilik.",
+      "type": "alerte",
       "sev": "Faible",
-      "category": "alerte"
+      "category": "actualite"
     },
     {
-      "id": "307fc48bec6b0bf9a16b",
-      "title": "CISA Malcolm",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
-      "source": "CISA — Cybersecurity Advisories",
+      "id": "011bccf226e11740de61",
+      "title": "ASCOR",
+      "url": "https://frenchbreaches.com/alertes/ascor-mv8mz9u8fiazbkptdgm",
+      "source": "French Breaches",
       "date": "2026-10-15",
-      "published": "2026-10-15T12:00:00+00:00",
-      "desc": "View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm <=v26.07.1 (CVE-2026-107336, CVE-2026-107361, CVE-2026-107337, CVE-2026-107335, CVE-2026-107334) Malcolm <=v26.08.0 (CVE-2026-107333, CVE-2026-107362) CVSS Vendor Equipment v3 8.1 CISA Malcolm 6 Vulnerabilities Authentication Bypass by Spoofing, Incorrect Authorization, Server-Side Request Forgery (SSRF), Authentication Bypass Using an Alternate Path or Channel, Cross-Site Request Forgery (CSRF), Improper Handling of Highly Compressed Data (Data Amplification) Background Critical Infrastructure Sectors: Energy, Information Technology, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-107336 Malcolm's front nginx reverse proxy defines a \"Dashboards → Arkime shortcut\" location using a case-insensitive regex matcher but a case-sensitive rewrite. A request whose path segment is not exact-lowercase (for example /IDDASH2ARK/...) enters the location (the matcher fires) but evades the rewrite (no redirect is issued), so nginx falls through to the location's proxy_pass to the Arkime backend. That location is the one proxied location in the shipped config that does not include the per-location authentication file, so the request reaches Arkime unauthenticated. The same location also forwards a client-supplied X-Forwarded-User header un-overwritten, and Arkime is configured to trust X-Forwarded-User as the authenticated username — so an unauthenticated network caller can reach the Arkime backend while supplying a forged, auto-provisioned identity. Read More 1 Affected Product CISA Malcolm <=v26.07.1 Product Status: known_affected Remediations Vendor fix This vulnerability was patched in Malcolm Version v26.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
+      "published": "2026-10-15T11:01:00+00:00",
+      "desc": "ASCOR piraté : des données personnelles dérobées lors d'une cyberattaque chez un prestataire ASCOR, organisme français de formation à distance, a été victime d'une fuite de données personnelles liée à une intrusion chez l'un de ses prestataires informatiques. Selon une notificati…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "6718f4c7669ca27d3cb2",
+      "title": "Tailleur Auto",
+      "url": "https://frenchbreaches.com/alertes/tailleur-auto-mv9fdaoyn4mk3ep2ta8",
+      "source": "French Breaches",
+      "date": "2026-10-15",
+      "published": "2026-10-15T11:00:00+00:00",
+      "desc": "TailleurAuto piraté : des données personnelles de clients potentiellement exposées Le site de commerce en ligne TailleurAuto a été victime d'un incident de sécurité ayant touché sa page de commande. Dans un e-mail envoyé à ses clients le 15 octobre 2026, l'entreprise confirme la…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2c0ce5452e691a82d969",
+      "title": "Grande Pharmarcie des Halles",
+      "url": "https://frenchbreaches.com/alertes/grande-pharmarcie-des-halles-mv9f3l34xvwhlhz1g7",
+      "source": "French Breaches",
+      "date": "2026-10-15",
+      "published": "2026-10-15T10:46:00+00:00",
+      "desc": "Grande Pharmacie des Halles : des centaines d'ordonnances de patients diffusées sur un forum cybercriminel La Grande Pharmacie des Halles, officine lilloise ouverte 24 heures sur 24 et 7 jours sur 7, fait l'objet d'une revendication de fuite de données publiée le 15 octobre 2026…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "05ce22146a02d08fdba6",
@@ -1835,6 +2655,30 @@
       "category": "alerte"
     },
     {
+      "id": "f6f7b3763b8e2515760c",
+      "title": "BodySwap",
+      "url": "https://frenchbreaches.com/alertes/bodyswap-mv8n254b9jvyg9eol5",
+      "source": "French Breaches",
+      "date": "2026-10-14",
+      "published": "2026-10-14T21:43:00+00:00",
+      "desc": "Fuite de données BodySwap : 10 300 comptes d'utilisateurs d'un site d'IA pour adultes potentiellement exposés BodySwap, un service de génération d'images et de vidéos par intelligence artificielle permettant notamment de modifier des photographies et de créer des contenus pour ad…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "bfa4644ec914ed2d3651",
+      "title": "Messages, photos, vidéos : ce que révèle une enquête sur Palantir et vos données privées",
+      "url": "https://frenchbreaches.com/blog/messages-photos-videos-ce-que-revele-une-enquete-sur-palantir-et-vos-donnees-privees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-14",
+      "published": "2026-10-14T18:50:00+00:00",
+      "desc": "Les messages privés signalés par des plateformes européennes sont analysés aux États-Unis avec un logiciel de Palantir, selon une enquête.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "ea8a0056a65ccfa3a7c4",
       "title": "Cyberattaque nationale : pourquoi les pirates s’attaquent maintenant aux supermarchés ?",
       "url": "https://www.01net.com/actualites/piratage-frigos-pourquoi-hackers-attaquent-supermarches.html",
@@ -1845,6 +2689,18 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "43917f31afceebee5e1f",
+      "title": "Climb Up",
+      "url": "https://frenchbreaches.com/alertes/climb-up-mv88m4y8xbpdjxtdm6n",
+      "source": "French Breaches",
+      "date": "2026-10-14",
+      "published": "2026-10-14T14:57:00+00:00",
+      "desc": "Fuite de données Climb Up : un pirate revendique la mise en vente de 151 000 fiches clients Mise à jour le 15 octobre à 21h00 Climb Up confirme une fuite de données personnelles concernant ses clients entre 2016 et mars 2026 : noms, dates de naissance, coordonnées, salles de ratt…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "616ea1fba64001b4db81",
@@ -1859,6 +2715,18 @@
       "category": "alerte"
     },
     {
+      "id": "ac4fdd12cbd5a4ab8091",
+      "title": "Assu Pro",
+      "url": "https://frenchbreaches.com/alertes/assu-pro-mv81tmdezly6txepzcj",
+      "source": "French Breaches",
+      "date": "2026-10-14",
+      "published": "2026-10-14T11:41:00+00:00",
+      "desc": "Assu-Risk (Assupro) : les données de 56 000 personnes potentiellement concernées par une fuite Une base de données associée à Assu-Risk (Assupro), acteur du secteur de l'assurance, a été identifiée. Elle contient de nombreuses informations personnelles, professionnelles et financ…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "a897a9094eb47141de01",
       "title": "Windows vient de battre un nouveau record monstrueux",
       "url": "https://www.01net.com/actualites/plus-de-1-400-failles-windows-le-nouveau-record-monstrueux-du-patch-tuesday-de-microsoft.html",
@@ -1869,6 +2737,66 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "906afc01cd70bc98fd29",
+      "title": "Cyberattaque : un pirate revendique le vol de 122 Go de données de la fédération de football des Émirats",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-un-pirate-revendique-le-vol-de-122-go-de-donnees-de-la-federation-de-football-des-emirats",
+      "source": "French Breaches-blog",
+      "date": "2026-10-14",
+      "published": "2026-10-14T06:48:00+00:00",
+      "desc": "La Fédération de football des Émirats arabes unis ciblée par un pirate : 122 Go de données et des milliers de documents potentiellement exposés.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d66a536ad5f63da4ea6b",
+      "title": "OpenAI : un employé arrêté par le FBI après la découverte d’un dispositif d’espionnage",
+      "url": "https://frenchbreaches.com/blog/openai-un-employe-arrete-par-le-fbi-apres-la-decouverte-dun-dispositif-despionnage",
+      "source": "French Breaches-blog",
+      "date": "2026-10-14",
+      "published": "2026-10-14T00:18:00+00:00",
+      "desc": "Un ingénieur d’OpenAI a été arrêté par le FBI après la découverte d’un dispositif d’écoute clandestin dans une salle de réunion. L’enquête se poursuit.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "07232b8a41ce9373d1fd",
+      "title": "Fuite de données chez Meta : 1 500 personnes touchées après un piratage sur GitHub",
+      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-chez-meta-1-500-personnes-touchees-apres-un-piratage-sur-github",
+      "source": "French Breaches-blog",
+      "date": "2026-10-13",
+      "published": "2026-10-13T19:10:00+00:00",
+      "desc": "Meta confirme un piratage de dépôts GitHub après le vol des identifiants d'un salarié. Du code informatique et les données personnelles d'environ 1 500 personnes ont été dérobés.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ff37a3da86231308a614",
+      "title": "WeFix",
+      "url": "https://frenchbreaches.com/alertes/wefix-mv71ytsbqzi558m93c",
+      "source": "French Breaches",
+      "date": "2026-10-13",
+      "published": "2026-10-13T19:04:00+00:00",
+      "desc": "Fuite de données WeFix : 6 009 dossiers de clients et de réparation diffusés par un pirate L'enseigne française WeFix, spécialisée dans la réparation et le reconditionnement de smartphones, fait l'objet d'une revendication de fuite de données. Un pirate affirme avoir publié gratu…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b88fa7b570076be01e19",
+      "title": "Ecologic France",
+      "url": "https://frenchbreaches.com/alertes/ecologic-france-mv71q9shbfyhej3662l",
+      "source": "French Breaches",
+      "date": "2026-10-13",
+      "published": "2026-10-13T18:58:00+00:00",
+      "desc": "Fuite de données Ecologic France : 46 467 fiches d'utilisateurs et de partenaires diffusées sur un forum de pirates L'éco-organisme français Ecologic, spécialisé dans la collecte et le recyclage, fait l'objet d'une revendication de piratage. Un cybercriminel affirme avoir publié…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "1eabfbcc43f3633a7e1f",
@@ -1907,16 +2835,16 @@
       "category": "actualite"
     },
     {
-      "id": "0b5b8a5c7759b503f6d2",
-      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
-      "source": "CISA — Cybersecurity Advisories",
+      "id": "61ac7a0be5ca210e582e",
+      "title": "Noms, numéros de Sécu, conversations médicales… Ce que révèle le piratage de MaQuestionMedicale",
+      "url": "https://frenchbreaches.com/blog/noms-numeros-de-secu-conversations-medicales-ce-que-revele-le-piratage-de-maquestionmedicale",
+      "source": "French Breaches-blog",
       "date": "2026-10-13",
-      "published": "2026-10-13T12:00:00+00:00",
-      "desc": "CISA is aware of Ivanti’s disclosure of a newly exploited vulnerability, CVE-2026-104935 , affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass vulnerability, which allows remote, unauthenticated execution of arbitrary commands, to conduct credential theft and data exfiltration. CISA added CVE-2026-104935 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 13, 2026. CISA urges organizations with affected Ivanti Connect Secure appliances and deployments to immediately update to the latest version, as outlined in Ivanti’s Security Advisory Ivanti Connect Secure (CVE-2026-104935) . Organizations should also review the Ivanti Connect Secure 25.x Upgrade and Migration Compatibility Guide for detailed patching guidance for hardware and virtual appliance deployments. Ivanti Connect Secure version 22.8 reaches end of life on Jan. 31, 2027. Organizations seeking to determine whether they were compromised will need to conduct network and memory forensics to identify evidence of exploitation. Note: Ivanti’s Integrity Checker Tool may not detect evidence of exploitation of CVE-2026-104935 because threat actor commands execute in memory. If your organization suspects a compromise, CISA recommends implementing the following actions from Ivanti Connect Secure Recovery Procedures : Create a backup of the appliance configuration. Review Ivanti’s How to Backup & Restore the Binary Configuration Using Archiving Server for more information. Conduct a factory reset and upgrade the appliance to the latest version. For cloud and virtual systems, rebuild the virtual instance and upgrade to the latest version. Restore the appliance configuration from t",
-      "type": "fuite",
-      "sev": "Critique",
-      "category": "alerte"
+      "published": "2026-10-13T12:25:00+00:00",
+      "desc": "MaQuestionMedicale visé par un piratage : 369 000 messages médicaux et près de 96 000 fiches patients, dont des numéros de sécurité sociale, auraient été exposés.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "897e03545f1ebc4d3302",
@@ -1928,6 +2856,18 @@
       "desc": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96951 Microsoft Windows Command Injection Vulnerability CVE-2026-104935 Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
       "type": "cve",
       "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "0b5b8a5c7759b503f6d2",
+      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-13",
+      "published": "2026-10-13T12:00:00+00:00",
+      "desc": "CISA is aware of Ivanti’s disclosure of a newly exploited vulnerability, CVE-2026-104935 , affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass vulnerability, which allows remote, unauthenticated execution of arbitrary commands, to conduct credential theft and data exfiltration. CISA added CVE-2026-104935 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 13, 2026. CISA urges organizations with affected Ivanti Connect Secure appliances and deployments to immediately update to the latest version, as outlined in Ivanti’s Security Advisory Ivanti Connect Secure (CVE-2026-104935) . Organizations should also review the Ivanti Connect Secure 25.x Upgrade and Migration Compatibility Guide for detailed patching guidance for hardware and virtual appliance deployments. Ivanti Connect Secure version 22.8 reaches end of life on Jan. 31, 2027. Organizations seeking to determine whether they were compromised will need to conduct network and memory forensics to identify evidence of exploitation. Note: Ivanti’s Integrity Checker Tool may not detect evidence of exploitation of CVE-2026-104935 because threat actor commands execute in memory. If your organization suspects a compromise, CISA recommends implementing the following actions from Ivanti Connect Secure Recovery Procedures : Create a backup of the appliance configuration. Review Ivanti’s How to Backup & Restore the Binary Configuration Using Archiving Server for more information. Conduct a factory reset and upgrade the appliance to the latest version. For cloud and virtual systems, rebuild the virtual instance and upgrade to the latest version. Restore the appliance configuration from t",
+      "type": "fuite",
+      "sev": "Critique",
       "category": "alerte"
     },
     {
@@ -1967,6 +2907,18 @@
       "category": "actualite"
     },
     {
+      "id": "acdba99086b049c88b36",
+      "title": "Cyberattaque Danfoss et Dixell : les frigos des supermarchés piratés, des millions d'euros de pertes",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-danfoss-et-dixell-les-frigos-des-supermarches-pirates-des-millions-deuros-de-pertes",
+      "source": "French Breaches-blog",
+      "date": "2026-10-13",
+      "published": "2026-10-13T10:37:00+00:00",
+      "desc": "Cyberattaque massive contre les frigos des supermarchés : après Danfoss, Dixell serait aussi touché. Des centaines de magasins impactés et des millions d'euros de pertes.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "6f1dd952cd354922c7c2",
       "title": "Cyberattaque « opportuniste » contre les supermarchés français : des chercheurs évoquent « une réalité largement sous-estimée »",
       "url": "https://www.01net.com/actualites/cyberattaque-opportuniste-contre-les-supermarches-francais-des-chercheurs-evoquent-une-realite-largement-sous-estimee.html",
@@ -1987,6 +2939,102 @@
       "published": "2026-10-13T04:30:09+00:00",
       "desc": "Un faux signalement de meurtre envoyé à la police de Philadelphie, un serveur universitaire piraté pour finir un calcul, des accès payants contournés : le créateur de Claude prive d'Internet l'ensemble de ses évaluations internes, faute de surveillance fiable.",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "cda937d1465030d9ac5e",
+      "title": "IAD France",
+      "url": "https://frenchbreaches.com/alertes/iad-france-mv60poi55e132pdo0yh",
+      "source": "French Breaches",
+      "date": "2026-10-13",
+      "published": "2026-10-13T02:30:00+00:00",
+      "desc": "iad France : un pirate revendique la fuite de données de 8 592 conseillers immobiliers et 112 780 annonces Mise à jour le 14 octobre à 7h iad Group a été victime d’une cyberattaque ayant entraîné un accès non autorisé à une partie de son système informatique. L’incident a été rap…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1911a8f521db4bb7a540",
+      "title": "MaQuestionMedicale",
+      "url": "https://frenchbreaches.com/alertes/maquestionmedicale-mv5zlw7q3bikze9keg7",
+      "source": "French Breaches",
+      "date": "2026-10-13",
+      "published": "2026-10-13T01:22:00+00:00",
+      "desc": "MaQuestionMedicale : 369 000 messages médicaux mis en vente sur le dark web, près de 96 000 fiches patients également exposées Une fuite de données potentiellement majeure touche MaQuestionMedicale, une plateforme française de téléconsultation. Un pirate informatique utilisant le…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "e4ae0cd870ac04fc1d7e",
+      "title": "France Utilitaires",
+      "url": "https://frenchbreaches.com/alertes/france-utilitaires-mv5xi5w8a4r8mr0wsxg",
+      "source": "French Breaches",
+      "date": "2026-10-13",
+      "published": "2026-10-13T00:14:00+00:00",
+      "desc": "France Utilitaires : fuite de données revendiquée, 10 000 comptes clients et des mots de passe potentiellement exposés Le site français France-Utilitaires.fr, spécialisé dans les véhicules utilitaires, est visé par une revendication de piratage. Un cybercriminel affirme avoir réc…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ff79f350efbf5898f3e1",
+      "title": "MoneyGram visé par des hackers : les données de millions de clients menacées",
+      "url": "https://frenchbreaches.com/blog/moneygram-vise-par-des-hackers-les-donnees-de-millions-de-clients-menacees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-12",
+      "published": "2026-10-12T21:26:00+00:00",
+      "desc": "MoneyGram est visé par le groupe de hackers The Gentlemen, qui menace de divulguer des données. Les 60 millions de clients sont-ils concernés ? Voici ce que l'on sait.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8cc66b0e149b88bcff68",
+      "title": "KFC visé par des hackers : des pirates menacent de divulguer ses données",
+      "url": "https://frenchbreaches.com/blog/kfc-vise-par-des-hackers-des-pirates-menacent-de-divulguer-ses-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-12",
+      "published": "2026-10-12T21:20:00+00:00",
+      "desc": "KFC est visé par le groupe de hackers The Gentlemen, qui menace de publier des données prétendument volées. Les clients sont-ils concernés ? Voici ce que l'on sait.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2bdf571a6ef205299fc5",
+      "title": "Fibre Internet, compteurs Linky : un géant français visé par une fuite massive de données",
+      "url": "https://frenchbreaches.com/blog/fibre-internet-compteurs-linky-un-geant-francais-vise-par-une-fuite-massive-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-12",
+      "published": "2026-10-12T20:15:00+00:00",
+      "desc": "Un pirate affirme vendre 34 Go de données attribuées à Solutions30 : noms, adresses, téléphones et e-mails. Les clients de ses interventions techniques pourraient être concernés.",
+      "type": "actualite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "789b64c2efa482c4e4da",
+      "title": "Solutions 30",
+      "url": "https://frenchbreaches.com/alertes/solutions-30-mv5nto6keh511e3t4k7",
+      "source": "French Breaches",
+      "date": "2026-10-12",
+      "published": "2026-10-12T19:38:00+00:00",
+      "desc": "Solutions30 : un pirate revendique le vol de 10,3 millions de fiches contenant des données personnelles Mise à jour le 13 octobre à 14h00 Solutions30 confirme avoir été victime d'un incident de cybersécurité le 12 octobre 2026, ayant affecté une partie de ses systèmes informatiqu…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f2615fe57bfaffdbbedd",
+      "title": "Danemark : 8,8 millions d'identités exposées, des comptes protégés par « 123456 »",
+      "url": "https://frenchbreaches.com/blog/danemark-88-millions-didentites-exposees-des-comptes-proteges-par-123456",
+      "source": "French Breaches-blog",
+      "date": "2026-10-12",
+      "published": "2026-10-12T12:16:00+00:00",
+      "desc": "Danemark : une cyberattaque expose les données de 8,8 millions de personnes. Trois comptes de l'entreprise impliquée utilisaient « 123456 »",
+      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2027,6 +3075,18 @@
       "category": "actualite"
     },
     {
+      "id": "67c2855fece24423a7a8",
+      "title": "Alloextra",
+      "url": "https://frenchbreaches.com/alertes/alloextra-mv4mhd0168xtcvl3oeh",
+      "source": "French Breaches",
+      "date": "2026-10-12",
+      "published": "2026-10-12T02:27:00+00:00",
+      "desc": "Alloextra : les CV et photos de milliers de candidats mis en vente sur un forum de hackers Un pirate affirme avoir récupéré les données de milliers d'utilisateurs d'Alloextra, une plateforme française de recrutement. Des CV, des photographies et des informations professionnelles…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "8aaef6f507c465ba3675",
       "title": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
@@ -2039,6 +3099,66 @@
       "category": "alerte"
     },
     {
+      "id": "432a9e1536fc438498f4",
+      "title": "Kiassure",
+      "url": "https://frenchbreaches.com/alertes/kiassure-mv4fc0mzhzpeqr8upub",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T23:01:00+00:00",
+      "desc": "Fuite de données KIASSURE : plus de 31 000 identités et des informations sensibles potentiellement exposées Le courtier français KIASSURE, spécialisé dans l'assurance santé et la prévoyance, est visé par une revendication de fuite de données. Un pirate affirme avoir publié gratui…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c9525e3f550957e58f2f",
+      "title": "Egide",
+      "url": "https://frenchbreaches.com/alertes/egide-mv46ib7195c2bleeq67",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T18:53:00+00:00",
+      "desc": "Cyberattaque chez Egide : un industriel français lié à la défense et à l'aérospatial touché Le groupe français Egide, spécialisé dans la fabrication de composants destinés notamment aux secteurs de la défense, de l'aérospatial et des technologies sensibles, a confirmé avoir été v…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "be73038868e42a769d07",
+      "title": "AK Transport",
+      "url": "https://frenchbreaches.com/alertes/ak-transport-mv3xwqhui7pi030y058",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T14:49:00+00:00",
+      "desc": "Fuite de données AK Transport : plus de 11 000 expéditions et des informations personnelles potentiellement exposées AK Transport, entreprise de transport routier basée à Saint-Étienne, est visée par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatiqu…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1196ee870a424074d3c1",
+      "title": "RGIS",
+      "url": "https://frenchbreaches.com/alertes/rgis-mv3xepguzoelpdbi1bo",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T14:34:00+00:00",
+      "desc": "Fuite de données RGIS : plus de 30 000 dossiers de candidature visés par un piratage RGIS, spécialiste international des inventaires et de la gestion des stocks, fait l'objet d'une revendication de piratage informatique. Le 11 octobre 2026, un hacker a annoncé la divulgation de 3…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "cc8b2a7906f50f8e524e",
+      "title": "G La Dalle",
+      "url": "https://frenchbreaches.com/alertes/g-la-dalle-mv3xc2n46n3e6glqle",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T14:32:00+00:00",
+      "desc": "Fuite de données G La Dalle : plus de 46 000 clients potentiellement touchés par un piratage G La Dalle, chaîne française de restauration rapide spécialisée dans les burgers, est visée par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "faa5d5201020b769c195",
       "title": "Fuite de données : la Cnaf suspend un site d’urgence après un « incident de cybersécurité »",
       "url": "https://www.01net.com/actualites/caf-vacaf-pirate-site-coupe-urgence-fuite-donnees.html",
@@ -2049,6 +3169,102 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "1414c0b5bd63bfbf5159",
+      "title": "Armurerie du Bocage",
+      "url": "https://frenchbreaches.com/alertes/armurerie-du-bocage-mv3j10sh5cptx1hgung",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T07:49:00+00:00",
+      "desc": "Fuite de données Armurerie du Bocage : 284 Mo de fichiers clients et de documents d'identité mis en vente Armurerie du Bocage, une boutique française spécialisée dans les équipements de chasse, de tir et d'archerie, est visée par une revendication de fuite de données. Le 11 octob…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d5226677c4f56a3b0167",
+      "title": "Grand Delta Habitat",
+      "url": "https://frenchbreaches.com/alertes/grand-delta-habitat-mv3it6f3q58tp1jpda9",
+      "source": "French Breaches",
+      "date": "2026-10-11",
+      "published": "2026-10-11T07:46:00+00:00",
+      "desc": "Grand Delta Habitat : 188 010 enregistrements de locataires et d'interventions mis en vente par un pirate Grand Delta Habitat, acteur français du logement social, est visé par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé la mise en v…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d81cdd5dfa06c74a1406",
+      "title": "Vos Démarches Éco Energy (VD2E)",
+      "url": "https://frenchbreaches.com/alertes/vos-d-marches-co-energy-vd2e-mv2sw2z4fiwzi6m1jrn",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T19:40:00+00:00",
+      "desc": "Vos Démarches Éco Energy (VD2E) : les données de 86 000 clients et prospects potentiellement exposées après un piratage Vos Démarches Éco Energy (VD2E), une entreprise française spécialisée dans les démarches administratives liées à la rénovation énergétique et aux énergies renou…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "22d6c0e63e7dfa62cffa",
+      "title": "Infogreffe",
+      "url": "https://frenchbreaches.com/alertes/infogreffe-mv2l1dzn9pdnebnwv0o",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T16:00:00+00:00",
+      "desc": "Infogreffe : un pirate revendique 3,7 millions de lignes de données, des identifiants et des clés secrètes potentiellement exposés Infogreffe, le service français de diffusion des informations légales sur les entreprises, fait l'objet d'une importante revendication de fuite de do…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "7a026b20c736a1c7768c",
+      "title": "France Bourse",
+      "url": "https://frenchbreaches.com/alertes/france-bourse-mv2jgulk2i7bo3dy9bf",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T15:18:00+00:00",
+      "desc": "France Bourse : les données de 16 425 clients diffusées gratuitement par un pirate informatique France Bourse, un média financier français spécialisé dans l'analyse des marchés boursiers et les conseils aux investisseurs, serait concerné par une importante fuite de données person…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "5fce73955bd3405c2913",
+      "title": "Double Counter (Discord)",
+      "url": "https://frenchbreaches.com/alertes/double-counter-discord-muy6107dcovvp0zz0gq",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T13:49:00+00:00",
+      "desc": "Double Counter : près de 275 000 données remises en circulation par un pirate après une cyberattaque majeure Un pirate utilisant le pseudonyme MeowGang67 affirme avoir mis à disposition une base de 274 900 enregistrements attribuée à Double Counter, un service de sécurité utilisé…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f2e6bad8a28287be2414",
+      "title": "Institut de Formation Politique (IFP)",
+      "url": "https://frenchbreaches.com/alertes/institut-de-formation-politique-ifp-mv2aup5obip57ytqqoc",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T11:14:00+00:00",
+      "desc": "Cyberattaque contre l'Institut de Formation Politique : des données de donateurs volées, l'IA Claude mise en cause L'Institut de Formation Politique (IFP), un organisme français de formation aux idées et à l'engagement politiques, confirme avoir été victime d'une cyberattaque aya…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1170bcd788d21d3c5451",
+      "title": "Callibri",
+      "url": "https://frenchbreaches.com/alertes/callibri-mv242sdqy4ee2qs8uum",
+      "source": "French Breaches",
+      "date": "2026-10-10",
+      "published": "2026-10-10T08:10:00+00:00",
+      "desc": "Callibri : les données de 61 000 contacts auraient été compromises lors d'une fuite de données Mise à jour le 11 octobre Le 10 octobre 2026, Callibri a été victime d’un accès frauduleux au compte de l’un de ses clients, entraînant l’extraction d’une partie de ses fiches contacts.…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "0e2582c76d55903f3bde",
@@ -2073,6 +3289,114 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "fe4a45bb728aa03e3f00",
+      "title": "École 42",
+      "url": "https://frenchbreaches.com/alertes/cole-42-mv0c35v3wnuu9qjgsyn",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T22:55:00+00:00",
+      "desc": "École 42 : les données de 140 000 profils auraient été récupérées après le piratage d'un compte étudiant Mise à jour le 10 octobre à 09h00 L’école 42 confirme une fuite de données pouvant concerner jusqu’à 140 000 étudiants et candidats, notamment des noms, e-mails, identifiants…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8e7aee65c110f382f8d7",
+      "title": "ASOS",
+      "url": "https://frenchbreaches.com/alertes/asos-mv1dpielrzsucnmlgr",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T19:48:00+00:00",
+      "desc": "Cyberattaque chez ASOS : un compte employé compromis, des données personnelles de clients exposées Le géant britannique de la mode en ligne ASOS informe ses clients d'un incident de cybersécurité ayant permis à un tiers non autorisé d'accéder à certaines informations personnelles…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "e84fd3609e64d69a2157",
+      "title": "Quitt",
+      "url": "https://frenchbreaches.com/alertes/quitt-mv1d7m5lqlir4jzqd4",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T19:33:00+00:00",
+      "desc": "Fuite de données en Suisse : près de 30 000 personnes concernées chez Quitt.ch Une nouvelle base de données attribuée à une plateforme suisse est proposée à la vente sur un forum de cybercriminels. Le 9 octobre 2026, un pirate a revendiqué la mise en vente de données provenant de…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "69293b45c4e315b3c5f2",
+      "title": "Courtiers Partenaires",
+      "url": "https://frenchbreaches.com/alertes/courtiers-partenaires-mv1d4b8gmkvwz5wt9z",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T19:30:00+00:00",
+      "desc": "Fuite de données en Suisse : les informations de 57 000 personnes proposées à la vente sur un forum de pirates Une plateforme suisse spécialisée dans la mise en relation avec des courtiers financiers et des professionnels de l’assurance fait l’objet d’une revendication de fuite d…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c4cdf5daf20373a03cd0",
+      "title": "Maileva",
+      "url": "https://frenchbreaches.com/alertes/maileva-mufora09gh9so92vdk",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T19:00:00+00:00",
+      "desc": "Cyberattaque chez Maileva : les données personnelles de 22 millions de personnes concernées La cyberattaque ayant touché Maileva en septembre 2026 est bien plus importante que ne le laissaient entendre les premières communications. Dans un document daté du 5 octobre et consulté p…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "7cee0693e29b383ae669",
+      "title": "Mammut",
+      "url": "https://frenchbreaches.com/alertes/mammut-mv1btcphy4aqz64jyn",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T18:54:00+00:00",
+      "desc": "Mammut : des fichiers internes et des mots de passe diffusés sur un forum de pirates Le fabricant suisse d’équipements de montagne Mammut voit son nom apparaître sur un forum de cybercriminels. Le 9 octobre 2026, un utilisateur a publié une archive présentée comme provenant d’une…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ede1cdb129b2f9036bf2",
+      "title": "VACAF",
+      "url": "https://frenchbreaches.com/alertes/vacaf-mv1973gh31stjwpfe8l",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T18:10:00+00:00",
+      "desc": "VACAF : près de 1,2 million de dossiers d’allocataires de la CAF proposés sur un forum de pirates Mise à jour le 10 octobre à 15h Le Parisien, avec l’AFP, confirme les révélations de FrenchBreaches concernant le piratage de VACAF et la mise en vente de près de 1,2 million de doss…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "3906c90805e4e2e7d77f",
+      "title": "Wimoov",
+      "url": "https://frenchbreaches.com/alertes/wimoov-mv17oocsruj0ra84ffb",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T16:58:00+00:00",
+      "desc": "Wimoov victime d’une cyberattaque : sa plateforme WIN compromise, une violation de données signalée à la CNIL L’association française Wimoov, spécialisée dans l’accompagnement à la mobilité, confirme avoir été victime d’une cyberattaque visant sa plateforme numérique WIN. L’incid…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "eeeaca787331e2ae5ba0",
+      "title": "Quick",
+      "url": "https://frenchbreaches.com/alertes/quick-mv15tpmx67f101x6mas",
+      "source": "French Breaches",
+      "date": "2026-10-09",
+      "published": "2026-10-09T16:07:00+00:00",
+      "desc": "Quick victime d'un piratage : des données personnelles de clients compromises L'enseigne de restauration rapide Quick confirme avoir été victime d'un accès non autorisé à son programme de fidélité Qlub Quick. Dans un e-mail adressé à ses clients, l'entreprise indique que plusieur…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "934526c6d6382b322a23",
@@ -2274,18 +3598,6 @@
       "date": "2026-10-06",
       "published": "2026-10-06T12:00:00+00:00",
       "desc": "View CSAF Summary Hitachi Energy is aware of RCE (Remote Code Execution) vulnerability in Apache ActiveMQ component of SOI product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks affecting confidentiality, integrity, and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy SOI are affected: SOI vers:SOI/>=2.0.0|<=2.2.0 (CVE-2026-34197) CVSS Vendor Equipment v3 8.8 Hitachi Energy SOI 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities CVE-2026-34197 Improper Input Validation, Improper Control of Generation of Code ('Code Injection') vulnerability in Apache ActiveMQ Broker, Apache ActiveMQ used in SOI product. Apache ActiveMQ Classic exposes the Jolokia JMX-HTTP bridge at /api/jolokia/ on the web console. The default Jolokia access policy permits exec operations on all ActiveMQ MBeans (org.apache.activemq:*), including BrokerService.addNetworkConnector(String) and BrokerService.addConnector(String). An authenticated attacker can invoke these operations with a crafted discovery URI that triggers the VM transport's brokerConfig parameter to load a remote Spring XML application context using ResourceXmlApplicationContext. Because Spring's ResourceXmlApplicationContext instantiates all singleton beans before the BrokerService validates the configuration, arbitrary code execution occurs on the broker's JVM through bean factory methods such as Runtime.exec(). Read More 1 Affected Product SOI Version 2.0.0 to 2.2.0 Product Status: known_affected ",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "70be64174d6579c03959",
-      "title": "Savannah lwIP SMTP client",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-06",
-      "published": "2026-10-06T12:00:00+00:00",
-      "desc": "View CSAF Summary Successful exploitation of this vulnerability could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Savannah lwIP SMTP client are affected: lwIP SMTP client 2.2.1 (CVE-2026-15340) CVSS Vendor Equipment v3 9.8 Savannah lwIP SMTP client 1 Vulnerability Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') Background Critical Infrastructure Sectors: Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: Sweden Vulnerabilities CVE-2026-15340 lwIP SMTP client does not check the size of inputs, potentially allowing a buffer overflow. Read More 1 Affected Product Savannah lwIP SMTP client: 2.2.1 Product Status: known_affected Remediations Mitigation xchglabs reports that the vulnerability was fixed and released in the following patch: patch_125_smtp_txbuf.diff . This is available as available as git commit (614420f82c8729d070e01464c0dddb3c9525c772) Additional Metrics Relevant CWE: CWE-120 Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 4.0 9.3 CRITICAL CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments xchglabs reported this vulnerability directly to Savannah and then disclosed once the fix was released Legal Notice and Terms of Use This product is provided subject to this Notification ( https://www.cisa.gov/notification ) and this Privacy & Use policy ( https://www.cisa.gov/privacy-policy ). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure ",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
