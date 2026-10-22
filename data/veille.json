@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:42:00.353090+00:00",
+  "generated_at": "2026-10-22T10:55:50.862938+00:00",
   "sources_total": 11,
   "sources_ok": 9,
   "sources_failed": 2,
@@ -14,6 +14,150 @@
     }
   ],
   "items": [
+    {
+      "id": "6fac9186dc00ba16f566",
+      "title": "Failles PHP : pourquoi c’est un vrai casse-tête pour l’Internet mondial",
+      "url": "https://www.01net.com/actualites/failles-php-pourquoi-cest-vrai-casse-tete-internet-mondial.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-22",
+      "published": "2026-10-22T10:30:00+00:00",
+      "desc": "Les failles PHP2Shell sèment la pagaille sur Internet. Selon les experts, la situation est un vrai casse-tête pour tout le monde. Il est en effet difficile de déterminer où le langage PHP, omniprésent et souvent invisible, se cache réellement. Le processus est si complexe que des sites publics se mettent carrément hors ligne par mesure de précaution.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d04729cb2308f3b2b324",
+      "title": "Faille PHP : des sites publics perturbés",
+      "url": "https://www.cyber-securite.fr/faille-php-des-sites-publics-perturbes/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-22",
+      "published": "2026-10-22T08:35:25+00:00",
+      "desc": "Deux vulnérabilités du langage PHP ont provoqué des mises hors ligne préventives de sites web ... Lire plus L’article Faille PHP : des sites publics perturbés est apparu en premier sur jeuxderole.com .",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "89c43e5d413adbb4e67f",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22",
+      "published": "2026-10-22T08:28:48+00:00",
+      "desc": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e476028eb9f1368a202b",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22",
+      "published": "2026-10-22T08:27:11+00:00",
+      "desc": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "b1e36f34d1a1ea4f70e0",
+      "title": "Ne ratez pas pCloud Pass à vie à -50% : offre valable jusqu’au 25/10",
+      "url": "https://www.cyber-securite.fr/ne-ratez-pas-pcloud-pass-a-vie-a-50-offre-valable-jusquau-25-10/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-22",
+      "published": "2026-10-22T08:00:00+00:00",
+      "desc": "Chiffrez, générez et synchronisez tous vos mots de passe sur l’ensemble de vos appareils en ... Lire plus L’article Ne ratez pas pCloud Pass à vie à -50% : offre valable jusqu’au 25/10 est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4681e139a804e148c37c",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22",
+      "published": "2026-10-22T07:47:22+00:00",
+      "desc": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "059d0a92d89319907062",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22",
+      "published": "2026-10-22T06:38:31+00:00",
+      "desc": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5dc62af2c3e97dbba9c3",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22",
+      "published": "2026-10-22T06:34:10+00:00",
+      "desc": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "14282209530992fa0b12",
+      "title": "Comment détecter et supprimer un Spyware sur un réseau d’entreprise",
+      "url": "https://www.cyber-securite.fr/comment-detecter-et-supprimer-un-spyware-sur-un-reseau-dentreprise/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-22",
+      "published": "2026-10-22T06:32:04+00:00",
+      "desc": "Un spyware peut voler des identifiants, copier des fichiers ou surveiller des postes sans alerte ... Lire plus L’article Comment détecter et supprimer un Spyware sur un réseau d’entreprise est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e02ac5f7f4509804545c",
+      "title": "NordVPN baisse le prix de son plan premium : renforcez votre sécurité à 3,99 €/mois",
+      "url": "https://www.cyber-securite.fr/nordvpn-baisse-le-prix-de-son-plan-premium-renforcez-votre-securite-a-399-e-mois/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-22",
+      "published": "2026-10-22T06:00:00+00:00",
+      "desc": "NordVPN baisse le prix de son plan Premium à 3,99 € par mois sur 27 ... Lire plus L’article NordVPN baisse le prix de son plan premium : renforcez votre sécurité à 3,99 €/mois est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0e0c40ecf28df4026279",
+      "title": "Panique sur Internet : 2 failles PHP critiques touchent des centaines de millions de sites web, des cyberattaques en cours",
+      "url": "https://www.01net.com/actualites/panique-internet-faille-php-critique-vieille-10-ans-touche-millions-sites-web.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-22",
+      "published": "2026-10-22T04:30:14+00:00",
+      "desc": "Deux failles critiques menacent PHP, le langage de programmation qui fait tourner environ 70 % des sites web. Baptisées PHP2Shell, elles permettent de prendre le contrôle d'un serveur à distance. Les cyberattaques exploitant les vulnérabilités ont déjà commencé. Ces failles ont été débusquées par l'intelligence artificielle, à savoir les modèles de pointe de Google et d'OpenAI.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "6f676746f765de6e9901",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-10-22",
+      "published": "2026-10-22T04:21:26+00:00",
+      "desc": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "03dee499c5efef9653de",
       "title": "Railway victime d'une cyberattaque : des clés API et accès aux bases de données menacés",
@@ -153,7 +297,7 @@
       "source": "The Hacker News",
       "date": "2026-10-21",
       "published": "2026-10-21T16:33:47+00:00",
-      "desc": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "desc": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
@@ -231,9 +375,9 @@
       "category": "actualite"
     },
     {
-      "id": "6c678e77aa09a28869b8",
-      "title": "Nir Peleg, directeur mondial de la sécurité des systèmes d'information chez JFrog : «La gouvernance doit fonctionner à la vitesse des agent »",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agent-100861.html",
+      "id": "9a8d18c2a3d356233d7a",
+      "title": "Nir Peleg, directeur mondial de la sécurité des systèmes d'information chez JFrog : «La gouvernance doit fonctionner à la vitesse des agents »",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
       "source": "Actualités securite",
       "date": "2026-10-21",
       "published": "2026-10-21T13:48:10+00:00",
@@ -783,18 +927,6 @@
       "category": "fuite"
     },
     {
-      "id": "5403339ab3e36b76d41a",
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20",
-      "published": "2026-10-20T18:11:03+00:00",
-      "desc": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "fc305022351dba6165d1",
       "title": "Misterbooking",
       "url": "https://frenchbreaches.com/alertes/misterbooking-mvgyucgy6374p06vxeb",
@@ -1317,7 +1449,7 @@
       "source": "French Breaches",
       "date": "2026-10-19",
       "published": "2026-10-19T12:00:00+00:00",
-      "desc": "Fuite de données chez ZOU ! : près de 90 000 dossiers d'adhérents proposés à la vente Une nouvelle fuite de données est revendiquée en France. Ce lundi 19 octobre 2026, un pirate informatique utilisant le pseudonyme blocus affirme détenir une base de données attribuée à zou.mareg…",
+      "desc": "Fuite de données chez ZOU ! : près de 90 000 dossiers d'adhérents proposés à la vente Mise à jour le 21 octobre Le site apparaît actuellement en maintenance. Une nouvelle fuite de données est revendiquée en France. Ce lundi 19 octobre 2026, un pirate informatique utilisant le pse…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -1335,18 +1467,6 @@
       "category": "actualite"
     },
     {
-      "id": "44e436d15448d1831add",
-      "title": "Climb Up dans le viseur d’un pirate",
-      "url": "https://www.cyber-securite.fr/climb-up-dans-le-viseur-dun-pirate/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-19",
-      "published": "2026-10-19T11:15:56+00:00",
-      "desc": "Un pirate affirme vendre une base liée à Climb Up et à 29 salles. Un ... Lire plus L’article Climb Up dans le viseur d’un pirate est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "62badca6addc0ac9c83b",
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
       "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
@@ -1354,18 +1474,6 @@
       "date": "2026-10-19",
       "published": "2026-10-19T10:06:40+00:00",
       "desc": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a68286714bfc1f553366",
-      "title": "Pourquoi la « Deception Technology » est-elle l’avenir de la cybersécurité ?",
-      "url": "https://www.cyber-securite.fr/pourquoi-la-deception-technology-est-elle-lavenir-de-la-cybersecurite/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-19",
-      "published": "2026-10-19T06:35:05+00:00",
-      "desc": "La Deception Technology ne cherche pas seulement à bloquer une intrusion : elle tend des ... Lire plus L’article Pourquoi la « Deception Technology » est-elle l’avenir de la cybersécurité ? est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1395,18 +1503,6 @@
       "category": "actualite"
     },
     {
-      "id": "210aa70f1ffe9280b433",
-      "title": "Microsoft 365 : attention aux accès des agents IA !",
-      "url": "https://www.cyber-securite.fr/agents-ia-microsoft-365/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-19",
-      "published": "2026-10-19T06:24:00+00:00",
-      "desc": "La multiplication des agents autonomes au sein des entreprises crée de nouvelles failles de sécurité. ... Lire plus L’article Microsoft 365 : attention aux accès des agents IA ! est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "45ac082f0a2d4f168090",
       "title": "Ces box Orange et SFR peuvent se faire pirater à distance grâce à une faille Wi-Fi",
       "url": "https://www.01net.com/actualites/box-orange-sfr-peuvent-piratees-distance-faille-wi-fi.html",
@@ -1426,18 +1522,6 @@
       "date": "2026-10-19",
       "published": "2026-10-19T06:07:08+00:00",
       "desc": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "60a4c18ddb1c8b277502",
-      "title": "Les preuves numériques au service de la sécurité publique",
-      "url": "https://www.cyber-securite.fr/role-telesurveillance-enquetes/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-19",
-      "published": "2026-10-19T05:11:59+00:00",
-      "desc": "Les services d’alarme connectée filtrent efficacement les appels d’urgence avant l’intervention des forces de l’ordre. ... Lire plus L’article Les preuves numériques au service de la sécurité publique est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2055,18 +2139,6 @@
       "category": "alerte"
     },
     {
-      "id": "3f11a9ccfb4f1a93f7c7",
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:30:00+00:00",
-      "desc": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7f19a14cb874d2a1c786",
       "title": "Les Républicains piratés : les hackers menacent de divulguer les données des adhérents",
       "url": "https://frenchbreaches.com/blog/les-republicains-pirates-les-hackers-menacent-de-divulguer-les-donnees-des-adherents",
@@ -2111,42 +2183,6 @@
       "published": "2026-10-16T08:00:55+00:00",
       "desc": "Le Grand Orient de France, la plus ancienne organisation maçonnique de France, a été victime d'une fuite de données. Des centaines de documents internes, dont un tableau de données personnelles de membres, ont été dérobés. Deux groupes de pirates revendiquent la cyberattaque.",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2f4ebff472d58347b5f4",
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16",
-      "published": "2026-10-16T06:55:55+00:00",
-      "desc": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "9e713cfb0ab36a8f6aca",
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16",
-      "published": "2026-10-16T06:53:09+00:00",
-      "desc": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a2dfa0394e0653a8dabf",
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-16",
-      "published": "2026-10-16T04:59:36+00:00",
-      "desc": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2329,18 +2365,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "e2089d243155ed7a05c2",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "source": "The Hacker News",
-      "date": "2026-10-15",
-      "published": "2026-10-15T20:24:36+00:00",
-      "desc": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "8fd9c82a436e1b85ead6",
@@ -3435,18 +3459,6 @@
       "category": "actualite"
     },
     {
-      "id": "0f65e0ceabc53fa2b1d0",
-      "title": "Une cyberattaque frappe la plateforme de vote de la primaire de la gauche, que s’est-il passé ?",
-      "url": "https://www.01net.com/actualites/primaire-gauche-plateforme-vote-en-ligne-cyberattaque.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-09",
-      "published": "2026-10-09T13:00:15+00:00",
-      "desc": "Le vote en ligne de la primaire de la gauche a ouvert dans la matinée du 9 octobre. La plateforme e-votez, censée recueillir les votes des électeurs, a rapidement été victime d'une cyberattaque. Des pirates ont déployé une attaque de type DDoS sur la plateforme pour perturber les élections.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "46fda0fcb5b4d25ce69b",
       "title": "Orange muscle son offre SecNumCloud",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
@@ -3455,18 +3467,6 @@
       "published": "2026-10-09T09:16:16+00:00",
       "desc": "Orange Business, la filiale BtoB d’Orange, a annoncé ce 7 octobre 2026 avoir obtenu auprès de l’Agence nationale de la sécurité (...)",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9653816d1a5c2ee57270",
-      "title": "Cyberattaque sur l’iPhone : le malware DarkSword est de retour sous une nouvelle forme",
-      "url": "https://www.01net.com/actualites/cyberattaque-sur-liphone-le-malware-darksword-est-de-retour-sous-une-nouvelle-forme.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-09",
-      "published": "2026-10-09T09:13:11+00:00",
-      "desc": "La société iVerify, spécialisée dans la sécurité des smartphones, a découverte P7 DarkSword, une nouvelle version d'un kit de piratage encore plus perfectionnée. Elle a mené l'enquête pour en comprendre le fonctionnement et alerter les utilisateurs d'iPhone.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
