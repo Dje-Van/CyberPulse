@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:04:57.542736+00:00",
+  "generated_at": "2026-10-22T02:42:00.353090+00:00",
   "sources_total": 11,
   "sources_ok": 9,
   "sources_failed": 2,
@@ -14,6 +14,42 @@
     }
   ],
   "items": [
+    {
+      "id": "03dee499c5efef9653de",
+      "title": "Railway victime d'une cyberattaque : des clés API et accès aux bases de données menacés",
+      "url": "https://frenchbreaches.com/blog/railway-victime-dune-cyberattaque-des-cles-api-et-acces-aux-bases-de-donnees-menaces",
+      "source": "French Breaches-blog",
+      "date": "2026-10-21",
+      "published": "2026-10-21T23:16:00+00:00",
+      "desc": "Railway révèle une cyberattaque visant des secrets techniques de ses clients. Clés API, bases de données et déploiements sont concernés.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "74d714d3ba5e87cf8e4c",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T22:16:26+00:00",
+      "desc": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "db964fc55da085202ada",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "source": "BleepingComputer",
+      "date": "2026-10-21",
+      "published": "2026-10-21T21:43:27+00:00",
+      "desc": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "ee05028cd237fb1c0909",
       "title": "Failles PHP : impôts, Météo-France, préfectures… pourquoi tant de sites ferment ?",
@@ -855,18 +891,6 @@
       "category": "actualite"
     },
     {
-      "id": "a897dd2f9462f5644322",
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20",
-      "published": "2026-10-20T14:19:05+00:00",
-      "desc": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7e5477cd18438e7acd9c",
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
@@ -874,18 +898,6 @@
       "date": "2026-10-20",
       "published": "2026-10-20T14:07:17+00:00",
       "desc": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d9ebcd35539b0a48ff36",
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "source": "BleepingComputer",
-      "date": "2026-10-20",
-      "published": "2026-10-20T13:51:00+00:00",
-      "desc": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1257,7 +1269,7 @@
       "source": "French Breaches",
       "date": "2026-10-19",
       "published": "2026-10-19T15:10:00+00:00",
-      "desc": "Nouvelle fuite de données à l'I-CAD : 2,9 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Selon nos informations, l'I-CAD, le fichier national d'identification des chiens, chats et furets, serait touché par une nouvelle fuite de données, distincte de celle…",
+      "desc": "Nouvelle fuite de données à l'I-CAD : 2,9 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Mise à jour le 21 octobre à 12h Alerté par FrenchBreaches, I-CAD confirme une fuite de données concernant des détenteurs de chats, à la suite d'un accès frauduleux à u…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3025,18 +3037,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "f2615fe57bfaffdbbedd",
-      "title": "Danemark : 8,8 millions d'identités exposées, des comptes protégés par « 123456 »",
-      "url": "https://frenchbreaches.com/blog/danemark-88-millions-didentites-exposees-des-comptes-proteges-par-123456",
-      "source": "French Breaches-blog",
-      "date": "2026-10-12",
-      "published": "2026-10-12T12:16:00+00:00",
-      "desc": "Danemark : une cyberattaque expose les données de 8,8 millions de personnes. Trois comptes de l'entreprise impliquée utilisaient « 123456 »",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "a23db1ade9bce4551890",
