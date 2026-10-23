@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:02:30.312996+00:00",
+  "generated_at": "2026-10-23T02:46:24.004944+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,30 @@
     }
   ],
   "items": [
+    {
+      "id": "d01c44e803ed7bc74748",
+      "title": "Quad9 quitte la France : son DNS sécurisé s'arrêtera le 24 novembre 2026",
+      "url": "https://frenchbreaches.com/blog/quad9-quitte-la-france-son-dns-securise-sarretera-le-24-novembre-2026",
+      "source": "French Breaches-blog",
+      "date": "2026-10-22",
+      "published": "2026-10-22T22:47:00+00:00",
+      "desc": "Quad9 annonce son départ de France le 24 novembre 2026 après une décision judiciaire imposant le blocage de sites pirates. Contexte et conséquences.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ea40ccd76acf9cc833cd",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-10-22",
+      "published": "2026-10-22T21:25:31+00:00",
+      "desc": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "eb92429cfcf617eee6f5",
       "title": "Icantec (retraites)",
@@ -1016,18 +1040,6 @@
       "desc": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
       "type": "cve",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "dc9d5e13ec1b033afa55",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T14:00:10+00:00",
-      "desc": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -3187,18 +3199,6 @@
       "published": "2026-10-14T00:18:00+00:00",
       "desc": "Un ingénieur d’OpenAI a été arrêté par le FBI après la découverte d’un dispositif d’écoute clandestin dans une salle de réunion. L’enquête se poursuit.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "07232b8a41ce9373d1fd",
-      "title": "Fuite de données chez Meta : 1 500 personnes touchées après un piratage sur GitHub",
-      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-chez-meta-1-500-personnes-touchees-apres-un-piratage-sur-github",
-      "source": "French Breaches-blog",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:10:00+00:00",
-      "desc": "Meta confirme un piratage de dépôts GitHub après le vol des identifiants d'un salarié. Du code informatique et les données personnelles d'environ 1 500 personnes ont été dérobés.",
-      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
