@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:12:35.924225+00:00",
+  "generated_at": "2026-10-23T20:50:49.753915+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,126 @@
     }
   ],
   "items": [
+    {
+      "id": "e3ceabcd0c4b4ac0d318",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T18:54:41+00:00",
+      "desc": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "68f2c8a7a2b64fb92945",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T18:50:13+00:00",
+      "desc": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6d44e7265943e542a570",
+      "title": "Fuite de données au Parti communiste français : près de 190 000 personnes exposées",
+      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-au-parti-communiste-francais-pres-de-190-000-personnes-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-23",
+      "published": "2026-10-23T18:41:00+00:00",
+      "desc": "Le PCF confirme une fuite de données après une alerte de l'ANSSI. Près de 190 000 personnes pourraient être concernées selon FrenchBreaches.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3cc5c1485e1b807fe627",
+      "title": "Parti Communiste Français (PCF)",
+      "url": "https://frenchbreaches.com/alertes/parti-communiste-fran-ais-pcf-mvl13xuxyt1dju2rbve",
+      "source": "French Breaches",
+      "date": "2026-10-23",
+      "published": "2026-10-23T18:32:00+00:00",
+      "desc": "Fuite de données au PCF : le parti confirme l'incident, près de 190 000 personnes potentiellement concernées Mise à jour du 23 octobre 2026, à 20 h 30 — Le Parti communiste français (PCF) confirme officiellement avoir été victime d'une fuite de données concernant son fichier d'ad…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "14b4c9cf953f428c07e6",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T17:54:08+00:00",
+      "desc": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "6fb95eceef2a89d96948",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T17:50:47+00:00",
+      "desc": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "10913ef0b9b61e8c1648",
+      "title": "Armurerie Meneux",
+      "url": "https://frenchbreaches.com/alertes/armurerie-meneux-mvl9owabk9q4erhu38g",
+      "source": "French Breaches",
+      "date": "2026-10-23",
+      "published": "2026-10-23T17:49:00+00:00",
+      "desc": "Armurerie Meneux : les données de plus de 900 clients mises en vente par un pirate Un nouveau commerce français spécialisé dans la chasse et le tir sportif fait l'objet d'une revendication de fuite de données. Ce vendredi 23 octobre 2026, un cybercriminel utilisant le pseudonyme…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "0d09c5ddef1bf46dbcc8",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T17:05:07+00:00",
+      "desc": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5d9f1f66a499403a0f0c",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T16:40:07+00:00",
+      "desc": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8070f8da0c70f2e25887",
+      "title": "Fédération Française de Voile (FF Voile)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-voile-ff-voile-mvl6ymmsn9guk06lpyo",
+      "source": "French Breaches",
+      "date": "2026-10-23",
+      "published": "2026-10-23T16:32:00+00:00",
+      "desc": "Fuite de données à la FFVoile : licenciés et structures associatives concernés Selon les informations recueillies par FrenchBreaches et confirmées par une communication officielle, la Fédération Française de Voile (FFVoile) a été victime d'un incident de sécurité ayant entraîné l…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "5112d2d0592613a3f787",
       "title": "GitLab corrige une faille critique vieille de douze ans",
@@ -143,6 +263,30 @@
       "category": "actualite"
     },
     {
+      "id": "ce87e3f627c6f42f08a7",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-23",
+      "published": "2026-10-23T12:00:00+00:00",
+      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "87bf34b6e070a9474032",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-23",
+      "published": "2026-10-23T12:00:00+00:00",
+      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "d3e6fb1a3911b1e6b90b",
       "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
@@ -156,7 +300,7 @@
     },
     {
       "id": "76da60089176983713f4",
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "source": "The Hacker News",
       "date": "2026-10-23",
@@ -923,18 +1067,6 @@
       "category": "alerte"
     },
     {
-      "id": "503138c62becba1140e4",
-      "title": "Siemens Industrial Edge Devices",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-22",
-      "published": "2026-10-22T12:00:00+00:00",
-      "desc": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Devices are affected: Industrial Edge Cloud Device (IECD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Own Device (IEOD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Virtual Device (IEVD) vers:intdot/<1.28.1 (CVE-2026-44414) SCALANCE LPE9413 (6GK5998-3GS01-2AC2) vers:all/* (CVE-2026-44414) SCALANCE LPE9433 (6GK5998-3GS11-2AC2) vers:all/* (CVE-2026-44414) SIMATIC HMI MTP1000 Unified Comfort Panel (6AV2128-3KB06-0AX1) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000 Unified Comfort Panel hygienic (6AV2128-3KB40-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000 Unified Comfort Panel hygienic neutral design (6AV2128-3KB70-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000, Unified Comfort Panel neutral (6AV2128-3KB36-0AX1) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for stand (expandable, flange at the bottom) (6AV2128-3MB27-1BX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for support arm (expandable, round tube) and extension unit (6AV2128-3MB27-0BX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for support arm (not extendable, flange on top) (6AV2128-3MB27-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro neutral design for stand (expandable, flange at the bottom) (6AV2128-3MB57-1BX0) vers:all/* (CVE-2026-44415) ",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "ce888c4fa326e0bd8d12",
       "title": "Siemens SIMATIC S7 PLCs Web Server",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
@@ -947,15 +1079,15 @@
       "category": "alerte"
     },
     {
-      "id": "d0a00ec0797d3bcb2dfc",
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "id": "503138c62becba1140e4",
+      "title": "Siemens Industrial Edge Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-22",
       "published": "2026-10-22T12:00:00+00:00",
-      "desc": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-established to restore normal operation. The following versions of Siemens SENTRON 3NA COM Fuse are affected: SENTRON 3NA COM Fuse vers:intdot/<5.2 (CVE-2024-7322) CVSS Vendor Equipment v3 5.8 Siemens SENTRON 3NA COM Fuse 1 Vulnerability Improper Verification of Source of a Communication Channel Background Critical Infrastructure Sectors: Critical Manufacturing, Transportation Systems, Energy, Healthcare and Public Health, Financial Services, Government Services and Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2024-7322 A ZigBee coordinator, router, or end device may change their node ID when an unsolicited encrypted rejoin response is received, this change in node ID causes Denial of Service (DoS). To recover from this DoS, the network must be re-established Read More 1 Affected Product SENTRON 3NA COM Fuse < V5.2 Product Status: known_affected Remediations Vendor fix Update to V5.2 or later version Additional Metrics Relevant CWE: CWE-940 Improper Verification of Source of a Communication Channel CVSS Version Base Score Base Severity Vector String 3.1 5.8 MEDIUM CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the envi",
+      "desc": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Devices are affected: Industrial Edge Cloud Device (IECD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Own Device (IEOD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Virtual Device (IEVD) vers:intdot/<1.28.1 (CVE-2026-44414) SCALANCE LPE9413 (6GK5998-3GS01-2AC2) vers:all/* (CVE-2026-44414) SCALANCE LPE9433 (6GK5998-3GS11-2AC2) vers:all/* (CVE-2026-44414) SIMATIC HMI MTP1000 Unified Comfort Panel (6AV2128-3KB06-0AX1) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000 Unified Comfort Panel hygienic (6AV2128-3KB40-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000 Unified Comfort Panel hygienic neutral design (6AV2128-3KB70-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1000, Unified Comfort Panel neutral (6AV2128-3KB36-0AX1) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for stand (expandable, flange at the bottom) (6AV2128-3MB27-1BX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for support arm (expandable, round tube) and extension unit (6AV2128-3MB27-0BX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro for support arm (not extendable, flange on top) (6AV2128-3MB27-0AX0) vers:all/* (CVE-2026-44415) SIMATIC HMI MTP1200 Comfort Pro neutral design for stand (expandable, flange at the bottom) (6AV2128-3MB57-1BX0) vers:all/* (CVE-2026-44415) ",
       "type": "cve",
-      "sev": "Critique",
+      "sev": "Faible",
       "category": "alerte"
     },
     {
@@ -971,15 +1103,15 @@
       "category": "alerte"
     },
     {
-      "id": "2336f33ff6e7965dd0c3",
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "id": "d0a00ec0797d3bcb2dfc",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-22",
       "published": "2026-10-22T12:00:00+00:00",
-      "desc": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 TM MFP are affected: SIMATIC S7-1500 TM MFP - GNU/Linux subsystem vers:all/* CVSS Vendor Equipment v3 10 Siemens SIMATIC S7-1500 TM MFP - GNU/Linux subsystem 377 Vulnerabilities Access of Uninitialized Pointer, Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Deadlock, Detection of Error Condition Without Action, Double Free, Expired Pointer Dereference, Heap-based Buffer Overflow, Improper Control of Resource Identifiers ('Resource Injection'), Improper Control of a Resource Through its Lifetime, Improper Handling of Length Parameter Inconsistency, Improper Handling of Missing Special Element, Improper Handling of Structural Elements, Improper Input Validation, Improper Locking, Improper Resource Locking, Improper Restriction of Operations within the Bounds of a Memory Buffer, Improper Update of Reference Count, Improper Validation of Array Index, Improper Validation of Consistency within Input, Improper Validation of Specified Index, Position, or Offset in Input, Improper Validation of Specified Quantity in Input, Improper Validation of Specified Type of Input, Incorrect Synchronization, Integer Overflow or Wraparound, Integer Underflow (Wrap or Wraparound), Loop with Unreachable Exit Condition ('Infinite Loop'), Missing Default Case in Multiple Condition Expression, Missing Initialization of Resource, Missing Lock Check, Missing Release of Memory after Effective Lifetime, Missing Release of Resource after Effective Lifetime, Multiple Locks of",
-      "type": "alerte",
-      "sev": "Faible",
+      "desc": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-established to restore normal operation. The following versions of Siemens SENTRON 3NA COM Fuse are affected: SENTRON 3NA COM Fuse vers:intdot/<5.2 (CVE-2024-7322) CVSS Vendor Equipment v3 5.8 Siemens SENTRON 3NA COM Fuse 1 Vulnerability Improper Verification of Source of a Communication Channel Background Critical Infrastructure Sectors: Critical Manufacturing, Transportation Systems, Energy, Healthcare and Public Health, Financial Services, Government Services and Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2024-7322 A ZigBee coordinator, router, or end device may change their node ID when an unsolicited encrypted rejoin response is received, this change in node ID causes Denial of Service (DoS). To recover from this DoS, the network must be re-established Read More 1 Affected Product SENTRON 3NA COM Fuse < V5.2 Product Status: known_affected Remediations Vendor fix Update to V5.2 or later version Additional Metrics Relevant CWE: CWE-940 Improper Verification of Source of a Communication Channel CVSS Version Base Score Base Severity Vector String 3.1 5.8 MEDIUM CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:N/I:N/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the envi",
+      "type": "cve",
+      "sev": "Critique",
       "category": "alerte"
     },
     {
@@ -992,6 +1124,18 @@
       "desc": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CVE-2026-110491, CVE-2026-107861, CVE-2026-110243, CVE-2026-92450, CVE-2026-110825) CVSS Vendor Equipment v3 9.9 Kiloview E3 Firmware 6 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Missing Authentication for Critical Function, Insufficient Session Expiration, Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), NULL Pointer Dereference, Use of Hard-coded Credentials Background Critical Infrastructure Sectors: Communications, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities Expand All + CVE-2026-109122 The network management service on affected Kiloview E3 NDI encoder firmware fails to sanitize one field used when configuring static routes via the web management API. An authenticated web user with permission to configure static routes can exploit this to execute arbitrary operating system commands as root, and the malicious configuration persists across reboots. Successful exploitation could result in full device compromise, including exposure of stored credentials and cryptographic material. Read More 1 Affected Product Kiloview E3 Firmware: <1.30 Product Status: known_affected Remediations Mitigation KiloView recommends users update to V1.30: https://www.kiloview.com/en/download/e3-firmware-downloadlatest-12/ Additional Metrics Relevant CWE: CWE-78 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') CVSS Ver",
       "type": "cve",
       "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "2336f33ff6e7965dd0c3",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-22",
+      "published": "2026-10-22T12:00:00+00:00",
+      "desc": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 TM MFP are affected: SIMATIC S7-1500 TM MFP - GNU/Linux subsystem vers:all/* CVSS Vendor Equipment v3 10 Siemens SIMATIC S7-1500 TM MFP - GNU/Linux subsystem 377 Vulnerabilities Access of Uninitialized Pointer, Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Deadlock, Detection of Error Condition Without Action, Double Free, Expired Pointer Dereference, Heap-based Buffer Overflow, Improper Control of Resource Identifiers ('Resource Injection'), Improper Control of a Resource Through its Lifetime, Improper Handling of Length Parameter Inconsistency, Improper Handling of Missing Special Element, Improper Handling of Structural Elements, Improper Input Validation, Improper Locking, Improper Resource Locking, Improper Restriction of Operations within the Bounds of a Memory Buffer, Improper Update of Reference Count, Improper Validation of Array Index, Improper Validation of Consistency within Input, Improper Validation of Specified Index, Position, or Offset in Input, Improper Validation of Specified Quantity in Input, Improper Validation of Specified Type of Input, Incorrect Synchronization, Integer Overflow or Wraparound, Integer Underflow (Wrap or Wraparound), Loop with Unreachable Exit Condition ('Infinite Loop'), Missing Default Case in Multiple Condition Expression, Missing Initialization of Resource, Missing Lock Check, Missing Release of Memory after Effective Lifetime, Missing Release of Resource after Effective Lifetime, Multiple Locks of",
+      "type": "alerte",
+      "sev": "Faible",
       "category": "alerte"
     },
     {
@@ -1295,30 +1439,6 @@
       "category": "actualite"
     },
     {
-      "id": "74d714d3ba5e87cf8e4c",
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T22:16:26+00:00",
-      "desc": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "db964fc55da085202ada",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T21:43:27+00:00",
-      "desc": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ee05028cd237fb1c0909",
       "title": "Failles PHP : impôts, Météo-France, préfectures… pourquoi tant de sites ferment ?",
       "url": "https://frenchbreaches.com/blog/failles-php-impots-meteo-france-prefectures-pourquoi-tant-de-sites-ferment",
@@ -1341,18 +1461,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "2484f295e9c43c283a69",
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T20:31:48+00:00",
-      "desc": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "477f6f2bea58c1cc8fbf",
@@ -1961,7 +2069,7 @@
       "source": "French Breaches",
       "date": "2026-10-20",
       "published": "2026-10-20T19:30:00+00:00",
-      "desc": "King Jouet : près de 196 000 fiches clients publiées par un pirate, après une cyberattaque en 2025 L'enseigne française King Jouet est de nouveau citée sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Onyxx affirme avoir publié gratuitement une ba…",
+      "desc": "King Jouet : près de 196 000 fiches clients publiées par un pirate, après une cyberattaque en 2025 Mise à jour du 23 octobre 2026 à 16 h Suite à une alerte de FrenchBreaches, King Jouet confirme avoir identifié l'origine de l'incident de sécurité dans un ancien composant applicat…",
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
@@ -2147,18 +2255,6 @@
       "category": "alerte"
     },
     {
-      "id": "baa0eb14aec51572707e",
-      "title": "Hitachi Energy RTU500 Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-20",
-      "published": "2026-10-20T12:00:00+00:00",
-      "desc": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=13.5.1|<=13.5.4, vers:RTU500_series_CMU_Firmware/>=13.6.1|<=13.6.3, vers:RTU500_series_CMU_Firmware/>=13.7.1|<=13.7.8, vers:RTU500_series_CMU_Firmware/>=13.8.1|<=13.8.2, vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7.7 (CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6653) CVSS Vendor Equipment v3 8.8 Hitachi Energy RTU500 series CMU Firmware 7 Vulnerabilities NULL Pointer Dereference, Access of Resource Using Incompatible Type ('Type Confusion'), Use After Free, Cleartext Transmission of Sensitive Information, Insufficiently Protected Credentials, Authentication Bypass by Capture-replay, Authentication Bypass by Primary Weakness Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Exp",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "8d626ff9f11dd6582b62",
       "title": "Hitachi Energy MicroSCADA X SYS600 Product",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
@@ -2166,6 +2262,18 @@
       "date": "2026-10-20",
       "published": "2026-10-20T12:00:00+00:00",
       "desc": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MicroSCADA X SYS600 Product are affected: MicroSCADA X SYS600 vers:MicroSCADA_X_SYS600/<=10.7, 10.8 (CVE-2026-9852, CVE-2026-9853, CVE-2026-9854, CVE-2026-9853) CVSS Vendor Equipment v3 7.8 Hitachi Energy MicroSCADA X SYS600 2 Vulnerabilities Improper Neutralization of Formula Elements in a CSV File, Incorrect Implementation of Authentication Algorithm Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-9852 A CSV injection vulnerability exists in SYS600. Injected malicious formulas can add or modify data to the spreadsheet, insert links, exfiltrate data, and in some cases, depending on how the user has their environment configured, execute malicious code on the user’s machine. To exploit this issue attackers would need a way to create arbitrary log messages. This could be achieved through normal functionality via SCIL scripts, a log injection vulnerability, or via the SYS600 broker. This vulnerability affects all Windows users regardless of their privilege level who can run the Notify service and export the log. Read More 1 Affected Product MicroSCADA X SYS600 versions 10.7 and prior Product Status: known_affected Remediations Vendor fix Update to version 10.8 Mitigation Follow general mitigation factors/workarounds Additional Metrics Relevant CWE: CWE-1236 Improper Neutralization of Formula E",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "baa0eb14aec51572707e",
+      "title": "Hitachi Energy RTU500 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-10-20",
+      "published": "2026-10-20T12:00:00+00:00",
+      "desc": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=13.5.1|<=13.5.4, vers:RTU500_series_CMU_Firmware/>=13.6.1|<=13.6.3, vers:RTU500_series_CMU_Firmware/>=13.7.1|<=13.7.8, vers:RTU500_series_CMU_Firmware/>=13.8.1|<=13.8.2, vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7.7 (CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6732, CVE-2026-6653, CVE-2026-6276, CVE-2026-9079, CVE-2026-11856, CVE-2026-8927, CVE-2026-8932, CVE-2026-17539, CVE-2026-28388, CVE-2026-6653) CVSS Vendor Equipment v3 8.8 Hitachi Energy RTU500 series CMU Firmware 7 Vulnerabilities NULL Pointer Dereference, Access of Resource Using Incompatible Type ('Type Confusion'), Use After Free, Cleartext Transmission of Sensitive Information, Insufficiently Protected Credentials, Authentication Bypass by Capture-replay, Authentication Bypass by Primary Weakness Background Critical Infrastructure Sectors: Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Exp",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2303,18 +2411,6 @@
       "category": "actualite"
     },
     {
-      "id": "7db63f9cd155b93bc293",
-      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T08:21:29+00:00",
-      "desc": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "fee3b875f36279189fa9",
       "title": "ServiceNow lance AI Passport pour gouverner les agents IA",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-servicenow-lance-ai-passport-pour-gouverner-les-agents-ia-100857.html",
@@ -2322,30 +2418,6 @@
       "date": "2026-10-20",
       "published": "2026-10-20T08:01:35+00:00",
       "desc": "Les entreprises cherchent à mieux contrôler les agents IA qu’elles déploient dans leurs systèmes d’information. (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8aec3f414ba4d7d53ed4",
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T07:11:45+00:00",
-      "desc": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "230574babe4817155f28",
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T05:53:16+00:00",
-      "desc": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2903,18 +2975,6 @@
       "category": "fuite"
     },
     {
-      "id": "4e525e143e8c3f3d4a0b",
-      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
-      "url": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login credentials and other sensitive information or install malware on targeted devices. Election officials, candidates, and political organizations may be attractive targets because of their access to voter registration data, current government officials, and sensitive campaign information. Cyber actors are increasingly using sophisticated phishing and smishing campaigns that closely resemble legitimate communications. These efforts may include convincing emails, text messages, audio, and video content designed to manipulate recipients into disclosing sensitive information or interacting with malicious links and attachments. CISA and the FBI urge election officials, campaign personnel, and the public to review the PSA, follow recommended cybersecurity practices, and remain vigilant for suspicious emails and mobile messages.",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "90ef0f2bf47ec9ed6075",
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
@@ -2924,18 +2984,6 @@
       "desc": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulnerabilities (KEV) catalog on Oct. 16, 2026. CISA urges organizations with affected self-hosted Remote Support appliances to immediately take the following actions: Apply the BT26-05-RS patch, as outlined in BeyondTrust’s Security Advisory BT26-05 . Organizations on a self-hosted Remote Support version older than 24.3.1 will need to upgrade to a newer version to apply the patch. Organizations using BeyondTrust-hosted (SaaS) Remote Support deployments have already been patched. Review BeyondTrust’s blog ARMORY CASTLE and BT26-05: What Security Teams Need to Know for detailed information on the vulnerability and recommended response and mitigation actions. Limit external access to the Remote Support appliance to the services needed to support users and customers. Restrict access to administrative interfaces to trusted networks. Review BeyondTrust’s B Series Appliance on-premises security for additional guidance on securing network connectivity for self-hosted Remote Support appliances. Organizations with affected self-hosted Remote Support appliances should conduct network and memory forensics to identify evidence of potential compromise. If your organization suspects a compromise, CISA recommends taking the following actions: Isolate any suspected or confirmed compromised appliance",
       "type": "cve",
       "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "576634fb177ce16eed6f",
-      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation . The product outlines ten voluntary core practices to help organizations that train and evaluate highly capable super intelligence (SI) agents—particularly pre-deployment, cutting edge SI agents with reduced safeguards or other high-risk, non-public systems—prepare for and manage SI control incidents. A SI control incident occurs when one or more SI agents takes uninstructed actions that conflict with or compromise policies, controls, or security measures that scope the task and provide human oversight. This product aligns with cyber incident response best practices, includes additional SI considerations and highlights the importance of testing controls and validating containment before resuming SI agent activities. It addresses: measures for limiting agent access to information, systems, tools, and networks; monitoring for unexpected activity; preserving evidence and shutting down undesired behavior; rebuilding from verified baselines; and reporting incidents and near-misses to relevant government agencies and affected parties. For more information and resources visit CISA’s Super Intelligence page.",
-      "type": "alerte",
-      "sev": "Faible",
       "category": "alerte"
     },
     {
@@ -3165,18 +3213,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "a92be7e19e543bd3b9be",
-      "title": "Eilik : ce robot pour enfants analyse leurs conversations chaque nuit",
-      "url": "https://frenchbreaches.com/blog/eilik-ce-robot-pour-enfants-analyse-leurs-conversations-chaque-nuit",
-      "source": "French Breaches-blog",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:20:00+00:00",
-      "desc": "Des millions de conversations stockées, des profils d’enfants constitués et de graves failles de sécurité : un chercheur français alerte sur le robot Eilik.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "011bccf226e11740de61",
@@ -3642,42 +3678,6 @@
       "date": "2026-10-09",
       "published": "2026-10-09T22:55:00+00:00",
       "desc": "École 42 : les données de 140 000 profils auraient été récupérées après le piratage d'un compte étudiant Mise à jour le 10 octobre à 09h00 L’école 42 confirme une fuite de données pouvant concerner jusqu’à 140 000 étudiants et candidats, notamment des noms, e-mails, identifiants…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8e7aee65c110f382f8d7",
-      "title": "ASOS",
-      "url": "https://frenchbreaches.com/alertes/asos-mv1dpielrzsucnmlgr",
-      "source": "French Breaches",
-      "date": "2026-10-09",
-      "published": "2026-10-09T19:48:00+00:00",
-      "desc": "Cyberattaque chez ASOS : un compte employé compromis, des données personnelles de clients exposées Le géant britannique de la mode en ligne ASOS informe ses clients d'un incident de cybersécurité ayant permis à un tiers non autorisé d'accéder à certaines informations personnelles…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "e84fd3609e64d69a2157",
-      "title": "Quitt",
-      "url": "https://frenchbreaches.com/alertes/quitt-mv1d7m5lqlir4jzqd4",
-      "source": "French Breaches",
-      "date": "2026-10-09",
-      "published": "2026-10-09T19:33:00+00:00",
-      "desc": "Fuite de données en Suisse : près de 30 000 personnes concernées chez Quitt.ch Une nouvelle base de données attribuée à une plateforme suisse est proposée à la vente sur un forum de cybercriminels. Le 9 octobre 2026, un pirate a revendiqué la mise en vente de données provenant de…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "69293b45c4e315b3c5f2",
-      "title": "Courtiers Partenaires",
-      "url": "https://frenchbreaches.com/alertes/courtiers-partenaires-mv1d4b8gmkvwz5wt9z",
-      "source": "French Breaches",
-      "date": "2026-10-09",
-      "published": "2026-10-09T19:30:00+00:00",
-      "desc": "Fuite de données en Suisse : les informations de 57 000 personnes proposées à la vente sur un forum de pirates Une plateforme suisse spécialisée dans la mise en relation avec des courtiers financiers et des professionnels de l’assurance fait l’objet d’une revendication de fuite d…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
