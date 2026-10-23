@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T02:46:24.004944+00:00",
+  "generated_at": "2026-10-23T10:47:24.105939+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,138 @@
     }
   ],
   "items": [
+    {
+      "id": "e21e419ebac57752b2c8",
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:36:00+00:00",
+      "desc": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "fec9d43d258d8b06efb7",
+      "title": "« Ils scrollent et se font infecter » : des milliers de sites piégés peuvent pirater votre iPhone",
+      "url": "https://www.01net.com/actualites/ils-scrollent-et-se-font-infecter-des-milliers-de-sites-pieges-peuvent-pirater-votre-iphone.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:19:34+00:00",
+      "desc": "Une vaste campagne qui infecte des iPhone à l'insu de leurs propriétaires vient d'être découverte. Pour parvenir à pirater les smartphones en restant sous le radar, les pirates détournent de vieilles « balises » publicitaires oubliées sur des milliers de sites. Ils arrivent ensuite, de fil en aiguille, à voler vos mots de passe et vos cryptomonnaies. Deux kits de piratage redoutables sont impliqués. Explications.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6f0d656bb8057a9f255e",
+      "title": "Cyberattaques : l’ANSSI alerte sur une menace grandissante contre l’énergie et l’eau",
+      "url": "https://frenchbreaches.com/blog/cyberattaques-lanssi-alerte-sur-une-menace-grandissante-contre-lenergie-et-leau",
+      "source": "French Breaches-blog",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:19:00+00:00",
+      "desc": "L’ANSSI alerte sur des cyberattaques visant l’énergie et l’eau, avec des opérations potentiellement liées à la Russie et à l’Iran.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "da325a81a2a1fad6ec18",
+      "title": "Capcom piraté : les données de 11,7 millions de comptes ont été volées",
+      "url": "https://www.01net.com/actualites/capcom-pirate-les-donnees-de-117-millions-de-comptes-ont-ete-volees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T09:04:39+00:00",
+      "desc": "Capcom a été victime d’un piratage qui a exposé les données de 11,7 millions de comptes Capcom ID. Si aucune donnée bancaire n’a été compromise, les joueurs sont appelés à la prudence face aux risques d’hameçonnage. L’éditeur met notamment en garde contre les faux messages qui pourraient usurper son identité.",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5119cb5ec0180f7a82b8",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T08:40:43+00:00",
+      "desc": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "43513002b0c380e9582f",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T08:35:45+00:00",
+      "desc": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "c3704a905c3689bdf536",
+      "title": "Capcom confirme une fuite de données touchant 11,7 millions de comptes",
+      "url": "https://www.cyber-securite.fr/capcom-confirme-une-fuite-de-donnees-touchant-117-millions-de-comptes/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-23",
+      "published": "2026-10-23T08:27:04+00:00",
+      "desc": "Capcom a confirmé une fuite de données liée à 11,7 millions de comptes CAPCOM ID. ... Lire plus L’article Capcom confirme une fuite de données touchant 11,7 millions de comptes est apparu en premier sur jeuxderole.com .",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "afcf72b02bd1ffdd6e6a",
+      "title": "Les données de 587 000 Français piratées : une cyberattaque frappe à nouveau la Fédération française de tir",
+      "url": "https://www.01net.com/actualites/donnees-587-000-francais-piratees-cyberattaque-frappe-nouveau-federation-francaise-de-tir.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T08:00:50+00:00",
+      "desc": "Pour la deuxième fois en un an, la Fédération française de tir a été piratée. Un cybercriminel a mis la main sur les données de près de 587 000 licenciés et les propose à la vente sur un forum. La fédération vient de confirmer la cyberattaque.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9d0cfa945b257eb4fa88",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T07:40:45+00:00",
+      "desc": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8e12d9600ba44ac36548",
+      "title": "Cyberattaque Flowise : Sekoia dévoile les méthodes des pirates",
+      "url": "https://www.cyber-securite.fr/cyberattaque-flowise-sekoia-devoile-les-methodes-des-pirates/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-23",
+      "published": "2026-10-23T05:29:00+00:00",
+      "desc": "Une cyberattaque contre Flowise révèle les risques liés aux plateformes qui pilotent les agents IA ... Lire plus L’article Cyberattaque Flowise : Sekoia dévoile les méthodes des pirates est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "81990e9430bdb8d30795",
+      "title": "Après PHP, une autre brique essentielle du web doit être mise à jour d’urgence",
+      "url": "https://www.01net.com/actualites/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-durgence.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T04:58:32+00:00",
+      "desc": "Après les failles critiques découvertes dans PHP, c’est au tour de Node.js de publier des correctifs de sécurité en urgence. Dix vulnérabilités ont été corrigées, dont quatre graves, avec notamment un risque d’exécution de code à distance. Les administrateurs sont invités à mettre à jour leurs serveurs sans attendre.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "d01c44e803ed7bc74748",
       "title": "Quad9 quitte la France : son DNS sécurisé s'arrêtera le 24 novembre 2026",
@@ -573,6 +705,18 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
+    },
+    {
+      "id": "d7fec0bf7c00fb0da61f",
+      "title": "Ordre du jour de la séance plénière du 22 octobre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-22-octobre-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-10-22",
+      "published": "2026-10-22T12:00:00+00:00",
+      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 22 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "bbaceb69b77dcf201948",
@@ -1895,18 +2039,6 @@
       "category": "actualite"
     },
     {
-      "id": "83726241ddf0864fa5e4",
-      "title": "Vol de données des licenciés à la Fédération française de tir",
-      "url": "https://www.cyber-securite.fr/vol-de-donnees-des-licencies-a-la-federation-francaise-de-tir/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-20",
-      "published": "2026-10-20T09:00:58+00:00",
-      "desc": "French Breaches rapporte le vol de près de 587 000 fiches, de 64 000 photos, ... Lire plus L’article Vol de données des licenciés à la Fédération française de tir est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "913decdbb4e099c73c50",
       "title": "Anthropic soumet en privé un projet de loi fédéral sur l'IA",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-soumet-en-prive-un-projet-de-loi-federal-sur-l-ia-100858.html",
@@ -1951,18 +2083,6 @@
       "published": "2026-10-20T07:11:45+00:00",
       "desc": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "3887832210c30a44f725",
-      "title": "Administrateur sécurité, un métier clé en entreprise",
-      "url": "https://www.cyber-securite.fr/administrateur-securite-un-metier-cle-en-entreprise/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-20",
-      "published": "2026-10-20T06:35:37+00:00",
-      "desc": "L’administrateur sécurité protège les systèmes et les données d’une entreprise par des actions techniques régulières. ... Lire plus L’article Administrateur sécurité, un métier clé en entreprise est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2087,30 +2207,6 @@
       "category": "fuite"
     },
     {
-      "id": "e6f76086848f718ff70f",
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T14:14:07+00:00",
-      "desc": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "bdcf728a9e2a0cc66314",
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T13:05:45+00:00",
-      "desc": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "69c559b617aa806be6c0",
       "title": "Cybersécurité : les infrastructures critiques françaises peinent à automatiser leur réponse aux attaques",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
@@ -2145,30 +2241,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "8674d78c6f98bb17df75",
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T11:50:00+00:00",
-      "desc": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "62badca6addc0ac9c83b",
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T10:06:40+00:00",
-      "desc": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "02300095b15b083482f3",
@@ -2891,18 +2963,6 @@
       "category": "alerte"
     },
     {
-      "id": "ba64b106c9b9d4e6da16",
-      "title": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "187223b03058e67c7dca",
       "title": "Cyberattaques en France : des hackers prorusses s'en prennent aux ports, à la défense et à des sites de l'État",
       "url": "https://frenchbreaches.com/blog/cyberattaques-en-france-des-hackers-prorusses-sen-prennent-aux-ports-a-la-defense-et-a-des-sites-de-letat",
@@ -3191,18 +3251,6 @@
       "category": "actualite"
     },
     {
-      "id": "d66a536ad5f63da4ea6b",
-      "title": "OpenAI : un employé arrêté par le FBI après la découverte d’un dispositif d’espionnage",
-      "url": "https://frenchbreaches.com/blog/openai-un-employe-arrete-par-le-fbi-apres-la-decouverte-dun-dispositif-despionnage",
-      "source": "French Breaches-blog",
-      "date": "2026-10-14",
-      "published": "2026-10-14T00:18:00+00:00",
-      "desc": "Un ingénieur d’OpenAI a été arrêté par le FBI après la découverte d’un dispositif d’écoute clandestin dans une salle de réunion. L’enquête se poursuit.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ff37a3da86231308a614",
       "title": "WeFix",
       "url": "https://frenchbreaches.com/alertes/wefix-mv71ytsbqzi558m93c",
@@ -3383,18 +3431,6 @@
       "category": "actualite"
     },
     {
-      "id": "ac3c58c8ad4bb63a591a",
-      "title": "Ledger trafiqués : MediaMarkt suspend la vente des portefeuilles crypto avec la découverte d’un « implant » espion",
-      "url": "https://www.01net.com/actualites/ledger-portefeuilles-pieges-avant-livraison-86-millions-dollars-voles.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-12",
-      "published": "2026-10-12T06:51:31+00:00",
-      "desc": "Des portefeuilles Ledger ont été trafiqués par des cybercriminels. La licorne française a découvert qu'un appareil vendu par CryptoBilis, son revendeur agréé en Asie du Sud-Est, contenait un composant espion destiné à dérober les clés privées des investisseurs. Plus de 86 millions de dollars ont été volés à des centaines d'utilisateurs dans le cadre cette opération. Ledger affirme que les appareils vendus sur son site officiel ne sont pas concernés.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "67c2855fece24423a7a8",
       "title": "Alloextra",
       "url": "https://frenchbreaches.com/alertes/alloextra-mv4mhd0168xtcvl3oeh",
@@ -3465,18 +3501,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "faa5d5201020b769c195",
-      "title": "Fuite de données : la Cnaf suspend un site d’urgence après un « incident de cybersécurité »",
-      "url": "https://www.01net.com/actualites/caf-vacaf-pirate-site-coupe-urgence-fuite-donnees.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-11",
-      "published": "2026-10-11T07:53:02+00:00",
-      "desc": "La Cnaf a été victime d'un incident de cybersécurité sur Vacaf, le service d'aide aux vacances des Caf. Une fuite de données a été signalée par ses équipes après la revendication d'un pirate. Suite à cet incident, la plateforme vacaf.org a été suspendue jusqu'à nouvel ordre.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "1414c0b5bd63bfbf5159",
@@ -3573,30 +3597,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "0e2582c76d55903f3bde",
-      "title": "Des milliers de photos intimes volées : la France fait tomber le site NudeLeaksTeens et arrête deux cybercriminels",
-      "url": "https://www.01net.com/actualites/plus-17-000-photos-intimes-volees-france-fait-tomber-site-nudeleaksteens-arrete-deux-cybercriminels.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-10",
-      "published": "2026-10-10T07:32:22+00:00",
-      "desc": "Deux frères de 21 et 25 ans ont été interpellés dans le nord de la France. Les deux comparses sont soupçonnés d'avoir administré NudeLeaksTeens, un site qui vendait des images intimes volées à plus de 17 000 femmes et jeunes filles. Plus de 700 000 euros de cryptomonnaies ont été saisis dans la foulée.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "713580d8a2c3f98c5a91",
-      "title": "730 millions de données volées : la police fait tomber Reacher, le moteur de recherche pirate de 3 ados",
-      "url": "https://www.01net.com/actualites/730-millions-donnees-volees-police-fait-tomber-reacher-moteur-recherche-pirate-3-ados.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-10",
-      "published": "2026-10-10T07:20:53+00:00",
-      "desc": "L'Office anti-cybercriminalité (OFAC) a interpellé les trois administrateurs présumés d'un « lookup », un moteur de recherche pirate qui revend des données personnelles volées. Le site s'était appelé Reacher, avant de se rebaptiser Stryx. Il permettait de retrouver quelqu'un à partir d'un simple numéro de téléphone ou d'un IBAN.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "fe4a45bb728aa03e3f00",
@@ -3707,18 +3707,6 @@
       "category": "actualite"
     },
     {
-      "id": "24b9aea343ac0b857554",
-      "title": "Ordre du jour de la séance plénière du 8 octobre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-08",
-      "published": "2026-10-08T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "44dbbf35e395e5d1fe35",
       "title": "Confiance numérique : les entreprises françaises privilégient la sécurité et la conformité",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
@@ -3789,6 +3777,18 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "cb39e6bee236c515818c",
+      "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau (22 janvier 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/dur/CERTFR-2025-DUR-003/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-01-22",
+      "published": "2026-01-22T00:00:00+00:00",
+      "desc": "**Objet** : Recommandations de sécurisation des systèmes d’information à destination des producteurs, des intégrateurs et des installateurs des systèmes de production industriels du secteur de l’énergie et de l’eau en France. **Annexe** : Liens et références Depuis plusieurs mois, l’Agence...",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "alerte"
     }
   ]
 }
