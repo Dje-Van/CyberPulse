@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:47:24.105939+00:00",
+  "generated_at": "2026-10-23T16:12:35.924225+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,162 @@
     }
   ],
   "items": [
+    {
+      "id": "5112d2d0592613a3f787",
+      "title": "GitLab corrige une faille critique vieille de douze ans",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-gitlab-corrige-une-faille-critique-vieille-de-douze-ans-100870.html",
+      "source": "Actualités securite",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:53:05+00:00",
+      "desc": "Douze ans de versions concernées et un niveau de gravité maximal. Le 21 octobre, GitLab a publié des correctifs de sécurité (...)",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "5f5fa1afd767768d5723",
+      "title": "Meta condamné à verser 25 Md$ pour avoir trompé ses utilisateurs sur la confidentialité",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-meta-condamne-a-verser-25-md$-pour-avoir-trompe-ses-utilisateurs-sur-la-confidentialite-100868.html",
+      "source": "Actualités securite",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:42:25+00:00",
+      "desc": "Meta fait face à une sanction financière exceptionnelle aux États-Unis. Le 21 octobre 2026, un juge du Nouveau-Mexique a ordonné (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d32d82b9d6777801ca8f",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:38:05+00:00",
+      "desc": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "40ac2e5dd3b0b02ed29b",
+      "title": "« La situation va empirer » : après le chaos PHP, Anthropic prédit d’autres turbulences sur l’Internet mondial",
+      "url": "https://www.01net.com/actualites/la-situation-va-empirer-apres-le-chaos-php-anthropic-predit-dautres-turbulences-sur-linternet-mondial.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T15:27:39+00:00",
+      "desc": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l’intelligence artificielle fait peser sur la cybersécurité. Selon un responsable d’Anthropic, les 18 prochains mois pourraient être particulièrement difficiles, le temps que les entreprises adaptent leurs défenses.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "92749712f9150ad218f4",
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T14:00:10+00:00",
+      "desc": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "64b0ac9d140d11671a4a",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T13:50:56+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "81c6cd411c8ae35b6697",
+      "title": "Retraites : les données de 450 000 personnes seraient en vente après un incident de sécurité",
+      "url": "https://frenchbreaches.com/blog/retraites-les-donnees-de-450-000-personnes-seraient-en-vente-apres-un-incident-de-securite",
+      "source": "French Breaches-blog",
+      "date": "2026-10-23",
+      "published": "2026-10-23T13:43:00+00:00",
+      "desc": "Les données personnelles de 450 000 personnes liées à l'Ircantec seraient en vente sur un forum cybercriminel. Un incident de sécurité a également été confirmé sur une plateforme de la Caisse des Dépôts.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b935895e6ad4e0be114a",
+      "title": "Bornes de recharge : une cyberattaque expose les données personnelles des automobilistes",
+      "url": "https://frenchbreaches.com/blog/bornes-de-recharge-une-cyberattaque-expose-les-donnees-personnelles-des-automobilistes",
+      "source": "French Breaches-blog",
+      "date": "2026-10-23",
+      "published": "2026-10-23T13:39:00+00:00",
+      "desc": "Plenitude On The Road confirme une cyberattaque ayant entraîné une fuite de données personnelles. Numéros fiscaux, adresses et historiques de recharge sont concernés.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "afb5cb93f2a58d9eca15",
+      "title": "Plenitude On The Road",
+      "url": "https://frenchbreaches.com/alertes/plenitude-on-the-road-mvkzvkaghaihpwmydjt",
+      "source": "French Breaches",
+      "date": "2026-10-23",
+      "published": "2026-10-23T13:20:00+00:00",
+      "desc": "Fuite de données chez Plenitude On The Road : des informations personnelles de clients compromises Plenitude On The Road, spécialiste des services de recharge pour véhicules électriques, confirme avoir été victime d'une cyberattaque entre les 19 et 20 octobre 2026, ayant entraîné…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "690940732ff7fbfeb274",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T12:48:00+00:00",
+      "desc": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "81e4f44fa443ebc7cac2",
+      "title": "DeepSeek aurait réussi à contourner les défenses de Chrome en 12 heures",
+      "url": "https://www.01net.com/actualites/deepseek-aurait-reussi-a-contourner-les-defenses-de-chrome-en-12-heures.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-23",
+      "published": "2026-10-23T12:00:36+00:00",
+      "desc": "Un chercheur en cybersécurité affirme être parvenu à contourner le bac à sable de Chrome en seulement 12 heures. Il aurait mobilisé un modèle de DeepSeek, performant, mais surtout peu coûteux.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d3e6fb1a3911b1e6b90b",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T11:25:43+00:00",
+      "desc": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "76da60089176983713f4",
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "source": "The Hacker News",
+      "date": "2026-10-23",
+      "published": "2026-10-23T11:11:23+00:00",
+      "desc": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "e21e419ebac57752b2c8",
       "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
@@ -143,6 +299,138 @@
       "category": "actualite"
     },
     {
+      "id": "54ff598d145d94b258ee",
+      "title": "Multiples vulnérabilités dans les produits Red Hat (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1373/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "839ea7a4903723e71d23",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1369/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "5e64c87a4510e26cee3b",
+      "title": "Vulnérabilité dans Mattermost Server (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1368/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "f8af8e8f366fc07ed68b",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1371/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "f334b7c8a18c73bd03bb",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1375/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "a4d661aa82224ecae1b6",
+      "title": "Multiples vulnérabilités dans les produits Tenable (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1370/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "4f4b48c569c057cd924c",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1374/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "4759bb58bc81d1b93722",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1376/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "6a96974f8c0e8ed1ea10",
+      "title": "Multiples vulnérabilités dans les produits SUSE (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1372/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "6fd020581e4c23c84818",
+      "title": "Multiples vulnérabilités dans les produits IBM (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1378/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "f17e87e02e0da1c23dfd",
+      "title": "Multiples vulnérabilités dans les produits Papercut (23 octobre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1377/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-10-23",
+      "published": "2026-10-23T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "d01c44e803ed7bc74748",
       "title": "Quad9 quitte la France : son DNS sécurisé s'arrêtera le 24 novembre 2026",
       "url": "https://frenchbreaches.com/blog/quad9-quitte-la-france-son-dns-securise-sarretera-le-24-novembre-2026",
@@ -167,14 +455,14 @@
       "category": "actualite"
     },
     {
-      "id": "eb92429cfcf617eee6f5",
-      "title": "Icantec (retraites)",
-      "url": "https://frenchbreaches.com/alertes/icantec-retraites-mvk0hhi1k0g8fp7vhof",
+      "id": "5985109fbf2d0e98ac14",
+      "title": "Ircantec (retraites)",
+      "url": "https://frenchbreaches.com/alertes/ircantec-retraites-mvk0hhi1k0g8fp7vhof",
       "source": "French Breaches",
       "date": "2026-10-22",
       "published": "2026-10-22T20:45:00+00:00",
-      "desc": "Ircantec : les données personnelles de 450 000 personnes mises en vente sur un forum cybercriminel ? Une nouvelle annonce inquiétante circule sur un forum fréquenté par des cybercriminels. Ce jeudi 22 octobre 2026, un utilisateur affirme proposer à la vente une base de données co…",
-      "type": "fuite",
+      "desc": "Ircantec : les données personnelles de 450 000 personnes mises en vente sur un forum cybercriminel ? Mise à jour le 23 octobre à 09h00 : l'Ircantec confirme un incident de sécurité sur PEP's Dans un communiqué officiel, l'Ircantec indique que la plateforme PEP's a été temporairem…",
+      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -1091,18 +1379,6 @@
       "category": "actualite"
     },
     {
-      "id": "a299ef36c76884d023c2",
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T18:34:42+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d9304dd4f7f5ae5de2a3",
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -1139,18 +1415,6 @@
       "category": "actualite"
     },
     {
-      "id": "ed4ad11dc3da0c9d28e6",
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T16:26:53+00:00",
-      "desc": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "974b4d9648af60524b87",
       "title": "Fausse alerte Freebox : une grosse erreur a semé la panique chez les abonnés Free",
       "url": "https://www.01net.com/actualites/fausse-alerte-erreur-panique-abonnes-free.html",
@@ -1171,18 +1435,6 @@
       "published": "2026-10-21T15:25:29+00:00",
       "desc": "Une faille critique touche FortiSIEM et permet une exécution de code à distance sans authentification. ... Lire plus L’article FortiSIEM : une faille critique et un PoC désormais public est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "f86121e76c16bc505cb2",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "source": "BleepingComputer",
-      "date": "2026-10-21",
-      "published": "2026-10-21T14:07:05+00:00",
-      "desc": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "type": "cve",
       "sev": "Critique",
       "category": "actualite"
     },
@@ -2099,18 +2351,6 @@
       "category": "actualite"
     },
     {
-      "id": "41ada449c348308462af",
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T04:05:58+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ba2a3bfbbc79a1ce87be",
       "title": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-008/",
@@ -2157,30 +2397,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "2b433345de9bc12f06d2",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T17:32:13+00:00",
-      "desc": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "98fe862721adbe7cb835",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "source": "The Hacker News",
-      "date": "2026-10-19",
-      "published": "2026-10-19T16:28:47+00:00",
-      "desc": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "3b6286ee3ab6f0096359",
@@ -2267,30 +2483,6 @@
       "category": "actualite"
     },
     {
-      "id": "7921a47e6cd78d3e97f1",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-044 (19 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-044/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-19",
-      "published": "2026-10-19T00:00:00+00:00",
-      "desc": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "9011beeca002e95b67fd",
-      "title": "Vulnérabilité dans Mattermost Server (19 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1338/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-19",
-      "published": "2026-10-19T00:00:00+00:00",
-      "desc": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "ef0ec883a3c12dbb29c1",
       "title": "Multiples vulnérabilités dans les produits F5 (19 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1341/",
@@ -2303,18 +2495,6 @@
       "category": "alerte"
     },
     {
-      "id": "53e685e892b783ee0b03",
-      "title": "Multiples vulnérabilités dans Juniper Networks Session Smart Router (19 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1337/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-19",
-      "published": "2026-10-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Juniper Networks Session Smart Router. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "07aa48920ce2b686bdf9",
       "title": "Multiples vulnérabilités dans Microsoft Edge (19 octobre 2026)",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1342/",
@@ -2322,30 +2502,6 @@
       "date": "2026-10-19",
       "published": "2026-10-19T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "a2a0312226d8e5531b25",
-      "title": "Multiples vulnérabilités dans Stormshield Network Security (19 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1339/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-19",
-      "published": "2026-10-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "8729ffe7c86262a87f7b",
-      "title": "Multiples vulnérabilités dans Roundcube Webmail (19 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1340/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-19",
-      "published": "2026-10-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -2525,9 +2681,9 @@
       "source": "French Breaches",
       "date": "2026-10-17",
       "published": "2026-10-17T19:21:00+00:00",
-      "desc": "Centrale Canine : un pirate revendique une fuite de données concernant 1,4 million de personnes La Centrale Canine, organisme français chargé notamment de la gestion du Livre des origines français (LOF), fait l'objet d'une importante revendication de fuite de données personnelles…",
+      "desc": "Centrale Canine : un pirate revendique une fuite de données concernant 1,4 million de personnes Mise à jour du 20 octobre 2026 à 10h26 La Centrale Canine confirme un incident de sécurité sur son service LOFConnect, après l'utilisation frauduleuse de plusieurs comptes d'éleveurs c…",
       "type": "fuite",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
@@ -2693,9 +2849,9 @@
       "source": "French Breaches",
       "date": "2026-10-16",
       "published": "2026-10-16T23:45:00+00:00",
-      "desc": "Fuite de données chez Nomad Education : des millions d'élèves et étudiants potentiellement concernés Des millions d'élèves et d'étudiants pourraient être concernés par une importante fuite de données visant Nomad Education, une application française de soutien scolaire. Un pirate…",
+      "desc": "Fuite de données chez Nomad Education : des millions d'élèves et étudiants potentiellement concernés Mise à jour du 23 octobre 2026 à 12h00 Nomad Education confirme avoir été victime d'une cyberattaque le 16 octobre 2026, ayant entraîné un accès non autorisé à certaines données p…",
       "type": "fuite",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
@@ -2889,78 +3045,6 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "5fd0700ed0130a90d442",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "367290ad61c14dca47ef",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "07cf53bdd502a91b45aa",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "6ef0de32f5eedf347b41",
-      "title": "Multiples vulnérabilités dans les produits IBM (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "2ea5b3197df98be9193f",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "d3cb4b42e51ab381c7f9",
-      "title": "Multiples vulnérabilités dans Microsoft Office (16 octobre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
     },
     {
       "id": "187223b03058e67c7dca",
@@ -3167,18 +3251,6 @@
       "category": "fuite"
     },
     {
-      "id": "bfa4644ec914ed2d3651",
-      "title": "Messages, photos, vidéos : ce que révèle une enquête sur Palantir et vos données privées",
-      "url": "https://frenchbreaches.com/blog/messages-photos-videos-ce-que-revele-une-enquete-sur-palantir-et-vos-donnees-privees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-14",
-      "published": "2026-10-14T18:50:00+00:00",
-      "desc": "Les messages privés signalés par des plateformes européennes sont analysés aux États-Unis avec un logiciel de Palantir, selon une enquête.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ea8a0056a65ccfa3a7c4",
       "title": "Cyberattaque nationale : pourquoi les pirates s’attaquent maintenant aux supermarchés ?",
       "url": "https://www.01net.com/actualites/piratage-frigos-pourquoi-hackers-attaquent-supermarches.html",
@@ -3235,18 +3307,6 @@
       "published": "2026-10-14T07:05:48+00:00",
       "desc": "Microsoft vient de publier un nouveau Patch Tuesday hors norme, avec plus de 1 400 failles corrigées dans le code de Windows. C'est la troisième fois cette année que l'éditeur bat son propre record. Sans surprise, Microsoft s'est massivement servi de l'intelligence artificielle pour débusquer les bugs.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "906afc01cd70bc98fd29",
-      "title": "Cyberattaque : un pirate revendique le vol de 122 Go de données de la fédération de football des Émirats",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-un-pirate-revendique-le-vol-de-122-go-de-donnees-de-la-federation-de-football-des-emirats",
-      "source": "French Breaches-blog",
-      "date": "2026-10-14",
-      "published": "2026-10-14T06:48:00+00:00",
-      "desc": "La Fédération de football des Émirats arabes unis ciblée par un pirate : 122 Go de données et des milliers de documents potentiellement exposés.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3405,30 +3465,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "a23db1ade9bce4551890",
-      "title": "« 123456 » : ce terrible mot de passe est responsable d’une gigantesque fuite de données",
-      "url": "https://www.01net.com/actualites/123456-ce-terrible-mot-de-passe-est-responsable-dune-gigantesque-fuite-de-donnees.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-12",
-      "published": "2026-10-12T11:00:10+00:00",
-      "desc": "« 123456 ». C'est le mot de passe qu'un pirate a compromis pour s'emparer des données de 8,8 millions de personnes au Danemark. Le hacker raconte comment ce mot de passe a abouti à l'une des pires fuites de données jamais orchestrées contre une autorité publique en Europe.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "86cccd9d4633100ae9bc",
-      "title": "50°C dans les frigos : une cyberattaque oblige Intermarché, Leclerc et Super U à jeter leurs produits frais",
-      "url": "https://www.01net.com/actualites/50-degres-frigos-intermarche-systeme-u-cyberattaque-oblige-150-supermarches-jeter.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-12",
-      "published": "2026-10-12T10:13:45+00:00",
-      "desc": "Depuis la nuit de dimanche à lundi, une cyberattaque a frappé les systèmes de régulation du froid du fabricant Danfoss. En France, Intermarché, Leclerc et Super U sont touchés par ce dérèglement d'envergure. Les pirates sont parvenus à faire grimper à distance la température des frigos. Les magasins ont été obligés de tout jeter....",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "67c2855fece24423a7a8",
@@ -3647,18 +3683,6 @@
       "category": "fuite"
     },
     {
-      "id": "c4cdf5daf20373a03cd0",
-      "title": "Maileva",
-      "url": "https://frenchbreaches.com/alertes/maileva-mufora09gh9so92vdk",
-      "source": "French Breaches",
-      "date": "2026-10-09",
-      "published": "2026-10-09T19:00:00+00:00",
-      "desc": "Cyberattaque chez Maileva : les données personnelles de 22 millions de personnes concernées La cyberattaque ayant touché Maileva en septembre 2026 est bien plus importante que ne le laissaient entendre les premières communications. Dans un document daté du 5 octobre et consulté p…",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
       "id": "085ef14536dd3b7be4cd",
       "title": "La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
@@ -3751,30 +3775,6 @@
       "published": "2026-10-05T12:13:30+00:00",
       "desc": "Début septembre, l’ANSSI a annoncé avoir été victime d’une cyberattaque. Un comble pour l’agence chargée (...)",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "66cea3ae1f03666e4593",
-      "title": "Microsoft pointe la montée en puissance des attaques assistées par l'IA",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-pointe-la-montee-en-puissance-des-attaques-assistees-par-l-ia-100829.html",
-      "source": "Actualités securite",
-      "date": "2026-10-05",
-      "published": "2026-10-05T09:36:09+00:00",
-      "desc": "L’IA ne constitue plus seulement un outil dans la boîte à outils des cyberattaquants. Elle est en train de modifier la vitesse, l’échelle (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "31fdc1f3d63166986046",
-      "title": "Les géants de la tech et Trump signent un accord sur la sécurité de l'IA",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-les-geants-de-la-tech-et-trump-signent-un-accord-sur-la-securite-de-l-ia-100826.html",
-      "source": "Actualités securite",
-      "date": "2026-10-02",
-      "published": "2026-10-02T15:57:09+00:00",
-      "desc": "Le gouvernement américain poursuit son virage vers une régulation limitée de l’intelligence artificielle. Sous l’administration (...)",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
