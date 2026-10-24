@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:50:49.753915+00:00",
+  "generated_at": "2026-10-24T02:43:22.055372+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,66 @@
     }
   ],
   "items": [
+    {
+      "id": "bf3ea9c07e32bf41d5be",
+      "title": "ENGIE : une fuite de données expose les informations personnelles de certains clients",
+      "url": "https://frenchbreaches.com/blog/engie-une-fuite-de-donnees-expose-les-informations-personnelles-de-certains-clients",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T00:44:00+00:00",
+      "desc": "ENGIE alerte ses clients après un incident informatique. Noms, adresses, téléphones et numéros de contrat figurent parmi les données exposées.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "195b3b997fc317fc75ae",
+      "title": "ENGIE",
+      "url": "https://frenchbreaches.com/alertes/engie-mvlo8lnlyi52chd0vmq",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T00:37:00+00:00",
+      "desc": "Fuite de données chez ENGIE : des informations personnelles de clients exposées ENGIE informe certains de ses clients d'un incident de cybersécurité ayant touché un outil utilisé par des partenaires commerciaux pour proposer des offres d'énergie. Des accès non autorisés à plusieu…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "21f38803f3a2d1de94dc",
+      "title": "Popcorn Time : des millions d'ordinateurs exposés à un piratage massif",
+      "url": "https://frenchbreaches.com/blog/popcorn-time-des-millions-dordinateurs-exposes-a-un-piratage-massif",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T00:29:00+00:00",
+      "desc": "Une faille de Popcorn Time aurait pu exposer des millions de PC. Des chercheurs ont agi pour empêcher leur piratage.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c0e4b55f48536285aba7",
+      "title": "Faille PHP : plus de 2,2 millions de services vulnérables en France",
+      "url": "https://frenchbreaches.com/blog/faille-php-plus-de-22-millions-de-services-vulnerables-en-france",
+      "source": "French Breaches-blog",
+      "date": "2026-10-23",
+      "published": "2026-10-23T22:34:00+00:00",
+      "desc": "Une faille de sécurité touchant PHP expose potentiellement plus de 2,2 millions de services en France. Des dizaines de millions sont concernés dans le monde.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a5d4387518b81efb54bc",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-23",
+      "published": "2026-10-23T20:55:05+00:00",
+      "desc": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "e3ceabcd0c4b4ac0d318",
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
@@ -1235,18 +1295,6 @@
       "category": "actualite"
     },
     {
-      "id": "e476028eb9f1368a202b",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22",
-      "published": "2026-10-22T08:27:11+00:00",
-      "desc": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
       "id": "b1e36f34d1a1ea4f70e0",
       "title": "Ne ratez pas pCloud Pass à vie à -50% : offre valable jusqu’au 25/10",
       "url": "https://www.cyber-securite.fr/ne-ratez-pas-pcloud-pass-a-vie-a-50-offre-valable-jusquau-25-10/",
@@ -1625,7 +1673,7 @@
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-10-21",
       "published": "2026-10-21T12:00:00+00:00",
-      "desc": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of publication, they pose a risk to organizations if left unpatched. CISA urges organizations to take the following actions: Identify and inventory systems running any version of PHP across your organization. PHP is often a component of other software and prevalence may not be directly observable. Apply the patch immediately, prioritizing internet-facing systems. Organizations that cannot update immediately, or that continue to use PHP 8.1 or earlier unsupported versions, should take PHP-based systems offline until they can be patched or updated. A web application firewall may provide some protection until systems are updated or patched. Review the official PHP security advisory for guidance on patching. Monitor for suspicious activity, including PHP worker processes launching shells or downloading tools. CISA urges network defenders to review the following advisory and apply necessary updates: Security Advisory: Critical Remote Code Execution Vulnerabilities, Update Now Disclaimer The information in this report is being provided “as is” for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes,",
+      "desc": "Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP. The vulnerabilities affect all PHP installations serving web requests, including Apache with mod_php ( Note : PHP considers this highest risk), PHP-FPM, php-cgi, FrankenPHP and LiteSpeed. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed successful exploitation of these vulnerabilities in the wild as of the time of publication, they pose a risk to organizations if left unpatched. Actions to Take CISA urges organizations to take the following actions: Identify and inventory systems running any version of PHP across your organization. PHP is often a component of other software and prevalence may not be directly observable. Apply the patch immediately, prioritizing internet-facing systems. Organizations that cannot update immediately, or that continue to use PHP 8.1 or earlier unsupported versions, should take PHP-based systems offline until they can be patched or updated. A web application firewall may provide some protection until systems are updated or patched. Review the official PHP security advisory for guidance on patching. Monitor for suspicious activity, including PHP worker processes launching shells or downloading tools. Resources CISA urges network defenders to review the following advisories and re",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -3095,18 +3143,6 @@
       "category": "actualite"
     },
     {
-      "id": "187223b03058e67c7dca",
-      "title": "Cyberattaques en France : des hackers prorusses s'en prennent aux ports, à la défense et à des sites de l'État",
-      "url": "https://frenchbreaches.com/blog/cyberattaques-en-france-des-hackers-prorusses-sen-prennent-aux-ports-a-la-defense-et-a-des-sites-de-letat",
-      "source": "French Breaches-blog",
-      "date": "2026-10-15",
-      "published": "2026-10-15T23:29:00+00:00",
-      "desc": "Cyberattaques en France : des hackers prorusses revendiquent des attaques DDoS contre les ports, l'industrie de défense et le SGDSN. L'Italie également visée.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d9d02c4cd4134abd2709",
       "title": "Mairie de Saillans",
       "url": "https://frenchbreaches.com/alertes/mairie-de-saillans-mva4u7duoeidk4s95hb",
@@ -3155,18 +3191,6 @@
       "category": "fuite"
     },
     {
-      "id": "a9f0cdbbc5158fe9ca68",
-      "title": "Cyberattaque en Suisse : les données personnelles de milliers d'assurés potentiellement exposées",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-en-suisse-les-donnees-personnelles-de-milliers-dassures-potentiellement-exposees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-15",
-      "published": "2026-10-15T16:46:00+00:00",
-      "desc": "Cyberattaque en Suisse : Publica confirme une fuite de données. Jusqu'à 112 000 assurés pourraient être concernés, avec des salaires, numéros AVS et IBAN exposés.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "03e76ae67cbab0c9cdbe",
       "title": "Google corrige 37 nouvelles failles Chrome, l’IA accélère encore la cadence des mises à jour",
       "url": "https://www.01net.com/actualites/google-corrige-37-nouvelles-failles-chrome-lia-accelere-encore-la-cadence-des-mises-a-jour.html",
@@ -3189,18 +3213,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "660305841c705261817a",
-      "title": "Franc-maçonnerie : des centaines de documents internes et financiers du Grand Orient de France exposés dans une fuite de données",
-      "url": "https://frenchbreaches.com/blog/franc-maconnerie-des-centaines-de-documents-internes-et-financiers-du-grand-orient-de-france-exposes-dans-une-fuite-de-donnees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:22:00+00:00",
-      "desc": "Franc-maçonnerie : des centaines de documents du Grand Orient de France auraient fuité, révélant des comptes rendus de réunions, des dossiers financiers et des informations internes.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "dbedb621bf9e3232d324",
@@ -3666,18 +3678,6 @@
       "date": "2026-10-10",
       "published": "2026-10-10T08:10:00+00:00",
       "desc": "Callibri : les données de 61 000 contacts auraient été compromises lors d'une fuite de données Mise à jour le 11 octobre Le 10 octobre 2026, Callibri a été victime d’un accès frauduleux au compte de l’un de ses clients, entraînant l’extraction d’une partie de ses fiches contacts.…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "fe4a45bb728aa03e3f00",
-      "title": "École 42",
-      "url": "https://frenchbreaches.com/alertes/cole-42-mv0c35v3wnuu9qjgsyn",
-      "source": "French Breaches",
-      "date": "2026-10-09",
-      "published": "2026-10-09T22:55:00+00:00",
-      "desc": "École 42 : les données de 140 000 profils auraient été récupérées après le piratage d'un compte étudiant Mise à jour le 10 octobre à 09h00 L’école 42 confirme une fuite de données pouvant concerner jusqu’à 140 000 étudiants et candidats, notamment des noms, e-mails, identifiants…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
