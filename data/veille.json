@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:03:31.732164+00:00",
+  "generated_at": "2026-10-24T15:08:44.345127+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "ed9fe79f62b579cc6343",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "BleepingComputer",
+      "date": "2026-10-24",
+      "published": "2026-10-24T14:17:32+00:00",
+      "desc": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a64123d828297872a642",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24",
+      "published": "2026-10-24T11:09:29+00:00",
+      "desc": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c2f353f11fcac6078e3a",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24",
+      "published": "2026-10-24T11:03:33+00:00",
+      "desc": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "272faf1cbd4d169f2a49",
+      "title": "Fuites de données : les partis de gauche sont-ils ciblés par des cyberattaques ?",
+      "url": "https://frenchbreaches.com/blog/fuites-de-donnees-les-partis-de-gauche-sont-ils-cibles-par-des-cyberattaques",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T10:50:00+00:00",
+      "desc": "Le PCF et La France insoumise sont concernés par deux affaires de fuite de données en moins de 24 heures. Une série qui soulève la question d'un ciblage politique.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ed6cb319ad856dfd2ce7",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24",
+      "published": "2026-10-24T10:36:33+00:00",
+      "desc": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "27710cf04aa2aa2c5dbb",
+      "title": "Alliance Police Nationale",
+      "url": "https://frenchbreaches.com/alertes/alliance-police-nationale-mvm8kwbes2qjalfgawg",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T10:07:00+00:00",
+      "desc": "Alliance Police Nationale victime d'un incident informatique : des données personnelles d'adhérents compromises Le syndicat Alliance Police Nationale a informé ses adhérents avoir été victime d'un incident de sécurité informatique ayant entraîné un accès non autorisé à certaines…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "77340351d09db529d8cf",
       "title": "La France insoumise visée par une fuite de 1,2 million de données",
@@ -33,6 +105,18 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "ae5fe3ec49b34664a0f6",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24",
+      "published": "2026-10-24T09:04:24+00:00",
+      "desc": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "ad7396463092f2b221e8",
@@ -1295,18 +1379,6 @@
       "category": "fuite"
     },
     {
-      "id": "bbaceb69b77dcf201948",
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22",
-      "published": "2026-10-22T11:41:48+00:00",
-      "desc": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "87f9f5bb405b11b3ac6e",
       "title": "Cyberattaque contre les frigos de supermarchés : on sait enfin ce qu’il s’est vraiment passé",
       "url": "https://www.01net.com/actualites/cyberattaque-contre-les-frigos-de-supermarches-on-sait-enfin-ce-quil-sest-vraiment-passe.html",
@@ -2459,54 +2531,6 @@
       "category": "fuite"
     },
     {
-      "id": "a7c836b591fb5c91aca8",
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T11:41:06+00:00",
-      "desc": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9dbc1788a3b16b3ed963",
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T11:33:04+00:00",
-      "desc": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "de281832e0512dd141b4",
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T11:32:59+00:00",
-      "desc": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a960a69e2016cfacc557",
-      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T11:06:25+00:00",
-      "desc": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "51ab14484f02c5721220",
       "title": "« C’est un nouveau monde » : une armée d’IA vient de lancer une cyberattaque « massive », plus de 100 entreprises piratées",
       "url": "https://www.01net.com/actualites/nouveau-monde-armee-ia-vient-lancer-cyberattaque-massive-plus-100-entreprises-piratees.html",
@@ -3021,18 +3045,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "f8ed1634c20e0de89ce7",
-      "title": "Italie : les données de 1,2 million de licenciés de tir mises en vente par un pirate",
-      "url": "https://frenchbreaches.com/blog/italie-les-donnees-de-12-million-de-licencies-de-tir-mises-en-vente-par-un-pirate",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T00:01:00+00:00",
-      "desc": "Un pirate affirme vendre 1,2 million de fiches liées au tir sportif italien, ainsi que des informations sur des armes et leurs détenteurs.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "89fbe70be56e8f53114f",
@@ -3668,18 +3680,6 @@
       "desc": "France Bourse : les données de 16 425 clients diffusées gratuitement par un pirate informatique France Bourse, un média financier français spécialisé dans l'analyse des marchés boursiers et les conseils aux investisseurs, serait concerné par une importante fuite de données person…",
       "type": "fuite",
       "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "5fce73955bd3405c2913",
-      "title": "Double Counter (Discord)",
-      "url": "https://frenchbreaches.com/alertes/double-counter-discord-muy6107dcovvp0zz0gq",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T13:49:00+00:00",
-      "desc": "Double Counter : près de 275 000 données remises en circulation par un pirate après une cyberattaque majeure Un pirate utilisant le pseudonyme MeowGang67 affirme avoir mis à disposition une base de 274 900 enregistrements attribuée à Double Counter, un service de sécurité utilisé…",
-      "type": "alerte",
-      "sev": "Faible",
       "category": "fuite"
     },
     {
