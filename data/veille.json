@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:08:44.345127+00:00",
+  "generated_at": "2026-10-24T20:01:31.695590+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,42 @@
     }
   ],
   "items": [
+    {
+      "id": "d1d86de372ba98bad654",
+      "title": "Le parti d'Emmanuel Macron visé par une fuite présumée de 4,1 millions de données",
+      "url": "https://frenchbreaches.com/blog/le-parti-demmanuel-macron-vise-par-une-fuite-presumee-de-41-millions-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T19:57:00+00:00",
+      "desc": "Renaissance, dirigé par Gabriel Attal, est visé par une fuite présumée. Plus de 4,1 millions d'enregistrements auraient été diffusés.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "26a4924269cd352864fa",
+      "title": "Renaissance",
+      "url": "https://frenchbreaches.com/alertes/renaissance-mvmrvmefoo5l6bsb91m",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T19:32:00+00:00",
+      "desc": "Renaissance : plus de 4,1 millions d'enregistrements diffusés gratuitement par un pirate informatique Renaissance, le parti fondé par Emmanuel Macron et aujourd'hui dirigé par Gabriel Attal, est visé par une revendication de fuite de données. Un individu utilisant le pseudonyme C…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "48ee4e759180f64382b8",
+      "title": "Dekra",
+      "url": "https://frenchbreaches.com/alertes/dekra-mvml1fngo4frn94rnzj",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T15:53:00+00:00",
+      "desc": "DEKRA France : une base de 16 171 enregistrements revendiquée sur un forum de hackers Une base de données présentée comme provenant de DEKRA France, spécialiste du contrôle, de l'inspection et de la certification, a été publiée sur un forum cybercriminel ce samedi 24 octobre 2026…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "ed9fe79f62b579cc6343",
       "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -2999,18 +3035,6 @@
       "category": "fuite"
     },
     {
-      "id": "b5e63c0fbd51d4c32e59",
-      "title": "CAF en panne : le site inaccessible depuis plusieurs heures, un DDoS suspecté",
-      "url": "https://frenchbreaches.com/blog/caf-en-panne-le-site-inaccessible-depuis-plusieurs-heures-un-ddos-suspecte",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T13:02:00+00:00",
-      "desc": "Le site et l'application de la CAF sont inaccessibles depuis plusieurs heures ce samedi 17 octobre. Une attaque DDoS est suspectée. En parallèle, le groupe CyberTroll revendique une attaque contre l'ANSSI.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "10e6aa84c7f2c3f14273",
       "title": "Booking alerte : une nouvelle vague d’arnaques pourrait déferler cet hiver",
       "url": "https://www.01net.com/actualites/booking-alerte-une-nouvelle-vague-darnaques-pourrait-deferler-cet-hiver.html",
@@ -3656,30 +3680,6 @@
       "desc": "Vos Démarches Éco Energy (VD2E) : les données de 86 000 clients et prospects potentiellement exposées après un piratage Vos Démarches Éco Energy (VD2E), une entreprise française spécialisée dans les démarches administratives liées à la rénovation énergétique et aux énergies renou…",
       "type": "fuite",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "22d6c0e63e7dfa62cffa",
-      "title": "Infogreffe",
-      "url": "https://frenchbreaches.com/alertes/infogreffe-mv2l1dzn9pdnebnwv0o",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T16:00:00+00:00",
-      "desc": "Infogreffe : un pirate revendique 3,7 millions de lignes de données, des identifiants et des clés secrètes potentiellement exposés Infogreffe, le service français de diffusion des informations légales sur les entreprises, fait l'objet d'une importante revendication de fuite de do…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "7a026b20c736a1c7768c",
-      "title": "France Bourse",
-      "url": "https://frenchbreaches.com/alertes/france-bourse-mv2jgulk2i7bo3dy9bf",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T15:18:00+00:00",
-      "desc": "France Bourse : les données de 16 425 clients diffusées gratuitement par un pirate informatique France Bourse, un média financier français spécialisé dans l'analyse des marchés boursiers et les conseils aux investisseurs, serait concerné par une importante fuite de données person…",
-      "type": "fuite",
-      "sev": "Haute",
       "category": "fuite"
     },
     {
