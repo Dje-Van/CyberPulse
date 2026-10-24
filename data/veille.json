@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:43:22.055372+00:00",
+  "generated_at": "2026-10-24T10:03:31.732164+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,90 @@
     }
   ],
   "items": [
+    {
+      "id": "77340351d09db529d8cf",
+      "title": "La France insoumise visée par une fuite de 1,2 million de données",
+      "url": "https://frenchbreaches.com/blog/la-france-insoumise-visee-par-une-fuite-de-12-million-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T09:34:00+00:00",
+      "desc": "Un pirate revendique une fuite de données chez La France insoumise : 1,2 million de lignes liées aux adresses, au porte-à-porte et aux campagnes.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "11661272ec44fc3b7e2d",
+      "title": "La France Insoumise",
+      "url": "https://frenchbreaches.com/alertes/la-france-insoumise-mvm6atypwytjz0coskh",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T09:17:00+00:00",
+      "desc": "Piratage de La France insoumise : plus de 1,2 million d'enregistrements revendiqués dans une fuite de données La France insoumise (LFI) est visée par une nouvelle revendication de fuite de données. Un individu affirme avoir divulgué une base contenant plus de 1,2 million d'enregi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ad7396463092f2b221e8",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "source": "The Hacker News",
+      "date": "2026-10-24",
+      "published": "2026-10-24T06:25:57+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "106277cb181b56cad342",
+      "title": "Arnaques en ligne : comment les pirates détournent Google Drive pour vous piéger",
+      "url": "https://www.01net.com/actualites/arnaques-ligne-comment-pirates-detournent-google-drive-vous-pieger.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-24",
+      "published": "2026-10-24T06:07:37+00:00",
+      "desc": "Les pirates ne se contentent plus d'imiter Google Drive pour vous piéger. Ils utilisent directement les serveurs de Google pour déployer leurs arnaques. Une étude de KnowBe4 révèle que près d’un e-mail malveillant sur dix passe d'ailleurs par des serveurs légitimes, dont ceux du géant de Mountain View. L'astuce contourne la plupart des filtres de sécurité mis en place pour vous protéger.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7248ab32de9c8a0ae3ec",
+      "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
+      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-24",
+      "published": "2026-10-24T04:21:34+00:00",
+      "desc": "Des préfectures aux hôpitaux en passant par des opérateurs, des centaines de sites se sont retrouvés dans le noir cette semaine à cause de deux failles critiques dans PHP. Aux origines de ce chaos, on trouve un protocole de sécurité qui s'est mal passé. Des fuites ont en effet mené à une véritable course contre la montre… Retour sur le fiasco « structurel » qui a secoué Internet cette semaine.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "46cfeb1da8f7c7d228ce",
+      "title": "ADMR : les données médicales de millions de Français potentiellement exposées",
+      "url": "https://frenchbreaches.com/blog/admr-les-donnees-medicales-de-millions-de-francais-potentiellement-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T02:47:00+00:00",
+      "desc": "Un pirate revendique une fuite de données ADMR : 4,5 millions d'enregistrements, dont des numéros de Sécurité sociale et des dossiers médicaux.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5d8d00656bc9fc12510a",
+      "title": "ADMR",
+      "url": "https://frenchbreaches.com/alertes/admr-mvlsq0w75bxir1rjo56",
+      "source": "French Breaches",
+      "date": "2026-10-24",
+      "published": "2026-10-24T02:41:00+00:00",
+      "desc": "ADMR : un pirate revendique une fuite de 4,5 millions de données personnelles et médicales Le réseau français d'aide à domicile ADMR est visé par une revendication de piratage informatique. Le vendredi 23 octobre 2026, un cybercriminel utilisant le pseudonyme novembegolf a annonc…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "bf3ea9c07e32bf41d5be",
       "title": "ENGIE : une fuite de données expose les informations personnelles de certains clients",
@@ -113,7 +197,7 @@
       "source": "French Breaches",
       "date": "2026-10-23",
       "published": "2026-10-23T18:32:00+00:00",
-      "desc": "Fuite de données au PCF : le parti confirme l'incident, près de 190 000 personnes potentiellement concernées Mise à jour du 23 octobre 2026, à 20 h 30 — Le Parti communiste français (PCF) confirme officiellement avoir été victime d'une fuite de données concernant son fichier d'ad…",
+      "desc": "Fuite de données au PCF : le parti confirme l'incident, près de 190 000 personnes potentiellement concernées Mise à jour du 24 octobre 2026 — Nouveau rebondissement dans la fuite de données du Parti communiste français (PCF). Ce samedi, à 8 h 41, un cybercriminel utilisant le pse…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -2423,18 +2507,6 @@
       "category": "actualite"
     },
     {
-      "id": "c5b05c57ce229dc75fd5",
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T10:56:08+00:00",
-      "desc": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "51ab14484f02c5721220",
       "title": "« C’est un nouveau monde » : une armée d’IA vient de lancer une cyberattaque « massive », plus de 100 entreprises piratées",
       "url": "https://www.01net.com/actualites/nouveau-monde-armee-ia-vient-lancer-cyberattaque-massive-plus-100-entreprises-piratees.html",
@@ -3071,18 +3143,6 @@
       "category": "fuite"
     },
     {
-      "id": "7f19a14cb874d2a1c786",
-      "title": "Les Républicains piratés : les hackers menacent de divulguer les données des adhérents",
-      "url": "https://frenchbreaches.com/blog/les-republicains-pirates-les-hackers-menacent-de-divulguer-les-donnees-des-adherents",
-      "source": "French Breaches-blog",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:27:00+00:00",
-      "desc": "Le site des Républicains a été piraté le 16 octobre 2026. Les hackers affirment avoir volé des données d'adhérents et menacent de les divulguer.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dd54050dd649334d0812",
       "title": "Grimaldi Forum",
       "url": "https://frenchbreaches.com/alertes/grimaldi-forum-mvavilj5vmn4fj3vw5h",
@@ -3129,18 +3189,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "7da934a5f2370e8059b5",
-      "title": "Espionnage mondial : une entreprise israélienne accusée d'avoir utilisé des publicités pour pirater des ordinateurs",
-      "url": "https://frenchbreaches.com/blog/espionnage-mondial-une-entreprise-israelienne-accusee-davoir-utilise-des-publicites-pour-pirater-des-ordinateurs",
-      "source": "French Breaches-blog",
-      "date": "2026-10-16",
-      "published": "2026-10-16T00:36:00+00:00",
-      "desc": "Une enquête révèle comment une entreprise israélienne aurait utilisé des publicités ciblées pour espionner des internautes et infecter leurs appareils sans clic.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "d9d02c4cd4134abd2709",
@@ -3443,30 +3491,6 @@
       "category": "actualite"
     },
     {
-      "id": "6f1dd952cd354922c7c2",
-      "title": "Cyberattaque « opportuniste » contre les supermarchés français : des chercheurs évoquent « une réalité largement sous-estimée »",
-      "url": "https://www.01net.com/actualites/cyberattaque-opportuniste-contre-les-supermarches-francais-des-chercheurs-evoquent-une-realite-largement-sous-estimee.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-13",
-      "published": "2026-10-13T05:25:36+00:00",
-      "desc": "Suite aux cyberattaques contre les frigos de supermarchés, la société française Synacktiv alerte sur un risque « sous-estimé ». Selon les chercheurs, des équipements de réfrigération sont accessibles depuis Internet, parfois sans le moindre mot de passe. C'est potentiellement de cette manière que des pirates sont parvenus à faire surchauffer des centaines de frigos.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "0dda1c8d3c60d3a42ba1",
-      "title": "Claude : après une nouvelle dérive, Anthropic prive certaines IA d’accès Internet",
-      "url": "https://www.01net.com/actualites/claude-apres-une-nouvelle-derive-anthropic-prive-certaines-ia-dacces-internet.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-13",
-      "published": "2026-10-13T04:30:09+00:00",
-      "desc": "Un faux signalement de meurtre envoyé à la police de Philadelphie, un serveur universitaire piraté pour finir un calcul, des accès payants contournés : le créateur de Claude prive d'Internet l'ensemble de ses évaluations internes, faute de surveillance fiable.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "cda937d1465030d9ac5e",
       "title": "IAD France",
       "url": "https://frenchbreaches.com/alertes/iad-france-mv60poi55e132pdo0yh",
@@ -3655,30 +3679,6 @@
       "published": "2026-10-10T13:49:00+00:00",
       "desc": "Double Counter : près de 275 000 données remises en circulation par un pirate après une cyberattaque majeure Un pirate utilisant le pseudonyme MeowGang67 affirme avoir mis à disposition une base de 274 900 enregistrements attribuée à Double Counter, un service de sécurité utilisé…",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "f2e6bad8a28287be2414",
-      "title": "Institut de Formation Politique (IFP)",
-      "url": "https://frenchbreaches.com/alertes/institut-de-formation-politique-ifp-mv2aup5obip57ytqqoc",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T11:14:00+00:00",
-      "desc": "Cyberattaque contre l'Institut de Formation Politique : des données de donateurs volées, l'IA Claude mise en cause L'Institut de Formation Politique (IFP), un organisme français de formation aux idées et à l'engagement politiques, confirme avoir été victime d'une cyberattaque aya…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1170bcd788d21d3c5451",
-      "title": "Callibri",
-      "url": "https://frenchbreaches.com/alertes/callibri-mv242sdqy4ee2qs8uum",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T08:10:00+00:00",
-      "desc": "Callibri : les données de 61 000 contacts auraient été compromises lors d'une fuite de données Mise à jour le 11 octobre Le 10 octobre 2026, Callibri a été victime d’un accès frauduleux au compte de l’un de ses clients, entraînant l’extraction d’une partie de ses fiches contacts.…",
-      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
