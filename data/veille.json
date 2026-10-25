@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:01:31.695590+00:00",
+  "generated_at": "2026-10-25T02:33:11.345393+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,30 @@
     }
   ],
   "items": [
+    {
+      "id": "427f11fdc4fb8dcbbf77",
+      "title": "Piratage : les données de 905 000 plaques d'immatriculation françaises mises en vente",
+      "url": "https://frenchbreaches.com/blog/piratage-les-donnees-de-905-000-plaques-dimmatriculation-francaises-mises-en-vente",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T23:49:00+00:00",
+      "desc": "Un pirate revendique la fuite de 905 000 plaques d'immatriculation françaises, avec noms, adresses, téléphones et emails.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f87206d9112a3b8c4c9b",
+      "title": "Cryptomonnaies : Keystone piraté, les données personnelles de ses clients exposées",
+      "url": "https://frenchbreaches.com/blog/cryptomonnaies-keystone-pirate-les-donnees-personnelles-de-ses-clients-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-24",
+      "published": "2026-10-24T21:32:00+00:00",
+      "desc": "Le fabricant de portefeuilles crypto Keystone confirme un piratage : noms, adresses et commandes de clients exposés. Les clés privées sont épargnées.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "d1d86de372ba98bad654",
       "title": "Le parti d'Emmanuel Macron visé par une fuite présumée de 4,1 millions de données",
@@ -29,7 +53,7 @@
       "source": "French Breaches",
       "date": "2026-10-24",
       "published": "2026-10-24T19:32:00+00:00",
-      "desc": "Renaissance : plus de 4,1 millions d'enregistrements diffusés gratuitement par un pirate informatique Renaissance, le parti fondé par Emmanuel Macron et aujourd'hui dirigé par Gabriel Attal, est visé par une revendication de fuite de données. Un individu utilisant le pseudonyme C…",
+      "desc": "Renaissance : plus de 4,1 millions d'enregistrements diffusés gratuitement par un pirate informatique Mise à jour à 22h00 Selon nos informations exclusives, des failles de sécurité sur la plateforme de Renaissance auraient permis à un simple compte militant d'accéder à des donnée…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -137,7 +161,7 @@
       "source": "French Breaches",
       "date": "2026-10-24",
       "published": "2026-10-24T09:17:00+00:00",
-      "desc": "Piratage de La France insoumise : plus de 1,2 million d'enregistrements revendiqués dans une fuite de données La France insoumise (LFI) est visée par une nouvelle revendication de fuite de données. Un individu affirme avoir divulgué une base contenant plus de 1,2 million d'enregi…",
+      "desc": "Piratage de La France insoumise : plus de 1,2 million d'enregistrements revendiqués dans une fuite de données Mise à jour le 24 octobre à 20h Selon nos informations, La France insoumise (LFI) aurait été victime de plusieurs failles de sécurité permettant à des comptes militants i…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -209,7 +233,7 @@
       "source": "French Breaches",
       "date": "2026-10-24",
       "published": "2026-10-24T02:41:00+00:00",
-      "desc": "ADMR : un pirate revendique une fuite de 4,5 millions de données personnelles et médicales Le réseau français d'aide à domicile ADMR est visé par une revendication de piratage informatique. Le vendredi 23 octobre 2026, un cybercriminel utilisant le pseudonyme novembegolf a annonc…",
+      "desc": "ADMR : un pirate revendique une fuite de 4,5 millions de données personnelles et médicales Mise à jour du 25 octobre 2026 à 00 h 28 Selon nos informations, plus de 1,4 million de numéros de sécurité sociale figureraient parmi les données attribuées à l'ADMR. Le pirate affirme éga…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -2983,30 +3007,6 @@
       "published": "2026-10-17T18:52:00+00:00",
       "desc": "La FFTir fait face à une nouvelle revendication de piratage : 586 854 fiches de licenciés, 64 000 photos d'identité et 19 000 documents seraient exposés.",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d2e60a0c361fc0f66357",
-      "title": "Une grande mutuelle française ciblée par un pirate, 5 millions de dossiers menacés",
-      "url": "https://frenchbreaches.com/blog/une-grande-mutuelle-francaise-ciblee-par-un-pirate-5-millions-de-dossiers-menaces",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T18:33:00+00:00",
-      "desc": "Un pirate affirme vendre l'accès à une grande mutuelle française. Cinq millions de dossiers, dont des numéros de Sécurité sociale, seraient menacés.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b71c3ee0f6e56efdbe66",
-      "title": "IntelFind piraté : le code source d'un site de lookup de données privées divulgué",
-      "url": "https://frenchbreaches.com/blog/intelfind-pirate-le-code-source-dun-site-de-lookup-de-donnees-privees-divulgue",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T14:46:00+00:00",
-      "desc": "Un pirate divulgue le code source d'IntelFind, un moteur de recherche de données compromises, ainsi que des bases internes et fichiers sensibles.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
