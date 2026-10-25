@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:28:34.457776+00:00",
+  "generated_at": "2026-10-25T15:20:48.983239+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,18 @@
     }
   ],
   "items": [
+    {
+      "id": "9b0576734c238c2006aa",
+      "title": "« La nouvelle norme » : l’IA a semé le chaos sur Internet cette semaine, et « ce n’est que le début »",
+      "url": "https://www.01net.com/actualites/nouvelle-norme-lia-seme-chaos-internet-semaine-que-debut.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-25",
+      "published": "2026-10-25T11:00:21+00:00",
+      "desc": "Les failles PHP2Shell se cachaient dans le code de PHP depuis une vingtaine d'années. Il aura fallu attendre l'arrivée de l'intelligence artificielle générative pour les débusquer. Ce n'est pas uniquement une bonne nouvelle pour le monde de la cybersécurité. L'IA donne aussi un coup de pouce aux pirates qui cherchent à exploiter la vulnérabilité pour orchestrer des cyberattaques.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "2d81c07a8f605d628282",
       "title": "Orange : un pirate revendique le vol de plus de 6 Go de documents internes sensibles",
@@ -3487,18 +3499,6 @@
       "published": "2026-10-13T16:00:51+00:00",
       "desc": "Une IA de 26 milliards de paramètres a tourné sur quinze box Android TV à 55 dollars, sans data center. Au rythme actuel, les chercheurs voient les premiers vers IA autonomes arriver dès la fin de l'année.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "3dab6d370df574e7cd1a",
-      "title": "Cyberattaque nationale contre les supermarchés : la situation est encore pire que prévu, une seconde cible dans la tourmente",
-      "url": "https://www.01net.com/actualites/cyberattaque-nationale-contre-les-supermarches-la-situation-est-encore-pire-que-prevu-une-seconde-cible-dans-la-tourmente.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-13",
-      "published": "2026-10-13T15:29:43+00:00",
-      "desc": "Deux supermarchés ont subi une rupture de la chaîne du froid, quelques heures après la cyberattaque nationale. Les magasins sont équipés de contrôleurs électroniques qui ne sont pas fournis par Danfoss, le groupe danois au cœur de la cyberattaque. Les derniers éléments laissent penser que les pirates se sont attaqués à un autre constructeur clé de la grande distribution, Dixell. De facto, d'autres supermarchés seraient vulnérables. On fait le point.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
