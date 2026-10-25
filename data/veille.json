@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:20:48.983239+00:00",
+  "generated_at": "2026-10-25T20:12:41.047034+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,66 @@
     }
   ],
   "items": [
+    {
+      "id": "8428d9790dd7f6bebefd",
+      "title": "Delatad",
+      "url": "https://frenchbreaches.com/alertes/delatad-mvo6xajrex6fjllr89s",
+      "source": "French Breaches",
+      "date": "2026-10-25",
+      "published": "2026-10-25T18:55:00+00:00",
+      "desc": "Piratage de Delatad : des demandes confidentielles de clients exposées Le service français Delatad, spécialisé dans la suppression de contenus et de données personnelles sur Internet, fait l'objet d'une revendication de piratage informatique. Un individu utilisant le pseudonyme «…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "828cf3969f30337bdb68",
+      "title": "Fédération syndicale unitaire (FSU)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-syndicale-unitaire-fsu-mvo6q4sbdeahqvm9z7b",
+      "source": "French Breaches",
+      "date": "2026-10-25",
+      "published": "2026-10-25T18:49:00+00:00",
+      "desc": "La FSU visée par un piratage revendiqué par LunarisSec, des accès administrateurs évoqués La Fédération syndicale unitaire (FSU), organisation syndicale française représentant notamment des personnels de la fonction publique, fait l'objet d'une revendication de piratage informati…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "33f7736e74631c3e9265",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25",
+      "published": "2026-10-25T17:44:09+00:00",
+      "desc": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "da19872bd8ebd641fd63",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25",
+      "published": "2026-10-25T17:19:46+00:00",
+      "desc": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5db2cad8ad53b4cb9cf0",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "BleepingComputer",
+      "date": "2026-10-25",
+      "published": "2026-10-25T15:49:38+00:00",
+      "desc": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "9b0576734c238c2006aa",
       "title": "« La nouvelle norme » : l’IA a semé le chaos sur Internet cette semaine, et « ce n’est que le début »",
@@ -1206,18 +1266,6 @@
       "date": "2026-10-22",
       "published": "2026-10-22T13:38:22+00:00",
       "desc": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8432ce44e6fee1e83709",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22",
-      "published": "2026-10-22T13:09:12+00:00",
-      "desc": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2495,30 +2543,6 @@
       "category": "actualite"
     },
     {
-      "id": "ea6b3d531b32228e5717",
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T15:32:27+00:00",
-      "desc": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
-      "type": "cve",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "7e5477cd18438e7acd9c",
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T14:07:17+00:00",
-      "desc": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "6d14fa70d3fd0869a1cc",
       "title": "Livre officiel des origines félines (LOOF)",
       "url": "https://frenchbreaches.com/alertes/livre-officiel-des-origines-f-lines-loof-mvb6cesqs8p2mqrp5m",
@@ -3654,30 +3678,6 @@
       "date": "2026-10-11",
       "published": "2026-10-11T14:32:00+00:00",
       "desc": "Fuite de données G La Dalle : plus de 46 000 clients potentiellement touchés par un piratage G La Dalle, chaîne française de restauration rapide spécialisée dans les burgers, est visée par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1414c0b5bd63bfbf5159",
-      "title": "Armurerie du Bocage",
-      "url": "https://frenchbreaches.com/alertes/armurerie-du-bocage-mv3j10sh5cptx1hgung",
-      "source": "French Breaches",
-      "date": "2026-10-11",
-      "published": "2026-10-11T07:49:00+00:00",
-      "desc": "Fuite de données Armurerie du Bocage : 284 Mo de fichiers clients et de documents d'identité mis en vente Armurerie du Bocage, une boutique française spécialisée dans les équipements de chasse, de tir et d'archerie, est visée par une revendication de fuite de données. Le 11 octob…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "d5226677c4f56a3b0167",
-      "title": "Grand Delta Habitat",
-      "url": "https://frenchbreaches.com/alertes/grand-delta-habitat-mv3it6f3q58tp1jpda9",
-      "source": "French Breaches",
-      "date": "2026-10-11",
-      "published": "2026-10-11T07:46:00+00:00",
-      "desc": "Grand Delta Habitat : 188 010 enregistrements de locataires et d'interventions mis en vente par un pirate Grand Delta Habitat, acteur français du logement social, est visé par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé la mise en v…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
