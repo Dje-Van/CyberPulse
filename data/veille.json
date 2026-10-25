@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T02:33:11.345393+00:00",
+  "generated_at": "2026-10-25T10:28:34.457776+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,42 @@
     }
   ],
   "items": [
+    {
+      "id": "2d81c07a8f605d628282",
+      "title": "Orange : un pirate revendique le vol de plus de 6 Go de documents internes sensibles",
+      "url": "https://frenchbreaches.com/blog/orange-un-pirate-revendique-le-vol-de-plus-de-6-go-de-documents-internes-sensibles",
+      "source": "French Breaches-blog",
+      "date": "2026-10-25",
+      "published": "2026-10-25T07:55:00+00:00",
+      "desc": "Un pirate affirme détenir plus de 6 Go de documents internes d'Orange, dont des fichiers Jira, des configurations et des données techniques.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e8dcec41650dce658c7a",
+      "title": "FootballMinigames",
+      "url": "https://frenchbreaches.com/alertes/footballminigames-mvnivky1qjwaoqm62xh",
+      "source": "French Breaches",
+      "date": "2026-10-25",
+      "published": "2026-10-25T07:42:00+00:00",
+      "desc": "FootballMinigames : un pirate revendique le vol de plus de 22 000 données d'utilisateurs Le site FootballMinigames.com, une plateforme consacrée aux mini-jeux et à l'univers du football, fait l'objet d'une revendication de piratage informatique publiée sur un forum spécialisé dan…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2b44ac8d0a52ce9fe00c",
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+      "source": "The Hacker News",
+      "date": "2026-10-25",
+      "published": "2026-10-25T06:54:29+00:00",
+      "desc": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "427f11fdc4fb8dcbbf77",
       "title": "Piratage : les données de 905 000 plaques d'immatriculation françaises mises en vente",
@@ -2495,18 +2531,6 @@
       "category": "actualite"
     },
     {
-      "id": "f000a8c0fede9d2d8cdb",
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T12:59:44+00:00",
-      "desc": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election. The infection used a zero-click exploit, meaning Đokić did not have to tap a link or",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "552cbee8ac3d9b61c1e6",
       "title": "#StopRansomware: SafePay Ransomware",
       "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
@@ -2997,18 +3021,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "c00e4587c7f8b89f7e59",
-      "title": "Fédération française de tir : près de 600 000 licenciés visés par une nouvelle fuite de données",
-      "url": "https://frenchbreaches.com/blog/federation-francaise-de-tir-pres-de-600-000-licencies-vises-par-une-nouvelle-fuite-de-donnees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T18:52:00+00:00",
-      "desc": "La FFTir fait face à une nouvelle revendication de piratage : 586 854 fiches de licenciés, 64 000 photos d'identité et 19 000 documents seraient exposés.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "2de097c5affc1e692052",
@@ -3666,18 +3678,6 @@
       "date": "2026-10-11",
       "published": "2026-10-11T07:46:00+00:00",
       "desc": "Grand Delta Habitat : 188 010 enregistrements de locataires et d'interventions mis en vente par un pirate Grand Delta Habitat, acteur français du logement social, est visé par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé la mise en v…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "d81cdd5dfa06c74a1406",
-      "title": "Vos Démarches Éco Energy (VD2E)",
-      "url": "https://frenchbreaches.com/alertes/vos-d-marches-co-energy-vd2e-mv2sw2z4fiwzi6m1jrn",
-      "source": "French Breaches",
-      "date": "2026-10-10",
-      "published": "2026-10-10T19:40:00+00:00",
-      "desc": "Vos Démarches Éco Energy (VD2E) : les données de 86 000 clients et prospects potentiellement exposées après un piratage Vos Démarches Éco Energy (VD2E), une entreprise française spécialisée dans les démarches administratives liées à la rénovation énergétique et aux énergies renou…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
