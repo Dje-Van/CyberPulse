@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:32:14.928503+00:00",
+  "generated_at": "2026-10-26T11:59:08.319987+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,162 @@
     }
   ],
   "items": [
+    {
+      "id": "ce0386ac22975ba19669",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26",
+      "published": "2026-10-26T11:23:56+00:00",
+      "desc": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d1fcee2a48efea50ef72",
+      "title": "Garanka",
+      "url": "https://frenchbreaches.com/alertes/garanka-mvp5u5169z0jw96lm8e",
+      "source": "French Breaches",
+      "date": "2026-10-26",
+      "published": "2026-10-26T11:13:00+00:00",
+      "desc": "# Cyberattaque chez Garanka : les systèmes informatiques à l'arrêt, des interventions reportées Le spécialiste français du chauffage Garanka annonce avoir été victime d'une cyberattaque. L'entreprise a décidé d'isoler l'ensemble de ses systèmes informatiques par précaution, entra…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "982f2ce768917b596cb1",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26",
+      "published": "2026-10-26T10:26:52+00:00",
+      "desc": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "20494af63ce3fb8e1268",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26",
+      "published": "2026-10-26T09:54:02+00:00",
+      "desc": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7c54e769948b6fc771cc",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "source": "BleepingComputer",
+      "date": "2026-10-26",
+      "published": "2026-10-26T09:19:57+00:00",
+      "desc": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "d1fc923170788d76d4fa",
+      "title": "Arnaque aux réservations : Appart'City met en garde ses clients contre de faux messages",
+      "url": "https://frenchbreaches.com/blog/arnaque-aux-reservations-appartcity-met-en-garde-ses-clients-contre-de-faux-messages",
+      "source": "French Breaches-blog",
+      "date": "2026-10-26",
+      "published": "2026-10-26T08:52:00+00:00",
+      "desc": "Appart'City met en garde contre de faux messages WhatsApp réclamant des paiements et des données bancaires aux clients",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "399172439712b08d5e85",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26",
+      "published": "2026-10-26T08:35:51+00:00",
+      "desc": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9f265b80b65fcfa09306",
+      "title": "IFOCOP",
+      "url": "https://frenchbreaches.com/alertes/ifocop-mvp03q7e12101ut26mr",
+      "source": "French Breaches",
+      "date": "2026-10-26",
+      "published": "2026-10-26T08:32:00+00:00",
+      "desc": "Cyberattaque à l'IFOCOP : des apprenants visés par de faux courriels réclamant 850 € Le centre de formation IFOCOP de Montigny-le-Bretonneux, dans les Yvelines, annonce avoir été victime d'un piratage informatique durant le week-end. Dans un message adressé à ses équipes et à ses…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a26d3a2a0bb03d720cf8",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26",
+      "published": "2026-10-26T07:49:46+00:00",
+      "desc": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "366ca04e8902ca97e4b5",
+      "title": "Un « monde hors ligne » : après un nouveau dérapage de l’IA, OpenAI prend une décision radicale",
+      "url": "https://www.01net.com/actualites/monde-hors-ligne-apres-nouveau-derapage-ia-openai-prend-decision-radicale.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-26",
+      "published": "2026-10-26T07:45:13+00:00",
+      "desc": "Des modèles d'IA OpenAI sont parvenus à s'échapper de leur prison numérique. Les intelligences artificielles se sont ensuite mises à communiquer entre elles par le biais d'un canal caché. Troublée par ces comportements inattendus, l'entreprise de Sam Altman a décidé d'entraîner ses futures IA sans aucun accès à Internet par mesure de précaution.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "882fd3f37a08ea70217e",
+      "title": "Fédération suisse de hockey sur glace (SIHF)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-suisse-de-hockey-sur-glace-sihf-mvovz4lyan9qc7wovbi",
+      "source": "French Breaches",
+      "date": "2026-10-26",
+      "published": "2026-10-26T06:38:00+00:00",
+      "desc": "Fuite de données : la Fédération suisse de hockey sur glace visée par des pirates La Fédération suisse de hockey sur glace (Swiss Ice Hockey Federation, SIHF) fait l'objet d'une revendication de fuite massive de données. Le 26 octobre 2026, un individu utilisant le pseudonyme « w…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "ee5b8b9039dd48c130ea",
+      "title": "Honeyfile : comment savoir si un pirate consulte vos documents ?",
+      "url": "https://www.cyber-securite.fr/honeyfile-comment-savoir-si-un-pirate-consulte-vos-documents/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-26",
+      "published": "2026-10-26T06:35:06+00:00",
+      "desc": "Un document leurre peut signaler qu’un fichier est consulté sans autorisation. Ce honeyfile, conçu pour ... Lire plus L’article Honeyfile : comment savoir si un pirate consulte vos documents ? est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "63f16ca1b1ad1c49473e",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "source": "The Hacker News",
+      "date": "2026-10-26",
+      "published": "2026-10-26T06:03:48+00:00",
+      "desc": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "8428d9790dd7f6bebefd",
       "title": "Delatad",
@@ -48,13 +204,13 @@
     },
     {
       "id": "da19872bd8ebd641fd63",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "source": "The Hacker News",
       "date": "2026-10-25",
       "published": "2026-10-25T17:19:46+00:00",
-      "desc": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
-      "type": "cve",
+      "desc": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
+      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -197,7 +353,7 @@
       "source": "The Hacker News",
       "date": "2026-10-24",
       "published": "2026-10-24T11:09:29+00:00",
-      "desc": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "desc": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,",
       "type": "cve",
       "sev": "Faible",
       "category": "actualite"
@@ -720,7 +876,7 @@
     },
     {
       "id": "fec9d43d258d8b06efb7",
-      "title": "« Ils scrollent et se font infecter » : des milliers de sites piégés peuvent pirater votre iPhone",
+      "title": "« Ils scrollent et se font infecter » : des milliers de sites piégés peuvent pirater votre iPhone à votre insu",
       "url": "https://www.01net.com/actualites/ils-scrollent-et-se-font-infecter-des-milliers-de-sites-pieges-peuvent-pirater-votre-iphone.html",
       "source": "Cybersécurité : Actualités, analyses et tendances",
       "date": "2026-10-23",
@@ -1175,18 +1331,6 @@
       "category": "actualite"
     },
     {
-      "id": "665c4ee64aacf4aeb9d3",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22",
-      "published": "2026-10-22T15:49:32+00:00",
-      "desc": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f5fcf464aa1680ddaabe",
       "title": "PrinterPix",
       "url": "https://frenchbreaches.com/alertes/printerpix-mvjpwa9iz1zpm22i3k",
@@ -1232,18 +1376,6 @@
       "desc": "Lors de la conférence swampUP 2026 de JFrog, organisée du 20 au 22 octobre à Barcelone, les responsables sécurité de (...)",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "32ea969a27fc0c323b05",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "source": "BleepingComputer",
-      "date": "2026-10-22",
-      "published": "2026-10-22T14:02:12+00:00",
-      "desc": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "type": "phishing",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -1919,9 +2051,9 @@
       "category": "actualite"
     },
     {
-      "id": "9a8d18c2a3d356233d7a",
-      "title": "Nir Peleg, directeur mondial de la sécurité des systèmes d'information chez JFrog : «La gouvernance doit fonctionner à la vitesse des agents »",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-directeur-mondial-de-la-securite-des-systemes-d-information-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
+      "id": "b77032b5008f256792d2",
+      "title": "Nir Peleg, DG de la sécurité des systèmes d'information pour les équipes terrain chez JFrog : «La gouvernance doit fonctionner à la vitesse des agents »",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-nir-peleg-dg-de-la-securite-des-systemes-d-information-pour-les-equipes-terrain-chez-jfrog-la-gouvernance-doit-fonctionner-a-la-vitesse-des-agents-100861.html",
       "source": "Actualités securite",
       "date": "2026-10-21",
       "published": "2026-10-21T13:48:10+00:00",
@@ -2111,30 +2243,6 @@
       "category": "actualite"
     },
     {
-      "id": "2f30cd1c0af42cce1757",
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T07:44:22+00:00",
-      "desc": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "37c3e5fa7177b2714e52",
-      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T07:26:49+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "2e9c6efa3f50094b8781",
       "title": "Nouvelle cyberattaque en France : les données de propriétaires de chiens et chats ont encore été volées",
       "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-france-donnees-proprietaires-chiens-chats-encore-volees.html",
@@ -2155,30 +2263,6 @@
       "published": "2026-10-21T06:33:05+00:00",
       "desc": "Pendant tout l'été, des agents d'IA se sont introduits seuls dans des systèmes informatiques, sans qu'on le leur demande. L'armée américaine, elle, veut désormais des agents capables d'en faire autant, sur commande.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8dbb0ccea4784e45668c",
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T06:05:15+00:00",
-      "desc": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "747406fa329984493ab5",
-      "title": "Faux dossiers de location : comment un propriétaire se protège de la fraude documentaire sans demander plus que la loi ne l’autorise ?",
-      "url": "https://www.cyber-securite.fr/faux-dossiers-location-comment-proprietaire-se-protege-de-la-fraude/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-21",
-      "published": "2026-10-21T03:27:02+00:00",
-      "desc": "La vérification des pièces permet de limiter les risques liés aux faux dossiers de location. ... Lire plus L’article Faux dossiers de location : comment un propriétaire se protège de la fraude documentaire sans demander plus que la loi ne l’autorise ? est apparu en premier sur jeuxderole.com .",
-      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2483,18 +2567,6 @@
       "category": "actualite"
     },
     {
-      "id": "1e26274c4cd949171214",
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T17:09:53+00:00",
-      "desc": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "1d227b8c614c659c75ca",
       "title": "Valeurs actuelles",
       "url": "https://frenchbreaches.com/alertes/valeurs-actuelles-mvgxt8dpogb8av8bdzm",
@@ -2529,18 +2601,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "584d35c71235748c5853",
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "source": "The Hacker News",
-      "date": "2026-10-20",
-      "published": "2026-10-20T15:38:52+00:00",
-      "desc": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "6d14fa70d3fd0869a1cc",
@@ -2911,18 +2971,6 @@
       "published": "2026-10-18T10:02:59+00:00",
       "desc": "Après le piratage des frigos de centaines de supermarchés, les cybercriminels vont-ils s'en prendre à d'autres équipements connectés de notre quotidien ? Nos caméras, thermostats, box domotiques ou balances connectées peuvent-ils se retrouver sous la coupe de pirates dans un avenir proche ? Interrogés par 01net, des chercheurs alertent et soulignent que le risque dépasse largement les rayons frais de nos magasins.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "147d2618196593267719",
-      "title": "OpenCode piraté : des clés d'accès à ChatGPT, Claude et Gemini potentiellement exposées",
-      "url": "https://frenchbreaches.com/blog/opencode-pirate-des-cles-dacces-a-chatgpt-claude-et-gemini-potentiellement-exposees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-17",
-      "published": "2026-10-17T22:05:00+00:00",
-      "desc": "OpenCode confirme un piratage touchant 1,4 % de ses utilisateurs Console. Des clés d'accès aux IA d'OpenAI et Anthropic pourraient avoir fuité.",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3515,18 +3563,6 @@
       "category": "fuite"
     },
     {
-      "id": "1eabfbcc43f3633a7e1f",
-      "title": "Un botnet d’un genre nouveau : Anthropic a peur que votre TV devienne le refuge d’une IA malveillante",
-      "url": "https://www.01net.com/actualites/un-botnet-dun-genre-nouveau-anthropic-a-peur-que-votre-tv-devienne-le-refuge-dune-ia-malveillante.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-13",
-      "published": "2026-10-13T16:00:51+00:00",
-      "desc": "Une IA de 26 milliards de paramètres a tourné sur quinze box Android TV à 55 dollars, sans data center. Au rythme actuel, les chercheurs voient les premiers vers IA autonomes arriver dès la fin de l'année.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "1462ea5e3f9924d0c2cc",
       "title": "La Cnaf signale une fuite de données sur sa plateforme Vacaf",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
@@ -3643,42 +3679,6 @@
       "published": "2026-10-11T18:53:00+00:00",
       "desc": "Cyberattaque chez Egide : un industriel français lié à la défense et à l'aérospatial touché Le groupe français Egide, spécialisé dans la fabrication de composants destinés notamment aux secteurs de la défense, de l'aérospatial et des technologies sensibles, a confirmé avoir été v…",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "be73038868e42a769d07",
-      "title": "AK Transport",
-      "url": "https://frenchbreaches.com/alertes/ak-transport-mv3xwqhui7pi030y058",
-      "source": "French Breaches",
-      "date": "2026-10-11",
-      "published": "2026-10-11T14:49:00+00:00",
-      "desc": "Fuite de données AK Transport : plus de 11 000 expéditions et des informations personnelles potentiellement exposées AK Transport, entreprise de transport routier basée à Saint-Étienne, est visée par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatiqu…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1196ee870a424074d3c1",
-      "title": "RGIS",
-      "url": "https://frenchbreaches.com/alertes/rgis-mv3xepguzoelpdbi1bo",
-      "source": "French Breaches",
-      "date": "2026-10-11",
-      "published": "2026-10-11T14:34:00+00:00",
-      "desc": "Fuite de données RGIS : plus de 30 000 dossiers de candidature visés par un piratage RGIS, spécialiste international des inventaires et de la gestion des stocks, fait l'objet d'une revendication de piratage informatique. Le 11 octobre 2026, un hacker a annoncé la divulgation de 3…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "cc8b2a7906f50f8e524e",
-      "title": "G La Dalle",
-      "url": "https://frenchbreaches.com/alertes/g-la-dalle-mv3xc2n46n3e6glqle",
-      "source": "French Breaches",
-      "date": "2026-10-11",
-      "published": "2026-10-11T14:32:00+00:00",
-      "desc": "Fuite de données G La Dalle : plus de 46 000 clients potentiellement touchés par un piratage G La Dalle, chaîne française de restauration rapide spécialisée dans les burgers, est visée par une revendication de fuite de données. Le 11 octobre 2026, un pirate informatique a annoncé…",
-      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
