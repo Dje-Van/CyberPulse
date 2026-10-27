@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:06:58.181389+00:00",
+  "generated_at": "2026-10-27T11:20:39.599274+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,138 @@
     }
   ],
   "items": [
+    {
+      "id": "a40721cff07a0d8ded28",
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27",
+      "published": "2026-10-27T10:36:12+00:00",
+      "desc": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "eae2a3c7c621fbaa9377",
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27",
+      "published": "2026-10-27T09:33:06+00:00",
+      "desc": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "92e4740105c8154a089d",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27",
+      "published": "2026-10-27T09:25:50+00:00",
+      "desc": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c50443f76e89237d0851",
+      "title": "IA : l'Europe veut permettre d'utiliser vos données sans votre accord",
+      "url": "https://frenchbreaches.com/blog/ia-leurope-veut-permettre-dutiliser-vos-donnees-sans-votre-accord",
+      "source": "French Breaches-blog",
+      "date": "2026-10-27",
+      "published": "2026-10-27T08:49:00+00:00",
+      "desc": "Une réforme du RGPD pourrait permettre aux entreprises d'utiliser des données personnelles pour entraîner leurs IA sans consentement préalable",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dd650736378bd789f9c5",
+      "title": "Ellloha",
+      "url": "https://frenchbreaches.com/alertes/ellloha-mvqfnl724vqieq7gvjv",
+      "source": "French Breaches",
+      "date": "2026-10-27",
+      "published": "2026-10-27T08:33:00+00:00",
+      "desc": "Elloha confirme un incident de sécurité : des clients ciblés par de faux messages WhatsApp La plateforme française elloha, spécialisée dans les outils de réservation pour les professionnels du tourisme, confirme avoir subi un incident de sécurité le 25 octobre 2026. Des informati…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c6fd9c70afae34ae6969",
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27",
+      "published": "2026-10-27T08:22:43+00:00",
+      "desc": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c79b9055e5fe5a0b9f95",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-27",
+      "published": "2026-10-27T08:20:54+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "a1c745bbdbd4ade8fa10",
+      "title": "Installez-vite iOS 27.2 sur votre iPhone, Apple corrige plus de 160 failles de sécurité",
+      "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-iphone-apple-corrige-plus-160-failles-securite.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-27",
+      "published": "2026-10-27T08:00:36+00:00",
+      "desc": "Apple vient de déployer iOS 27.2 sur tous les iPhone compatibles. En plus des nouveautés, la mise à jour colmate plus de 160 failles de sécurité dénichées sur l'iPhone. C'est pourquoi on vous recommande de l'installer sans tarder.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "08eac65f7ecd0f0b622c",
+      "title": "Expert en réponse à incident, que fait-il ?",
+      "url": "https://www.cyber-securite.fr/expert-en-reponse-a-incident-que-fait-il/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-27",
+      "published": "2026-10-27T06:35:04+00:00",
+      "desc": "L’expert en réponse à incident intervient lorsqu’une attaque perturbe les systèmes d’une entreprise. Il aide ... Lire plus L’article Expert en réponse à incident, que fait-il ? est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a2da896f1147a8f00903",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27",
+      "published": "2026-10-27T06:34:47+00:00",
+      "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dc98d41511a17d2ea06d",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "date": "2026-10-27",
+      "published": "2026-10-27T04:37:59+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "547ce5cf1eb1aa68acdb",
       "title": "Fédération sportive et culturelle de France (FSCF)",
@@ -185,8 +317,8 @@
       "source": "Cybersécurité : Actualités, analyses et tendances",
       "date": "2026-10-26",
       "published": "2026-10-26T15:00:24+00:00",
-      "desc": "Pendant plusieurs jours, les failles critiques « PHP2Shell » n'ont donné lieu qu'à des tentatives ratées et à des opérations de reconnaissance de grande envergure. Un chercheur vient de prouver qu'un pirate a réussi à prendre le contrôle d'un serveur en conditions réelles. Tout indique que ce n'est que le début d'une vague de cyberattaques.",
-      "type": "alerte",
+      "desc": "Pendant plusieurs jours, les failles critiques « PHP2Shell » n'ont donné lieu qu'à des tentatives ratées et à des opérations de reconnaissance de grande envergure. Un chercheur vient de prouver qu'un pirate a réussi à prendre le contrôle d'un serveur en conditions réelles en se servant des vulnérabilités. Tout indique que ce n'est que le début d'une vague de cyberattaques potentiellement destructrices...",
+      "type": "cve",
       "sev": "Critique",
       "category": "actualite"
     },
@@ -307,6 +439,18 @@
       "published": "2026-10-26T09:54:02+00:00",
       "desc": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
       "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "da45c2d13222925c8ba6",
+      "title": "LFI, Renaissance et le Parti communiste visés par des cyberattaques",
+      "url": "https://www.cyber-securite.fr/lfi-renaissance-et-le-parti-communiste-vises-par-des-cyberattaques/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-26",
+      "published": "2026-10-26T09:29:00+00:00",
+      "desc": "En moins de deux jours, trois partis politiques ont été associés à des fuites de ... Lire plus L’article LFI, Renaissance et le Parti communiste visés par des cyberattaques est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -911,30 +1055,6 @@
       "category": "actualite"
     },
     {
-      "id": "a5d4387518b81efb54bc",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23",
-      "published": "2026-10-23T20:55:05+00:00",
-      "desc": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e3ceabcd0c4b4ac0d318",
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23",
-      "published": "2026-10-23T18:54:41+00:00",
-      "desc": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "68f2c8a7a2b64fb92945",
       "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
@@ -1005,18 +1125,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "0d09c5ddef1bf46dbcc8",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "source": "BleepingComputer",
-      "date": "2026-10-23",
-      "published": "2026-10-23T17:05:07+00:00",
-      "desc": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "8070f8da0c70f2e25887",
@@ -2291,18 +2399,6 @@
       "category": "actualite"
     },
     {
-      "id": "dc491bef65d2db7820a1",
-      "title": "FortiSIEM : une faille critique et un PoC désormais public",
-      "url": "https://www.cyber-securite.fr/fortisiem-une-faille-critique-et-un-poc-est-desormais-public/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-21",
-      "published": "2026-10-21T15:25:29+00:00",
-      "desc": "Une faille critique touche FortiSIEM et permet une exécution de code à distance sans authentification. ... Lire plus L’article FortiSIEM : une faille critique et un PoC désormais public est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "02b6efa6343689ed583b",
       "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
       "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
@@ -2339,18 +2435,6 @@
       "category": "actualite"
     },
     {
-      "id": "e2527452350fa74e2228",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T13:15:09+00:00",
-      "desc": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "57abb091cf26656b5f6e",
       "title": "La Poste Mobile",
       "url": "https://frenchbreaches.com/alertes/la-poste-mobile-mvi3xiudmuk1ptig4ce",
@@ -2361,18 +2445,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "5ff1dd07c5c834bcee5a",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T12:05:00+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f778ef1a30ddc9386885",
@@ -2387,18 +2459,6 @@
       "category": "alerte"
     },
     {
-      "id": "2b1381b5788ddde481e0",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T11:53:34+00:00",
-      "desc": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "4465f49f5cade0d27d51",
       "title": "Cyberattaque contre La Poste Mobile : des pirates prorusses revendiquent une attaque DDoS",
       "url": "https://frenchbreaches.com/blog/cyberattaque-contre-la-poste-mobile-des-pirates-prorusses-revendiquent-une-attaque-ddos",
@@ -2411,18 +2471,6 @@
       "category": "actualite"
     },
     {
-      "id": "1dac3ddb6c024270eec9",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "source": "The Hacker News",
-      "date": "2026-10-21",
-      "published": "2026-10-21T10:36:53+00:00",
-      "desc": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "30379f2808a92d59bf3a",
       "title": "Ransomware mortel : le pirate derrière une cyberattaque meurtrière a été arrêté",
       "url": "https://www.01net.com/actualites/ransomware-mortel-pirate-derriere-cyberattaque-meurtriere-arrete.html",
@@ -2432,18 +2480,6 @@
       "desc": "Soupçonné de faire partie du gang Qilin, un Russe de 28 ans a été arrêté au Japon pendant ses vacances, avant d'être extradé vers l'Allemagne. Le groupe, spécialisé dans les attaques par ransomware, est impliqué dans une cyberattaque qui a contribué à la mort d'un patient dans un hôpital de Londres.",
       "type": "alerte",
       "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "8d25a258b5d864043a55",
-      "title": "Les données des voyageurs du réseau Zou! exposées",
-      "url": "https://www.cyber-securite.fr/les-donnees-des-voyageurs-du-reseau-zou-exposees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-21",
-      "published": "2026-10-21T08:19:27+00:00",
-      "desc": "Le pirate, sous le pseudonyme « blocus », revendique près de 90 000 dossiers. La ... Lire plus L’article Les données des voyageurs du réseau Zou! exposées est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -3035,18 +3071,6 @@
       "category": "actualite"
     },
     {
-      "id": "fd31cf6fd35441004ab4",
-      "title": "Cyberattaque chez ConnectWise : des entreprises privées de leurs sauvegardes",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-chez-connectwise-des-entreprises-privees-de-leurs-sauvegardes",
-      "source": "French Breaches-blog",
-      "date": "2026-10-18",
-      "published": "2026-10-18T14:48:00+00:00",
-      "desc": "Après une cyberattaque, ConnectWise bloque l'accès aux sauvegardes de ses clients. Les données sont préservées, mais inaccessibles.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c9d699a731d59d14fd39",
       "title": "Axialys",
       "url": "https://frenchbreaches.com/alertes/axialys-mvdrkf84jselnsp3zb",
@@ -3335,18 +3359,6 @@
       "category": "fuite"
     },
     {
-      "id": "8da07efb6db3ce65a7b8",
-      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
-      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont remplies.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "c95fe100c8350d7295d7",
       "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
       "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
@@ -3354,6 +3366,18 @@
       "date": "2026-10-16",
       "published": "2026-10-16T12:00:00+00:00",
       "desc": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8da07efb6db3ce65a7b8",
+      "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "source": "CNIL — Actualités",
+      "date": "2026-10-16",
+      "published": "2026-10-16T12:00:00+00:00",
+      "desc": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont remplies.",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3527,18 +3551,6 @@
       "category": "fuite"
     },
     {
-      "id": "05ce22146a02d08fdba6",
-      "title": "Frigos de supermarchés piratés : Claude a reproduit la cyberattaque en 28 minutes",
-      "url": "https://www.01net.com/actualites/frigos-de-supermarches-pirates-claude-a-reproduit-la-cyberattaque-en-28-minutes.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-15",
-      "published": "2026-10-15T09:02:42+00:00",
-      "desc": "28 minutes. C'est le temps qu'il a fallu à Claude pour reproduire la cyberattaque qui a fait surchauffer les frigos de centaines de supermarchés français. L'expérimentation démontre que l'offensive était à la portée de n'importe quel cybercriminel, même sans compétences techniques.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f6f7b3763b8e2515760c",
       "title": "BodySwap",
       "url": "https://frenchbreaches.com/alertes/bodyswap-mv8n254b9jvyg9eol5",
@@ -3666,18 +3678,6 @@
       "date": "2026-10-13",
       "published": "2026-10-13T01:22:00+00:00",
       "desc": "MaQuestionMedicale : 369 000 messages médicaux mis en vente sur le dark web, près de 96 000 fiches patients également exposées Une fuite de données potentiellement majeure touche MaQuestionMedicale, une plateforme française de téléconsultation. Un pirate informatique utilisant le…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "e4ae0cd870ac04fc1d7e",
-      "title": "France Utilitaires",
-      "url": "https://frenchbreaches.com/alertes/france-utilitaires-mv5xi5w8a4r8mr0wsxg",
-      "source": "French Breaches",
-      "date": "2026-10-13",
-      "published": "2026-10-13T00:14:00+00:00",
-      "desc": "France Utilitaires : fuite de données revendiquée, 10 000 comptes clients et des mots de passe potentiellement exposés Le site français France-Utilitaires.fr, spécialisé dans les véhicules utilitaires, est visé par une revendication de piratage. Un cybercriminel affirme avoir réc…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
