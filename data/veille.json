@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:19:54.091262+00:00",
+  "generated_at": "2026-10-28T11:54:13.599018+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,246 @@
     }
   ],
   "items": [
+    {
+      "id": "7e94f0b9a123a0b7b7b4",
+      "title": "Un pirate revendique des fuites de données chez trois partis politiques français",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-un-pirate-revendique-des-fuites-de-donnees-chez-trois-partis-politiques-francais-100879.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:59:22+00:00",
+      "desc": "Deux semaines après la cyberattaque visant la plateforme de vote de la primaire de la gauche, les organisations politiques françaises sont (...)",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "302b6c87624f64b1ff3b",
+      "title": "Anthropic révèle que Mythos 5 a tenté de soumettre du code malveillant à un projet open source",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-anthropic-revele-que-mythos-5-a-tente-de-soumettre-du-code-malveillant-a-un-projet-open-source-100874.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:52:05+00:00",
+      "desc": "En juillet dernier, Mythos 5 d’Anthropic a cherché à introduire du code malveillant dans un projet open source hébergé (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "aa0c11070a4110fcc268",
+      "title": "Des agents IA accèdent à des données internes d'Anthropic",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-ia-accedent-a-des-donnees-internes-d-anthropic-100881.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:47:15+00:00",
+      "desc": "Les agents IA accélèrent aussi bien la recherche de vulnérabilités que les capacités d’attaque. Une démonstration (...)",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "cd9743135afff7e30082",
+      "title": "Sortie d'environnement : OpenAI met ses agents hors ligne après plusieurs failles de confinement",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-sortie-d-environnement-openai-met-ses-agents-hors-ligne-apres-plusieurs-failles-de-confinement-100876.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:42:07+00:00",
+      "desc": "Le confinement des agents IA devient un enjeu majeur de cybersécurité pour OpenAI. Dans une mise à jour publiée le 23 octobre (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "63d1c1d0e7c5e26b28dd",
+      "title": "Alcatel-Lucent Enterprise intègre une IA souveraine à Rainbow pour séduire le secteur public",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-alcatel-lucent-enterprise-integre-une-ia-souveraine-a-rainbow-pour-seduire-le-secteur-public-100875.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:41:05+00:00",
+      "desc": "Annoncée le 22 octobre 2026, Rainbow Premium entend répondre à un problème désormais bien identifié par les directions (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d4f5d5baa8252d3b756b",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T11:15:51+00:00",
+      "desc": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "dfcccddd5281b01bc25a",
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "source": "BleepingComputer",
+      "date": "2026-10-28",
+      "published": "2026-10-28T10:46:23+00:00",
+      "desc": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "2e5063d5ddc42334fda5",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T10:30:00+00:00",
+      "desc": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "62af280b86d2c33ac75d",
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "source": "BleepingComputer",
+      "date": "2026-10-28",
+      "published": "2026-10-28T09:43:15+00:00",
+      "desc": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "a989284589456770ca39",
+      "title": "« Aokigahara », le malware qui vole des données d’IA",
+      "url": "https://www.cyber-securite.fr/aokigahara-le-malware-qui-vole-des-donnees-dia/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-28",
+      "published": "2026-10-28T09:21:47+00:00",
+      "desc": "Aokigahara élargit le vol de secrets numériques vers les comptes d’IA et les outils de ... Lire plus L’article « Aokigahara », le malware qui vole des données d’IA est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "60bb07b502d3f745097a",
+      "title": "Quorum Groupe",
+      "url": "https://frenchbreaches.com/alertes/quorum-groupe-mvrwt2g9mbwh7npp65",
+      "source": "French Breaches",
+      "date": "2026-10-28",
+      "published": "2026-10-28T09:18:00+00:00",
+      "desc": "Quorum Groupe piraté : des données liées à E.Leclerc, Renault et plusieurs grands groupes exposées Une cyberattaque revendiquée contre Quorum Groupe, prestataire français spécialisé dans les arts graphiques, pourrait avoir exposé des informations commerciales concernant plusieurs…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "6407156bd96ddc196c0c",
+      "title": "Cyberattaque contre Engie : une fuite de données touche les clients en France",
+      "url": "https://www.01net.com/actualites/cyberattaque-contre-engie-fuite-donnees-touche-clients-france.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-28",
+      "published": "2026-10-28T08:59:43+00:00",
+      "desc": "Engie a prévenu certains de ses clients d'un « acte de cyber-malveillance ». La cyberattaque a exposé les données personnelles d'une partie des clients en France. Le géant de l'énergie recommande à toutes les personnes concernées de redoubler de prudence. Des escrocs pourraient exploiter la fuite de données pour mener des campagnes de phishing.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b1fd8754c68933dd6873",
+      "title": "Fédération Française Handisport (FFH)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-handisport-ffh-mvrumqqgruoiupsh6g",
+      "source": "French Breaches",
+      "date": "2026-10-28",
+      "published": "2026-10-28T08:21:00+00:00",
+      "desc": "Fédération française handisport : un pirate diffuse les données présumées de plus de 1 000 licenciés Noms, prénoms, adresses postales, numéros de téléphone et dates de naissance : un cybercriminel affirme détenir un fichier contenant 1 025 enregistrements attribués à la Fédératio…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "3d2bb40b3d05541c444c",
+      "title": "La Mutuelle Communale",
+      "url": "https://frenchbreaches.com/alertes/la-mutuelle-communale-mvrucme3qghjnhgm7fj",
+      "source": "French Breaches",
+      "date": "2026-10-28",
+      "published": "2026-10-28T08:16:00+00:00",
+      "desc": "La Mutuelle des Communes victime d'un piratage massif ? Les données sensibles de 50 000 personnes revendiquées Numéros de Sécurité sociale, coordonnées bancaires, documents d'identité et dossiers personnels : un cybercriminel affirme avoir compromis les systèmes informatiques de…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "dd9aab4f2b42a45e9cb6",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T08:15:07+00:00",
+      "desc": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3c6de304e8f9b719a9c5",
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T07:37:50+00:00",
+      "desc": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "54629371f074818de3ec",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T07:13:21+00:00",
+      "desc": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "af501261c1ead5898c08",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T06:20:37+00:00",
+      "desc": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1417a62a4b3735eae299",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T06:04:58+00:00",
+      "desc": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "5977b4ad9b070e952ba5",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "source": "The Hacker News",
+      "date": "2026-10-28",
+      "published": "2026-10-28T05:42:26+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "ebe6130a3b49d0f809da",
       "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
@@ -643,30 +883,6 @@
       "published": "2026-10-26T21:08:28+00:00",
       "desc": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "77ef2d30d3450429eb0f",
-      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-      "source": "BleepingComputer",
-      "date": "2026-10-26",
-      "published": "2026-10-26T20:46:49+00:00",
-      "desc": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e83553d746d52cddc9e1",
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "source": "BleepingComputer",
-      "date": "2026-10-26",
-      "published": "2026-10-26T19:26:20+00:00",
-      "desc": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1967,18 +2183,6 @@
       "category": "actualite"
     },
     {
-      "id": "d99ba89c8964f8cde6f5",
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T17:45:44+00:00",
-      "desc": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half the story. Stolen passwords, exposed",
-      "type": "alerte",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "9b9bd47786246815b46d",
       "title": "DrahiLeaks : les données piratées d'Altice refont surface sur un forum cybercriminel",
       "url": "https://frenchbreaches.com/blog/drahileaks-les-donnees-piratees-daltice-refont-surface-sur-un-forum-cybercriminel",
@@ -1988,18 +2192,6 @@
       "desc": "Les DrahiLeaks refont surface sur un forum cybercriminel : documents internes, e-mails, pièces d'identité et mots de passe annoncés.",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "7c53f743c08237d2727c",
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T17:01:53+00:00",
-      "desc": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -2013,18 +2205,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "56940b672a75469b8a4b",
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T16:12:31+00:00",
-      "desc": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "bfaf2991d38b6e40324b",
@@ -2097,18 +2277,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "60f4824a9b3246055d90",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T13:38:22+00:00",
-      "desc": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "a0a991c9b55af9138927",
@@ -2387,30 +2555,6 @@
       "category": "actualite"
     },
     {
-      "id": "b5736c37c6a72d90b26e",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T11:15:42+00:00",
-      "desc": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "3c95c0f04e66e1214444",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T10:44:05+00:00",
-      "desc": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "6fac9186dc00ba16f566",
       "title": "Failles PHP : pourquoi c’est un vrai casse-tête pour l’Internet mondial",
       "url": "https://www.01net.com/actualites/failles-php-pourquoi-cest-vrai-casse-tete-internet-mondial.html",
@@ -2431,42 +2575,6 @@
       "published": "2026-10-22T08:35:25+00:00",
       "desc": "Deux vulnérabilités du langage PHP ont provoqué des mises hors ligne préventives de sites web ... Lire plus L’article Faille PHP : des sites publics perturbés est apparu en premier sur jeuxderole.com .",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "89c43e5d413adbb4e67f",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T08:28:48+00:00",
-      "desc": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b1e36f34d1a1ea4f70e0",
-      "title": "Ne ratez pas pCloud Pass à vie à -50% : offre valable jusqu’au 25/10",
-      "url": "https://www.cyber-securite.fr/ne-ratez-pas-pcloud-pass-a-vie-a-50-offre-valable-jusquau-25-10/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-22",
-      "published": "2026-10-22T08:00:00+00:00",
-      "desc": "Chiffrez, générez et synchronisez tous vos mots de passe sur l’ensemble de vos appareils en ... Lire plus L’article Ne ratez pas pCloud Pass à vie à -50% : offre valable jusqu’au 25/10 est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4681e139a804e148c37c",
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "source": "The Hacker News",
-      "date": "2026-10-22",
-      "published": "2026-10-22T07:47:22+00:00",
-      "desc": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3431,18 +3539,6 @@
       "category": "actualite"
     },
     {
-      "id": "04ddc89c868d5479e18d",
-      "title": "Fuite de données en France : la franc-maçonnerie a été piratée, des informations personnelles compromises",
-      "url": "https://www.01net.com/actualites/fuite-donnees-france-franc-maconnerie-piratee-informations-personnelles-compromises.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-16",
-      "published": "2026-10-16T08:00:55+00:00",
-      "desc": "Le Grand Orient de France, la plus ancienne organisation maçonnique de France, a été victime d'une fuite de données. Des centaines de documents internes, dont un tableau de données personnelles de membres, ont été dérobés. Deux groupes de pirates revendiquent la cyberattaque.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "9b5b15a2d1b063264fb5",
       "title": "Ouest-France",
       "url": "https://frenchbreaches.com/alertes/ouest-france-mvabub8ypl4qw9tiss",
@@ -3611,30 +3707,6 @@
       "category": "fuite"
     },
     {
-      "id": "ff37a3da86231308a614",
-      "title": "WeFix",
-      "url": "https://frenchbreaches.com/alertes/wefix-mv71ytsbqzi558m93c",
-      "source": "French Breaches",
-      "date": "2026-10-13",
-      "published": "2026-10-13T19:04:00+00:00",
-      "desc": "Fuite de données WeFix : 6 009 dossiers de clients et de réparation diffusés par un pirate L'enseigne française WeFix, spécialisée dans la réparation et le reconditionnement de smartphones, fait l'objet d'une revendication de fuite de données. Un pirate affirme avoir publié gratu…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b88fa7b570076be01e19",
-      "title": "Ecologic France",
-      "url": "https://frenchbreaches.com/alertes/ecologic-france-mv71q9shbfyhej3662l",
-      "source": "French Breaches",
-      "date": "2026-10-13",
-      "published": "2026-10-13T18:58:00+00:00",
-      "desc": "Fuite de données Ecologic France : 46 467 fiches d'utilisateurs et de partenaires diffusées sur un forum de pirates L'éco-organisme français Ecologic, spécialisé dans la collecte et le recyclage, fait l'objet d'une revendication de piratage. Un cybercriminel affirme avoir publié…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "1462ea5e3f9924d0c2cc",
       "title": "La Cnaf signale une fuite de données sur sa plateforme Vacaf",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
@@ -3671,18 +3743,6 @@
       "category": "actualite"
     },
     {
-      "id": "cda937d1465030d9ac5e",
-      "title": "IAD France",
-      "url": "https://frenchbreaches.com/alertes/iad-france-mv60poi55e132pdo0yh",
-      "source": "French Breaches",
-      "date": "2026-10-13",
-      "published": "2026-10-13T02:30:00+00:00",
-      "desc": "iad France : un pirate revendique la fuite de données de 8 592 conseillers immobiliers et 112 780 annonces Mise à jour le 14 octobre à 7h iad Group a été victime d’une cyberattaque ayant entraîné un accès non autorisé à une partie de son système informatique. L’incident a été rap…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "085ef14536dd3b7be4cd",
       "title": "La plateforme de vote en ligne pour la primaire de gauche, victime d'une cyberattaque",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-la-plateforme-de-vote-en-ligne-pour-la-primaire-de-gauche-victime-d-une-cyberattaque-100845.html",
@@ -3717,66 +3777,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "46fda0fcb5b4d25ce69b",
-      "title": "Orange muscle son offre SecNumCloud",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-orange-muscle-son-offre-secnumcloud-100841.html",
-      "source": "Actualités securite",
-      "date": "2026-10-09",
-      "published": "2026-10-09T09:16:16+00:00",
-      "desc": "Orange Business, la filiale BtoB d’Orange, a annoncé ce 7 octobre 2026 avoir obtenu auprès de l’Agence nationale de la sécurité (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "44dbbf35e395e5d1fe35",
-      "title": "Confiance numérique : les entreprises françaises privilégient la sécurité et la conformité",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-confiance-numerique-les-entreprises-francaises-privilegient-la-securite-et-la-conformite-100840.html",
-      "source": "Actualités securite",
-      "date": "2026-10-08",
-      "published": "2026-10-08T09:42:49+00:00",
-      "desc": "La transformation numérique entre dans une nouvelle phase. Après avoir largement dématérialisé leurs processus, les (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "f68a779e6ca1902bf48d",
-      "title": "Cybersécurité : en 2026, les entreprises passent de la défense à la résilience",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-en-2026-les-entreprises-passent-de-la-defense-a-la-resilience-100839.html",
-      "source": "Actualités securite",
-      "date": "2026-10-07",
-      "published": "2026-10-07T14:47:41+00:00",
-      "desc": "Selon le rapport, la cybersécurité est aujourd’hui davantage intégrée aux décisions de direction et à la (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a60706ef757010953d75",
-      "title": "Mistral dévoile Large 4, un modèle à plus de 1 000 milliards de paramètres",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-devoile-large-4-un-modele-a-plus-de-1-000-milliards-de-parametres-100838.html",
-      "source": "Actualités securite",
-      "date": "2026-10-07",
-      "published": "2026-10-07T14:42:23+00:00",
-      "desc": "Présenté le 5 octobre, Large 4 constitue la première concrétisation majeure de Mistral AI depuis sa levée de fonds de (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "cf7eeb24f65255787e44",
-      "title": "ANSSI : Le gendarme de la cybersécurité français piraté",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-anssi-le-gendarme-de-la-cybersecurite-francais-pirate-100833.html",
-      "source": "Actualités securite",
-      "date": "2026-10-05",
-      "published": "2026-10-05T12:13:30+00:00",
-      "desc": "Début septembre, l’ANSSI a annoncé avoir été victime d’une cyberattaque. Un comble pour l’agence chargée (...)",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "86db40da0a745bef0ea0",
