@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:44:01.898175+00:00",
+  "generated_at": "2026-10-29T12:02:15.787076+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,174 @@
     }
   ],
   "items": [
+    {
+      "id": "07b5b3ef92236812742b",
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29",
+      "published": "2026-10-29T12:00:07+00:00",
+      "desc": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1fb831fb8c3243d42256",
+      "title": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+      "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+      "source": "CNIL — Actualités",
+      "date": "2026-10-29",
+      "published": "2026-10-29T12:00:00+00:00",
+      "desc": "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies).",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "4665f17a8f062865003b",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29",
+      "published": "2026-10-29T11:10:13+00:00",
+      "desc": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "392f04d171e2e66e0eaf",
+      "title": "Attaque PHP2Shell : des pirates prennent le contrôle de 25 serveurs",
+      "url": "https://www.cyber-securite.fr/attaque-php2shell-des-pirates-prennent-le-controle-de-25-serveurs/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-29",
+      "published": "2026-10-29T10:51:03+00:00",
+      "desc": "PHP2Shell a dépassé le stade de la menace théorique. Vingt-cinq serveurs ont subi une prise ... Lire plus L’article Attaque PHP2Shell : des pirates prennent le contrôle de 25 serveurs est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7d482c1bcf9fa313acb9",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T10:44:46+00:00",
+      "desc": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "193f5a35878b3318e229",
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T10:26:33+00:00",
+      "desc": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "61a1e4bb1d7dbf291996",
+      "title": "Ordre des barreaux francophones et germanophone de Belgique",
+      "url": "https://frenchbreaches.com/alertes/ordre-des-barreaux-francophones-et-germanophone-de-belgique-mvtdqn0in7s29avy7cj",
+      "source": "French Breaches",
+      "date": "2026-10-29",
+      "published": "2026-10-29T09:59:00+00:00",
+      "desc": "Belgique : 122 000 fiches liées à l'Ordre des avocats mises en vente par un pirate Les informations de milliers d'avocats belges se retrouveraient proposées à la vente sur un forum de pirates. Ce jeudi 29 octobre 2026, un internaute affirme détenir plus de 122 000 fiches attribué…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b36cbddd30558feada5c",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T09:05:39+00:00",
+      "desc": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "8f6e017e2ee1915e9283",
+      "title": "Fuite de données : les informations de 230 000 Français compromises lors d’une nouvelle cyberattaque",
+      "url": "https://www.01net.com/actualites/fuite-de-donnees-les-informations-de-230-000-francais-compromises-lors-dune-nouvelle-cyberattaque.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-29",
+      "published": "2026-10-29T09:01:18+00:00",
+      "desc": "La Compagnie des transports strasbourgeois (CTS) vient d'être victime d'une cyberattaque. Les données d'environ 230 000 comptes clients, soit près de 40 % de ses usagers, ont été piratées. La compagnie appelle les victimes à la vigilance face aux tentatives de phishing.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "96402b0bba36a5534299",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T08:24:22+00:00",
+      "desc": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "675e427ce3803a3b452d",
+      "title": "AGSI",
+      "url": "https://frenchbreaches.com/alertes/agsi-mvta3wt5s3dnci91z9",
+      "source": "French Breaches",
+      "date": "2026-10-29",
+      "published": "2026-10-29T08:24:00+00:00",
+      "desc": "Cyberattaque AGSI Computer : les données de 5 000 clients publiées sur un forum de pirates Une nouvelle fuite de données vise une entreprise informatique française. Ce jeudi 29 octobre 2026, un pirate affirme avoir mis en ligne les informations de 5 000 clients d'AGSI Computer, u…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "0fce4e317e089d3a9507",
+      "title": "Comment sécuriser et configurer son Wi-Fi d’entreprise",
+      "url": "https://www.cyber-securite.fr/securiser-son-wi-fi-dentreprise-guide-de-configuration-wpa3-enterprise/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-29",
+      "published": "2026-10-29T06:33:10+00:00",
+      "desc": "Un Wi-Fi d’entreprise mal protégé peut ouvrir l’accès aux données internes et bloquer une activité ... Lire plus L’article Comment sécuriser et configurer son Wi-Fi d’entreprise est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "48f467fc9990539a6e8a",
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T06:22:33+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S. legal sector. The vulnerability in question is CVE-2026-41709 (CVSS score:",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "7cd598614444dd0aca24",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "date": "2026-10-29",
+      "published": "2026-10-29T05:50:17+00:00",
+      "desc": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "a4fcc53e902226fd4dad",
       "title": "Contrôle technique : 14 millions de plaques d'immatriculation menacées par des pirates",
@@ -779,18 +947,6 @@
       "category": "fuite"
     },
     {
-      "id": "02aa5589116e9160e37e",
-      "title": "Hackers hijack Convertr analytics script to steal payment card data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-      "source": "BleepingComputer",
-      "date": "2026-10-27",
-      "published": "2026-10-27T20:57:25+00:00",
-      "desc": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "3f1af19eb7d09511a7e3",
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
       "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
@@ -803,14 +959,14 @@
       "category": "actualite"
     },
     {
-      "id": "536e322981d163baad47",
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "source": "BleepingComputer",
+      "id": "b90abefa3001a2f3237b",
+      "title": "Port 443 : à quoi sert le port HTTPS et comment l’ouvrir",
+      "url": "https://www.cyber-securite.fr/port-443/",
+      "source": "CYBER-SECURITE.FR",
       "date": "2026-10-27",
-      "published": "2026-10-27T18:20:28+00:00",
-      "desc": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-      "type": "alerte",
+      "published": "2026-10-27T17:52:00+00:00",
+      "desc": "Le port https, numéroté 443, est celui qui transporte l’immense majorité du trafic web chiffré ... Lire plus L’article Port 443 : à quoi sert le port HTTPS et comment l’ouvrir est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1343,18 +1499,6 @@
       "category": "actualite"
     },
     {
-      "id": "e86be7dc45b78f64a2b9",
-      "title": "Mot de passe oublié Google : toutes les solutions 2026",
-      "url": "https://www.cyber-securite.fr/comment-retrouver-son-mot-de-passe-google-toutes-les-solutions/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-26",
-      "published": "2026-10-26T14:40:00+00:00",
-      "desc": "Un mot de passe oublié Google ferme d’un coup la porte de Gmail, de Drive ... Lire plus L’article Mot de passe oublié Google : toutes les solutions 2026 est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "e0df996ac6f273db772a",
       "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
       "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
@@ -1439,18 +1583,6 @@
       "category": "actualite"
     },
     {
-      "id": "da45c2d13222925c8ba6",
-      "title": "LFI, Renaissance et le Parti communiste visés par des cyberattaques",
-      "url": "https://www.cyber-securite.fr/lfi-renaissance-et-le-parti-communiste-vises-par-des-cyberattaques/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-26",
-      "published": "2026-10-26T09:29:00+00:00",
-      "desc": "En moins de deux jours, trois partis politiques ont été associés à des fuites de ... Lire plus L’article LFI, Renaissance et le Parti communiste visés par des cyberattaques est apparu en premier sur jeuxderole.com .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d1fc923170788d76d4fa",
       "title": "Arnaque aux réservations : Appart'City met en garde ses clients contre de faux messages",
       "url": "https://frenchbreaches.com/blog/arnaque-aux-reservations-appartcity-met-en-garde-ses-clients-contre-de-faux-messages",
@@ -1485,18 +1617,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "1ed9f645f438afe7217b",
-      "title": "Phishing ou fishing : Comment distinguer les deux et éviter les pièges en ligne ?",
-      "url": "https://www.cyber-securite.fr/phishing-ou-fishing-comment-distinguer-les-deux-et-eviter-les-pieges-en-ligne/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-26",
-      "published": "2026-10-26T08:00:00+00:00",
-      "desc": "Fishing ou phishing ? Une seule lettre sépare la partie de pêche du dimanche de ... Lire plus L’article Phishing ou fishing : Comment distinguer les deux et éviter les pièges en ligne ? est apparu en premier sur jeuxderole.com .",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "a26d3a2a0bb03d720cf8",
@@ -2015,18 +2135,6 @@
       "category": "actualite"
     },
     {
-      "id": "68f2c8a7a2b64fb92945",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T18:50:13+00:00",
-      "desc": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "6d44e7265943e542a570",
       "title": "Fuite de données au Parti communiste français : près de 190 000 personnes exposées",
       "url": "https://frenchbreaches.com/blog/fuite-de-donnees-au-parti-communiste-francais-pres-de-190-000-personnes-exposees",
@@ -2049,30 +2157,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "14b4c9cf953f428c07e6",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T17:54:08+00:00",
-      "desc": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "6fb95eceef2a89d96948",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T17:50:47+00:00",
-      "desc": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "actualite"
     },
     {
       "id": "10913ef0b9b61e8c1648",
@@ -2132,18 +2216,6 @@
       "desc": "Deux failles critiques découvertes dans PHP illustrent les risques croissants que l’intelligence artificielle fait peser sur la cybersécurité. Selon un responsable d’Anthropic, les 18 prochains mois pourraient être particulièrement difficiles, le temps que les entreprises adaptent leurs défenses.",
       "type": "actualite",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "64b0ac9d140d11671a4a",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T13:50:56+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-      "type": "alerte",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -2217,30 +2289,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "d3e6fb1a3911b1e6b90b",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T11:25:43+00:00",
-      "desc": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "76da60089176983713f4",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "source": "The Hacker News",
-      "date": "2026-10-23",
-      "published": "2026-10-23T11:11:23+00:00",
-      "desc": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "fec9d43d258d8b06efb7",
@@ -3479,18 +3527,6 @@
       "category": "fuite"
     },
     {
-      "id": "10e6aa84c7f2c3f14273",
-      "title": "Booking alerte : une nouvelle vague d’arnaques pourrait déferler cet hiver",
-      "url": "https://www.01net.com/actualites/booking-alerte-une-nouvelle-vague-darnaques-pourrait-deferler-cet-hiver.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-17",
-      "published": "2026-10-17T09:14:06+00:00",
-      "desc": "L’été dernier, de fausses annonces usurpant l’identité de Booking et promettant des logements à bas prix près de la tour Eiffel ont fait des dizaines de victimes. La plateforme de réservation en ligne veut éviter que l’histoire se répète en alertant sur les risques d’une nouvelle vague d’arnaques à l’approche des vacances d’hiver.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "427f925050d583c4991c",
       "title": "Paroisse Saint-Urbain–Sainte-Marie",
       "url": "https://frenchbreaches.com/alertes/paroisse-saint-urbain-sainte-marie-mvc6rymwndmz2b0dmbr",
@@ -3683,18 +3719,6 @@
       "category": "fuite"
     },
     {
-      "id": "c5eeabb02f31883facdc",
-      "title": "Grand Orient de France (GODF)",
-      "url": "https://frenchbreaches.com/alertes/grand-orient-de-france-godf-mv9oi8r1g2i8nqlg8uh",
-      "source": "French Breaches",
-      "date": "2026-10-15",
-      "published": "2026-10-15T15:15:00+00:00",
-      "desc": "Franc-maçonnerie : des centaines de documents internes et financiers du Grand Orient de France exposés dans une fuite de données Mise à jour à 19h00, le 15 octobre Le Grand Orient de France a déposé plainte après la fuite de centaines de documents internes et financiers. Selon Le…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "dbedb621bf9e3232d324",
       "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
       "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
@@ -3702,18 +3726,6 @@
       "date": "2026-10-15",
       "published": "2026-10-15T12:00:00+00:00",
       "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "011bccf226e11740de61",
-      "title": "ASCOR",
-      "url": "https://frenchbreaches.com/alertes/ascor-mv8mz9u8fiazbkptdgm",
-      "source": "French Breaches",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:01:00+00:00",
-      "desc": "ASCOR piraté : des données personnelles dérobées lors d'une cyberattaque chez un prestataire ASCOR, organisme français de formation à distance, a été victime d'une fuite de données personnelles liée à une intrusion chez l'un de ses prestataires informatiques. Selon une notificati…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3777,18 +3789,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "844df392d528acdd0b87",
-      "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
-      "url": "https://www.cnil.fr/fr/ril-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-09",
-      "published": "2026-10-09T12:00:00+00:00",
-      "desc": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp; Libertés le mardi 29&nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des sanctions.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     }
   ]
 }
