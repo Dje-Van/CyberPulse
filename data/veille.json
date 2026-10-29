@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:03:38.510262+00:00",
+  "generated_at": "2026-10-29T03:44:01.898175+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,54 @@
     }
   ],
   "items": [
+    {
+      "id": "a4fcc53e902226fd4dad",
+      "title": "Contrôle technique : 14 millions de plaques d'immatriculation menacées par des pirates",
+      "url": "https://frenchbreaches.com/blog/controle-technique-14-millions-de-plaques-dimmatriculation-menacees-par-des-pirates",
+      "source": "French Breaches-blog",
+      "date": "2026-10-28",
+      "published": "2026-10-28T23:43:00+00:00",
+      "desc": "Une cyberattaque visant Auto-Planning pourrait exposer les données de 18 millions de personnes et près de 14 millions de plaques d'immatriculation.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8880e5325881f6b09d1c",
+      "title": "Auto-Planning",
+      "url": "https://frenchbreaches.com/alertes/auto-planning-mvsr5k8z732ik7zcded",
+      "source": "French Breaches",
+      "date": "2026-10-28",
+      "published": "2026-10-28T23:13:00+00:00",
+      "desc": "Cyberattaque Auto-Planning : les données de 18 millions de personnes et 14 millions de plaques visées Selon nos informations exclusives, une cyberattaque revendiquée contre Auto-Planning, un prestataire français spécialisé dans les réservations de contrôles techniques automobiles…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2e6ae54a61834ccbafe2",
+      "title": "Faille PHP : un hacker diffuse un outil capable de pirater des sites internet",
+      "url": "https://frenchbreaches.com/blog/faille-php-un-hacker-diffuse-un-outil-capable-de-pirater-des-sites-internet",
+      "source": "French Breaches-blog",
+      "date": "2026-10-28",
+      "published": "2026-10-28T22:40:00+00:00",
+      "desc": "Un hacker présente un outil capable d'exploiter une faille PHP et d'installer un accès caché sur des sites vulnérables.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1bb83f5a96f194bc9e0e",
+      "title": "IoT : les vulnérabilités persistent sur les équipements connectés",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-iot-les-vulnerabilites-persistent-sur-les-equipements-connectes-100884.html",
+      "source": "Actualités securite",
+      "date": "2026-10-28",
+      "published": "2026-10-28T22:37:24+00:00",
+      "desc": "Les objets connectés ne sont plus seulement des cibles potentielles pour les cybercriminels. Ils peuvent aussi servir de relais à des trafics (...)",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "64876bb2387df0e5c3c8",
       "title": "Service public fédéral Finances (SPF Finances)",
@@ -449,7 +497,7 @@
       "source": "French Breaches",
       "date": "2026-10-28",
       "published": "2026-10-28T08:16:00+00:00",
-      "desc": "La Mutuelle des Communes victime d'un piratage massif ? Les données sensibles de 50 000 personnes revendiquées Numéros de Sécurité sociale, coordonnées bancaires, documents d'identité et dossiers personnels : un cybercriminel affirme avoir compromis les systèmes informatiques de…",
+      "desc": "La Mutuelle Communale victime d'un piratage : les données de plus de 50 000 personnes revendiquées Mise à jour du 28 octobre 2026 à 15h00 La Mutuelle Communale confirme une intrusion informatique détectée le 26 octobre 2026 dans son outil de gestion des adhésions. L'organisme ind…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -2807,18 +2855,6 @@
       "category": "actualite"
     },
     {
-      "id": "ee05028cd237fb1c0909",
-      "title": "Failles PHP : impôts, Météo-France, préfectures… pourquoi tant de sites ferment ?",
-      "url": "https://frenchbreaches.com/blog/failles-php-impots-meteo-france-prefectures-pourquoi-tant-de-sites-ferment",
-      "source": "French Breaches-blog",
-      "date": "2026-10-21",
-      "published": "2026-10-21T20:51:00+00:00",
-      "desc": "Deux failles critiques de PHP provoquent la fermeture de nombreux sites en France : impôts, Météo-France, préfectures et médias.",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "48fbf51ec71192df2d8f",
       "title": "Institut national d'études démographiques (Ined)",
       "url": "https://frenchbreaches.com/alertes/institut-national-d-tudes-d-mographiques-ined-mvikz1nok03if5tiw9n",
@@ -2829,18 +2865,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "477f6f2bea58c1cc8fbf",
-      "title": "Supercell victime d'un piratage : des vidéos internes volées, les joueurs épargnés",
-      "url": "https://frenchbreaches.com/blog/supercell-victime-dun-piratage-des-videos-internes-volees-les-joueurs-epargnes",
-      "source": "French Breaches-blog",
-      "date": "2026-10-21",
-      "published": "2026-10-21T20:26:00+00:00",
-      "desc": "Supercell confirme des cyberattaques et le vol de vidéos internes. Des employés et partenaires sont concernés, mais pas les joueurs.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "974b4d9648af60524b87",
@@ -3695,18 +3719,6 @@
       "category": "fuite"
     },
     {
-      "id": "6718f4c7669ca27d3cb2",
-      "title": "Tailleur Auto",
-      "url": "https://frenchbreaches.com/alertes/tailleur-auto-mv9fdaoyn4mk3ep2ta8",
-      "source": "French Breaches",
-      "date": "2026-10-15",
-      "published": "2026-10-15T11:00:00+00:00",
-      "desc": "TailleurAuto piraté : des données personnelles de clients potentiellement exposées Le site de commerce en ligne TailleurAuto a été victime d'un incident de sécurité ayant touché sa page de commande. Dans un e-mail envoyé à ses clients le 15 octobre 2026, l'entreprise confirme la…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "4b3a739cc4e144e16cc4",
       "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
       "url": "https://www.cnil.fr/fr/cloture-injonction-google",
@@ -3763,18 +3775,6 @@
       "published": "2026-10-09T13:56:49+00:00",
       "desc": "La primaire de la gauche sociale-démocrate démarre sous tension. Ouverte vendredi 9 octobre à 8 heures, la plateforme de vote en ligne (...)",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d670af31207fdf28a05e",
-      "title": "Détecteur d'IA : Google ouvre SynthID Detector au grand public",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-detecteur-d-ia-google-ouvre-synthid-detector-au-grand-public-100842.html",
-      "source": "Actualités securite",
-      "date": "2026-10-09",
-      "published": "2026-10-09T13:55:34+00:00",
-      "desc": "L’outil entend répondre à la multiplication des contenus générés par intelligence artificielle, sans pour autant (...)",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
