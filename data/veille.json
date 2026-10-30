@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:46:41.985092+00:00",
+  "generated_at": "2026-10-30T11:55:43.164286+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,222 @@
     }
   ],
   "items": [
+    {
+      "id": "1bb8bdf00136758cdfb2",
+      "title": "Fédération française des échecs (FFE)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-des-checs-ffe-mvuvucknfz4wtsag966",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:21:00+00:00",
+      "desc": "Fédération française des échecs : les données de plus de 8 600 personnes potentiellement exposées Le site echecs.asso.fr, associé à la Fédération française des échecs (FFE), est visé par une revendication de fuite de données. Ce vendredi 30 octobre 2026, un pirate affirme avoir d…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "aef9e5e4ac6751998541",
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:20:26+00:00",
+      "desc": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "59a4bb71ba710287cfd5",
+      "title": "Incognito",
+      "url": "https://frenchbreaches.com/alertes/incognito-mvuvrgxlz5tatqo6vp",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:16:00+00:00",
+      "desc": "Incognito.fr : les données de près de 15 000 clients d'un laboratoire photo potentiellement exposées Incognito.fr, un laboratoire photo en ligne français proposant des services de tirage et d'impression photographique, est visé par une revendication de fuite de données. Ce vendre…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d8fa7496f6465aa9ad82",
+      "title": "Mistral AI ouvre les poids de son modèle Large 4",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-ai-ouvre-les-poids-de-son-modele-large-4-100889.html",
+      "source": "Actualités securite",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:14:52+00:00",
+      "desc": "Mistral AI poursuit le développement de son offre de modèles ouverts. L’entreprise annonce la mise à disposition sur Hugging (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2a492cb2a475a326a4d1",
+      "title": "MySexShop",
+      "url": "https://frenchbreaches.com/alertes/mysexshop-mvuvlj5sstgejcg5ykg",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:13:00+00:00",
+      "desc": "MySexShop.fr : les données de plus de 16 000 utilisateurs potentiellement exposées après un piratage revendiqué Le site pour adultes MySexShop.fr est visé par une revendication de fuite de données. Ce vendredi 30 octobre 2026, un pirate affirme avoir publié une base contenant 22…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f61dac61fcbbd5537ae4",
+      "title": "Le Bitcoin est dans le rouge : le hack de Binance plombe tout le marché crypto, 1,5 milliard de dollars envolés",
+      "url": "https://www.01net.com/actualites/bitcoin-rouge-hack-binance-plombe-marche-crypto-15-milliard-dollars-envoles.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-30",
+      "published": "2026-10-30T11:00:45+00:00",
+      "desc": "Le piratage record de Binance a plombé le cours du Bitcoin. La reine des cryptomonnaies s'est effondrée autour des 76 000 dollars, son niveau le plus bas depuis plus d’un mois. Tout le marché des cryptomonnaies a suivi l'exemple du BTC. Plus de 1,5 milliard de dollars de positions ont été liquidées en 24 heures.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "072fcb7482ba39ff74f6",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30",
+      "published": "2026-10-30T10:16:07+00:00",
+      "desc": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "301a453ba57b3566f8be",
+      "title": "Parti Radicale de Gauche (PRG)",
+      "url": "https://frenchbreaches.com/alertes/parti-radicale-de-gauche-prg-mvurpr190cuwki1hy5g",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T09:23:00+00:00",
+      "desc": "Parti radical de gauche : les données de 820 membres potentiellement exposées après un piratage revendiqué Le Parti radical de gauche (PRG) est visé par une revendication de fuite de données. Ce vendredi 30 octobre 2026, un pirate affirme avoir publié une base de données provenan…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a173c7429370150e2961",
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "source": "BleepingComputer",
+      "date": "2026-10-30",
+      "published": "2026-10-30T09:18:13+00:00",
+      "desc": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8b199f44fdd8effd8ac2",
+      "title": "Phishing IA : les 5 failles humaines ciblées par les hackers",
+      "url": "https://www.cyber-securite.fr/cyberattaques-ia-failles-psychologiques/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T09:05:29+00:00",
+      "desc": "Avec les cyberattaques générées par l’IA, les messages frauduleux deviennent plus difficiles à identifier. SoSafe ... Lire plus L’article Phishing IA : les 5 failles humaines ciblées par les hackers est apparu en premier sur jeuxderole.com .",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4b53227f9f3bab608574",
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30",
+      "published": "2026-10-30T08:55:47+00:00",
+      "desc": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced to the compromise of the Cursor Marketplace, prompting the AI coding platform Cursor to briefly take down the service to remove the malware. \"We identified a security incident",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "756f34a6aa369298b94c",
+      "title": "CTS Strasbourg : des données de 230 000 comptes clients compromises",
+      "url": "https://www.cyber-securite.fr/cts-strasbourg-des-donnees-de-230-000-comptes-clients-compromises/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T08:28:12+00:00",
+      "desc": "La CTS a signalé le vol des données de 230 000 comptes clients, soit près ... Lire plus L’article CTS Strasbourg : des données de 230 000 comptes clients compromises est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e35f6d875b940e41b0ba",
+      "title": "Binance ciblé par une cyberattaque massive",
+      "url": "https://www.cyber-securite.fr/binance-cible-par-une-cyberattaque-massive/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T08:18:33+00:00",
+      "desc": "Binance a annoncé une cyberattaque de grande ampleur et évalué à environ 6,3 milliards de ... Lire plus L’article Binance ciblé par une cyberattaque massive est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "95dedca13320784ebe8c",
+      "title": "Piratage de Binance : plus de 6 milliards de dollars de cryptos ont été volés, que s’est-il passé ?",
+      "url": "https://www.01net.com/actualites/piratage-de-binance-plus-de-6-milliards-de-dollars-de-cryptos-ont-ete-voles-que-sest-il-passe.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-30",
+      "published": "2026-10-30T07:50:26+00:00",
+      "desc": "Binance, la plus grande plateforme d’échange de cryptomonnaies au monde, a été piratée. Durant la cyberattaque, les pirates ont dérobé 6,3 milliards de dollars de cryptomonnaies. C'est le plus gros casse de l'histoire des cryptomonnaies, juste devant le hack de Bybit. Tous les regards se tournent vers les hackers nord-coréens, spécialistes des vols d'actifs numériques.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "bc4258f9677bca1e1ae9",
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30",
+      "published": "2026-10-30T07:45:30+00:00",
+      "desc": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "8927f234f52baad7df3c",
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30",
+      "published": "2026-10-30T07:27:05+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "08c6c1449a8376b14b08",
+      "title": "Des applis espions trompeuses circulent !",
+      "url": "https://www.cyber-securite.fr/fausses-applications-espions-ia/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T06:05:00+00:00",
+      "desc": "Des publicités pour de prétendues applications d’espionnage promettent de lire des messages privés ou de ... Lire plus L’article Des applis espions trompeuses circulent ! est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d563e9e1aaec1f91d767",
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "The Hacker News",
+      "date": "2026-10-30",
+      "published": "2026-10-30T04:14:59+00:00",
+      "desc": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "c3c936b327656db61a80",
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
@@ -419,18 +635,6 @@
       "category": "actualite"
     },
     {
-      "id": "4665f17a8f062865003b",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T11:10:13+00:00",
-      "desc": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "392f04d171e2e66e0eaf",
       "title": "Attaque PHP2Shell : des pirates prennent le contrôle de 25 serveurs",
       "url": "https://www.cyber-securite.fr/attaque-php2shell-des-pirates-prennent-le-controle-de-25-serveurs/",
@@ -767,18 +971,6 @@
       "category": "fuite"
     },
     {
-      "id": "bce6775540c21858e0d8",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28",
-      "published": "2026-10-28T20:47:22+00:00",
-      "desc": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b43a2c2adc290c6dbf2c",
       "title": "Fuite de données : une compagnie de trains présente en France victime d'une cyberattaque",
       "url": "https://frenchbreaches.com/blog/fuite-de-donnees-une-compagnie-de-trains-presente-en-france-victime-dune-cyberattaque",
@@ -837,18 +1029,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "aae0c135c0f5a81005cd",
-      "title": "Discord to let search engines index public server messages",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28",
-      "published": "2026-10-28T18:44:16+00:00",
-      "desc": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "3402ef3be45eaaf5abfa",
@@ -1367,18 +1547,6 @@
       "category": "actualite"
     },
     {
-      "id": "b90abefa3001a2f3237b",
-      "title": "Port 443 : à quoi sert le port HTTPS et comment l’ouvrir",
-      "url": "https://www.cyber-securite.fr/port-443/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-27",
-      "published": "2026-10-27T17:52:00+00:00",
-      "desc": "Le port https, numéroté 443, est celui qui transporte l’immense majorité du trafic web chiffré ... Lire plus L’article Port 443 : à quoi sert le port HTTPS et comment l’ouvrir est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7367f80e249facb53db0",
       "title": "Sony piraté : les données de 2,58 millions de clients compromises",
       "url": "https://frenchbreaches.com/blog/sony-pirate-les-donnees-de-258-millions-de-clients-compromises",
@@ -1387,30 +1555,6 @@
       "published": "2026-10-27T14:40:00+00:00",
       "desc": "Sony confirme une cyberattaque touchant 2,58 millions de comptes So-net et plala au Japon. Noms, e-mails, mots de passe et données bancaires concernés",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "db4203b756c2a0594795",
-      "title": "905 000 plaques d’immatriculation françaises exposées",
-      "url": "https://www.cyber-securite.fr/905-000-plaques-dimmatriculation-francaises-exposees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-27",
-      "published": "2026-10-27T14:21:42+00:00",
-      "desc": "Un pirate affirme vendre un fichier qui associe des plaques françaises à des coordonnées personnelles. ... Lire plus L’article 905 000 plaques d’immatriculation françaises exposées est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "39598558a0f3b901ecb0",
-      "title": "L’exploitation de PHP bat son plein : 32,5 millions de services restent vulnérables",
-      "url": "https://www.cyber-securite.fr/lexploitation-de-php-bat-son-plein-325-millions-de-services-restent-vulnerables/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-27",
-      "published": "2026-10-27T14:20:17+00:00",
-      "desc": "32,5 millions de services PHP restent vulnérables, selon le chiffre cité. Des failles exposées aux ... Lire plus L’article L’exploitation de PHP bat son plein : 32,5 millions de services restent vulnérables est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1602,18 +1746,6 @@
       "date": "2026-10-27",
       "published": "2026-10-27T08:22:43+00:00",
       "desc": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1107e4554cb64bab7a8b",
-      "title": "Ethernet n’a pas de configuration IP valide : les solutions",
-      "url": "https://www.cyber-securite.fr/impossible-de-trouver-ladresse-ip/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-27",
-      "published": "2026-10-27T08:02:00+00:00",
-      "desc": "Câble branché, voyants allumés, et pourtant Windows refuse obstinément de sortir sur internet. L’utilitaire de ... Lire plus L’article Ethernet n’a pas de configuration IP valide : les solutions est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1955,18 +2087,6 @@
       "category": "fuite"
     },
     {
-      "id": "20494af63ce3fb8e1268",
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26",
-      "published": "2026-10-26T09:54:02+00:00",
-      "desc": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d1fc923170788d76d4fa",
       "title": "Arnaque aux réservations : Appart'City met en garde ses clients contre de faux messages",
       "url": "https://frenchbreaches.com/blog/arnaque-aux-reservations-appartcity-met-en-garde-ses-clients-contre-de-faux-messages",
@@ -1975,18 +2095,6 @@
       "published": "2026-10-26T08:52:00+00:00",
       "desc": "Appart'City met en garde contre de faux messages WhatsApp réclamant des paiements et des données bancaires aux clients",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "399172439712b08d5e85",
-      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26",
-      "published": "2026-10-26T08:35:51+00:00",
-      "desc": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2001,18 +2109,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "a26d3a2a0bb03d720cf8",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26",
-      "published": "2026-10-26T07:49:46+00:00",
-      "desc": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "366ca04e8902ca97e4b5",
@@ -2037,18 +2133,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "63f16ca1b1ad1c49473e",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "source": "The Hacker News",
-      "date": "2026-10-26",
-      "published": "2026-10-26T06:03:48+00:00",
-      "desc": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "5c3a2ad0f7f8ad3b7a60",
@@ -3383,30 +3467,6 @@
       "category": "fuite"
     },
     {
-      "id": "02300095b15b083482f3",
-      "title": "Des pirates se servent peut-être de votre serveur Plex pour miner des cryptos",
-      "url": "https://www.01net.com/actualites/pirates-servent-peut-etre-serveur-plex-miner-cryptos.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-19",
-      "published": "2026-10-19T06:31:06+00:00",
-      "desc": "Des pirates exploitent actuellement plusieurs failles de Plex Media Server. Grâce aux vulnérabilités dénichées, ils parviennent à installer un logiciel taillé pour miner des cryptomonnaies à l'insu des utilisateurs. Pour endiguer les attaques, un correctif a été déployé.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "45ac082f0a2d4f168090",
-      "title": "Ces box Orange et SFR peuvent se faire pirater à distance grâce à une faille Wi-Fi",
-      "url": "https://www.01net.com/actualites/box-orange-sfr-peuvent-piratees-distance-faille-wi-fi.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-19",
-      "published": "2026-10-19T06:11:28+00:00",
-      "desc": "Un chercheur belge a dévoilé à la conférence Hexacon une faille qui permet de pirater certaines box Internet à distance, sans connaître le mot de passe du Wi-Fi. En France, une Livebox 5 d’Orange et des box SFR sont concernées. En Belgique, jusqu’à 1,5 million d’appareils pourraient être vulnérables.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "8f4964661fbc673a0033",
       "title": "Blissim",
       "url": "https://frenchbreaches.com/alertes/blissim-mve0347d9gvblekdsnc",
@@ -3647,30 +3707,6 @@
       "category": "fuite"
     },
     {
-      "id": "af6d397623f654741e58",
-      "title": "Courtepaille Bayeux",
-      "url": "https://frenchbreaches.com/alertes/courtepaille-bayeux-mvb88as4rtz2lyik2s",
-      "source": "French Breaches",
-      "date": "2026-10-16",
-      "published": "2026-10-16T17:12:00+00:00",
-      "desc": "Courtepaille Bayeux : près de 8 700 fiches clients mises en vente sur un forum cybercriminel Le restaurant Courtepaille de Bayeux, dans le Calvados, est visé par une revendication de fuite de données personnelles. Le 16 octobre 2026, un pirate utilisant le pseudonyme rea a publié…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "f1629a1ff00b751b3990",
-      "title": "Vélogrimpe",
-      "url": "https://frenchbreaches.com/alertes/v-logrimpe-mvb7cujdb3r2s61tuo9",
-      "source": "French Breaches",
-      "date": "2026-10-16",
-      "published": "2026-10-16T16:48:00+00:00",
-      "desc": "Vélogrimpe : des adresses e-mail de contributeurs exposées à la suite d'une erreur technique Le site Vélogrimpe, qui permet aux utilisateurs de partager des informations sur des falaises et des itinéraires accessibles à vélo, a signalé une fuite de données personnelles concernant…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "aaebf12b008c78722ecb",
       "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
       "url": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
@@ -3703,30 +3739,6 @@
       "published": "2026-10-16T12:00:00+00:00",
       "desc": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "dd54050dd649334d0812",
-      "title": "Grimaldi Forum",
-      "url": "https://frenchbreaches.com/alertes/grimaldi-forum-mvavilj5vmn4fj3vw5h",
-      "source": "French Breaches",
-      "date": "2026-10-16",
-      "published": "2026-10-16T11:16:00+00:00",
-      "desc": "Grimaldi Forum Monaco victime d'un piratage : un accès non autorisé à son infrastructure informatique Le Grimaldi Forum Monaco annonce avoir été victime d'un incident de cybersécurité ayant entraîné un accès non autorisé à son infrastructure informatique. L'organisation appelle s…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "9b5b15a2d1b063264fb5",
-      "title": "Ouest-France",
-      "url": "https://frenchbreaches.com/alertes/ouest-france-mvabub8ypl4qw9tiss",
-      "source": "French Breaches",
-      "date": "2026-10-16",
-      "published": "2026-10-16T02:05:00+00:00",
-      "desc": "Ouest-France victime d'un piratage : des copies de pièces d'identité potentiellement exposées Le quotidien Ouest-France informe certains de ses abonnés d'un incident de sécurité ayant touché ses formulaires de souscription. Noms, coordonnées personnelles et copies de pièces d'ide…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -3765,18 +3777,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "1462ea5e3f9924d0c2cc",
-      "title": "La Cnaf signale une fuite de données sur sa plateforme Vacaf",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-la-cnaf-signale-une-fuite-de-donnees-sur-sa-plateforme-vacaf-100851.html",
-      "source": "Actualités securite",
-      "date": "2026-10-13",
-      "published": "2026-10-13T14:22:44+00:00",
-      "desc": "Ce n’est pas une première pour la Caisse nationale des allocations familiales (Cnaf). En février 2024, l’organisme avait déjà (...)",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "fc7865bf7518a1d66773",
