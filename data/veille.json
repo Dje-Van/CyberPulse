@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:15:01.215686+00:00",
+  "generated_at": "2026-10-30T03:46:41.985092+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,54 @@
     }
   ],
   "items": [
+    {
+      "id": "c3c936b327656db61a80",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29",
+      "published": "2026-10-29T23:35:52+00:00",
+      "desc": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9d26e8ec13b8a91f0233",
+      "title": "Refugilys",
+      "url": "https://frenchbreaches.com/alertes/refugilys-mvu6n3b7o8erm3lsyop",
+      "source": "French Breaches",
+      "date": "2026-10-29",
+      "published": "2026-10-29T23:31:00+00:00",
+      "desc": "Refugilys piraté : les données de milliers de propriétaires d'animaux potentiellement exposées Refugilys, un logiciel français utilisé pour gérer les refuges et associations de protection animale, est visé par une revendication de piratage. Ce jeudi 29 octobre 2026, un hacker aff…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "84f3cbb9776b6ff82e82",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "source": "BleepingComputer",
+      "date": "2026-10-29",
+      "published": "2026-10-29T22:45:23+00:00",
+      "desc": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3cd4485acd70ff244b06",
+      "title": "Binance piraté : jusqu'à 5,8 milliards de dollars en cryptomonnaies au cœur d'une alerte géante",
+      "url": "https://frenchbreaches.com/blog/binance-pirate-jusqua-58-milliards-de-dollars-en-cryptomonnaies-au-coeur-dune-alerte-geante",
+      "source": "French Breaches-blog",
+      "date": "2026-10-29",
+      "published": "2026-10-29T22:42:00+00:00",
+      "desc": "Binance enquête sur un possible piratage géant. Jusqu'à 5,8 milliards de dollars en cryptomonnaies seraient concernés par des transferts suspects.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "2602dfd8795f57de2e0a",
       "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
@@ -827,18 +875,6 @@
       "category": "actualite"
     },
     {
-      "id": "cfdef39189ea2bb23f95",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28",
-      "published": "2026-10-28T16:45:47+00:00",
-      "desc": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dd3deb989772e915af94",
       "title": "Les failles PHP à nouveau exploitées : une vaste cyberattaque chinoise fait des ravages avec l’IA",
       "url": "https://www.01net.com/actualites/vaste-cyberattaque-chinoise-exploite-activement-failles-php-aide-ia.html",
@@ -872,18 +908,6 @@
       "desc": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "0b33a76a486a83fb4995",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "source": "BleepingComputer",
-      "date": "2026-10-28",
-      "published": "2026-10-28T16:00:00+00:00",
-      "desc": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -2711,18 +2735,6 @@
       "category": "fuite"
     },
     {
-      "id": "a0a991c9b55af9138927",
-      "title": "La Fédération de football de Madrid visée par une fuite massive de données sensibles",
-      "url": "https://frenchbreaches.com/blog/la-federation-de-football-de-madrid-visee-par-une-fuite-massive-de-donnees-sensibles",
-      "source": "French Breaches-blog",
-      "date": "2026-10-22",
-      "published": "2026-10-22T12:23:00+00:00",
-      "desc": "La Fédération de football de Madrid visée par une fuite présumée : 30 000 documents d'identité et des données médicales proposés à la vente.",
-      "type": "actualite",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
       "id": "e3c026fb2de18aabe495",
       "title": "Siemens PSS(R)SINCAL",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
@@ -3714,18 +3726,6 @@
       "date": "2026-10-16",
       "published": "2026-10-16T02:05:00+00:00",
       "desc": "Ouest-France victime d'un piratage : des copies de pièces d'identité potentiellement exposées Le quotidien Ouest-France informe certains de ses abonnés d'un incident de sécurité ayant touché ses formulaires de souscription. Noms, coordonnées personnelles et copies de pièces d'ide…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "d9d02c4cd4134abd2709",
-      "title": "Mairie de Saillans",
-      "url": "https://frenchbreaches.com/alertes/mairie-de-saillans-mva4u7duoeidk4s95hb",
-      "source": "French Breaches",
-      "date": "2026-10-15",
-      "published": "2026-10-15T22:50:00+00:00",
-      "desc": "Cyberattaque dans la Drôme : la messagerie de la mairie de Saillans piratée, des habitants visés par une arnaque La mairie de Saillans, dans la Drôme, a été victime d'un piratage de sa messagerie électronique. Des courriels frauduleux envoyés depuis l'adresse de la commune réclam…",
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
