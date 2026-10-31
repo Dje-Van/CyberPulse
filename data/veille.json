@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:50:18.449841+00:00",
+  "generated_at": "2026-10-31T03:30:08.153405+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -11,14 +11,26 @@
   ],
   "items": [
     {
+      "id": "639e2f8f9c6b91da06a2",
+      "title": "Careco Group",
+      "url": "https://frenchbreaches.com/alertes/careco-group-mvvnj5l8phekqbinmxf",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T00:14:00+00:00",
+      "desc": "Careco Group : un pirate publie des données clients, des commandes et des informations de mots de passe Des informations personnelles de clients attribuées à Careco Group circulent sur un forum de pirates informatiques. Le 30 octobre 2026, un individu a annoncé la publication d'u…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "b6e38d6ce0fb62b0e331",
       "title": "Epitech Paris",
       "url": "https://frenchbreaches.com/alertes/epitech-paris-mvvhp79bruzm1s2qiji",
       "source": "French Breaches",
       "date": "2026-10-30",
       "published": "2026-10-30T21:31:00+00:00",
-      "desc": "Epitech Paris : un pirate publie les données personnelles de 351 étudiants ALERTE — Des centaines d'étudiants d'Epitech Paris pourraient voir leurs informations personnelles circuler sur Internet. Ce vendredi 30 octobre 2026, un pirate a publié sur un forum spécialisé un fichier…",
-      "type": "alerte",
+      "desc": "Epitech Paris : un pirate publie les données personnelles de 351 étudiants Des centaines d'étudiants d'Epitech Paris pourraient voir leurs informations personnelles circuler sur Internet. Ce vendredi 30 octobre 2026, un pirate a publié sur un forum spécialisé un fichier présenté…",
+      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -3678,18 +3690,6 @@
       "date": "2026-10-17",
       "published": "2026-10-17T19:02:00+00:00",
       "desc": "Une armurerie française visée par une fuite de données : près de 3 800 clients concernées Une nouvelle enseigne française spécialisée dans la vente d'armes et d'équipements de chasse est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un pirate informatique…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "2de097c5affc1e692052",
-      "title": "Alain Afflelou",
-      "url": "https://frenchbreaches.com/alertes/alain-afflelou-mvcha29ft5obzvo7uw9",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T14:14:00+00:00",
-      "desc": "Fuite de données chez Alain Afflelou : près de 50 000 enregistrements de facturation divulgués par un pirate Le réseau français d'optique Alain Afflelou est concerné par une nouvelle revendication de fuite de données. Un pirate informatique connu sous le pseudonyme Syrv4x affirme…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
