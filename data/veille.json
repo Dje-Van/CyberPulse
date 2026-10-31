@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:30:08.153405+00:00",
+  "generated_at": "2026-10-31T11:29:28.525202+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "33c7e02724b5cd98ddf2",
+      "title": "Rassemblement national : un pirate revendique les données de 150 000 adhérents",
+      "url": "https://frenchbreaches.com/blog/rassemblement-national-un-pirate-revendique-les-donnees-de-150-000-adherents",
+      "source": "French Breaches-blog",
+      "date": "2026-10-31",
+      "published": "2026-10-31T09:05:00+00:00",
+      "desc": "Un pirate affirme avoir divulgué les données de 150 000 adhérents du Rassemblement national, mais des milliers d’anomalies sèment le doute.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e4878750b988cbe1d19c",
+      "title": "Fédération française de montagne (FFME)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-montagne-ffme-mvw6cunak1v4g2awu4",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T09:01:00+00:00",
+      "desc": "Fédération française de montagne et d'escalade : des données de licenciés potentiellement exposées après une cyberattaque La Fédération française de la montagne et de l'escalade (FFME) confirme avoir été victime d'une cyberattaque le 28 octobre 2026. Un compte utilisateur a été u…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c305d693e177d5ef64da",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31",
+      "published": "2026-10-31T08:27:43+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "1d848909bc994aff4f36",
+      "title": "Attention à ce message WhatsApp, il permet aux pirates de prendre le contrôle de votre compte",
+      "url": "https://www.01net.com/actualites/attention-a-ce-message-whatsapp-il-permet-aux-pirates-de-prendre-le-controle-de-votre-compte.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-10-31",
+      "published": "2026-10-31T08:00:22+00:00",
+      "desc": "La gendarmerie nationale alerte sur une arnaque qui vise les utilisateurs de WhatsApp à travers un faux concours de danse. En invitant leurs victimes à voter pour une jeune fille, les pirates cherchent à prendre le contrôle de leur compte. Voici comment ne pas tomber dans ce piège.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "09f142bd2640f27254d9",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31",
+      "published": "2026-10-31T05:33:41+00:00",
+      "desc": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "293569318dde9da7ae44",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31",
+      "published": "2026-10-31T04:56:12+00:00",
+      "desc": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "639e2f8f9c6b91da06a2",
       "title": "Careco Group",
@@ -2099,18 +2171,6 @@
       "category": "fuite"
     },
     {
-      "id": "c6fd9c70afae34ae6969",
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T08:22:43+00:00",
-      "desc": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a1c745bbdbd4ade8fa10",
       "title": "Installez-vite iOS 27.2 sur votre iPhone, Apple corrige plus de 160 failles de sécurité",
       "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-iphone-apple-corrige-plus-160-failles-securite.html",
@@ -2119,30 +2179,6 @@
       "published": "2026-10-27T08:00:36+00:00",
       "desc": "Apple vient de déployer iOS 27.2 sur tous les iPhone compatibles. En plus des nouveautés, la mise à jour colmate plus de 160 failles de sécurité dénichées sur l'iPhone. C'est pourquoi on vous recommande de l'installer sans tarder.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a2da896f1147a8f00903",
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T06:34:47+00:00",
-      "desc": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "dc98d41511a17d2ea06d",
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T04:37:59+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2867,18 +2903,6 @@
       "category": "fuite"
     },
     {
-      "id": "bfaf2991d38b6e40324b",
-      "title": "Capcom piraté : près de 12 millions d'e-mails de comptes de joueurs exposés",
-      "url": "https://frenchbreaches.com/blog/capcom-pirate-pres-de-12-millions-de-mails-de-comptes-de-joueurs-exposes",
-      "source": "French Breaches-blog",
-      "date": "2026-10-22",
-      "published": "2026-10-22T16:02:00+00:00",
-      "desc": "Le géant du jeu vidéo Capcom confirme un piratage touchant près de 12 millions d'enregistrements d'e-mails. Des comptes ont été compromis.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f5fcf464aa1680ddaabe",
       "title": "PrinterPix",
       "url": "https://frenchbreaches.com/alertes/printerpix-mvjpwa9iz1zpm22i3k",
@@ -3259,18 +3283,6 @@
       "published": "2026-10-21T07:04:35+00:00",
       "desc": "Un pirate est parvenu à dérober les données de millions de propriétaires de chiens et de chats en France. Le truand s'est attaqué à trois fichiers français, à savoir l'I-CAD, la Centrale Canine et le LOOF. Ce dernier vient de confirmer la cyberattaque.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9ccfefac8ce0a6a4f3e9",
-      "title": "« Supervision humaine minimale » : l’armée américaine veut ses propres IA pirates pour « neutraliser les menaces »",
-      "url": "https://www.01net.com/actualites/supervision-humaine-minimale-larmee-americaine-veut-ses-propres-ia-pirates-pour-neutraliser-les-menaces.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-21",
-      "published": "2026-10-21T06:33:05+00:00",
-      "desc": "Pendant tout l'été, des agents d'IA se sont introduits seuls dans des systèmes informatiques, sans qu'on le leur demande. L'armée américaine, elle, veut désormais des agents capables d'en faire autant, sur commande.",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3678,18 +3690,6 @@
       "date": "2026-10-17",
       "published": "2026-10-17T19:07:00+00:00",
       "desc": "Armurerie Gilles : les données de plus de 35 000 clients mises en vente par un pirate Une nouvelle enseigne française spécialisée dans la chasse et le tir sportif est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un cybercriminel affirme avoir mis en vent…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "df36fc36b17b1b21f415",
-      "title": "Armurerie Laudier",
-      "url": "https://frenchbreaches.com/alertes/armurerie-laudier-mvcre48wsndrz97ecl9",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:02:00+00:00",
-      "desc": "Une armurerie française visée par une fuite de données : près de 3 800 clients concernées Une nouvelle enseigne française spécialisée dans la vente d'armes et d'équipements de chasse est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un pirate informatique…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
