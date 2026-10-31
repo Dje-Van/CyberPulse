@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:36:45.821187+00:00",
+  "generated_at": "2026-10-31T20:50:37.898318+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "bb55db6bd9a820e52282",
+      "title": "AUTOSUR",
+      "url": "https://frenchbreaches.com/alertes/autosur-mvwpal5glsxnn6t0fz9",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T20:40:00+00:00",
+      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Le réseau français AUTOSUR, spécialisé dans le contrôle technique automobile, est visé par une importante fuite de données revendiquée par le cybercriminel ChimeraZ sur un forum clandestin. Dan…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "30beb6cd6efef23d879c",
+      "title": "Terre de Son",
+      "url": "https://frenchbreaches.com/alertes/terre-de-son-mvwud3cd5jgpeniqcp8",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T20:14:00+00:00",
+      "desc": "Terre de Son : les données de 95 000 clients revendiquées après un piratage Le site français Terre de Son (terredeson.com), spécialisé dans la vente de matériel de sonorisation, d'éclairage, de DJ et d'équipements de studio, est visé par une fuite de données revendiquée par le cy…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2392f76d40503ebc76b8",
+      "title": "Ma Déco de Fête",
+      "url": "https://frenchbreaches.com/alertes/ma-d-co-de-f-te-mvwtz6zebtsf4j2tmhh",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T20:12:00+00:00",
+      "desc": "Ma Déco de Fête : 45 000 fiches clients revendiquées, des données bancaires exposées Le site français Ma Déco de Fête (madecofete.com), spécialisé dans les articles de décoration et de fête, est visé par une fuite de données revendiquée par le cybercriminel ChimeraZ sur un forum…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a4df36c045ad0e8789c2",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "published": "2026-10-31T18:01:12+00:00",
+      "desc": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b0ce846351f8231330f6",
+      "title": "Ebikon, Gersau, Meggen et Wil (Suisses)",
+      "url": "https://frenchbreaches.com/alertes/ebikon-gersau-meggen-et-wil-suisses-mvwolian3fkl2e1adtg",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T17:32:00+00:00",
+      "desc": "Suisse : quatre communes visées par une fuite de données revendiquée par un pirate Quatre communes suisses, Ebikon, Gersau, Meggen et Wil, sont visées par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme mettre en vente des informations issues de leur…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "9f004f2f46249475b26d",
+      "title": "Cryptomonnaies : les données de milliers de visiteurs et clients d'une boutique spécialisée visées",
+      "url": "https://frenchbreaches.com/blog/cryptomonnaies-les-donnees-de-milliers-de-visiteurs-et-clients-dune-boutique-specialisee-visees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-31",
+      "published": "2026-10-31T17:28:00+00:00",
+      "desc": "Une boutique allemande de portefeuilles physiques pour cryptomonnaies visée par une fuite de données revendiquée, avec des informations de clients et de paiements.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "da487d2041653b3052bd",
       "title": "Davos Klosters",
@@ -919,18 +991,6 @@
       "published": "2026-10-29T22:42:00+00:00",
       "desc": "Binance enquête sur un possible piratage géant. Jusqu'à 5,8 milliards de dollars en cryptomonnaies seraient concernés par des transferts suspects.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2602dfd8795f57de2e0a",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T22:09:24+00:00",
-      "desc": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2927,18 +2987,6 @@
       "category": "actualite"
     },
     {
-      "id": "d01c44e803ed7bc74748",
-      "title": "Quad9 quitte la France : son DNS sécurisé s'arrêtera le 24 novembre 2026",
-      "url": "https://frenchbreaches.com/blog/quad9-quitte-la-france-son-dns-securise-sarretera-le-24-novembre-2026",
-      "source": "French Breaches-blog",
-      "date": "2026-10-22",
-      "published": "2026-10-22T22:47:00+00:00",
-      "desc": "Quad9 annonce son départ de France le 24 novembre 2026 après une décision judiciaire imposant le blocage de sites pirates. Contexte et conséquences.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "5985109fbf2d0e98ac14",
       "title": "Ircantec (retraites)",
       "url": "https://frenchbreaches.com/alertes/ircantec-retraites-mvk0hhi1k0g8fp7vhof",
@@ -3287,6 +3335,18 @@
       "category": "actualite"
     },
     {
+      "id": "6187f332c77f8f5154b7",
+      "title": "Association Médico-Sociale Anne Morgan (AMSAM)",
+      "url": "https://frenchbreaches.com/alertes/association-m-dico-sociale-anne-morgan-amsam-rw_UVUxVFFVMUFZbkpoZG05NA",
+      "source": "French Breaches",
+      "date": "2026-10-21",
+      "published": "2026-10-21T22:00:00+00:00",
+      "desc": "Ransomware : l'association médico-sociale AMSAM visée par le groupe BravoX, plus de 922 Go de données revendiqués Le groupe de ransomware BravoX revendique une cyberattaque contre l'AMSAM, une association médico-sociale implantée à Soissons, dans l'Aisne. Les cybercriminels affir…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
       "id": "48fbf51ec71192df2d8f",
       "title": "Institut national d'études démographiques (Ined)",
       "url": "https://frenchbreaches.com/alertes/institut-national-d-tudes-d-mographiques-ined-mvikz1nok03if5tiw9n",
@@ -3631,66 +3691,6 @@
       "published": "2026-10-19T12:00:00+00:00",
       "desc": "Fuite de données chez ZOU ! : près de 90 000 dossiers d'adhérents proposés à la vente Mise à jour le 21 octobre Le site apparaît actuellement en maintenance. Une nouvelle fuite de données est revendiquée en France. Ce lundi 19 octobre 2026, un pirate informatique utilisant le pse…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8f4964661fbc673a0033",
-      "title": "Blissim",
-      "url": "https://frenchbreaches.com/alertes/blissim-mve0347d9gvblekdsnc",
-      "source": "French Breaches",
-      "date": "2026-10-18",
-      "published": "2026-10-18T15:45:00+00:00",
-      "desc": "Fuite de données chez Blissim : près de 2 millions d'enregistrements de paiement publiés par un pirate Une nouvelle fuite de données est revendiquée en France. Ce dimanche 18 octobre 2026, un pirate informatique utilisant le pseudonyme ChimeraZ affirme avoir publié des données de…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "c9d699a731d59d14fd39",
-      "title": "Axialys",
-      "url": "https://frenchbreaches.com/alertes/axialys-mvdrkf84jselnsp3zb",
-      "source": "French Breaches",
-      "date": "2026-10-18",
-      "published": "2026-10-18T11:54:00+00:00",
-      "desc": "Fuite de données chez Axialys : 63 036 lignes publiées par un pirate ## Mise à jour du 19 octobre 2026 à 17h00 — Axialys confirme la fuite de données** Dans un communiqué publié ce lundi 19 octobre, Axialys confirme une extraction et une publication non autorisées de données prov…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "fd7eb62cf15f6f07f004",
-      "title": "Be-in-home",
-      "url": "https://frenchbreaches.com/alertes/be-in-home-mvcwenpw5kdiwkqheqg",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T21:15:00+00:00",
-      "desc": "Fuite de données chez Be-in-home : plus de 2 millions d'enregistrements mis en ligne par un pirate Une base de données associée à Be-in-home.fr, une plateforme française de gestion et de suivi de l'entretien des logements, a été publiée sur un forum cybercriminel. Ce samedi 17 oc…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "7c1393415d934e0b674c",
-      "title": "Eurofiber France",
-      "url": "https://frenchbreaches.com/alertes/eurofiber-france-mvcw8ir35y412th7y14",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T21:11:00+00:00",
-      "desc": "Cyberattaque chez Eurofiber France : des données personnelles et bancaires potentiellement exposées Eurofiber France a informé ses partenaires d'un incident de sécurité identifié le 14 octobre 2026 sur une infrastructure hébergeant sa plateforme Waza. Selon un courrier de notific…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "2e5b47bc90b337bc92b6",
-      "title": "Fédération Française de Tir (FFTIR)",
-      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-tir-fftir-mvaxif0cry9qfg3y9t",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T20:25:00+00:00",
-      "desc": "FFTir : les données de près de 587 000 licenciés mises en vente sur un forum cybercriminel Mise à jour le 22 octobre à 12h La Fédération Française de Tir confirme une cyberattaque visant EDEN et Cibles Couleurs, avec le vol de données personnelles, dont 64 000 photos et près de 1…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
