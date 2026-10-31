@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:29:28.525202+00:00",
+  "generated_at": "2026-10-31T16:36:45.821187+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,162 @@
     }
   ],
   "items": [
+    {
+      "id": "da487d2041653b3052bd",
+      "title": "Davos Klosters",
+      "url": "https://frenchbreaches.com/alertes/davos-klosters-mvwlopvr2gyaiqpj9xr",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T16:12:00+00:00",
+      "desc": "Davos Klosters : un pirate revendique la fuite des données de près de 20 000 personnes Davos Klosters, destination touristique suisse connue pour ses stations de ski et ses activités de montagne, est visée par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a2a764b5acb36acfcc12",
+      "title": "Fédération nationale des chasseurs (FNC)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-nationale-des-chasseurs-fnc-mvwl21bvs2c6njsvea",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:53:00+00:00",
+      "desc": "Fédération nationale des chasseurs : un pirate revendique la fuite de données de près de 5 000 membres La Fédération nationale des chasseurs (FNC), qui représente les chasseurs en France, est visée par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "5e8f0431fce0d3bc65e8",
+      "title": "Zone de secours Hainaut-Est (ZOHE)",
+      "url": "https://frenchbreaches.com/alertes/zone-de-secours-hainaut-est-zohe-mvwkwpu250s39frwzvg",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:50:00+00:00",
+      "desc": "ZOHE : un pirate revendique une fuite de données touchant un service de secours belge La Zone de secours Hainaut-Est (ZOHE), un service public belge chargé des interventions de pompiers et de secours, est visée par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "72aec30d186370a722b7",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:35:11+00:00",
+      "desc": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ddd226eb803068ddca2a",
+      "title": "Solnet",
+      "url": "https://frenchbreaches.com/alertes/solnet-mvwjqg7ow72iqngt8te",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:16:00+00:00",
+      "desc": "Solnet : un pirate revendique la fuite des données de milliers de clients en Suisse Solnet, fournisseur suisse d'accès à Internet et de services de télécommunications, est visé par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme vendre 6 804 enregist…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "36964f394af2e465e61f",
+      "title": "Les Écologistes",
+      "url": "https://frenchbreaches.com/alertes/les-cologistes-mvwjdoxbwq7dfh3sm5",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:04:00+00:00",
+      "desc": "Les Écologistes : un pirate revendique la fuite de données de comptes liés au parti Le parti politique Les Écologistes, anciennement Europe Écologie Les Verts (EELV), est visé par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme avoir publié 125 enreg…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "882128f956d6dbce1654",
+      "title": "Assoclub.fr",
+      "url": "https://frenchbreaches.com/alertes/assoclub-fr-mvwj75ghbjha57s6wct",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:02:00+00:00",
+      "desc": "Assoclub.fr : un pirate revendique la fuite des données de près de 37 000 personnes Assoclub.fr, une plateforme en ligne destinée à la gestion des associations et des clubs, est visée par une revendication de fuite de données ce samedi 31 octobre 2026. Un pirate affirme avoir pub…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "40abfdf97d692f2bdbf0",
+      "title": "Pharmarcie des Congrès",
+      "url": "https://frenchbreaches.com/alertes/pharmarcie-des-congr-s-mvwewlgg8b68m8lx2ah",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T14:58:00+00:00",
+      "desc": "Pharmacie des Congrès à Dijon : un pirate revendique le vol des données de 23 000 personnes La Pharmacie des Congrès, à Dijon, est visée par une importante revendication de piratage informatique ce samedi 31 octobre 2026. Un pirate affirme avoir récupéré quatre sauvegardes de bas…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "dd695362ecd889aeb1ca",
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "published": "2026-10-31T14:05:15+00:00",
+      "desc": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a7455b293ef3e34bd089",
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "published": "2026-10-31T13:10:19+00:00",
+      "desc": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "41cdd41993708079e5a5",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "source": "BleepingComputer",
+      "date": "2026-10-31",
+      "published": "2026-10-31T12:50:09+00:00",
+      "desc": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "614cab7b699f1a166ad1",
+      "title": "Swarovski : les données de près de 13 000 clients français potentiellement exposées",
+      "url": "https://frenchbreaches.com/blog/swarovski-les-donnees-de-pres-de-13-000-clients-francais-potentiellement-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-10-31",
+      "published": "2026-10-31T12:30:00+00:00",
+      "desc": "Une faille de sécurité chez Swarovski aurait exposé les données de milliers de clients : noms, e-mails, adresses postales et dates de naissance.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b84dfe472134279a715b",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "source": "The Hacker News",
+      "date": "2026-10-31",
+      "published": "2026-10-31T12:01:56+00:00",
+      "desc": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "33c7e02724b5cd98ddf2",
       "title": "Rassemblement national : un pirate revendique les données de 150 000 adhérents",
@@ -779,30 +935,6 @@
       "category": "actualite"
     },
     {
-      "id": "96442c511701b8db9213",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T22:08:04+00:00",
-      "desc": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c57f0aaab059961568a5",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T21:47:25+00:00",
-      "desc": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "89c2bd99b4a72c7df76b",
       "title": "Polymarket piraté : des utilisateurs signalent des fonds volés, les transactions suspendues",
       "url": "https://frenchbreaches.com/blog/polymarket-pirate-des-utilisateurs-signalent-des-fonds-voles-les-transactions-suspendues",
@@ -811,18 +943,6 @@
       "published": "2026-10-29T19:41:00+00:00",
       "desc": "Polymarket confirme un incident chez un prestataire externe. Des utilisateurs signalent des fonds volés et les transactions ont été suspendues.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c41a95bf1bbd3ec8a780",
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T19:23:41+00:00",
-      "desc": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -836,18 +956,6 @@
       "desc": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their",
       "type": "actualite",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "45dcc2eb64d36fed0a3f",
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T18:38:26+00:00",
-      "desc": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
-      "type": "cve",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -2135,18 +2243,6 @@
       "category": "actualite"
     },
     {
-      "id": "eae2a3c7c621fbaa9377",
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T09:33:06+00:00",
-      "desc": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c50443f76e89237d0851",
       "title": "IA : l'Europe veut permettre d'utiliser vos données sans votre accord",
       "url": "https://frenchbreaches.com/blog/ia-leurope-veut-permettre-dutiliser-vos-donnees-sans-votre-accord",
@@ -2879,18 +2975,6 @@
       "category": "actualite"
     },
     {
-      "id": "9b9bd47786246815b46d",
-      "title": "DrahiLeaks : les données piratées d'Altice refont surface sur un forum cybercriminel",
-      "url": "https://frenchbreaches.com/blog/drahileaks-les-donnees-piratees-daltice-refont-surface-sur-un-forum-cybercriminel",
-      "source": "French Breaches-blog",
-      "date": "2026-10-22",
-      "published": "2026-10-22T17:17:00+00:00",
-      "desc": "Les DrahiLeaks refont surface sur un forum cybercriminel : documents internes, e-mails, pièces d'identité et mots de passe annoncés.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "0152ba98c87592fc1351",
       "title": "Clin d'œil Opticiens",
       "url": "https://frenchbreaches.com/alertes/clin-d-il-opticiens-mvjqwafqwazubtzvvbd",
@@ -3607,90 +3691,6 @@
       "published": "2026-10-17T20:25:00+00:00",
       "desc": "FFTir : les données de près de 587 000 licenciés mises en vente sur un forum cybercriminel Mise à jour le 22 octobre à 12h La Fédération Française de Tir confirme une cyberattaque visant EDEN et Cibles Couleurs, avec le vol de données personnelles, dont 64 000 photos et près de 1…",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "4e6dd8c663eca4f7362b",
-      "title": "Vackelys (Pompiers)",
-      "url": "https://frenchbreaches.com/alertes/vackelys-pompiers-muzhnz58lx19do6zyxd",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:48:00+00:00",
-      "desc": "Fuite de données chez Vackelys : plus de 3 500 personnes concernées, des passeports potentiellement exposés Une nouvelle fuite de données personnelles est revendiquée en France, avec un risque particulièrement sensible concernant des documents d'identité. Ce samedi 17 octobre 202…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "08984ff9b889948edcc0",
-      "title": "Malakoff Humanis",
-      "url": "https://frenchbreaches.com/alertes/malakoff-humanis-mvcsz2tmuezpml0e5j",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:38:00+00:00",
-      "desc": "Fuite de données chez Malakoff Humanis : plus de 16 500 documents, dont des données de santé, divulgués par un pirate Mise à jour le 18 octobre à 10h00 Malakoff Humanis enquête sur une revendication de vol de données liée à une cyberattaque ayant touché, le 11 août 2026, l'un de…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b7954b46102583f5f00b",
-      "title": "Zabun",
-      "url": "https://frenchbreaches.com/alertes/zabun-mvcsriubldgv96x1ky",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:34:00+00:00",
-      "desc": "Belgique : fuite de données chez Zabun, près de 900 000 personnes potentiellement concernées Une importante fuite de données est revendiquée en Belgique. Ce samedi 17 octobre 2026, un pirate informatique utilisant le pseudonyme ChimeraZ affirme avoir mis en vente une base de donn…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "d679e15613aa9acf01f2",
-      "title": "Grande Loge Féminine de France",
-      "url": "https://frenchbreaches.com/alertes/grande-loge-f-minine-de-france-mvcsgxuprbgh4t08t49",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:24:00+00:00",
-      "desc": "Fuite de données dans la franc-maçonnerie : près de 1 000 personnes liées à la Grande Loge Féminine de France exposées La franc-maçonnerie française est visée par une nouvelle revendication de fuite de données personnelles. Ce samedi 17 octobre 2026, un pirate informatique utilis…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8c2dce8a3f2a4b52c1f7",
-      "title": "Centrale Canine (LOF)",
-      "url": "https://frenchbreaches.com/alertes/centrale-canine-lof-mvb6h0v2kn5qvp6xle",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:21:00+00:00",
-      "desc": "Centrale Canine : un pirate revendique une fuite de données concernant 1,4 million de personnes Mise à jour du 20 octobre 2026 à 10h26 La Centrale Canine confirme un incident de sécurité sur son service LOFConnect, après l'utilisation frauduleuse de plusieurs comptes d'éleveurs c…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8c68d914d593d3ca4fbb",
-      "title": "PRREL Ambition (Région Hauts-de-France)",
-      "url": "https://frenchbreaches.com/alertes/prrel-ambition-r-gion-hauts-de-france-mvcs49lsbqwc70966pa",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:16:00+00:00",
-      "desc": "Hauts-de-France : nouvelle fuite de données, plus de 1 000 élèves et parents potentiellement exposés Mise à jour le 19 octobre à 12h Alertée par FrenchBreaches, la Région Hauts-de-France a informé les 2 000 bénéficiaires du Programme régional de réussite en études longues (PRREL)…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "42e28d4636149c905b16",
-      "title": "Armurerie-Gilles",
-      "url": "https://frenchbreaches.com/alertes/armurerie-gilles-mvcrsfogau96hs5ci5",
-      "source": "French Breaches",
-      "date": "2026-10-17",
-      "published": "2026-10-17T19:07:00+00:00",
-      "desc": "Armurerie Gilles : les données de plus de 35 000 clients mises en vente par un pirate Une nouvelle enseigne française spécialisée dans la chasse et le tir sportif est visée par une fuite de données revendiquée. Ce samedi 17 octobre 2026, un cybercriminel affirme avoir mis en vent…",
-      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
