@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T03:35:51.275841+00:00",
+  "generated_at": "2026-11-01T12:25:42.179160+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,150 @@
     }
   ],
   "items": [
+    {
+      "id": "77366e9c7d8aa832d227",
+      "title": "Failles PHP : 10 jours après, près de 30 millions de sites et services web toujours vulnérables",
+      "url": "https://www.01net.com/actualites/failles-php-onze-jours-apres-pres-de-30-millions-de-sites-et-services-web-toujours-vulnerables.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-01",
+      "published": "2026-11-01T11:59:44+00:00",
+      "desc": "Les failles PHP2Shell continuent de mettre en danger Internet, alors que des correctifs sont disponibles depuis plus de dix jours. Près de 30 millions de services PHP tournent encore sur une version vulnérable, dont 2 millions en France. Pire, la grande majorité de ces cibles potentielles s'appuie sur des versions de PHP qui ne sont plus mises à jour.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7944ec64a9b98b95440f",
+      "title": "Mistral AI ouvre à Orange Cyberdefense l'accès anticipé à une version spécialisée de Large 4",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-ai-ouvre-a-orange-cyberdefense-l-acces-anticipe-a-une-version-specialisee-de-large-4-100890.html",
+      "source": "Actualités securite",
+      "date": "2026-11-01",
+      "published": "2026-11-01T11:21:52+00:00",
+      "desc": "Alors que Mistral vient d’ouvrir les poids de son modèle Large 4, le fournisseur français s'associe à Orange Cyberdefense premier (...)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "49041e604c19e52f0a06",
+      "title": "Même hors ligne, cette IA chinoise cherche à transmettre des données à Pékin",
+      "url": "https://www.01net.com/actualites/meme-hors-ligne-cette-ia-chinoise-cherche-a-transmettre-des-donnees-a-pekin.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-01",
+      "published": "2026-11-01T10:00:02+00:00",
+      "desc": "Pendant un test de sécurité, l'un des derniers modèles ouverts d'Alibaba aurait tenté d'envoyer un fichier vers un serveur de Pékin, en contradiction avec son propre raisonnement. L'accusation vient d'un concurrent, preuves publiées à l'appui.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ab267d8a96ef7c1bbcf7",
+      "title": "Pharmacie de la Cigogne",
+      "url": "https://frenchbreaches.com/alertes/pharmacie-de-la-cigogne-mvxltey6athigff2ntt",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T09:01:00+00:00",
+      "desc": "Strasbourg : une pharmacie visée par une fuite de données de 110 000 personnes La Pharmacie de la Cigogne, située à Strasbourg dans le Bas-Rhin, fait l'objet d'une revendication de piratage publiée sur un forum cybercriminel le 31 octobre 2026. Un individu affirme avoir infiltré…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c441c97c4a31b9afc972",
+      "title": "Verrières-en-Forez",
+      "url": "https://frenchbreaches.com/alertes/verri-res-en-forez-mvxlia4vti4vk2ufhz",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T08:55:00+00:00",
+      "desc": "Cyberattaque dans la Loire : les données des habitants de Verrières-en-Forez menacées La mairie de Verrières-en-Forez, commune située dans le département de la Loire, a été victime d'une cyberattaque dans la nuit du 28 octobre 2026. Le serveur informatique de la municipalité a ét…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "47c9e2c2f127bea1bcf0",
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "source": "The Hacker News",
+      "date": "2026-11-01",
+      "published": "2026-11-01T08:51:31+00:00",
+      "desc": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to the cluster and its virtual machines. If the impersonated account is",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "a587a1b1495398240d82",
+      "title": "Institut de Médecine Tropicale d’Anvers",
+      "url": "https://frenchbreaches.com/alertes/institut-de-m-decine-tropicale-d-anvers-mvxl597yo144e46lfj",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T08:44:00+00:00",
+      "desc": "Belgique : l’Institut de médecine tropicale piraté, les données de 2 300 personnes volées L’Institut de médecine tropicale d’Anvers, en Belgique, confirme avoir été victime d’une cyberattaque ayant entraîné le vol de données issues d’une application utilisée pour les soins médica…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1b99989da9bb39f96169",
+      "title": "Cholet",
+      "url": "https://frenchbreaches.com/alertes/cholet-mvxkw4ejwenzpj1t0da",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T08:35:00+00:00",
+      "desc": "Cyberattaque à Cholet : les services de la mairie et de l'agglomération perturbés La ville de Cholet, dans le Maine-et-Loire, fait face à un important incident informatique depuis le vendredi 30 octobre 2026. Plusieurs services municipaux et intercommunaux sont devenus injoignabl…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "e376766cc96fe4911178",
+      "title": "« À la vitesse de la machine » : 4 gangs de pirates ont confié leurs cyberattaques à l’IA",
+      "url": "https://www.01net.com/actualites/a-la-vitesse-de-la-machine-4-gangs-de-pirates-ont-confie-leurs-cyberattaques-a-lia.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-01",
+      "published": "2026-11-01T08:00:41+00:00",
+      "desc": "CrowdStrike vient de lever le voile sur une nouvelle vague de cyberattaques animées par l'IA. Les chercheurs ont découvert que quatre groupes de pirates, jusqu'ici inconnus, ont délégué toutes leurs opérations à des agents IA. Les intelligences artificielles ont agi en toute autonomie en piratant des établissements de santé, des administrations et des bases de données russes.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3c8da2a0b6d392cf5962",
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "source": "The Hacker News",
+      "date": "2026-11-01",
+      "published": "2026-11-01T07:25:40+00:00",
+      "desc": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets. Blockchain records show crypto worth about $2.64 million reached",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e1dc1203c72851bbedcb",
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-01",
+      "published": "2026-11-01T07:03:00+00:00",
+      "desc": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4432f1dbea0caa5b7f06",
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "source": "The Hacker News",
+      "date": "2026-11-01",
+      "published": "2026-11-01T07:02:58+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "fe3606c17d1b6ac15d20",
       "title": "Vaud (DGEP)",
@@ -2279,18 +2423,6 @@
       "category": "actualite"
     },
     {
-      "id": "b7d7e51c85e3c557c169",
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T12:09:50+00:00",
-      "desc": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update. In the researchers' tests,",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f7763a757c0c37e729db",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -2325,42 +2457,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "c4255691bc04847be987",
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T11:46:00+00:00",
-      "desc": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "ee7d5cd794be00773ca8",
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T11:32:46+00:00",
-      "desc": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b434e7ad4a7b0ac31514",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T11:32:31+00:00",
-      "desc": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "c50443f76e89237d0851",
@@ -3467,18 +3563,6 @@
       "category": "actualite"
     },
     {
-      "id": "fb38c489bb0321d67570",
-      "title": "La Poste Mobile : des hackers prorusses revendiquent une attaque et un vol de données, Bouygues Telecom « analyse la situation »",
-      "url": "https://www.01net.com/actualites/la-poste-mobile-des-hackers-prorusses-revendiquent-une-attaque-et-un-vol-de-donnees-bouygues-telecom-analyse-la-situation.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-21",
-      "published": "2026-10-21T13:46:19+00:00",
-      "desc": "Le site de La Poste Mobile a été inaccessible pendant plusieurs heures ce mercredi 21 octobre. Le groupe prorusse NoName057(16) revendique une attaque par déni de service, puis affirme avoir dérobé les données de 25 000 clients. ucune de ces revendications n’est confirmée à ce stade : contacté par 01net.com, Bouygues Telecom indique que ses équipes « analysent actuellement la situation ». »",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "57abb091cf26656b5f6e",
       "title": "La Poste Mobile",
       "url": "https://frenchbreaches.com/alertes/la-poste-mobile-mvi3xiudmuk1ptig4ce",
@@ -3489,30 +3573,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "30379f2808a92d59bf3a",
-      "title": "Ransomware mortel : le pirate derrière une cyberattaque meurtrière a été arrêté",
-      "url": "https://www.01net.com/actualites/ransomware-mortel-pirate-derriere-cyberattaque-meurtriere-arrete.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-21",
-      "published": "2026-10-21T10:00:12+00:00",
-      "desc": "Soupçonné de faire partie du gang Qilin, un Russe de 28 ans a été arrêté au Japon pendant ses vacances, avant d'être extradé vers l'Allemagne. Le groupe, spécialisé dans les attaques par ransomware, est impliqué dans une cyberattaque qui a contribué à la mort d'un patient dans un hôpital de Londres.",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "2e9c6efa3f50094b8781",
-      "title": "Nouvelle cyberattaque en France : les données de propriétaires de chiens et chats ont encore été volées",
-      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-france-donnees-proprietaires-chiens-chats-encore-volees.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-21",
-      "published": "2026-10-21T07:04:35+00:00",
-      "desc": "Un pirate est parvenu à dérober les données de millions de propriétaires de chiens et de chats en France. Le truand s'est attaqué à trois fichiers français, à savoir l'I-CAD, la Centrale Canine et le LOOF. Ce dernier vient de confirmer la cyberattaque.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "0f4de67236acef69e14f",
@@ -3575,42 +3635,6 @@
       "category": "fuite"
     },
     {
-      "id": "62b4d8b7ced76c7b9426",
-      "title": "PortaleCo",
-      "url": "https://frenchbreaches.com/alertes/portaleco-mvh1wazxhkwj2zu1gfs",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T19:01:00+00:00",
-      "desc": "PortaleCo : les données de 103 000 clients revendiquées par un pirate informatique Mise à jour le 21 octobre à 14h30 Portaleco confirme avoir identifié et corrigé une faille de sécurité de type IDOR, après la revendication du pirate Alduin. Selon l'entreprise, le fichier de 103 0…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b02f2e1aad4ed6820426",
-      "title": "Terranota",
-      "url": "https://frenchbreaches.com/alertes/terranota-mvh1ackqc8kzf8diegm",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T18:45:00+00:00",
-      "desc": "Terranota : près de 48 000 dossiers immobiliers publiés par un pirate informatique Un pirate informatique utilisant le pseudonyme Syrv4x affirme avoir publié gratuitement une base de données attribuée à Terranota, une entreprise française spécialisée dans l'accompagnement régleme…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "fc305022351dba6165d1",
-      "title": "Misterbooking",
-      "url": "https://frenchbreaches.com/alertes/misterbooking-mvgyucgy6374p06vxeb",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T17:36:00+00:00",
-      "desc": "Cyberattaque chez Misterbooking : les données personnelles de clients d'hôtels potentiellement volées La plateforme de gestion hôtelière Misterbooking, éditée par le groupe Septeo, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à ses systèmes informatiques.…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "7abb23f2d705d24167e5",
       "title": "Synacktiv étend sa solution d'investigation mobile aux entreprises",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-synacktiv-etend-sa-solution-d-investigation-mobile-aux-entreprises-100860.html",
@@ -3621,18 +3645,6 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "1d227b8c614c659c75ca",
-      "title": "Valeurs actuelles",
-      "url": "https://frenchbreaches.com/alertes/valeurs-actuelles-mvgxt8dpogb8av8bdzm",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T17:07:00+00:00",
-      "desc": "Fuite de données chez Valeurs actuelles : 45 000 factures d'abonnés revendiquées Mise à jour le 21 octobre à 12h Valeurs actuelles confirme un incident de cybersécurité survenu le 20 octobre 2026 chez le prestataire de sa boutique en ligne. Des mesures de sécurité ont été prises,…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "c8f46e5ff1ac1686c626",
@@ -3729,18 +3741,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "8fd9c82a436e1b85ead6",
-      "title": "Microsoft corrige un nombre record de 1 411 failles de sécurité",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-microsoft-corrige-un-nombre-record-de-1-411-failles-de-securite-100853.html",
-      "source": "Actualités securite",
-      "date": "2026-10-15",
-      "published": "2026-10-15T17:41:35+00:00",
-      "desc": "C’est la troisième fois cette année que l’éditeur bat son propre record. Microsoft a publié un volume record (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "dbedb621bf9e3232d324",
