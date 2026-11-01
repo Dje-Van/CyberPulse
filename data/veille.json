@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:25:42.179160+00:00",
+  "generated_at": "2026-11-01T21:32:42.996680+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,114 @@
     }
   ],
   "items": [
+    {
+      "id": "d88e77c657e5730bcce9",
+      "title": "Dekra Norisko",
+      "url": "https://frenchbreaches.com/alertes/dekra-norisko-mvybe57prsagt6a61l",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T20:58:00+00:00",
+      "desc": "DEKRA-Norisko : une fuite de données touche des clients ayant réservé un contrôle technique DEKRA Automotive informe ses clients d’un incident de sécurité survenu le 20 octobre 2026 chez l’un de ses sous-traitants. Des données personnelles associées à des réservations de contrôle…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "318f8d3dcfbe3378133d",
+      "title": "Bien’ici",
+      "url": "https://frenchbreaches.com/alertes/bien-ici-mvyb1wxid1nkam4gxdp",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T20:49:00+00:00",
+      "desc": "Bien’ici : un pirate revendique le vol de 13 000 fiches d’agences immobilières Le portail immobilier français Bien’ici fait l’objet d’une revendication de piratage. Un cybercriminel affirme avoir compromis une base de données contenant environ 13 000 fiches liées à des agences im…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a51895702c8724396c89",
+      "title": "HelloDepann",
+      "url": "https://frenchbreaches.com/alertes/hellodepann-mvyayt5u5pwj23lu6kl",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T20:45:00+00:00",
+      "desc": "HelloDepann : un pirate revendique une fuite de données clients, devis et factures La plateforme française de dépannage à domicile HelloDepann fait l'objet d'une revendication de piratage. Un cybercriminel affirme avoir récupéré deux fichiers contenant des informations personnell…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "5d7adb06ae584dbcb4a1",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01",
+      "published": "2026-11-01T19:57:53+00:00",
+      "desc": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d6680dd5f890af24df6e",
+      "title": "La Grande Pharmacie Bailly",
+      "url": "https://frenchbreaches.com/alertes/la-grande-pharmacie-bailly-mvxz4mkugvm1fg5v63w",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T16:40:00+00:00",
+      "desc": "Paris : la Grande Pharmacie Bailly visée par une fuite de données de 303 000 personnes Une nouvelle revendication de piratage vise une pharmacie française. La Grande Pharmacie Bailly, située à Paris, serait concernée par une importante fuite de données personnelles et médicales.…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "d6448e6ee754fd41b678",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01",
+      "published": "2026-11-01T15:11:21+00:00",
+      "desc": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "5a644c5b253fb9c1d73b",
+      "title": "France : plus de 19 millions de plaques d’immatriculation visées par des fuites de données",
+      "url": "https://frenchbreaches.com/blog/france-plus-de-19-millions-de-plaques-dimmatriculation-visees-par-des-fuites-de-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-01",
+      "published": "2026-11-01T15:03:00+00:00",
+      "desc": "Plus de 19 millions de plaques d’immatriculation françaises seraient exposées dans plusieurs fuites de données, avec des risques pour les automobilistes.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a45c5035f5e72c953394",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "source": "BleepingComputer",
+      "date": "2026-11-01",
+      "published": "2026-11-01T13:53:11+00:00",
+      "desc": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9a2166ed0d223e5b2628",
+      "title": "Groupe MPA",
+      "url": "https://frenchbreaches.com/alertes/groupe-mpa-mvijiuunz1xmhru7jk",
+      "source": "French Breaches",
+      "date": "2026-11-01",
+      "published": "2026-11-01T13:30:00+00:00",
+      "desc": "Groupe MPA : 3,8 millions de données clients revendiquées sur 11 sites français Le groupe français MPA, spécialisé notamment dans la vente de plaques d'immatriculation, de produits personnalisés et d'accessoires, est visé par une importante fuite de données revendiquée par le cyb…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
     {
       "id": "77366e9c7d8aa832d227",
       "title": "Failles PHP : 10 jours après, près de 30 millions de sites et services web toujours vulnérables",
@@ -185,7 +293,7 @@
       "source": "French Breaches",
       "date": "2026-10-31",
       "published": "2026-10-31T20:40:00+00:00",
-      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Mise à jour du 31 octobre 2026 à 23 h 19 Selon nos informations, les données revendiquées seraient liées à SECTA Formations, le service de formation professionnelle du réseau de contrôle techni…",
+      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Mise à jour du 1er novembre 2026 Contacté par FrenchBreaches, AUTOSUR confirme avoir détecté une intrusion concernant une cinquantaine de centres et avoir immédiatement isolé le système concern…",
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
@@ -863,18 +971,6 @@
       "category": "fuite"
     },
     {
-      "id": "a173c7429370150e2961",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30",
-      "published": "2026-10-30T09:18:13+00:00",
-      "desc": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "8b199f44fdd8effd8ac2",
       "title": "Phishing IA : les 5 failles humaines ciblées par les hackers",
       "url": "https://www.cyber-securite.fr/cyberattaques-ia-failles-psychologiques/",
@@ -1139,18 +1235,6 @@
       "category": "alerte"
     },
     {
-      "id": "c3c936b327656db61a80",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T23:35:52+00:00",
-      "desc": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "9d26e8ec13b8a91f0233",
       "title": "Refugilys",
       "url": "https://frenchbreaches.com/alertes/refugilys-mvu6n3b7o8erm3lsyop",
@@ -1161,18 +1245,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "84f3cbb9776b6ff82e82",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "source": "BleepingComputer",
-      "date": "2026-10-29",
-      "published": "2026-10-29T22:45:23+00:00",
-      "desc": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "3cd4485acd70ff244b06",
@@ -3059,18 +3131,6 @@
       "category": "actualite"
     },
     {
-      "id": "b935895e6ad4e0be114a",
-      "title": "Bornes de recharge : une cyberattaque expose les données personnelles des automobilistes",
-      "url": "https://frenchbreaches.com/blog/bornes-de-recharge-une-cyberattaque-expose-les-donnees-personnelles-des-automobilistes",
-      "source": "French Breaches-blog",
-      "date": "2026-10-23",
-      "published": "2026-10-23T13:39:00+00:00",
-      "desc": "Plenitude On The Road confirme une cyberattaque ayant entraîné une fuite de données personnelles. Numéros fiscaux, adresses et historiques de recharge sont concernés.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "afb5cb93f2a58d9eca15",
       "title": "Plenitude On The Road",
       "url": "https://frenchbreaches.com/alertes/plenitude-on-the-road-mvkzvkaghaihpwmydjt",
@@ -3563,18 +3623,6 @@
       "category": "actualite"
     },
     {
-      "id": "57abb091cf26656b5f6e",
-      "title": "La Poste Mobile",
-      "url": "https://frenchbreaches.com/alertes/la-poste-mobile-mvi3xiudmuk1ptig4ce",
-      "source": "French Breaches",
-      "date": "2026-10-21",
-      "published": "2026-10-21T12:43:00+00:00",
-      "desc": "La Poste Mobile : le groupe de hackers prorusse NoName057(16) revendique une fuite de données de 25 000 clients L'opérateur français La Poste Mobile est visé par une nouvelle revendication du groupe de hackers prorusse NoName057(16). Le 21 octobre 2026, les cybercriminels affirme…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "0f4de67236acef69e14f",
       "title": "[Màj] Multiples vulnérabilités dans PHP (21 octobre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-014/",
@@ -3585,54 +3633,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "0865e727cffb8a2ec2a7",
-      "title": "Billets Nantes",
-      "url": "https://frenchbreaches.com/alertes/billets-nantes-mvh6pydjtys8slkzvks",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T21:16:00+00:00",
-      "desc": "Billets Nantes : les données de 161 comptes publiées par un pirate informatique Le site français Billets Nantes (billetsnantes.fr) fait l'objet d'une revendication de piratage sur un forum cybercriminel. Un attaquant affirme avoir accédé à sa base de données et récupéré les infor…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "77367114186b8a7e8843",
-      "title": "Frenchy Sushi",
-      "url": "https://frenchbreaches.com/alertes/frenchy-sushi-mvh6jsmfitdlozblgf",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T21:12:00+00:00",
-      "desc": "Frenchy Sushi : les données de 3 424 clients revendiquées par un pirate informatique Le site Frenchy Sushi, accessible à l'adresse frenchysushi.fr, fait l'objet d'une revendication de piratage sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Opek0…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b7437e120dea8048af78",
-      "title": "Padel Normandie",
-      "url": "https://frenchbreaches.com/alertes/padel-normandie-mvh6f5dxc041wra4jc",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T21:08:00+00:00",
-      "desc": "Padel Normandie : les données de 2 307 utilisateurs revendiquées par un pirate informatique Le site padel-normandie.fr fait l'objet d'une revendication de piratage sur un forum cybercriminel. Le 20 octobre 2026, un pirate utilisant le pseudonyme Opek0xx affirme avoir pénétré dans…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "db90261b7833211814dd",
-      "title": "King Jouet",
-      "url": "https://frenchbreaches.com/alertes/king-jouet-mvh2wz4eji7ew5cohhq",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T19:30:00+00:00",
-      "desc": "King Jouet : près de 196 000 fiches clients publiées par un pirate, après une cyberattaque en 2025 Mise à jour du 23 octobre 2026 à 16 h Suite à une alerte de FrenchBreaches, King Jouet confirme avoir identifié l'origine de l'incident de sécurité dans un ancien composant applicat…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "7abb23f2d705d24167e5",
