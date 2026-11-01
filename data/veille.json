@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T20:50:37.898318+00:00",
+  "generated_at": "2026-11-01T03:35:51.275841+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -11,13 +11,37 @@
   ],
   "items": [
     {
-      "id": "bb55db6bd9a820e52282",
-      "title": "AUTOSUR",
-      "url": "https://frenchbreaches.com/alertes/autosur-mvwpal5glsxnn6t0fz9",
+      "id": "fe3606c17d1b6ac15d20",
+      "title": "Vaud (DGEP)",
+      "url": "https://frenchbreaches.com/alertes/vaud-dgep-mvx1oi7bzi3yhco1z9",
+      "source": "French Breaches",
+      "date": "2026-10-31",
+      "published": "2026-10-31T23:38:00+00:00",
+      "desc": "Suisse : les données de 41 500 élèves et enseignants volées, un étudiant suspecté Une importante fuite de données touche les gymnases et les écoles professionnelles du canton de Vaud, en Suisse. Les informations personnelles d'environ 41 500 élèves et enseignants ont été dérobées…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "6e44225386f760df4b11",
+      "title": "France : les plaques d'immatriculation de 2,9 millions de véhicules mises en vente sur le dark web",
+      "url": "https://frenchbreaches.com/blog/france-les-plaques-dimmatriculation-de-29-millions-de-vehicules-mises-en-vente-sur-le-dark-web",
+      "source": "French Breaches-blog",
+      "date": "2026-10-31",
+      "published": "2026-10-31T21:13:00+00:00",
+      "desc": "Une base de 2,9 millions de plaques d'immatriculation françaises est proposée à la vente avec les noms, téléphones et e-mails de 1,8 million de personnes.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ec618270e0f4873517c1",
+      "title": "AUTOSUR (SECTA)",
+      "url": "https://frenchbreaches.com/alertes/autosur-secta-mvwpal5glsxnn6t0fz9",
       "source": "French Breaches",
       "date": "2026-10-31",
       "published": "2026-10-31T20:40:00+00:00",
-      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Le réseau français AUTOSUR, spécialisé dans le contrôle technique automobile, est visé par une importante fuite de données revendiquée par le cybercriminel ChimeraZ sur un forum clandestin. Dan…",
+      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Mise à jour du 31 octobre 2026 à 23 h 19 Selon nos informations, les données revendiquées seraient liées à SECTA Formations, le service de formation professionnelle du réseau de contrôle techni…",
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
@@ -320,6 +344,30 @@
       "desc": "Careco Group : un pirate publie des données clients, des commandes et des informations de mots de passe Des informations personnelles de clients attribuées à Careco Group circulent sur un forum de pirates informatiques. Le 30 octobre 2026, un individu a annoncé la publication d'u…",
       "type": "fuite",
       "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "eca9c81c13c1673e79e9",
+      "title": "Groupe AC Environnement",
+      "url": "https://frenchbreaches.com/alertes/groupe-ac-environnement-rw_UjNKdmRYQmxJRUZESUVWdWRtbHliMjV1WlcxbGJuUkFkR2hsWjJWdWRHeGxiV1Z1",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T23:00:00+00:00",
+      "desc": "Groupe AC Environnement : le spécialiste français du diagnostic immobilier visé par une cyberattaque revendiquée Le groupe français AC Environnement, spécialisé dans le diagnostic immobilier et les prestations environnementales, apparaît sur le site de revendication du groupe de…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "72735edca2cfaf9dfce0",
+      "title": "INED",
+      "url": "https://frenchbreaches.com/alertes/ined-rw_U1c1bFpFQjBhR1ZuWlc1MGJHVnRaVzQ",
+      "source": "French Breaches",
+      "date": "2026-10-30",
+      "published": "2026-10-30T23:00:00+00:00",
+      "desc": "INED : l'institut français de recherche démographique visé par une attaque de ransomware revendiquée L'Institut national d'études démographiques (INED), un organisme public français spécialisé dans l'étude de la population, apparaît sur le site de revendication du groupe de ranso…",
+      "type": "alerte",
+      "sev": "Haute",
       "category": "fuite"
     },
     {
@@ -2123,6 +2171,18 @@
       "category": "alerte"
     },
     {
+      "id": "7fc4299a86d57a4d6a2e",
+      "title": "Marbre Design",
+      "url": "https://frenchbreaches.com/alertes/marbre-design-rw_VFdGeVluSmxJRVJsYzJsbmJrQndZWGxzYjJGaw",
+      "source": "French Breaches",
+      "date": "2026-10-27",
+      "published": "2026-10-27T23:00:00+00:00",
+      "desc": "Marbre Design is a French company specializing in the processing of natural stone, marble, granite, and composite materials. The enterprise custom-manufactures kitchen countertops, bathroom fixtures, fireplace surrounds, and interior architectural elements. Its core operations fo…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "755944d608df3bcf1e2c",
       "title": "ACF Assurances",
       "url": "https://frenchbreaches.com/alertes/acf-assurances-mvr6rsykmu4nmetsbur",
@@ -2507,6 +2567,30 @@
       "category": "fuite"
     },
     {
+      "id": "4abc8961a648eb581066",
+      "title": "BCSA GEAR",
+      "url": "https://frenchbreaches.com/alertes/bcsa-gear-rw_UWtOVFFTQkhSVUZTUUhGcGJHbHU",
+      "source": "French Breaches",
+      "date": "2026-10-25",
+      "published": "2026-10-25T23:00:00+00:00",
+      "desc": "BCSA Gear : le groupe de ransomware Qilin publie des documents confidentiels Le fabricant français BCSA Gear, spécialisé dans les équipements mécaniques industriels, est visé par une revendication de cyberattaque du groupe de ransomware Qilin. Sur son site de divulgation, le coll…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "aa783fb84bb2536adce4",
+      "title": "Afflelou",
+      "url": "https://frenchbreaches.com/alertes/afflelou-rw_UVdabWJHVnNiM1ZBWlcxd1pYSmhaRzl5",
+      "source": "French Breaches",
+      "date": "2026-10-25",
+      "published": "2026-10-25T23:00:00+00:00",
+      "desc": "Afflelou : le groupe de ransomware Emperador revendique une fuite de données Le groupe de ransomware Emperador affirme détenir des données provenant d'Alain Afflelou, l'une des principales enseignes françaises d'optique et d'audioprothèses. Une publication datée du 26 octobre 202…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
       "id": "8428d9790dd7f6bebefd",
       "title": "Delatad",
       "url": "https://frenchbreaches.com/alertes/delatad-mvo6xajrex6fjllr89s",
@@ -2771,6 +2855,18 @@
       "category": "actualite"
     },
     {
+      "id": "b4af54a0ff6544a374d7",
+      "title": "Vins Viallet",
+      "url": "https://frenchbreaches.com/alertes/vins-viallet-rw_Vm1sdWN5QldhV0ZzYkdWMFFHeGhiV0Z6YUhSMQ",
+      "source": "French Breaches",
+      "date": "2026-10-23",
+      "published": "2026-10-23T22:00:00+00:00",
+      "desc": "Ransomware : Vins Viallet visé par le groupe Lamashtu, 50 Go de données menacés de publication Le groupe de ransomware Lamashtu revendique une cyberattaque contre Vins Viallet, une entreprise viticole familiale implantée en Savoie. Les cybercriminels affirment détenir 50 Go de do…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
       "id": "6d44e7265943e542a570",
       "title": "Fuite de données au Parti communiste français : près de 190 000 personnes exposées",
       "url": "https://frenchbreaches.com/blog/fuite-de-donnees-au-parti-communiste-francais-pres-de-190-000-personnes-exposees",
@@ -2935,18 +3031,6 @@
       "published": "2026-10-23T09:19:34+00:00",
       "desc": "Une vaste campagne qui infecte des iPhone à l'insu de leurs propriétaires vient d'être découverte. Pour parvenir à pirater les smartphones en restant sous le radar, les pirates détournent de vieilles « balises » publicitaires oubliées sur des milliers de sites. Ils arrivent ensuite, de fil en aiguille, à voler vos mots de passe et vos cryptomonnaies. Deux kits de piratage redoutables sont impliqués. Explications.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6f0d656bb8057a9f255e",
-      "title": "Cyberattaques : l’ANSSI alerte sur une menace grandissante contre l’énergie et l’eau",
-      "url": "https://frenchbreaches.com/blog/cyberattaques-lanssi-alerte-sur-une-menace-grandissante-contre-lenergie-et-leau",
-      "source": "French Breaches-blog",
-      "date": "2026-10-23",
-      "published": "2026-10-23T09:19:00+00:00",
-      "desc": "L’ANSSI alerte sur des cyberattaques visant l’énergie et l’eau, avec des opérations potentiellement liées à la Russie et à l’Iran.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3551,42 +3635,6 @@
       "category": "fuite"
     },
     {
-      "id": "1df77f010066ee9c103f",
-      "title": "Association francophone de padel (AFPAdel)",
-      "url": "https://frenchbreaches.com/alertes/association-francophone-de-padel-afpadel-mvgxh2pryxyvw87o0t",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T16:56:00+00:00",
-      "desc": "Fuite de données à l'AFPAdel : plus de 10 000 fiches de joueurs de padel publiées L'AFPAdel, organisme belge lié à la pratique et à l'organisation du padel en Fédération Wallonie-Bruxelles, est visée par une revendication de fuite de données. Ce mardi 20 octobre 2026, un pirate u…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "92295d2e8674a7e42884",
-      "title": "SOLIHA",
-      "url": "https://frenchbreaches.com/alertes/soliha-mvgxc2quxy1txsgtoe",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T16:52:00+00:00",
-      "desc": "Fuite de données chez SOLIHA : les informations de plus de 3 000 utilisateurs publiées SOLIHA, réseau associatif français spécialisé dans l'amélioration de l'habitat et l'accompagnement des ménages, est visé par une revendication de fuite de données. Ce mardi 20 octobre 2026, un…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "6d14fa70d3fd0869a1cc",
-      "title": "Livre officiel des origines félines (LOOF)",
-      "url": "https://frenchbreaches.com/alertes/livre-officiel-des-origines-f-lines-loof-mvb6cesqs8p2mqrp5m",
-      "source": "French Breaches",
-      "date": "2026-10-20",
-      "published": "2026-10-20T13:15:00+00:00",
-      "desc": "Piratage du LOOF : 654 000 lignes de données et plus de 90 000 documents revendiqués Mise à jour le 20 octobre à 12h00 Alerté par FrenchBreaches, le LOOF confirme une cyberattaque et le vol de données ! Noms, adresses, e-mails, identifiants de chats et dates de naissance potentie…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "c8f46e5ff1ac1686c626",
       "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
       "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
@@ -3623,42 +3671,6 @@
       "category": "actualite"
     },
     {
-      "id": "66aff6750fc5ab89b432",
-      "title": "Armurerie Centrale",
-      "url": "https://frenchbreaches.com/alertes/armurerie-centrale-mvfoga33992pl35cyvq",
-      "source": "French Breaches",
-      "date": "2026-10-19",
-      "published": "2026-10-19T19:53:00+00:00",
-      "desc": "Cyberattaque chez Armurerie Centrale : des données personnelles et justificatifs de clients dérobés Le site français Armurerie Centrale confirme avoir été victime d'un accès informatique non autorisé en septembre 2026. Noms, adresses, dates de naissance, historiques de commandes…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "3b6286ee3ab6f0096359",
-      "title": "École d'ingénieurs du numérique (ISEP)",
-      "url": "https://frenchbreaches.com/alertes/cole-d-ing-nieurs-du-num-rique-isep-mvfh0i40fmfs06ica8",
-      "source": "French Breaches",
-      "date": "2026-10-19",
-      "published": "2026-10-19T16:24:00+00:00",
-      "desc": "Fuite de données à l'ISEP : les informations de plus de 5 000 étudiants et utilisateurs publiées par un pirate Mise à jour le 21 octobre à 09h00 L'Isep confirme que les données diffusées le 19 octobre 2026 proviennent d'une ancienne cyberattaque, et non d'une nouvelle intrusion.…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "ea701da254ceb725dc2f",
-      "title": "I-CAD",
-      "url": "https://frenchbreaches.com/alertes/i-cad-mvbcrt0yq9mamnwtom",
-      "source": "French Breaches",
-      "date": "2026-10-19",
-      "published": "2026-10-19T15:10:00+00:00",
-      "desc": "Nouvelle fuite de données à l'I-CAD : 2,9 millions de propriétaires d'animaux et 50 000 vétérinaires concernés ? Mise à jour le 21 octobre à 12h Alerté par FrenchBreaches, I-CAD confirme une fuite de données concernant des détenteurs de chats, à la suite d'un accès frauduleux à u…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "69c559b617aa806be6c0",
       "title": "Cybersécurité : les infrastructures critiques françaises peinent à automatiser leur réponse aux attaques",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
@@ -3678,18 +3690,6 @@
       "date": "2026-10-19",
       "published": "2026-10-19T12:00:00+00:00",
       "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1b65c62c17c781a03149",
-      "title": "Réseau ZOU ! (Région Sud)",
-      "url": "https://frenchbreaches.com/alertes/r-seau-zou-r-gion-sud-mvf99a1li52u9t2qu8d",
-      "source": "French Breaches",
-      "date": "2026-10-19",
-      "published": "2026-10-19T12:00:00+00:00",
-      "desc": "Fuite de données chez ZOU ! : près de 90 000 dossiers d'adhérents proposés à la vente Mise à jour le 21 octobre Le site apparaît actuellement en maintenance. Une nouvelle fuite de données est revendiquée en France. Ce lundi 19 octobre 2026, un pirate informatique utilisant le pse…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
