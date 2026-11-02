@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:42:03.579046+00:00",
+  "generated_at": "2026-11-02T14:22:58.991909+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,246 @@
     }
   ],
   "items": [
+    {
+      "id": "9ad81aaa3b171cef14ab",
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "source": "BleepingComputer",
+      "date": "2026-11-02",
+      "published": "2026-11-02T13:57:29+00:00",
+      "desc": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e10b4da7f0f45c4e8dc6",
+      "title": "Cyberattaque sur les frigos de supermarchés : après la France, des pirates s’attaquent à d’autres pays d’Europe",
+      "url": "https://www.01net.com/actualites/cyberattaque-frigos-supermarches-apres-france-pirates-attaquent-belgique.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T13:30:22+00:00",
+      "desc": "Dans la nuit de dimanche à lundi, des pirates ont pris le contrôle des frigos de dizaines de supermarchés en Belgique. Delhaize, Carrefour et Spar sont notamment touchés par l'offensive. La Suède et le Luxembourg font aussi partie des victimes. Le mode opératoire des hackers rappelle celui de la cyberattaque qui a frappé des centaines de magasins français le mois dernier.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ce0102be3fc9459f4890",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-02",
+      "published": "2026-11-02T12:47:00+00:00",
+      "desc": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "ea31fc2f43ddbdd36f81",
+      "title": "Engie confirme une fuite de données concernant des clients en France",
+      "url": "https://www.cyber-securite.fr/engie-confirme-une-fuite-de-donnees-concernant-des-clients-en-france/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-02",
+      "published": "2026-11-02T12:33:12+00:00",
+      "desc": "Engie confirme une fuite de données chez des clients en France. L’incident vient d’un outil ... Lire plus L’article Engie confirme une fuite de données concernant des clients en France est apparu en premier sur jeuxderole.com .",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0bed561f10e179cb3266",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:50:00+00:00",
+      "desc": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither flaw is in CISA's Known",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "acf484fdb3c8c1df5645",
+      "title": "Panique sur l’iPhone : Apple met en garde contre une opération d’espionnage dans 99 pays, dont la France",
+      "url": "https://www.01net.com/actualites/panique-iphone-apple-garde-operation-espionnage-99-pays-france.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:30:50+00:00",
+      "desc": "Apple vient d'envoyer une nouvelle vague d'alertes à des utilisateurs d'iPhone. Ceux-ci ont été visés par des logiciels espions mercenaires, déployés par des gouvernements étrangers. L'alerte a été émise dans 99 pays, dont la France et l'Allemagne.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "bfff44c21cc75a582d8e",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:30:00+00:00",
+      "desc": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0f81648bf5c6b7071f31",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:28:42+00:00",
+      "desc": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "7ceecb58e367ed6e9693",
+      "title": "Binance victime d'un vol de cryptomonnaies de 6,3 Md$",
+      "url": "https://www.lemondeinformatique.fr/actualites/lire-binance-victime-d-un-vol-de-cryptomonnaies-de-6-3-md$-100895.html",
+      "source": "Actualités securite",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:11:20+00:00",
+      "desc": "Le secteur des cryptomonnaies fait face à l'une des plus importantes crises de sécurité de son histoire. Binance, l'une des principales (...)",
+      "type": "actualite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "f801cd5ccac777b3305e",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:08:45+00:00",
+      "desc": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "48ba42b02072cb8abab9",
+      "title": "Du porno en pleine rue : une cyberattaque a fait dérailler les panneaux publicitaires dans plusieurs pays",
+      "url": "https://www.01net.com/actualites/panneaux-publicitaires-pirates-diffuse-porno-cyberattaque-touche-plusieurs-pays-meme-temps.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T11:00:58+00:00",
+      "desc": "Ce 29 octobre, des panneaux publicitaires LED situés dans plusieurs pays du monde ont diffusé des images pornographiques. Ils ont en fait été piratés par le groupe Leakers$ qui a choisi cette méthode pour faire la publicité de son coup.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6187f332c77f8f5154b7",
+      "title": "Association Médico-Sociale Anne Morgan (AMSAM)",
+      "url": "https://frenchbreaches.com/alertes/association-m-dico-sociale-anne-morgan-amsam-rw_UVUxVFFVMUFZbkpoZG05NA",
+      "source": "French Breaches",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:59:00+00:00",
+      "desc": "Ransomware : l'association médico-sociale AMSAM visée par le groupe BravoX, plus de 922 Go de données revendiqués Mise à jour — 2 novembre 2026 à 12h00 L’AMSAM confirme avoir été victime d’une cyberattaque détectée le 13 octobre 2026, ayant entraîné l’extraction de données person…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "73157019150d6878b498",
+      "title": "Cyberattaques : trois pharmacies visées en 48 heures, des centaines d'autres ciblées",
+      "url": "https://frenchbreaches.com/blog/cyberattaques-trois-pharmacies-visees-en-48-heures-des-centaines-dautres-ciblees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:51:00+00:00",
+      "desc": "Trois pharmacies à Paris, Strasbourg et Dijon visées par des pirates en 48 heures. Plus de 436 000 dossiers revendiqués, dont des données de santé sensibles.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6aca75eb89cc0e00ecd8",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:49:59+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "bb952cb1e3561bbea7e1",
+      "title": "Hack de Binance : le FBI accuse la Corée du Nord du plus gros vol de l’histoire de la crypto",
+      "url": "https://www.01net.com/actualites/piratage-binance-fbi-accuse-officiellement-coree-du-nord.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T10:00:40+00:00",
+      "desc": "Le FBI a officiellement attribué le piratage Binance à des pirates nord-coréens. La police fédérale américaine estime que le vol a été orchestré par TraderTraitor, une unité qui fait partie de la constellation Lazarus. Selon les investigations menées par les agents fédéraux, le gang, mandaté par Pyongyang, est actuellement en train de blanchir les fonds volés à travers les blockchains.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5ff3e4930a9500af911a",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-02",
+      "published": "2026-11-02T09:33:26+00:00",
+      "desc": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "0d367baad7345f365a64",
+      "title": "Trois jours après la cyberattaque, Binance relance les retraits de cryptomonnaies",
+      "url": "https://www.01net.com/actualites/trois-jours-apres-la-cyberattaque-binance-relance-les-retraits-de-cryptomonnaies.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T08:00:41+00:00",
+      "desc": "Trois jours après un piratage record de 6,3 milliards de dollars, Binance a commencé à rouvrir les retraits. La plateforme d'échange de cryptomonnaies assure avoir déjà reconstitué 95 % des fonds volés par les pirates. Elle promet aussi que ses clients ne seront pas lésés par le vol.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0abe8900c6ab9bf5a4ce",
+      "title": "Faut-il installer un Honeynet dans une PME ?",
+      "url": "https://www.cyber-securite.fr/faut-il-installer-un-honeynet-dans-une-pme/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-02",
+      "published": "2026-11-02T06:31:56+00:00",
+      "desc": "Un honeynet peut aider une PME à repérer des tentatives d’intrusion et à mieux comprendre ... Lire plus L’article Faut-il installer un Honeynet dans une PME ? est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "70da4f8e9d216dbc4016",
+      "title": "Ces 319 extensions Chrome ont espionné des millions d’internautes pendant 10 ans",
+      "url": "https://www.01net.com/actualites/ces-319-extensions-chrome-ont-espionne-des-millions-dinternautes-pendant-10-ans.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-02",
+      "published": "2026-11-02T06:11:57+00:00",
+      "desc": "Un réseau de 319 extensions Chrome aurait détourné les recherches d’internautes. Les requêtes transitaient par des serveurs proxy contrôlés par les opérateurs des extensions. Ces dernières semblaient de prime abord inoffensives.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b1c1d30dd8ee58aa9f8d",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "source": "The Hacker News",
+      "date": "2026-11-02",
+      "published": "2026-11-02T05:51:07+00:00",
+      "desc": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "d88e77c657e5730bcce9",
       "title": "Dekra Norisko",
@@ -245,7 +485,7 @@
       "source": "The Hacker News",
       "date": "2026-11-01",
       "published": "2026-11-01T07:03:00+00:00",
-      "desc": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "desc": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -258,6 +498,18 @@
       "date": "2026-11-01",
       "published": "2026-11-01T07:02:58+00:00",
       "desc": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "18b379d5191ba3b25f07",
+      "title": "Jeu-concours pCloud : tentez de gagner jusqu’à 10 To de cloud sécurisé à vie",
+      "url": "https://www.cyber-securite.fr/jeu-concours-pcloud-tentez-de-gagner-jusqua-10-to-de-cloud-securise-a-vie/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-01",
+      "published": "2026-11-01T07:00:00+00:00",
+      "desc": "Du 1er au 12 novembre 2026, pCloud met en jeu trois plans Lifetime de 2 ... Lire plus L’article Jeu-concours pCloud : tentez de gagner jusqu’à 10 To de cloud sécurisé à vie est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -443,9 +695,21 @@
       "category": "fuite"
     },
     {
-      "id": "40abfdf97d692f2bdbf0",
-      "title": "Pharmarcie des Congrès",
-      "url": "https://frenchbreaches.com/alertes/pharmarcie-des-congr-s-mvwewlgg8b68m8lx2ah",
+      "id": "4e0311d0966ef3fa76da",
+      "title": "Définition du hack : sens, origine et types de hackers",
+      "url": "https://www.cyber-securite.fr/hacker-definition-et-tout-savoir/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-31",
+      "published": "2026-10-31T15:00:00+00:00",
+      "desc": "Pour la plupart des gens, le mot « hack » réveille l’image d’un pirate encapuchonné ... Lire plus L’article Définition du hack : sens, origine et types de hackers est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f5cbced46fe597ecdbdf",
+      "title": "Pharmacie des Congrès",
+      "url": "https://frenchbreaches.com/alertes/pharmacie-des-congr-s-mvwewlgg8b68m8lx2ah",
       "source": "French Breaches",
       "date": "2026-10-31",
       "published": "2026-10-31T14:58:00+00:00",
@@ -743,18 +1007,6 @@
       "category": "actualite"
     },
     {
-      "id": "34cc406ab2251fbc37ea",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30",
-      "published": "2026-10-30T14:00:10+00:00",
-      "desc": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "1060b51a3b52c9131ef4",
       "title": "« Le SMS de la mort » : ce simple message peut rendre votre smartphone inutilisable",
       "url": "https://www.01net.com/actualites/le-sms-de-la-mort-ce-simple-message-peut-rendre-votre-smartphone-inutilisable.html",
@@ -763,18 +1015,6 @@
       "published": "2026-10-30T13:30:54+00:00",
       "desc": "Un SMS au contenu bien particulier peut faire planter un téléphone Android, sans aucune action de la victime, aucun clic sur un lien. Baptisée « SMS of Death », cette faille peut rendre le téléphone difficile à utiliser même après un redémarrage.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "651570ec01bc8df7e06d",
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30",
-      "published": "2026-10-30T13:00:32+00:00",
-      "desc": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -875,18 +1115,6 @@
       "category": "fuite"
     },
     {
-      "id": "aef9e5e4ac6751998541",
-      "title": "Microsoft finally fixes VPN issues caused by September updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30",
-      "published": "2026-10-30T11:20:26+00:00",
-      "desc": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "59a4bb71ba710287cfd5",
       "title": "Incognito",
       "url": "https://frenchbreaches.com/alertes/incognito-mvuvrgxlz5tatqo6vp",
@@ -947,18 +1175,6 @@
       "category": "actualite"
     },
     {
-      "id": "072fcb7482ba39ff74f6",
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-10-30",
-      "published": "2026-10-30T10:16:07+00:00",
-      "desc": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "301a453ba57b3566f8be",
       "title": "Parti Radicale de Gauche (PRG)",
       "url": "https://frenchbreaches.com/alertes/parti-radicale-de-gauche-prg-mvurpr190cuwki1hy5g",
@@ -1015,6 +1231,18 @@
       "published": "2026-10-30T08:18:33+00:00",
       "desc": "Binance a annoncé une cyberattaque de grande ampleur et évalué à environ 6,3 milliards de ... Lire plus L’article Binance ciblé par une cyberattaque massive est apparu en premier sur jeuxderole.com .",
       "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "31a9246864d02397623f",
+      "title": "Où trouver Adresse IP Imprimante Epson : guide 2026",
+      "url": "https://www.cyber-securite.fr/adresse-ip-imprimante-epson/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T08:08:00+00:00",
+      "desc": "Où trouver l’adresse IP imprimante Epson quand la machine disparaît du réseau sans prévenir ? ... Lire plus L’article Où trouver Adresse IP Imprimante Epson : guide 2026 est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1499,18 +1727,6 @@
       "category": "actualite"
     },
     {
-      "id": "392f04d171e2e66e0eaf",
-      "title": "Attaque PHP2Shell : des pirates prennent le contrôle de 25 serveurs",
-      "url": "https://www.cyber-securite.fr/attaque-php2shell-des-pirates-prennent-le-controle-de-25-serveurs/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-29",
-      "published": "2026-10-29T10:51:03+00:00",
-      "desc": "PHP2Shell a dépassé le stade de la menace théorique. Vingt-cinq serveurs ont subi une prise ... Lire plus L’article Attaque PHP2Shell : des pirates prennent le contrôle de 25 serveurs est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7d482c1bcf9fa313acb9",
       "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
       "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
@@ -1593,18 +1809,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "0fce4e317e089d3a9507",
-      "title": "Comment sécuriser et configurer son Wi-Fi d’entreprise",
-      "url": "https://www.cyber-securite.fr/securiser-son-wi-fi-dentreprise-guide-de-configuration-wpa3-enterprise/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-29",
-      "published": "2026-10-29T06:33:10+00:00",
-      "desc": "Un Wi-Fi d’entreprise mal protégé peut ouvrir l’accès aux données internes et bloquer une activité ... Lire plus L’article Comment sécuriser et configurer son Wi-Fi d’entreprise est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "48f467fc9990539a6e8a",
@@ -1907,18 +2111,6 @@
       "category": "actualite"
     },
     {
-      "id": "a071a3e830e4cfb59c38",
-      "title": "Jeux Steam infectés : le FBI a sorti la liste",
-      "url": "https://www.cyber-securite.fr/vous-avez-achete-ce-jeu-sur-steam-desinstallez-le-tout-de-suite/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-28",
-      "published": "2026-10-28T17:40:00+00:00",
-      "desc": "Si vous jouez sur Steam, l’histoire de ce jeu Steam qui cachait un logiciel espion ... Lire plus L’article Jeux Steam infectés : le FBI a sorti la liste est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "346aefdaad097d5af65c",
       "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
       "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
@@ -2087,18 +2279,6 @@
       "category": "actualite"
     },
     {
-      "id": "23d5fb6a209fd3898fb1",
-      "title": "WireGuard vs OpenVPN : lequel choisir ?",
-      "url": "https://www.cyber-securite.fr/wireguard-vs-openvpn-lequel-choisir/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-28",
-      "published": "2026-10-28T11:00:00+00:00",
-      "desc": "Le duel WireGuard vs OpenVPN, est l’illustration parfaite du minimalisme moderne qui affronte un vétéran ... Lire plus L’article WireGuard vs OpenVPN : lequel choisir ? est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "2e5063d5ddc42334fda5",
       "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
       "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
@@ -2107,18 +2287,6 @@
       "published": "2026-10-28T10:30:00+00:00",
       "desc": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
       "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a989284589456770ca39",
-      "title": "« Aokigahara », le malware qui vole des données d’IA",
-      "url": "https://www.cyber-securite.fr/aokigahara-le-malware-qui-vole-des-donnees-dia/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-28",
-      "published": "2026-10-28T09:21:47+00:00",
-      "desc": "Aokigahara élargit le vol de secrets numériques vers les comptes d’IA et les outils de ... Lire plus L’article « Aokigahara », le malware qui vole des données d’IA est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2215,30 +2383,6 @@
       "published": "2026-10-28T06:20:37+00:00",
       "desc": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1417a62a4b3735eae299",
-      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T06:04:58+00:00",
-      "desc": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "5977b4ad9b070e952ba5",
-      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T05:42:26+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2411,18 +2555,6 @@
       "category": "fuite"
     },
     {
-      "id": "3f1af19eb7d09511a7e3",
-      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T18:26:46+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7367f80e249facb53db0",
       "title": "Sony piraté : les données de 2,58 millions de clients compromises",
       "url": "https://frenchbreaches.com/blog/sony-pirate-les-donnees-de-258-millions-de-clients-compromises",
@@ -2455,30 +2587,6 @@
       "published": "2026-10-27T14:04:33+00:00",
       "desc": "Après Ledger, deux autres fabricants réputés de portefeuilles crypto, Foundation et Keystone, viennent d'être victimes des pirates. Les données des clients ont été subtilisées, mais les harware wallets n'ont pas été compromis.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "dc1f78b83e65b690208f",
-      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T13:59:48+00:00",
-      "desc": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6e33a6040a7d5deb5895",
-      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "source": "The Hacker News",
-      "date": "2026-10-27",
-      "published": "2026-10-27T13:59:09+00:00",
-      "desc": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3119,18 +3227,6 @@
       "category": "actualite"
     },
     {
-      "id": "81c6cd411c8ae35b6697",
-      "title": "Retraites : les données de 450 000 personnes seraient en vente après un incident de sécurité",
-      "url": "https://frenchbreaches.com/blog/retraites-les-donnees-de-450-000-personnes-seraient-en-vente-apres-un-incident-de-securite",
-      "source": "French Breaches-blog",
-      "date": "2026-10-23",
-      "published": "2026-10-23T13:43:00+00:00",
-      "desc": "Les données personnelles de 450 000 personnes liées à l'Ircantec seraient en vente sur un forum cybercriminel. Un incident de sécurité a également été confirmé sur une plateforme de la Caisse des Dépôts.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "afb5cb93f2a58d9eca15",
       "title": "Plenitude On The Road",
       "url": "https://frenchbreaches.com/alertes/plenitude-on-the-road-mvkzvkaghaihpwmydjt",
@@ -3200,30 +3296,6 @@
       "desc": "Capcom a été victime d’un piratage qui a exposé les données de 11,7 millions de comptes Capcom ID. Si aucune donnée bancaire n’a été compromise, les joueurs sont appelés à la prudence face aux risques d’hameçonnage. L’éditeur met notamment en garde contre les faux messages qui pourraient usurper son identité.",
       "type": "phishing",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "afcf72b02bd1ffdd6e6a",
-      "title": "Les données de 587 000 Français piratées : une cyberattaque frappe à nouveau la Fédération française de tir",
-      "url": "https://www.01net.com/actualites/donnees-587-000-francais-piratees-cyberattaque-frappe-nouveau-federation-francaise-de-tir.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-23",
-      "published": "2026-10-23T08:00:50+00:00",
-      "desc": "Pour la deuxième fois en un an, la Fédération française de tir a été piratée. Un cybercriminel a mis la main sur les données de près de 587 000 licenciés et les propose à la vente sur un forum. La fédération vient de confirmer la cyberattaque.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "81990e9430bdb8d30795",
-      "title": "Après PHP, une autre brique essentielle du web doit être mise à jour d’urgence",
-      "url": "https://www.01net.com/actualites/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-durgence.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-23",
-      "published": "2026-10-23T04:58:32+00:00",
-      "desc": "Après les failles critiques découvertes dans PHP, c’est au tour de Node.js de publier des correctifs de sécurité en urgence. Dix vulnérabilités ont été corrigées, dont quatre graves, avec notamment un risque d’exécution de code à distance. Les administrateurs sont invités à mettre à jour leurs serveurs sans attendre.",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -3539,54 +3611,6 @@
       "category": "fuite"
     },
     {
-      "id": "87f9f5bb405b11b3ac6e",
-      "title": "Cyberattaque contre les frigos de supermarchés : on sait enfin ce qu’il s’est vraiment passé",
-      "url": "https://www.01net.com/actualites/cyberattaque-contre-les-frigos-de-supermarches-on-sait-enfin-ce-quil-sest-vraiment-passe.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-22",
-      "published": "2026-10-22T11:30:30+00:00",
-      "desc": "L'ANSSI vient de dévoiler ses conclusions sur la cyberattaque nationale qui a compromis les frigos de centaines de supermarchés en France. Au cœur de l'attaque, on ne trouve pas une faille de sécurité sophistiquée, mais des « défauts de sécurisation élémentaires », comme des mots de passe faciles à deviner. Explications.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6fac9186dc00ba16f566",
-      "title": "Failles PHP : pourquoi c’est un vrai casse-tête pour l’Internet mondial",
-      "url": "https://www.01net.com/actualites/failles-php-pourquoi-cest-vrai-casse-tete-internet-mondial.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-22",
-      "published": "2026-10-22T10:30:00+00:00",
-      "desc": "Les failles PHP2Shell sèment la pagaille sur Internet. Selon les experts, la situation est un vrai casse-tête pour tout le monde. Il est en effet difficile de déterminer où le langage PHP, omniprésent et souvent invisible, se cache réellement. Le processus est si complexe que des sites publics se mettent carrément hors ligne par mesure de précaution.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "0e0c40ecf28df4026279",
-      "title": "Panique sur Internet : 2 failles PHP critiques touchent des centaines de millions de sites web, des cyberattaques en cours",
-      "url": "https://www.01net.com/actualites/panique-internet-faille-php-critique-vieille-10-ans-touche-millions-sites-web.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-22",
-      "published": "2026-10-22T04:30:14+00:00",
-      "desc": "Deux failles critiques menacent PHP, le langage de programmation qui fait tourner environ 70 % des sites web. Baptisées PHP2Shell, elles permettent de prendre le contrôle d'un serveur à distance. Les cyberattaques exploitant les vulnérabilités ont déjà commencé. Ces failles ont été débusquées par l'intelligence artificielle, à savoir les modèles de pointe de Google et d'OpenAI.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "6187f332c77f8f5154b7",
-      "title": "Association Médico-Sociale Anne Morgan (AMSAM)",
-      "url": "https://frenchbreaches.com/alertes/association-m-dico-sociale-anne-morgan-amsam-rw_UVUxVFFVMUFZbkpoZG05NA",
-      "source": "French Breaches",
-      "date": "2026-10-21",
-      "published": "2026-10-21T22:00:00+00:00",
-      "desc": "Ransomware : l'association médico-sociale AMSAM visée par le groupe BravoX, plus de 922 Go de données revendiqués Le groupe de ransomware BravoX revendique une cyberattaque contre l'AMSAM, une association médico-sociale implantée à Soissons, dans l'Aisne. Les cybercriminels affir…",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
       "id": "48fbf51ec71192df2d8f",
       "title": "Institut national d'études démographiques (Ined)",
       "url": "https://frenchbreaches.com/alertes/institut-national-d-tudes-d-mographiques-ined-mvikz1nok03if5tiw9n",
@@ -3597,18 +3621,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "974b4d9648af60524b87",
-      "title": "Fausse alerte Freebox : une grosse erreur a semé la panique chez les abonnés Free",
-      "url": "https://www.01net.com/actualites/fausse-alerte-erreur-panique-abonnes-free.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-21",
-      "published": "2026-10-21T16:00:01+00:00",
-      "desc": "Un rapport a fait craindre que les Freebox soient vulnérables à des cyberattaques. En réalité, l’entreprise britannique Infrawatch a commis une erreur de recensement lors de l’élaboration de son rapport.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "b77032b5008f256792d2",
@@ -3680,18 +3692,6 @@
       "desc": "Les entreprises cherchent à mieux contrôler les agents IA qu’elles déploient dans leurs systèmes d’information. (...)",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "69c559b617aa806be6c0",
-      "title": "Cybersécurité : les infrastructures critiques françaises peinent à automatiser leur réponse aux attaques",
-      "url": "https://www.lemondeinformatique.fr/actualites/lire-cybersecurite-les-infrastructures-critiques-francaises-peinent-a-automatiser-leur-reponse-aux-attaques-100854.html",
-      "source": "Actualités securite",
-      "date": "2026-10-19",
-      "published": "2026-10-19T12:14:00+00:00",
-      "desc": "Les réseaux électriques, les usines, les hôpitaux, les systèmes de transport et les services publics constituent le socle du (...)",
-      "type": "actualite",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
