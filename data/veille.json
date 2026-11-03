@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:15:04.391349+00:00",
+  "generated_at": "2026-11-03T13:22:18.493740+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,222 @@
     }
   ],
   "items": [
+    {
+      "id": "1358dd463efa64631680",
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "source": "BleepingComputer",
+      "date": "2026-11-03",
+      "published": "2026-11-03T12:05:52+00:00",
+      "desc": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b84cad2a2e67203e1c8e",
+      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:23:53+00:00",
+      "desc": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e168d5f8ea0683e50921",
+      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:18:20+00:00",
+      "desc": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "9dcda68ffbe9857071e8",
+      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T11:00:45+00:00",
+      "desc": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "790f1db371db373b8f23",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "source": "BleepingComputer",
+      "date": "2026-11-03",
+      "published": "2026-11-03T10:53:25+00:00",
+      "desc": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e087e0cbf7962ffa7c9d",
+      "title": "Crypto : la Corée du Nord dément avoir piraté Binance et dénonce une « provocation » américaine",
+      "url": "https://www.01net.com/actualites/piratage-binance-coree-du-nord-dement-provocation-americaine.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-03",
+      "published": "2026-11-03T10:15:28+00:00",
+      "desc": "La Corée du Nord dément toute implication dans la cyberattaque qui a frappé Binance, la plus grande plateforme d'échange de cryptomonnaies au monde. Répondant aux accusations du FBI, Kim Yo-jong, la sœur du dirigeant suprême Kim Jong-un, dénonce une « rhétorique absurde » et une « provocation » américaine.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3bdf14fcecaa4e70199f",
+      "title": "Botnets IoT : les réseaux domestiques sous surveillance",
+      "url": "https://www.cyber-securite.fr/botnets-iot-les-reseaux-domestiques-sous-surveillance/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-03",
+      "published": "2026-11-03T10:00:27+00:00",
+      "desc": "Les cyberattaques IoT commencent souvent par une exploration automatisée des réseaux domestiques. Selon le rapport ... Lire plus L’article Botnets IoT : les réseaux domestiques sous surveillance est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "cdcba13e8b77916a5445",
+      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T08:31:48+00:00",
+      "desc": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "60e93d5c4eb4327a6267",
+      "title": "1,3 million de boîtiers TV Android piratés : Google démantèle un botnet chinois, installé dès l’usine par un fabricant",
+      "url": "https://www.01net.com/actualites/13-million-boitiers-tv-android-pirates-google-demantele-botnet-chinois-installe-usine-fabricant.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-03",
+      "published": "2026-11-03T08:14:49+00:00",
+      "desc": "Google vient de démanteler XCPE, un botnet géant composé de plus de 1,3 million d'appareils Android, en majorité des boîtiers TV. Le virus était injecté dès l'usine par le fabricant chinois Videostrong. Comme l'a découvert Google, ce constructeur peu scrupuleux glissait une porte dérobée dans ses propres appareils au moment de la fabrication. Il pouvait ainsi donner accès aux appareils vendus à des cybercriminels.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9c59a38943c4d0ce11a5",
+      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T07:43:07+00:00",
+      "desc": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "a8dc2b16ab89a42c7863",
+      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T07:27:07+00:00",
+      "desc": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5a42b1b149555db744ab",
+      "title": "Analyste cybersécurité : quelles missions au quotidien ?",
+      "url": "https://www.cyber-securite.fr/analyste-cybersecurite-quelles-missions-au-quotidien/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-03",
+      "published": "2026-11-03T06:35:24+00:00",
+      "desc": "L’analyste cybersécurité examine les alertes qui signalent une activité inhabituelle sur les systèmes d’une entreprise. ... Lire plus L’article Analyste cybersécurité : quelles missions au quotidien ? est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "19756072e6893aaae094",
+      "title": "Une vague d’arnaques au téléphone vise la police nationale",
+      "url": "https://www.01net.com/actualites/une-vague-darnaques-au-telephone-vise-la-police-nationale.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-03",
+      "published": "2026-11-03T06:00:15+00:00",
+      "desc": "Le directeur général de la Police nationale et Laurent Nuñez, ministre de l’Intérieur, alertent les forces de l’ordre sur la recrudescence des arnaques au spoofing. Les victimes de ce type d’arnaque sont invitées à utiliser la technique du contre-appel.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b9ba4e436fc8e927c57d",
+      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T05:34:41+00:00",
+      "desc": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "d80473442c7abc7649d7",
+      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+      "source": "The Hacker News",
+      "date": "2026-11-03",
+      "published": "2026-11-03T05:34:37+00:00",
+      "desc": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "92f1d45e60bcffb468a5",
+      "title": "Binance piraté : la Corée du Nord soupçonnée d'avoir volé 6,3 milliards de dollars",
+      "url": "https://frenchbreaches.com/blog/binance-pirate-la-coree-du-nord-soupconnee-davoir-vole-63-milliards-de-dollars",
+      "source": "French Breaches-blog",
+      "date": "2026-11-03",
+      "published": "2026-11-03T03:09:00+00:00",
+      "desc": "Binance aurait subi un vol record de 6,36 milliards de dollars en cryptomonnaies. Des hackers liés à la Corée du Nord sont mis en cause.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a52659c8a4152cf5d3a9",
+      "title": "Russie : des hackers revendiquent le vol de 23 To de données sensibles de l'État",
+      "url": "https://frenchbreaches.com/blog/russie-des-hackers-revendiquent-le-vol-de-23-to-de-donnees-sensibles-de-letat",
+      "source": "French Breaches-blog",
+      "date": "2026-11-03",
+      "published": "2026-11-03T03:03:00+00:00",
+      "desc": "La Russie confirme une cyberattaque contre Rosstat. Des hackers affirment avoir volé 23 To de données, dont des chiffres sur les pertes en Ukraine.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "37202206f43dbab174ef",
+      "title": "Google démantèle un réseau de 1,3 million de boîtiers Android TV infectés",
+      "url": "https://frenchbreaches.com/blog/google-demantele-un-reseau-de-13-million-de-boitiers-android-tv-infectes",
+      "source": "French Breaches-blog",
+      "date": "2026-11-03",
+      "published": "2026-11-03T02:53:00+00:00",
+      "desc": "Google a démantelé un réseau de 1,3 million de boîtiers Android infectés par un logiciel malveillant installé dès leur fabrication.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "f2a93599767f5a2145a2",
       "title": "Club Alpin Belge (CAB)",
@@ -192,7 +408,7 @@
     },
     {
       "id": "e10b4da7f0f45c4e8dc6",
-      "title": "Cyberattaque sur les frigos de supermarchés : après la France, des pirates s’attaquent à d’autres pays d’Europe",
+      "title": "Plus de 100 frigos de supermarchés ont été piratés à travers l’Europe, des montagnes de nourritures jetées",
       "url": "https://www.01net.com/actualites/cyberattaque-frigos-supermarches-apres-france-pirates-attaquent-belgique.html",
       "source": "Cybersécurité : Actualités, analyses et tendances",
       "date": "2026-11-02",
@@ -659,6 +875,18 @@
       "category": "actualite"
     },
     {
+      "id": "2508be93fe8e6a4d2deb",
+      "title": "Top 5 des gestionnaires de mots de passe entreprise",
+      "url": "https://www.cyber-securite.fr/top-5-des-gestionnaires-de-mots-de-passe-entreprise/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-01",
+      "published": "2026-11-01T11:12:00+00:00",
+      "desc": "Un seul identifiant volé suffit parfois à ouvrir les portes de toute une entreprise. Contre ... Lire plus L’article Top 5 des gestionnaires de mots de passe entreprise est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "49041e604c19e52f0a06",
       "title": "Même hors ligne, cette IA chinoise cherche à transmettre des données à Pékin",
       "url": "https://www.01net.com/actualites/meme-hors-ligne-cette-ia-chinoise-cherche-a-transmettre-des-donnees-a-pekin.html",
@@ -851,42 +1079,6 @@
       "category": "fuite"
     },
     {
-      "id": "da55e7da3d1a9e5ba174",
-      "title": "CERT (CSIRT) : définition, missions et acteurs en France",
-      "url": "https://www.cyber-securite.fr/un-csirt-a-quoi-ca-cert/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-31",
-      "published": "2026-10-31T18:58:00+00:00",
-      "desc": "Une attaque sur la chaîne d’approvisionnement logicielle peut contaminer des milliers d’organisations en une nuit, ... Lire plus L’article CERT (CSIRT) : définition, missions et acteurs en France est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9d4364d828a087c7c4dc",
-      "title": "Moteurs de recherche darknet : 5 boussoles pour tout explorer",
-      "url": "https://www.cyber-securite.fr/le-google-du-dark-web-existe-le-top-5-des-moteurs-pour-trouver-lintrouvable/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-31",
-      "published": "2026-10-31T18:05:00+00:00",
-      "desc": "Pour beaucoup, le Dark Web est un mythe, un territoire sans carte ni boussole. Pourtant, ... Lire plus L’article Moteurs de recherche darknet : 5 boussoles pour tout explorer est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a4df36c045ad0e8789c2",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "source": "BleepingComputer",
-      "date": "2026-10-31",
-      "published": "2026-10-31T18:01:12+00:00",
-      "desc": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b0ce846351f8231330f6",
       "title": "Ebikon, Gersau, Meggen et Wil (Suisses)",
       "url": "https://frenchbreaches.com/alertes/ebikon-gersau-meggen-et-wil-suisses-mvwolian3fkl2e1adtg",
@@ -947,18 +1139,6 @@
       "category": "fuite"
     },
     {
-      "id": "72aec30d186370a722b7",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "date": "2026-10-31",
-      "published": "2026-10-31T15:35:11+00:00",
-      "desc": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ddd226eb803068ddca2a",
       "title": "Solnet",
       "url": "https://frenchbreaches.com/alertes/solnet-mvwjqg7ow72iqngt8te",
@@ -993,18 +1173,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "4e0311d0966ef3fa76da",
-      "title": "Définition du hack : sens, origine et types de hackers",
-      "url": "https://www.cyber-securite.fr/hacker-definition-et-tout-savoir/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-31",
-      "published": "2026-10-31T15:00:00+00:00",
-      "desc": "Pour la plupart des gens, le mot « hack » réveille l’image d’un pirate encapuchonné ... Lire plus L’article Définition du hack : sens, origine et types de hackers est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f5cbced46fe597ecdbdf",
@@ -1463,18 +1631,6 @@
       "category": "actualite"
     },
     {
-      "id": "31a9246864d02397623f",
-      "title": "Où trouver Adresse IP Imprimante Epson : guide 2026",
-      "url": "https://www.cyber-securite.fr/adresse-ip-imprimante-epson/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-30",
-      "published": "2026-10-30T08:08:00+00:00",
-      "desc": "Où trouver l’adresse IP imprimante Epson quand la machine disparaît du réseau sans prévenir ? ... Lire plus L’article Où trouver Adresse IP Imprimante Epson : guide 2026 est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "95dedca13320784ebe8c",
       "title": "Piratage de Binance : plus de 6 milliards de dollars de cryptos ont été volés, que s’est-il passé ?",
       "url": "https://www.01net.com/actualites/piratage-de-binance-plus-de-6-milliards-de-dollars-de-cryptos-ont-ete-voles-que-sest-il-passe.html",
@@ -1508,6 +1664,18 @@
       "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
       "type": "cve",
       "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "08c6c1449a8376b14b08",
+      "title": "Des applis espions trompeuses circulent !",
+      "url": "https://www.cyber-securite.fr/fausses-applications-espions-ia/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T06:05:00+00:00",
+      "desc": "Des publicités pour de prétendues applications d’espionnage promettent de lire des messages privés ou de ... Lire plus L’article Des applis espions trompeuses circulent ! est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -2339,42 +2507,6 @@
       "category": "actualite"
     },
     {
-      "id": "4abc2dcf4334fae95bb4",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T16:23:34+00:00",
-      "desc": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "257599f0048efc914687",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T16:02:45+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "f83598082f121f26e38f",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T12:48:03+00:00",
-      "desc": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "22d2ccd53543886c59b8",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -2411,18 +2543,6 @@
       "category": "actualite"
     },
     {
-      "id": "9590ed7a40f8b7a4cf3f",
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T11:50:00+00:00",
-      "desc": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "aa0c11070a4110fcc268",
       "title": "Des agents IA accèdent à des données internes d'Anthropic",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-des-agents-ia-accedent-a-des-donnees-internes-d-anthropic-100881.html",
@@ -2455,42 +2575,6 @@
       "published": "2026-10-28T11:41:05+00:00",
       "desc": "Annoncée le 22 octobre 2026, Rainbow Premium entend répondre à un problème désormais bien identifié par les directions (...)",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "be06f9a5da472d1cbaf7",
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T11:30:00+00:00",
-      "desc": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d4f5d5baa8252d3b756b",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T11:15:51+00:00",
-      "desc": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "2e5063d5ddc42334fda5",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T10:30:00+00:00",
-      "desc": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
-      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2541,18 +2625,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "dd9aab4f2b42a45e9cb6",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "source": "The Hacker News",
-      "date": "2026-10-28",
-      "published": "2026-10-28T08:15:07+00:00",
-      "desc": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "0ef306acc0faed27a700",
@@ -3143,30 +3215,6 @@
       "category": "fuite"
     },
     {
-      "id": "21f38803f3a2d1de94dc",
-      "title": "Popcorn Time : des millions d'ordinateurs exposés à un piratage massif",
-      "url": "https://frenchbreaches.com/blog/popcorn-time-des-millions-dordinateurs-exposes-a-un-piratage-massif",
-      "source": "French Breaches-blog",
-      "date": "2026-10-24",
-      "published": "2026-10-24T00:29:00+00:00",
-      "desc": "Une faille de Popcorn Time aurait pu exposer des millions de PC. Des chercheurs ont agi pour empêcher leur piratage.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c0e4b55f48536285aba7",
-      "title": "Faille PHP : plus de 2,2 millions de services vulnérables en France",
-      "url": "https://frenchbreaches.com/blog/faille-php-plus-de-22-millions-de-services-vulnerables-en-france",
-      "source": "French Breaches-blog",
-      "date": "2026-10-23",
-      "published": "2026-10-23T22:34:00+00:00",
-      "desc": "Une faille de sécurité touchant PHP expose potentiellement plus de 2,2 millions de services en France. Des dizaines de millions sont concernés dans le monde.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b4af54a0ff6544a374d7",
       "title": "Vins Viallet",
       "url": "https://frenchbreaches.com/alertes/vins-viallet-rw_Vm1sdWN5QldhV0ZzYkdWMFFHeGhiV0Z6YUhSMQ",
@@ -3177,18 +3225,6 @@
       "type": "alerte",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "6d44e7265943e542a570",
-      "title": "Fuite de données au Parti communiste français : près de 190 000 personnes exposées",
-      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-au-parti-communiste-francais-pres-de-190-000-personnes-exposees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-23",
-      "published": "2026-10-23T18:41:00+00:00",
-      "desc": "Le PCF confirme une fuite de données après une alerte de l'ANSSI. Près de 190 000 personnes pourraient être concernées selon FrenchBreaches.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "3cc5c1485e1b807fe627",
@@ -3275,18 +3311,6 @@
       "category": "fuite"
     },
     {
-      "id": "81e4f44fa443ebc7cac2",
-      "title": "DeepSeek aurait réussi à contourner les défenses de Chrome en 12 heures",
-      "url": "https://www.01net.com/actualites/deepseek-aurait-reussi-a-contourner-les-defenses-de-chrome-en-12-heures.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-23",
-      "published": "2026-10-23T12:00:36+00:00",
-      "desc": "Un chercheur en cybersécurité affirme être parvenu à contourner le bac à sable de Chrome en seulement 12 heures. Il aurait mobilisé un modèle de DeepSeek, performant, mais surtout peu coûteux.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ce87e3f627c6f42f08a7",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
@@ -3309,30 +3333,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "fec9d43d258d8b06efb7",
-      "title": "« Ils scrollent et se font infecter » : des milliers de sites piégés peuvent pirater votre iPhone à votre insu",
-      "url": "https://www.01net.com/actualites/ils-scrollent-et-se-font-infecter-des-milliers-de-sites-pieges-peuvent-pirater-votre-iphone.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-23",
-      "published": "2026-10-23T09:19:34+00:00",
-      "desc": "Une vaste campagne qui infecte des iPhone à l'insu de leurs propriétaires vient d'être découverte. Pour parvenir à pirater les smartphones en restant sous le radar, les pirates détournent de vieilles « balises » publicitaires oubliées sur des milliers de sites. Ils arrivent ensuite, de fil en aiguille, à voler vos mots de passe et vos cryptomonnaies. Deux kits de piratage redoutables sont impliqués. Explications.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "da325a81a2a1fad6ec18",
-      "title": "Capcom piraté : les données de 11,7 millions de comptes ont été volées",
-      "url": "https://www.01net.com/actualites/capcom-pirate-les-donnees-de-117-millions-de-comptes-ont-ete-volees.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-23",
-      "published": "2026-10-23T09:04:39+00:00",
-      "desc": "Capcom a été victime d’un piratage qui a exposé les données de 11,7 millions de comptes Capcom ID. Si aucune donnée bancaire n’a été compromise, les joueurs sont appelés à la prudence face aux risques d’hameçonnage. L’éditeur met notamment en garde contre les faux messages qui pourraient usurper son identité.",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "5985109fbf2d0e98ac14",
