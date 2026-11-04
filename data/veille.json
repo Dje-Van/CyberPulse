@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:44:28.550171+00:00",
+  "generated_at": "2026-11-04T04:10:53.298849+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,30 @@
     }
   ],
   "items": [
+    {
+      "id": "f5ca8868c0596d4a4d70",
+      "title": "Holcim",
+      "url": "https://frenchbreaches.com/alertes/holcim-mw1djpwg5xb0yh3d8x",
+      "source": "French Breaches",
+      "date": "2026-11-04",
+      "published": "2026-11-04T00:20:00+00:00",
+      "desc": "Cyberattaque : Holcim, géant du ciment lié à Lafarge, victime d'un vol de données Le géant suisse des matériaux de construction Holcim, historiquement associé au groupe français Lafarge, a confirmé avoir été victime d'une cyberattaque. Selon les informations publiées le 3 novembr…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "04ec746befb3f69dff7c",
+      "title": "INRAE",
+      "url": "https://frenchbreaches.com/alertes/inrae-mw1bopq3536zduavp2g",
+      "source": "French Breaches",
+      "date": "2026-11-03",
+      "published": "2026-11-03T23:35:00+00:00",
+      "desc": "Cyberattaque : l'INRAE visé par un piratage, des données sensibles potentiellement volées L'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement (INRAE), l'un des principaux organismes publics de recherche français, serait victime d'une importante…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
     {
       "id": "79e8289ef5fef2ce1543",
       "title": "Cyberattaque : les réserves de l'Établissement français du sang ciblées",
@@ -3320,30 +3344,6 @@
       "desc": "Ransomware : Vins Viallet visé par le groupe Lamashtu, 50 Go de données menacés de publication Le groupe de ransomware Lamashtu revendique une cyberattaque contre Vins Viallet, une entreprise viticole familiale implantée en Savoie. Les cybercriminels affirment détenir 50 Go de do…",
       "type": "alerte",
       "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "3cc5c1485e1b807fe627",
-      "title": "Parti Communiste Français (PCF)",
-      "url": "https://frenchbreaches.com/alertes/parti-communiste-fran-ais-pcf-mvl13xuxyt1dju2rbve",
-      "source": "French Breaches",
-      "date": "2026-10-23",
-      "published": "2026-10-23T18:32:00+00:00",
-      "desc": "Fuite de données au PCF : le parti confirme l'incident, près de 190 000 personnes potentiellement concernées Mise à jour du 24 octobre 2026 — Nouveau rebondissement dans la fuite de données du Parti communiste français (PCF). Ce samedi, à 8 h 41, un cybercriminel utilisant le pse…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "10913ef0b9b61e8c1648",
-      "title": "Armurerie Meneux",
-      "url": "https://frenchbreaches.com/alertes/armurerie-meneux-mvl9owabk9q4erhu38g",
-      "source": "French Breaches",
-      "date": "2026-10-23",
-      "published": "2026-10-23T17:49:00+00:00",
-      "desc": "Armurerie Meneux : les données de plus de 900 clients mises en vente par un pirate Un nouveau commerce français spécialisé dans la chasse et le tir sportif fait l'objet d'une revendication de fuite de données. Ce vendredi 23 octobre 2026, un cybercriminel utilisant le pseudonyme…",
-      "type": "fuite",
-      "sev": "Faible",
       "category": "fuite"
     },
     {
