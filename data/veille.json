@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:10:53.298849+00:00",
+  "generated_at": "2026-11-04T13:33:46.562484+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,222 @@
     }
   ],
   "items": [
+    {
+      "id": "d92267ddec9a3b3883c3",
+      "title": "US charges two Canadians accused of hacking US universities",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04",
+      "published": "2026-11-04T13:13:20+00:00",
+      "desc": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c401bb54ceffe967aab5",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04",
+      "published": "2026-11-04T12:11:05+00:00",
+      "desc": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "eeeb8b0c17d409045420",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T12:07:04+00:00",
+      "desc": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "a60c29c498ad06a8e5ba",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:46:27+00:00",
+      "desc": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3. All Xen versions from 4.6 onward are vulnerable,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6cb0374f8d770396a4dc",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:34:20+00:00",
+      "desc": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "73251ea6fbbb96512bbb",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:24:31+00:00",
+      "desc": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9cbcd363fe1540209997",
+      "title": "Facturation électronique : les députés votent sa suspension pour les petites entreprises",
+      "url": "https://frenchbreaches.com/blog/facturation-electronique-les-deputes-votent-sa-suspension-pour-les-petites-entreprises",
+      "source": "French Breaches-blog",
+      "date": "2026-11-04",
+      "published": "2026-11-04T11:22:00+00:00",
+      "desc": "L'Assemblée nationale vote la suspension de la facturation électronique pour les TPE, PME et auto-entrepreneurs. La réforme reste en vigueur.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a6c5696bca46265beaeb",
+      "title": "HYBE : des passeports et des informations bancaires exposés",
+      "url": "https://www.cyber-securite.fr/hybe-des-passeports-et-des-informations-bancaires-exposes/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-04",
+      "published": "2026-11-04T10:39:36+00:00",
+      "desc": "HYBE a révélé l’accès non autorisé à deux systèmes internes, avec des données d’employés et ... Lire plus L’article HYBE : des passeports et des informations bancaires exposés est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "59979b6e9caadfe329c3",
+      "title": "Une banque française vient d’être piratée : 100 millions d’euros volés suite à des « opérations frauduleuses »",
+      "url": "https://www.01net.com/actualites/une-banque-francaise-vient-detre-piratee-100-millions-deuros-voles-suite-a-des-operations-frauduleuses.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-04",
+      "published": "2026-11-04T10:13:26+00:00",
+      "desc": "Le Crédit Mutuel Arkéa a été victime d'une cyberattaque. Les pirates auraient détourné 118 millions d'euros, rapidement convertis en cryptomonnaies pour brouiller les pistes. La banque bretonne assure que ses clients ne seront pas lésés.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "531032dde87e6e3b2976",
+      "title": "Fédération Française de Pelote Basque",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-pelote-basque-mw20iyw5ps3bd2eh4b",
+      "source": "French Breaches",
+      "date": "2026-11-04",
+      "published": "2026-11-04T10:06:00+00:00",
+      "desc": "Fuite de données à la Fédération française de pelote basque : plus de 31 000 fiches de licenciés revendiquées La Fédération française de pelote basque (FFPB) est visée par une revendication de fuite de données concernant 31 814 fiches liées à des licenciés et à leurs résultats sp…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "174efd2b43b746d76309",
+      "title": "Des frigos à plus de 100°C : après les supermarchés, des pirates s’attaquent aux congélateurs du don du sang",
+      "url": "https://www.01net.com/actualites/des-frigos-a-plus-de-100c-apres-les-supermarches-des-pirates-sattaquent-aux-congelateurs-du-don-du-sang.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-04",
+      "published": "2026-11-04T10:00:27+00:00",
+      "desc": "Des pirates ont pris le contrôle des congélateurs de l'Établissement français du sang. Ces installations réfrigérées, qui conservent notamment du plasma et du sang de donneurs, ont été reprogrammées de passer de -30 à 110 degrés.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "945319db191bce262cf2",
+      "title": "Cyberattaque au Crédit Mutuel Arkéa : 118 millions d'euros auraient été détournés",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-au-credit-mutuel-arkea-118-millions-deuros-auraient-ete-detournes",
+      "source": "French Breaches-blog",
+      "date": "2026-11-04",
+      "published": "2026-11-04T09:55:00+00:00",
+      "desc": "Le Crédit Mutuel Arkéa confirme une cyberattaque. Des pirates auraient détourné 118 millions d'euros. Fortuneo est également évoquée.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e3fd45fd3e304e2ff7eb",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "source": "BleepingComputer",
+      "date": "2026-11-04",
+      "published": "2026-11-04T09:39:54+00:00",
+      "desc": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "595e0a9dfde72e646cd2",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T08:17:11+00:00",
+      "desc": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a3780e3b4e050eb44cef",
+      "title": "4 heures pour piller Binance : la plateforme crypto révèle ce qu’il s’est vraiment passé lors de la cyberattaque",
+      "url": "https://www.01net.com/actualites/4-heures-depouilller-binance-plateforme-revele-vraiment-passe-lors-de-la-cyberattaque.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-04",
+      "published": "2026-11-04T08:15:05+00:00",
+      "desc": "Cinq jours après le plus gros vol de l'histoire des cryptomonnaies, Binance publie un premier rapport d'investigation sur la cyberattaque. Au terme d'une enquête préliminaire, la plateforme révèle comment les pirates sont parvenus à pénétrer au sein de ses portefeuilles afin de voler plus de 6 milliards de dollars. Selon Binance, tout a commencé par un simple entretien d'embauche.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "226d22a423412bf1bab5",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T07:46:15+00:00",
+      "desc": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "74ea356599b8ed07593c",
+      "title": "Avast lance un VPN gratuit, 100 % illimité et sans pub",
+      "url": "https://www.01net.com/actualites/avast-lance-vpn-gratuit-illimite-sans-pub.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-04",
+      "published": "2026-11-04T06:00:56+00:00",
+      "desc": "Avast dégaine un VPN 100 % gratuit en France. L'offre bouscule le marché des VPN gratuits, notoirement truffé de pièges et de solutions médiocres inondées d'annonces publicitaires.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0f2962e63e0897034eaf",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "date": "2026-11-04",
+      "published": "2026-11-04T05:43:11+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "f5ca8868c0596d4a4d70",
       "title": "Holcim",
@@ -683,18 +899,6 @@
       "category": "actualite"
     },
     {
-      "id": "540fcda8052543e00f62",
-      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02",
-      "published": "2026-11-02T18:16:34+00:00",
-      "desc": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a3562df3fff969c304c8",
       "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
       "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
@@ -714,30 +918,6 @@
       "date": "2026-11-02",
       "published": "2026-11-02T15:50:26+00:00",
       "desc": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8c4edece9bdb261607bb",
-      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
-      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02",
-      "published": "2026-11-02T15:03:07+00:00",
-      "desc": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1a6bbb312ff8ea1cf085",
-      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
-      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
-      "source": "BleepingComputer",
-      "date": "2026-11-02",
-      "published": "2026-11-02T15:01:11+00:00",
-      "desc": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1127,18 +1307,6 @@
       "category": "fuite"
     },
     {
-      "id": "baead20d2fcb91a4f081",
-      "title": "Envoyer un message anonyme : méthodes sûres et limites légales",
-      "url": "https://www.cyber-securite.fr/envoyer-sms-anonyme-securise/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-01",
-      "published": "2026-11-01T12:28:00+00:00",
-      "desc": "Besoin de passer en mode discret sans jouer les espions ? Écrire sans signer ressemble ... Lire plus L’article Envoyer un message anonyme : méthodes sûres et limites légales est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "77366e9c7d8aa832d227",
       "title": "Failles PHP : 10 jours après, près de 30 millions de sites et services web toujours vulnérables",
       "url": "https://www.01net.com/actualites/failles-php-onze-jours-apres-pres-de-30-millions-de-sites-et-services-web-toujours-vulnerables.html",
@@ -1158,18 +1326,6 @@
       "date": "2026-11-01",
       "published": "2026-11-01T11:21:52+00:00",
       "desc": "Alors que Mistral vient d’ouvrir les poids de son modèle Large 4, le fournisseur français s'associe à Orange Cyberdefense premier (...)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2508be93fe8e6a4d2deb",
-      "title": "Top 5 des gestionnaires de mots de passe entreprise",
-      "url": "https://www.cyber-securite.fr/top-5-des-gestionnaires-de-mots-de-passe-entreprise/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-01",
-      "published": "2026-11-01T11:12:00+00:00",
-      "desc": "Un seul identifiant volé suffit parfois à ouvrir les portes de toute une entreprise. Contre ... Lire plus L’article Top 5 des gestionnaires de mots de passe entreprise est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1197,18 +1353,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "6c61fe44b4547abfebeb",
-      "title": "Comment changer DNS Android ?",
-      "url": "https://www.cyber-securite.fr/changer-dns-android/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-01",
-      "published": "2026-11-01T09:00:00+00:00",
-      "desc": "Avant d’afficher la moindre page, votre smartphone demande son chemin à un serveur DNS, presque ... Lire plus L’article Comment changer DNS Android ? est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "c441c97c4a31b9afc972",
@@ -1919,6 +2063,18 @@
       "category": "actualite"
     },
     {
+      "id": "e35f6d875b940e41b0ba",
+      "title": "Binance ciblé par une cyberattaque massive",
+      "url": "https://www.cyber-securite.fr/binance-cible-par-une-cyberattaque-massive/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T08:18:33+00:00",
+      "desc": "Binance a annoncé une cyberattaque de grande ampleur et évalué à environ 6,3 milliards de ... Lire plus L’article Binance ciblé par une cyberattaque massive est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "95dedca13320784ebe8c",
       "title": "Piratage de Binance : plus de 6 milliards de dollars de cryptos ont été volés, que s’est-il passé ?",
       "url": "https://www.01net.com/actualites/piratage-de-binance-plus-de-6-milliards-de-dollars-de-cryptos-ont-ete-voles-que-sest-il-passe.html",
@@ -1952,6 +2108,18 @@
       "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
       "type": "cve",
       "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "08c6c1449a8376b14b08",
+      "title": "Des applis espions trompeuses circulent !",
+      "url": "https://www.cyber-securite.fr/fausses-applications-espions-ia/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-10-30",
+      "published": "2026-10-30T06:05:00+00:00",
+      "desc": "Des publicités pour de prétendues applications d’espionnage promettent de lire des messages privés ou de ... Lire plus L’article Des applis espions trompeuses circulent ! est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -2243,18 +2411,6 @@
       "category": "actualite"
     },
     {
-      "id": "17b1ed18b9db9df1dd4b",
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T13:42:40+00:00",
-      "desc": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "e59924c180a389cbcab9",
       "title": "La Mutuelle Communale victime d'une fuite de données",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-la-mutuelle-communale-victime-d-une-fuite-de-donnees-100887.html",
@@ -2325,78 +2481,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "89ba8a41a1ee0be07879",
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T11:39:41+00:00",
-      "desc": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b35772fb4a04069806c0",
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T11:39:18+00:00",
-      "desc": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. Combined with an",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "ff04f1caf15467beeb1b",
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T11:33:41+00:00",
-      "desc": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "026f7c77fb5eab48a643",
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T11:33:15+00:00",
-      "desc": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "7d482c1bcf9fa313acb9",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T10:44:46+00:00",
-      "desc": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "193f5a35878b3318e229",
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "source": "The Hacker News",
-      "date": "2026-10-29",
-      "published": "2026-10-29T10:26:33+00:00",
-      "desc": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "61a1e4bb1d7dbf291996",
@@ -3011,18 +3095,6 @@
       "category": "actualite"
     },
     {
-      "id": "0f8500335252edadcb0b",
-      "title": "Une vague de cyberattaques s’abat sur les partis politiques français",
-      "url": "https://www.01net.com/actualites/une-vague-de-cyberattaques-sabat-sur-les-partis-politiques-francais.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-26",
-      "published": "2026-10-26T12:30:42+00:00",
-      "desc": "En un week-end, trois grands partis politiques français ont été victimes d'une cyberattaque. Un seul pirate revendique les offensives, visant le Parti communiste, La France insoumise et Renaissance, qui ont mené à des fuites de données. Si le PCF confirme l'attaque, LFI et le parti présidentiel démentent toute intrusion dans leurs systèmes.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f6b4dc44bc2f931c0e19",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -3069,18 +3141,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "366ca04e8902ca97e4b5",
-      "title": "Un « monde hors ligne » : après un nouveau dérapage de l’IA, OpenAI prend une décision radicale",
-      "url": "https://www.01net.com/actualites/monde-hors-ligne-apres-nouveau-derapage-ia-openai-prend-decision-radicale.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-26",
-      "published": "2026-10-26T07:45:13+00:00",
-      "desc": "Des modèles d'IA OpenAI sont parvenus à s'échapper de leur prison numérique. Les intelligences artificielles se sont ensuite mises à communiquer entre elles par le biais d'un canal caché. Troublée par ces comportements inattendus, l'entreprise de Sam Altman a décidé d'entraîner ses futures IA sans aucun accès à Internet par mesure de précaution.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "882fd3f37a08ea70217e",
@@ -3141,18 +3201,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "9b0576734c238c2006aa",
-      "title": "« La nouvelle norme » : l’IA a semé le chaos sur Internet cette semaine, et « ce n’est que le début »",
-      "url": "https://www.01net.com/actualites/nouvelle-norme-lia-seme-chaos-internet-semaine-que-debut.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-25",
-      "published": "2026-10-25T11:00:21+00:00",
-      "desc": "Les failles PHP2Shell se cachaient dans le code de PHP depuis une vingtaine d'années. Il aura fallu attendre l'arrivée de l'intelligence artificielle générative pour les débusquer. Ce n'est pas uniquement une bonne nouvelle pour le monde de la cybersécurité. L'IA donne aussi un coup de pouce aux pirates qui cherchent à exploiter la vulnérabilité pour orchestrer des cyberattaques.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "2d81c07a8f605d628282",
@@ -3263,18 +3311,6 @@
       "category": "fuite"
     },
     {
-      "id": "77340351d09db529d8cf",
-      "title": "La France insoumise visée par une fuite de 1,2 million de données",
-      "url": "https://frenchbreaches.com/blog/la-france-insoumise-visee-par-une-fuite-de-12-million-de-donnees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-24",
-      "published": "2026-10-24T09:34:00+00:00",
-      "desc": "Un pirate revendique une fuite de données chez La France insoumise : 1,2 million de lignes liées aux adresses, au porte-à-porte et aux campagnes.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "11661272ec44fc3b7e2d",
       "title": "La France Insoumise",
       "url": "https://frenchbreaches.com/alertes/la-france-insoumise-mvm6atypwytjz0coskh",
@@ -3285,30 +3321,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "106277cb181b56cad342",
-      "title": "Arnaques en ligne : comment les pirates détournent Google Drive pour vous piéger",
-      "url": "https://www.01net.com/actualites/arnaques-ligne-comment-pirates-detournent-google-drive-vous-pieger.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-24",
-      "published": "2026-10-24T06:07:37+00:00",
-      "desc": "Les pirates ne se contentent plus d'imiter Google Drive pour vous piéger. Ils utilisent directement les serveurs de Google pour déployer leurs arnaques. Une étude de KnowBe4 révèle que près d’un e-mail malveillant sur dix passe d'ailleurs par des serveurs légitimes, dont ceux du géant de Mountain View. L'astuce contourne la plupart des filtres de sécurité mis en place pour vous protéger.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "46cfeb1da8f7c7d228ce",
-      "title": "ADMR : les données médicales de millions de Français potentiellement exposées",
-      "url": "https://frenchbreaches.com/blog/admr-les-donnees-medicales-de-millions-de-francais-potentiellement-exposees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-24",
-      "published": "2026-10-24T02:47:00+00:00",
-      "desc": "Un pirate revendique une fuite de données ADMR : 4,5 millions d'enregistrements, dont des numéros de Sécurité sociale et des dossiers médicaux.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "5d8d00656bc9fc12510a",
@@ -3332,18 +3344,6 @@
       "desc": "Fuite de données chez ENGIE : des informations personnelles de clients exposées ENGIE informe certains de ses clients d'un incident de cybersécurité ayant touché un outil utilisé par des partenaires commerciaux pour proposer des offres d'énergie. Des accès non autorisés à plusieu…",
       "type": "fuite",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b4af54a0ff6544a374d7",
-      "title": "Vins Viallet",
-      "url": "https://frenchbreaches.com/alertes/vins-viallet-rw_Vm1sdWN5QldhV0ZzYkdWMFFHeGhiV0Z6YUhSMQ",
-      "source": "French Breaches",
-      "date": "2026-10-23",
-      "published": "2026-10-23T22:00:00+00:00",
-      "desc": "Ransomware : Vins Viallet visé par le groupe Lamashtu, 50 Go de données menacés de publication Le groupe de ransomware Lamashtu revendique une cyberattaque contre Vins Viallet, une entreprise viticole familiale implantée en Savoie. Les cybercriminels affirment détenir 50 Go de do…",
-      "type": "alerte",
-      "sev": "Haute",
       "category": "fuite"
     },
     {
