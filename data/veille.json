@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:02:14.647937+00:00",
+  "generated_at": "2026-11-05T04:30:02.807121+00:00",
   "sources_total": 11,
   "sources_ok": 9,
   "sources_failed": 2,
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "12523383aa794e4a1350",
+      "title": "Fuite de données : 20 millions de lignes de 34 fédérations françaises diffusées",
+      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-20-millions-de-lignes-de-34-federations-francaises-diffusees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-05",
+      "published": "2026-11-05T02:00:00+00:00",
+      "desc": "Un pirate diffuse un pack de 20 millions de lignes concernant 34 fédérations françaises, dont plusieurs déjà victimes de cyberattaques.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "bfcc341f723b7bdf6234",
+      "title": "Lazeo",
+      "url": "https://frenchbreaches.com/alertes/lazeo-mw2s9ujdk72wmeutg9n",
+      "source": "French Breaches",
+      "date": "2026-11-05",
+      "published": "2026-11-05T00:02:00+00:00",
+      "desc": "Fuite de données chez Lazeo : les informations personnelles de 708 employés mises en ligne par un pirate Le groupe français Lazeo, spécialisé dans la médecine esthétique et les soins laser, est visé par une revendication de piratage. Un cybercriminel affirme avoir publié une base…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "05d712189c6125345f94",
       "title": "Vercel rolls out new protection against stolen session cookie attacks",
@@ -3171,18 +3195,6 @@
       "category": "actualite"
     },
     {
-      "id": "d1d86de372ba98bad654",
-      "title": "Le parti d'Emmanuel Macron visé par une fuite présumée de 4,1 millions de données",
-      "url": "https://frenchbreaches.com/blog/le-parti-demmanuel-macron-vise-par-une-fuite-presumee-de-41-millions-de-donnees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-24",
-      "published": "2026-10-24T19:57:00+00:00",
-      "desc": "Renaissance, dirigé par Gabriel Attal, est visé par une fuite présumée. Plus de 4,1 millions d'enregistrements auraient été diffusés.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "26a4924269cd352864fa",
       "title": "Renaissance",
       "url": "https://frenchbreaches.com/alertes/renaissance-mvmrvmefoo5l6bsb91m",
@@ -3226,18 +3238,6 @@
       "date": "2026-10-24",
       "published": "2026-10-24T09:17:00+00:00",
       "desc": "Piratage de La France insoumise : plus de 1,2 million d'enregistrements revendiqués dans une fuite de données Mise à jour le 24 octobre à 20h Selon nos informations, La France insoumise (LFI) aurait été victime de plusieurs failles de sécurité permettant à des comptes militants i…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "5d8d00656bc9fc12510a",
-      "title": "ADMR",
-      "url": "https://frenchbreaches.com/alertes/admr-mvlsq0w75bxir1rjo56",
-      "source": "French Breaches",
-      "date": "2026-10-24",
-      "published": "2026-10-24T02:41:00+00:00",
-      "desc": "ADMR : un pirate revendique une fuite de 4,5 millions de données personnelles et médicales Mise à jour du 25 octobre 2026 à 00 h 28 Selon nos informations, plus de 1,4 million de numéros de sécurité sociale figureraient parmi les données attribuées à l'ADMR. Le pirate affirme éga…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
