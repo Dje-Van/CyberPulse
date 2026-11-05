@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:30:02.807121+00:00",
+  "generated_at": "2026-11-05T13:47:00.164958+00:00",
   "sources_total": 11,
   "sources_ok": 9,
   "sources_failed": 2,
@@ -14,6 +14,198 @@
     }
   ],
   "items": [
+    {
+      "id": "2d6b90616ccc7e232bcd",
+      "title": "Fédération Française de Tennis de Table (FFTT)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-tennis-de-table-fftt-mvnyw9h9gkut53mlyyj",
+      "source": "French Breaches",
+      "date": "2026-11-05",
+      "published": "2026-11-05T13:11:00+00:00",
+      "desc": "La Fédération française de tennis de table visée par une fuite revendiquée de 2,2 millions de lignes et 9,3 Go de données Mise à jour du 27 octobre 2026 Alertée par FrenchBreaches le 27 octobre, la Fédération française de tennis de table a confirmé avoir identifié un compte licen…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1bd927d85a48e504f33c",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:25:00+00:00",
+      "desc": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "c7e59b0d46842b639261",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:08:54+00:00",
+      "desc": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b04c239b5b6c4a066e6d",
+      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7f216d22de1343ddee34",
+      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "e5838da8e52e7046a05b",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T10:06:19+00:00",
+      "desc": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "39fa254e8f867e367c2d",
+      "title": "Beauty Success (Novi)",
+      "url": "https://frenchbreaches.com/alertes/beauty-success-novi-mw3dloy5vziu3xxamr",
+      "source": "French Breaches",
+      "date": "2026-11-05",
+      "published": "2026-11-05T09:59:00+00:00",
+      "desc": "Fuite de données : plus de 3 millions de clients de Beauty Success potentiellement concernés Un pirate informatique affirme avoir récupéré et mis en vente les données personnelles de plus de 3 millions de personnes associées à Beauty Success, une enseigne française de parfumerie…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "45653bb0969056c13a37",
+      "title": "Google neutralise un botnet qui contrôlait 1,3 million d’appareils",
+      "url": "https://www.cyber-securite.fr/google-neutralise-un-botnet-qui-controlait-13-million-dappareils/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-05",
+      "published": "2026-11-05T09:50:04+00:00",
+      "desc": "Un boîtier TV peut rejoindre un réseau criminel avant même sa première connexion domestique. Google ... Lire plus L’article Google neutralise un botnet qui contrôlait 1,3 million d’appareils est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "acb97fdd6b827dc758c1",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "source": "BleepingComputer",
+      "date": "2026-11-05",
+      "published": "2026-11-05T09:18:29+00:00",
+      "desc": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "51d9a5c499abff0e34a6",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T09:13:28+00:00",
+      "desc": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5135bbcc90206a417489",
+      "title": "Cyberattaque du Crédit Mutuel Arkéa : un prestataire piraté, des millions blanchis en crypto… tout ce que l’on sait sur l’enquête en cours",
+      "url": "https://www.01net.com/actualites/cyberattaque-du-credit-mutuel-arkea-un-prestataire-pirate-des-millions-blanchis-en-crypto-tout-ce-que-lon-sait-sur-lenquete-en-cours.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-05",
+      "published": "2026-11-05T08:44:37+00:00",
+      "desc": "Le Crédit Mutuel Arkéa a été victime d'une cyberattaque. Plus de 100 millions d'euros ont été volés. Les pirates sont passés par un prestataire de la banque, avant de faire disparaître l'argent dans les méandres de la blockchain et des cryptomonnaies. Le parquet de Paris a ouvert une enquête pour tenter de remonter jusqu'aux cybercriminels.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9fb3d806b5214e2e6b9d",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T08:42:03+00:00",
+      "desc": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d2b8633e1a6f94d63a71",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T07:06:33+00:00",
+      "desc": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "f953c5b5da47ff1d2bfa",
+      "title": "Mettre en place un DNS Sinkhole : le guide pas à pas",
+      "url": "https://www.cyber-securite.fr/mettre-en-place-un-dns-sinkhole-le-guide-pas-a-pas/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-05",
+      "published": "2026-11-05T06:33:09+00:00",
+      "desc": "Une requête DNS malveillante peut conduire un poste vers un site frauduleux avant toute alerte ... Lire plus L’article Mettre en place un DNS Sinkhole : le guide pas à pas est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8d8a71f79f71e5d6f027",
+      "title": "Le bouclier ultime d’Apple aurait cédé : un iPhone 18 Pro piraté malgré le mode Isolement",
+      "url": "https://www.01net.com/actualites/le-bouclier-ultime-dapple-aurait-cede-un-iphone-18-pro-pirate-malgre-le-mode-isolement.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-05",
+      "published": "2026-11-05T05:30:18+00:00",
+      "desc": "Vidéo à l’appui, le groupe de hackers Calif affirme être parvenu à jailbreaker un iPhone 18 Pro alors que le mode Isolement était activé. Un mystérieux document PDF contenant le CV d’un chat semble être à l’origine du piratage. Le téléchargement d’iOS 27.2 n’a pas résolu le problème.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "16bf85bfb533fefee48b",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-05",
+      "published": "2026-11-05T05:17:04+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+      "type": "cve",
+      "sev": "Moyenne",
+      "category": "actualite"
+    },
     {
       "id": "12523383aa794e4a1350",
       "title": "Fuite de données : 20 millions de lignes de 34 fédérations françaises diffusées",
@@ -237,7 +429,7 @@
       "source": "The Hacker News",
       "date": "2026-11-04",
       "published": "2026-11-04T14:27:52+00:00",
-      "desc": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+      "desc": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
@@ -755,18 +947,6 @@
       "published": "2026-11-03T20:05:50+00:00",
       "desc": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "bcfb2e41fbecf9d29cac",
-      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "source": "BleepingComputer",
-      "date": "2026-11-03",
-      "published": "2026-11-03T18:51:04+00:00",
-      "desc": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2139,18 +2319,6 @@
       "category": "actualite"
     },
     {
-      "id": "8fc971e55b17c65a2d34",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T14:08:14+00:00",
-      "desc": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "1060b51a3b52c9131ef4",
       "title": "« Le SMS de la mort » : ce simple message peut rendre votre smartphone inutilisable",
       "url": "https://www.01net.com/actualites/le-sms-de-la-mort-ce-simple-message-peut-rendre-votre-smartphone-inutilisable.html",
@@ -2199,18 +2367,6 @@
       "category": "fuite"
     },
     {
-      "id": "c67ce218705117aa60e3",
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T12:21:56+00:00",
-      "desc": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase. Trezor said in a blog post",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "42d3c3ffc27bcecdd39b",
       "title": "Fédération suisse de basketball",
       "url": "https://frenchbreaches.com/alertes/f-d-ration-suisse-de-basketball-mvuxxch97tc2qxlgrdy",
@@ -2221,18 +2377,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "67deeb1099f33e565456",
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T11:58:53+00:00",
-      "desc": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application",
-      "type": "alerte",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "1bb8bdf00136758cdfb2",
@@ -2295,18 +2439,6 @@
       "category": "actualite"
     },
     {
-      "id": "e93de4dec38c1d3f4537",
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T10:40:45+00:00",
-      "desc": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner circle, including the commander of Syria's General Intelligence",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "301a453ba57b3566f8be",
       "title": "Parti Radicale de Gauche (PRG)",
       "url": "https://frenchbreaches.com/alertes/parti-radicale-de-gauche-prg-mvurpr190cuwki1hy5g",
@@ -2331,42 +2463,6 @@
       "category": "actualite"
     },
     {
-      "id": "4b53227f9f3bab608574",
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T08:55:47+00:00",
-      "desc": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "756f34a6aa369298b94c",
-      "title": "CTS Strasbourg : des données de 230 000 comptes clients compromises",
-      "url": "https://www.cyber-securite.fr/cts-strasbourg-des-donnees-de-230-000-comptes-clients-compromises/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-30",
-      "published": "2026-10-30T08:28:12+00:00",
-      "desc": "La CTS a signalé le vol des données de 230 000 comptes clients, soit près ... Lire plus L’article CTS Strasbourg : des données de 230 000 comptes clients compromises est apparu en premier sur jeuxderole.com .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e35f6d875b940e41b0ba",
-      "title": "Binance ciblé par une cyberattaque massive",
-      "url": "https://www.cyber-securite.fr/binance-cible-par-une-cyberattaque-massive/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-10-30",
-      "published": "2026-10-30T08:18:33+00:00",
-      "desc": "Binance a annoncé une cyberattaque de grande ampleur et évalué à environ 6,3 milliards de ... Lire plus L’article Binance ciblé par une cyberattaque massive est apparu en premier sur jeuxderole.com .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "95dedca13320784ebe8c",
       "title": "Piratage de Binance : plus de 6 milliards de dollars de cryptos ont été volés, que s’est-il passé ?",
       "url": "https://www.01net.com/actualites/piratage-de-binance-plus-de-6-milliards-de-dollars-de-cryptos-ont-ete-voles-que-sest-il-passe.html",
@@ -2376,30 +2472,6 @@
       "desc": "Binance, la plus grande plateforme d’échange de cryptomonnaies au monde, a été piratée. Durant la cyberattaque, les pirates ont dérobé 6,3 milliards de dollars de cryptomonnaies. C'est le plus gros casse de l'histoire des cryptomonnaies, juste devant le hack de Bybit. Tous les regards se tournent vers les hackers nord-coréens, spécialistes des vols d'actifs numériques.",
       "type": "alerte",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "bc4258f9677bca1e1ae9",
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T07:45:30+00:00",
-      "desc": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "8927f234f52baad7df3c",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-10-30",
-      "published": "2026-10-30T07:27:05+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -2979,18 +3051,6 @@
       "category": "fuite"
     },
     {
-      "id": "a1c745bbdbd4ade8fa10",
-      "title": "Installez-vite iOS 27.2 sur votre iPhone, Apple corrige plus de 160 failles de sécurité",
-      "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-iphone-apple-corrige-plus-160-failles-securite.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-27",
-      "published": "2026-10-27T08:00:36+00:00",
-      "desc": "Apple vient de déployer iOS 27.2 sur tous les iPhone compatibles. En plus des nouveautés, la mise à jour colmate plus de 160 failles de sécurité dénichées sur l'iPhone. C'est pourquoi on vous recommande de l'installer sans tarder.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "547ce5cf1eb1aa68acdb",
       "title": "Fédération sportive et culturelle de France (FSCF)",
       "url": "https://frenchbreaches.com/alertes/f-d-ration-sportive-et-culturelle-de-france-fscf-mvpuod0wox0c6nnrq7",
@@ -3037,18 +3097,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "a71293ae7bc2597acdda",
-      "title": "850 000 plaques d’immatriculation : un pirate revendique une fuite massive de données en France",
-      "url": "https://www.01net.com/actualites/850-000-plaques-dimmatriculation-un-pirate-revendique-une-fuite-massive-de-donnees-en-france.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-26",
-      "published": "2026-10-26T16:56:06+00:00",
-      "desc": "Un cybercriminel affirme avoir dérobé une gigantesque base de données concernant des Français. Le répertoire permettrait de relier près de 850 000 plaques d'immatriculation françaises à l'identité, au téléphone et à l'adresse de leurs propriétaires.",
-      "type": "actualite",
-      "sev": "Haute",
-      "category": "actualite"
     },
     {
       "id": "d1fcee2a48efea50ef72",
@@ -3219,30 +3267,6 @@
       "category": "fuite"
     },
     {
-      "id": "27710cf04aa2aa2c5dbb",
-      "title": "Alliance Police Nationale",
-      "url": "https://frenchbreaches.com/alertes/alliance-police-nationale-mvm8kwbes2qjalfgawg",
-      "source": "French Breaches",
-      "date": "2026-10-24",
-      "published": "2026-10-24T10:07:00+00:00",
-      "desc": "Alliance Police Nationale victime d'un incident informatique : des données personnelles d'adhérents compromises Le syndicat Alliance Police Nationale a informé ses adhérents avoir été victime d'un incident de sécurité informatique ayant entraîné un accès non autorisé à certaines…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "11661272ec44fc3b7e2d",
-      "title": "La France Insoumise",
-      "url": "https://frenchbreaches.com/alertes/la-france-insoumise-mvm6atypwytjz0coskh",
-      "source": "French Breaches",
-      "date": "2026-10-24",
-      "published": "2026-10-24T09:17:00+00:00",
-      "desc": "Piratage de La France insoumise : plus de 1,2 million d'enregistrements revendiqués dans une fuite de données Mise à jour le 24 octobre à 20h Selon nos informations, La France insoumise (LFI) aurait été victime de plusieurs failles de sécurité permettant à des comptes militants i…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "5112d2d0592613a3f787",
       "title": "GitLab corrige une faille critique vieille de douze ans",
       "url": "https://www.lemondeinformatique.fr/actualites/lire-gitlab-corrige-une-faille-critique-vieille-de-douze-ans-100870.html",
@@ -3382,30 +3406,6 @@
       "date": "2026-10-16",
       "published": "2026-10-16T12:00:00+00:00",
       "desc": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "dbedb621bf9e3232d324",
-      "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-15",
-      "published": "2026-10-15T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "4b3a739cc4e144e16cc4",
-      "title": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
-      "url": "https://www.cnil.fr/fr/cloture-injonction-google",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-14",
-      "published": "2026-10-14T12:00:00+00:00",
-      "desc": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
