@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:06:24.921035+00:00",
+  "generated_at": "2026-11-06T04:28:48.071371+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,30 @@
     }
   ],
   "items": [
+    {
+      "id": "bdfce63afd4321945049",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "source": "BleepingComputer",
+      "date": "2026-11-06",
+      "published": "2026-11-06T00:56:44+00:00",
+      "desc": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f4a18c32e0513b0207a1",
+      "title": "Centre communal d'action sociale de Dunkerque (CCAS)",
+      "url": "https://frenchbreaches.com/alertes/centre-communal-d-action-sociale-de-dunkerque-ccas-mw45w2n69mvn7m090v4",
+      "source": "French Breaches",
+      "date": "2026-11-05",
+      "published": "2026-11-05T23:15:00+00:00",
+      "desc": "CCAS de Dunkerque : les données personnelles de 66 659 usagers republiées après un piratage Le Centre communal d'action sociale (CCAS) de Dunkerque, organisme chargé d'accompagner les habitants dans leurs démarches sociales, voit de nouveau des données qui lui sont attribuées app…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "2ae34dc126e9b6408266",
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
@@ -763,18 +787,6 @@
       "published": "2026-11-04T16:00:18+00:00",
       "desc": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "646c23c08481b93b79df",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "source": "BleepingComputer",
-      "date": "2026-11-04",
-      "published": "2026-11-04T15:00:10+00:00",
-      "desc": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
-      "type": "phishing",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3404,18 +3416,6 @@
       "desc": "Fuite de données : la Fédération suisse de hockey sur glace visée par des pirates Mise à jour du 27 octobre 2026 à 14h24 La Fédération suisse de hockey sur glace (SIHF) confirme officiellement un accès non autorisé à sa plateforme MySIHF entre le 17 et le 19 octobre 2026. Des don…",
       "type": "fuite",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "4abc8961a648eb581066",
-      "title": "BCSA GEAR",
-      "url": "https://frenchbreaches.com/alertes/bcsa-gear-rw_UWtOVFFTQkhSVUZTUUhGcGJHbHU",
-      "source": "French Breaches",
-      "date": "2026-10-25",
-      "published": "2026-10-25T23:00:00+00:00",
-      "desc": "BCSA Gear : le groupe de ransomware Qilin publie des documents confidentiels Le fabricant français BCSA Gear, spécialisé dans les équipements mécaniques industriels, est visé par une revendication de cyberattaque du groupe de ransomware Qilin. Sur son site de divulgation, le coll…",
-      "type": "alerte",
-      "sev": "Haute",
       "category": "fuite"
     },
     {
