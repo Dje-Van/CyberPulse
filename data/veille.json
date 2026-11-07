@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:56:21.668778+00:00",
+  "generated_at": "2026-11-07T12:11:30.451520+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,54 @@
     }
   ],
   "items": [
+    {
+      "id": "6ea73284689e1546a939",
+      "title": "Smartbox",
+      "url": "https://frenchbreaches.com/alertes/smartbox-mw6cp9hcqplas85uka",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T11:58:00+00:00",
+      "desc": "Cyberattaque chez Smartbox : des données personnelles de clients potentiellement exposées Smartbox, spécialiste des coffrets cadeaux et des expériences à offrir, confirme avoir été victime d'une cyberattaque le 3 novembre 2026. Dans un e-mail adressé à ses clients, l'entreprise a…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b5551736299472d5e45c",
+      "title": "Aréas Assurance",
+      "url": "https://frenchbreaches.com/alertes/ar-as-assurance-mw6baq6okzuyarkesx",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T11:18:00+00:00",
+      "desc": "Fuite de données chez Aréas Assurances : plus de 21 700 assurés français potentiellement concernés Aréas Assurances, compagnie française spécialisée dans l'assurance des particuliers et des professionnels, fait l'objet d'une revendication de fuite de données. Un pirate affirme ve…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "dc8857562cd7821d1677",
+      "title": "Caverne des Jouets",
+      "url": "https://frenchbreaches.com/alertes/caverne-des-jouets-mw6azxay5sfe24oknka",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T11:14:00+00:00",
+      "desc": "Fuite de données à La Caverne des Jouets : près d'un million de clients potentiellement concernés À quelques semaines de Noël, La Caverne des Jouets, boutique française de vente de jouets et de jeux en ligne, fait l'objet d'une importante revendication de fuite de données. Un pir…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "9989e939e148877e42d3",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "source": "The Hacker News",
+      "date": "2026-11-07",
+      "published": "2026-11-07T06:44:17+00:00",
+      "desc": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "3851f16593ec3bf0e117",
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -2255,18 +2303,6 @@
       "category": "actualite"
     },
     {
-      "id": "f801cd5ccac777b3305e",
-      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T11:08:45+00:00",
-      "desc": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "48ba42b02072cb8abab9",
       "title": "Du porno en pleine rue : une cyberattaque a fait dérailler les panneaux publicitaires dans plusieurs pays",
       "url": "https://www.01net.com/actualites/panneaux-publicitaires-pirates-diffuse-porno-cyberattaque-touche-plusieurs-pays-meme-temps.html",
@@ -3453,42 +3489,6 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "dd650736378bd789f9c5",
-      "title": "Ellloha",
-      "url": "https://frenchbreaches.com/alertes/ellloha-mvqfnl724vqieq7gvjv",
-      "source": "French Breaches",
-      "date": "2026-10-27",
-      "published": "2026-10-27T08:33:00+00:00",
-      "desc": "Elloha confirme un incident de sécurité : des clients ciblés par de faux messages WhatsApp La plateforme française elloha, spécialisée dans les outils de réservation pour les professionnels du tourisme, confirme avoir subi un incident de sécurité le 25 octobre 2026. Des informati…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "547ce5cf1eb1aa68acdb",
-      "title": "Fédération sportive et culturelle de France (FSCF)",
-      "url": "https://frenchbreaches.com/alertes/f-d-ration-sportive-et-culturelle-de-france-fscf-mvpuod0wox0c6nnrq7",
-      "source": "French Breaches",
-      "date": "2026-10-26",
-      "published": "2026-10-26T22:48:00+00:00",
-      "desc": "# FSCF : les données de milliers de licenciés potentiellement exposées La Fédération sportive et culturelle de France (FSCF) est visée par une revendication de fuite de données publiée sur un forum cybercriminel. Un individu affirme partager plusieurs fichiers contenant des infor…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "9df7515645a45c07781f",
-      "title": "GraphCom",
-      "url": "https://frenchbreaches.com/alertes/graphcom-mvpuisyurgs39fw7wcn",
-      "source": "French Breaches",
-      "date": "2026-10-26",
-      "published": "2026-10-26T22:44:00+00:00",
-      "desc": "Graphcom : un pirate revendique le vol de codes sources et de bases de données L'entreprise française Graphcom, spécialisée dans la communication digitale et multimédia, est visée par une revendication de cyberattaque publiée sur un forum cybercriminel. Un individu affirme avoir…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "f6b4dc44bc2f931c0e19",
