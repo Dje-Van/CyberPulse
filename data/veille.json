@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:36:17.770228+00:00",
+  "generated_at": "2026-11-07T03:56:21.668778+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,18 @@
     }
   ],
   "items": [
+    {
+      "id": "3851f16593ec3bf0e117",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07",
+      "published": "2026-11-07T00:00:55+00:00",
+      "desc": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "246617fa609df09e3218",
       "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
@@ -691,18 +703,6 @@
       "published": "2026-11-05T16:42:32+00:00",
       "desc": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "56bfa02295d43c2b62b1",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05",
-      "published": "2026-11-05T16:24:26+00:00",
-      "desc": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
