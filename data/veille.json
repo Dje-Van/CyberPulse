@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:11:30.451520+00:00",
+  "generated_at": "2026-11-07T21:16:22.944746+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "8880e5325881f6b09d1c",
+      "title": "Auto-Planning",
+      "url": "https://frenchbreaches.com/alertes/auto-planning-mvsr5k8z732ik7zcded",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T20:03:00+00:00",
+      "desc": "Fuite de données chez Auto-Planning : 242 millions de lignes et 34,6 Go de fichiers mis en vente par un pirate Nouveau rebondissement dans la cyberattaque d'Auto-Planning, une entreprise française spécialisée dans les réservations de contrôles techniques automobiles. Le 7 novembr…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8f453ad4500d24efc0c5",
+      "title": "Titres Services",
+      "url": "https://frenchbreaches.com/alertes/titres-services-mw49chlrygke8bvq1b",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T19:29:00+00:00",
+      "desc": "Fuite de données chez I.L. & C. – Titres Services, plus de 71 Go de fichiers revendiqués par des pirates Une entreprise belge spécialisée dans le ménage et l'aide à domicile est visée par le groupe de ransomware SafePay. Un inventaire attribué à I.L. & C. – Titres Services répert…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "967de9dc2648c02c7fca",
+      "title": "Burda Style",
+      "url": "https://frenchbreaches.com/alertes/burda-style-mw6qlcon9wdev310pd5",
+      "source": "French Breaches",
+      "date": "2026-11-07",
+      "published": "2026-11-07T18:27:00+00:00",
+      "desc": "Fuite de données chez Burda Style après un piratage, les informations de clients potentiellement exposées Burda Style, marque spécialisée dans les patrons de couture et les loisirs créatifs, informe ses clients avoir été victime d'une cyberattaque à la mi-octobre 2026. Des inform…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "eb8be86e2e42fe8bdf29",
+      "title": "Illicado et Smartbox piratés : cartes cadeaux et données clients visées avant Noël",
+      "url": "https://frenchbreaches.com/blog/illicado-et-smartbox-pirates-cartes-cadeaux-et-donnees-clients-visees-avant-noel",
+      "source": "French Breaches-blog",
+      "date": "2026-11-07",
+      "published": "2026-11-07T18:13:00+00:00",
+      "desc": "Illicado et Smartbox ont subi des cyberattaques avant Noël. Cartes cadeaux et données clients sont concernées par deux incidents distincts.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "afb29613d255441e0b93",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07",
+      "published": "2026-11-07T15:25:35+00:00",
+      "desc": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5a763049bef06bb3ec3f",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "source": "BleepingComputer",
+      "date": "2026-11-07",
+      "published": "2026-11-07T14:10:19+00:00",
+      "desc": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "6ea73284689e1546a939",
       "title": "Smartbox",
@@ -683,30 +755,6 @@
       "category": "actualite"
     },
     {
-      "id": "bfe6337543c1c58b463a",
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05",
-      "published": "2026-11-05T19:24:26+00:00",
-      "desc": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "0104ffe0a06b05b63451",
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05",
-      "published": "2026-11-05T17:45:29+00:00",
-      "desc": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dad4181f1819f7223028",
       "title": "Forum Pompier",
       "url": "https://frenchbreaches.com/alertes/forum-pompier-mw3torgolvlit23wfc9",
@@ -965,7 +1013,7 @@
       "source": "French Breaches",
       "date": "2026-11-05",
       "published": "2026-11-05T09:59:00+00:00",
-      "desc": "Fuite de données : plus de 3 millions de clients de Beauty Success potentiellement concernés Un pirate informatique affirme avoir récupéré et mis en vente les données personnelles de plus de 3 millions de personnes associées à Beauty Success, une enseigne française de parfumerie…",
+      "desc": "Fuite de données : plus de 3 millions de clients de Beauty Success potentiellement concernés Mise à jour du 7 novembre 2026 à 19 h Beauty Success confirme une cyberattaque chez l'un de ses prestataires ayant entraîné un accès non autorisé à une base clients. Noms, prénoms, dates…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3167,18 +3215,6 @@
       "category": "actualite"
     },
     {
-      "id": "8880e5325881f6b09d1c",
-      "title": "Auto-Planning",
-      "url": "https://frenchbreaches.com/alertes/auto-planning-mvsr5k8z732ik7zcded",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T23:13:00+00:00",
-      "desc": "Cyberattaque Auto-Planning : les données de 18 millions de personnes et 14 millions de plaques visées Mise à jour — 2 novembre 2026 À la suite du signalement de FrenchBreaches, Auto-Planning a confirmé la cyberattaque, impliquant selon les informations rapportées 14 millions de p…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "2e6ae54a61834ccbafe2",
       "title": "Faille PHP : un hacker diffuse un outil capable de pirater des sites internet",
       "url": "https://frenchbreaches.com/blog/faille-php-un-hacker-diffuse-un-outil-capable-de-pirater-des-sites-internet",
@@ -3383,30 +3419,6 @@
       "category": "fuite"
     },
     {
-      "id": "7fc4299a86d57a4d6a2e",
-      "title": "Marbre Design",
-      "url": "https://frenchbreaches.com/alertes/marbre-design-rw_VFdGeVluSmxJRVJsYzJsbmJrQndZWGxzYjJGaw",
-      "source": "French Breaches",
-      "date": "2026-10-27",
-      "published": "2026-10-27T23:00:00+00:00",
-      "desc": "Marbre Design is a French company specializing in the processing of natural stone, marble, granite, and composite materials. The enterprise custom-manufactures kitchen countertops, bathroom fixtures, fireplace surrounds, and interior architectural elements. Its core operations fo…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "755944d608df3bcf1e2c",
-      "title": "ACF Assurances",
-      "url": "https://frenchbreaches.com/alertes/acf-assurances-mvr6rsykmu4nmetsbur",
-      "source": "French Breaches",
-      "date": "2026-10-27",
-      "published": "2026-10-27T21:14:00+00:00",
-      "desc": "ACF Assurances visé par un piratage ? Les données de 23 000 assurés revendiquées par un cybercriminel Noms, adresses postales, numéros de téléphone et adresses e-mail : un cybercriminel affirme avoir récupéré les données personnelles de milliers de contacts d'ACF Assurances, une…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "7367f80e249facb53db0",
       "title": "Sony piraté : les données de 2,58 millions de clients compromises",
       "url": "https://frenchbreaches.com/blog/sony-pirate-les-donnees-de-258-millions-de-clients-compromises",
@@ -3510,18 +3522,6 @@
       "date": "2026-10-26",
       "published": "2026-10-26T08:52:00+00:00",
       "desc": "Appart'City met en garde contre de faux messages WhatsApp réclamant des paiements et des données bancaires aux clients",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2d81c07a8f605d628282",
-      "title": "Orange : un pirate revendique le vol de plus de 6 Go de documents internes sensibles",
-      "url": "https://frenchbreaches.com/blog/orange-un-pirate-revendique-le-vol-de-plus-de-6-go-de-documents-internes-sensibles",
-      "source": "French Breaches-blog",
-      "date": "2026-10-25",
-      "published": "2026-10-25T07:55:00+00:00",
-      "desc": "Un pirate affirme détenir plus de 6 Go de documents internes d'Orange, dont des fichiers Jira, des configurations et des données techniques.",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
