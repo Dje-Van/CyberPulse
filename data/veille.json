@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:31:29.041522+00:00",
+  "generated_at": "2026-11-08T21:31:44.211959+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "af0cec17e70734328512",
+      "title": "Pharmatomic",
+      "url": "https://frenchbreaches.com/alertes/pharmatomic-mw83jrx4jmw1xda8ud8",
+      "source": "French Breaches",
+      "date": "2026-11-08",
+      "published": "2026-11-08T17:17:00+00:00",
+      "desc": "Fuite de données chez Pharmatomic, des comptes de pharmacies potentiellement exposés Une entreprise française liée au secteur pharmaceutique est visée par une revendication de piratage. Le 8 novembre 2026, un cybercriminel a publié des extraits d'une base de données attribuée à P…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "e19d82c4508c2d9ecc9c",
+      "title": "MBS Design",
+      "url": "https://frenchbreaches.com/alertes/mbs-design-mw83a2bgoigw0ivkvwr",
+      "source": "French Breaches",
+      "date": "2026-11-08",
+      "published": "2026-11-08T17:08:00+00:00",
+      "desc": "Un pirate revendique le vol de données clients et de paiements chez MBS Design Une entreprise française spécialisée dans l'ameublement et la décoration est visée par une revendication de piratage. Le 8 novembre 2026, un cybercriminel a publié des extraits d'une base de données at…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d8311e89c27a2aee0c8f",
+      "title": "Arromanches Militaria",
+      "url": "https://frenchbreaches.com/alertes/arromanches-militaria-mw82y9kueg1l6o9wyi5",
+      "source": "French Breaches",
+      "date": "2026-11-08",
+      "published": "2026-11-08T17:00:00+00:00",
+      "desc": "Fuite de données chez Arromanches Militaria avec 5 000 comptes clients mis en vente Une boutique normande spécialisée dans les objets militaires de collection est visée par une revendication de piratage. Le 7 novembre 2026, un cybercriminel a annoncé la mise en vente de 5 000 adr…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "fd1e88da1879158548fa",
+      "title": "InOutlet",
+      "url": "https://frenchbreaches.com/alertes/inoutlet-mw80csk0um2pilxg0f",
+      "source": "French Breaches",
+      "date": "2026-11-08",
+      "published": "2026-11-08T15:47:00+00:00",
+      "desc": "Fuite de données chez InOutlet : les informations de clients potentiellement exposées Une boutique française spécialisée dans la vente de carrelage est visée par une revendication de piratage. Le 8 novembre 2026, un cybercriminel utilisant le pseudonyme Sophia a publié des extrai…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f3cdbd0ed89247a33dbf",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-08",
+      "published": "2026-11-08T15:43:08+00:00",
+      "desc": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "df447d451f022be8af46",
+      "title": "Omnicasa",
+      "url": "https://frenchbreaches.com/alertes/omnicasa-mw803aa86ora2wgn4r9",
+      "source": "French Breaches",
+      "date": "2026-11-08",
+      "published": "2026-11-08T15:39:00+00:00",
+      "desc": "Fuite de données chez Omnicasa : plus de 465 000 adresses e-mail potentiellement exposées Près de 3,9 Go de données attribuées à Omnicasa, un logiciel utilisé par des professionnels de l'immobilier en Belgique, sont proposés à la vente sur un forum cybercriminel. Un pirate affirm…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "a568c7fb9c8fdfc365a4",
       "title": "Après les supermarchés, les hackers ciblent les frigos des hôpitaux « pour les vaccins ou les poches de sang »",
@@ -763,18 +835,6 @@
       "published": "2026-11-05T21:30:30+00:00",
       "desc": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
       "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "5f870823d1e992d9f5ac",
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05",
-      "published": "2026-11-05T20:15:08+00:00",
-      "desc": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3155,42 +3215,6 @@
       "category": "actualite"
     },
     {
-      "id": "b6b41bee99bbfba5208b",
-      "title": "Communauté de communes des Portes du Berry",
-      "url": "https://frenchbreaches.com/alertes/communaut-de-communes-des-portes-du-berry-mvsk9pzoj4df8bidfvk",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T20:21:00+00:00",
-      "desc": "Cyberattaque : des données personnelles d'administrés potentiellement compromises Une communauté de communes informe ses administrés d'une cyberattaque détectée le 12 octobre 2026, ayant perturbé son système informatique et rendu certaines données inaccessibles. Des informations…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "156a3d50794587399cd7",
-      "title": "Cybertek",
-      "url": "https://frenchbreaches.com/alertes/cybertek-mvsk5r74rex9n6ijyxn",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T20:18:00+00:00",
-      "desc": "Cybertek victime d'une cyberattaque : des données personnelles de clients potentiellement exposées Cybertek, enseigne française spécialisée dans la vente de matériel informatique et de produits high-tech, informe ses clients d'un incident de sécurité survenu le 7 octobre 2026. Un…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "2b5a9766d71359809135",
-      "title": "Compagnie des Transports Strasbourgeois (CTS)",
-      "url": "https://frenchbreaches.com/alertes/compagnie-des-transports-strasbourgeois-cts-mvsjyn88bwno9i3umgo",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T20:14:00+00:00",
-      "desc": "Fuite de données chez CTS Strasbourg : des informations personnelles de clients dérobées La Compagnie des Transports Strasbourgeois (CTS) informe ses clients d'une exfiltration de données personnelles liée à une utilisation illicite de son site internet. Des informations telles q…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "22d2ccd53543886c59b8",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -3201,30 +3225,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "60bb07b502d3f745097a",
-      "title": "Quorum Groupe",
-      "url": "https://frenchbreaches.com/alertes/quorum-groupe-mvrwt2g9mbwh7npp65",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T09:18:00+00:00",
-      "desc": "Quorum Groupe piraté : des données liées à E.Leclerc, Renault et plusieurs grands groupes exposées Une cyberattaque revendiquée contre Quorum Groupe, prestataire français spécialisé dans les arts graphiques, pourrait avoir exposé des informations commerciales concernant plusieurs…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b1fd8754c68933dd6873",
-      "title": "Fédération Française Handisport (FFH)",
-      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-handisport-ffh-mvrumqqgruoiupsh6g",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T08:21:00+00:00",
-      "desc": "Fédération française handisport : un pirate diffuse les données présumées de plus de 1 000 licenciés Noms, prénoms, adresses postales, numéros de téléphone et dates de naissance : un cybercriminel affirme détenir un fichier contenant 1 025 enregistrements attribués à la Fédératio…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "7367f80e249facb53db0",
