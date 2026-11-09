@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:53:27.380945+00:00",
+  "generated_at": "2026-11-09T14:49:38.967048+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,270 @@
     }
   ],
   "items": [
+    {
+      "id": "392982f245c488f4716d",
+      "title": "Un jeu téléchargé 45 millions de fois piraté pour installer un logiciel espion",
+      "url": "https://frenchbreaches.com/blog/un-jeu-telecharge-45-millions-de-fois-pirate-pour-installer-un-logiciel-espion",
+      "source": "French Breaches-blog",
+      "date": "2026-11-09",
+      "published": "2026-11-09T14:44:00+00:00",
+      "desc": "Le jeu NIKKE, téléchargé 45 millions de fois, a été piraté. Son launcher PC a diffusé un logiciel espion capable de voler des données personnelles.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b3baae1d096d17a2a906",
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09",
+      "published": "2026-11-09T14:34:03+00:00",
+      "desc": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1af6beaf379c3d4be39a",
+      "title": "Nature et Découvertes",
+      "url": "https://frenchbreaches.com/alertes/nature-et-d-couvertes-mu1euyvui0h3fnzm19",
+      "source": "French Breaches",
+      "date": "2026-11-09",
+      "published": "2026-11-09T14:00:00+00:00",
+      "desc": "Nature et Découvertes, plus de 500 000 commandes potentiellement issues du piratage mises en vente Quelques semaines après la confirmation d'un piratage chez l'un de ses prestataires, Nature et Découvertes voit plus de 500 000 commandes attribuées à ses clients proposées à la ven…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7f7d898c5eefed4c747a",
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09",
+      "published": "2026-11-09T13:28:56+00:00",
+      "desc": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dca9748487c3dfb8451e",
+      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T13:28:25+00:00",
+      "desc": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f5ce56aca9d5fc8c3685",
+      "title": "Bornes d’arcade paralysées au Japon : une cyberattaque contre Sega prive les joueurs de plusieurs jeux",
+      "url": "https://www.01net.com/actualites/bornes-arcade-paralysees-japon-cyberattaque-contre-sega-prive-joueurs-mario-kart.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-09",
+      "published": "2026-11-09T13:00:52+00:00",
+      "desc": "De nombreuses bornes d’arcade japonaises sont privées de services en ligne depuis quelques jours. Une intrusion est en effet survenue dans les serveurs d’une filiale de Sega, responsable des bornes sur le sol nippon. L’attaque s’inscrit dans le cadre d'une vague de cyberattaques au Japon, à tel point que le gouvernement s'est engagé à réagir.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c00b73cd17978680073e",
+      "title": "Fuite de données chez Expedia, des millions de voyageurs potentiellement concernés",
+      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-chez-expedia-des-millions-de-voyageurs-potentiellement-concernes",
+      "source": "French Breaches-blog",
+      "date": "2026-11-09",
+      "published": "2026-11-09T12:40:00+00:00",
+      "desc": "Le groupe de ransomware n0n revendique une cyberattaque contre Expedia et menace de publier des milliards de données liées aux voyageurs.",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "501ca5d25f02286fd723",
+      "title": "Caméras dans les rues, données d'enfants : dix sanctions prononcées par la CNIL",
+      "url": "https://frenchbreaches.com/blog/cameras-dans-les-rues-donnees-denfants-dix-sanctions-prononcees-par-la-cnil",
+      "source": "French Breaches-blog",
+      "date": "2026-11-09",
+      "published": "2026-11-09T12:25:00+00:00",
+      "desc": "Mots de passe faibles, accès mal sécurisés, logiciels obsolètes : la CNIL inflige dix sanctions pouvant atteindre 20 000 euros.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "833fc7066604dd447930",
+      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+      "source": "BleepingComputer",
+      "date": "2026-11-09",
+      "published": "2026-11-09T12:16:13+00:00",
+      "desc": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c5a97fe599d3c32bd4f8",
+      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+      "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-09",
+      "published": "2026-11-09T12:00:00+00:00",
+      "desc": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "3b71139034dea3967b03",
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T11:27:53+00:00",
+      "desc": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ea46f00bd91b0c6562a5",
+      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T10:56:25+00:00",
+      "desc": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4cf8ced66f8a8e1b3330",
+      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T10:01:21+00:00",
+      "desc": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d0ee4c74c8ecc78bfa70",
+      "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
+      "url": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-09",
+      "published": "2026-11-09T10:00:38+00:00",
+      "desc": "Le FBI et l’agence américaine de cybersécurité tirent la sonnette d’alarme. Dans une alerte commune publiée début novembre, ils mettent en garde contre des pirates qui s’en prennent aux frigos connectés des supermarchés, des entrepôts et du secteur de la santé, « dans le monde entier ». La menace est visiblement parvenue à passer les frontières de l'Europe.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5e5dbeb9989feb92d80d",
+      "title": "Brava Security sort de l’ombre et lève 13 millions d’euros",
+      "url": "https://www.cyber-securite.fr/brava-security-sort-de-lombre-et-leve-13-millions-deuros/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-09",
+      "published": "2026-11-09T09:18:03+00:00",
+      "desc": "Brava Security sort de l’ombre avec une levée de fonds de 13 millions d’euros. Sa ... Lire plus L’article Brava Security sort de l’ombre et lève 13 millions d’euros est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b6da29b835091ff58f55",
+      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T09:01:50+00:00",
+      "desc": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login. The researchers are highly confident that the attacker is a single person",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "888acf3c1f5c9ab045e0",
+      "title": "« Une partie » de l’argent récupérée : le Crédit Mutuel Arkéa limite la casse après la cyberattaque",
+      "url": "https://www.01net.com/actualites/une-partie-de-largent-recuperee-le-credit-mutuel-arkea-limite-la-casse-apres-la-cyberattaque.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-09",
+      "published": "2026-11-09T07:52:17+00:00",
+      "desc": "Le Crédit Mutuel Arkéa a récupéré une partie du butin des pirates. Quelques jours après la cyberattaque massive qui a touché ses systèmes, la banque bretonne indique avoir pu mettre la main sur une partie de l'argent, limitant ainsi la casse.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "95d881ee9d9f525ca9d2",
+      "title": "Comment choisir une solution Cloud souveraine et conforme au RGPD ?",
+      "url": "https://www.cyber-securite.fr/comment-choisir-une-solution-cloud-souveraine-et-conforme-au-rgpd/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-09",
+      "published": "2026-11-09T07:46:00+00:00",
+      "desc": "Le choix d’une solution Cloud souveraine engage bien plus que l’adresse d’un datacenter. Un hébergement ... Lire plus L’article Comment choisir une solution Cloud souveraine et conforme au RGPD ? est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "403a72428fe29edda427",
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T07:05:48+00:00",
+      "desc": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e43c6370d1bd6e4c06b9",
+      "title": "Deception Technology : l’art de tendre des pièges aux cybercriminels",
+      "url": "https://www.cyber-securite.fr/deception-technology-lart-de-tendre-des-pieges-aux-cybercriminels/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-09",
+      "published": "2026-11-09T06:33:38+00:00",
+      "desc": "La technologie de déception ne cherche pas seulement à bloquer une intrusion : elle tend ... Lire plus L’article Deception Technology : l’art de tendre des pièges aux cybercriminels est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "58a49828244205471a6e",
+      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T06:15:10+00:00",
+      "desc": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4d02c260bfd3474beac1",
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "source": "The Hacker News",
+      "date": "2026-11-09",
+      "published": "2026-11-09T06:05:24+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "af0cec17e70734328512",
       "title": "Pharmatomic",
@@ -101,7 +365,7 @@
       "source": "French Breaches",
       "date": "2026-11-08",
       "published": "2026-11-08T10:40:00+00:00",
-      "desc": "Fuite de données chez Sécuritest : plus de 40 millions de plaques d'immatriculation potentiellement exposées FrenchBreaches révèle une importante revendication de piratage visant Sécuritest, premier réseau de contrôle technique automobile en France et enseigne du groupe SGS. Le c…",
+      "desc": "Fuite de données liée au groupe SGS : plus de 40 millions de plaques d'immatriculation potentiellement exposées Les réseaux de contrôle technique Sécuritest, Auto Sécurité et Vérif'Autos, liés au groupe SGS, sont cités dans une importante affaire de fuite de données revendiquée.…",
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
@@ -125,7 +389,7 @@
       "source": "French Breaches-blog",
       "date": "2026-11-07",
       "published": "2026-11-07T21:33:00+00:00",
-      "desc": "Un pirate affirme avoir mis en vente des données attribuées à Sécuritest, comprenant plus de 40 millions de plaques d’immatriculation et les historiques de contrôles techniques de millions d’automobilistes.",
+      "desc": "Un pirate met en vente 96 Go de données liées au groupe SGS, Sécuritest et Auto Sécurité, dont 40 millions de plaques et 22 millions de personnes.",
       "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
@@ -563,18 +827,6 @@
       "category": "fuite"
     },
     {
-      "id": "59e451227cc3593aa94f",
-      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-11-06",
-      "published": "2026-11-06T09:22:28+00:00",
-      "desc": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "9045c9ec314b46d60033",
       "title": "« Critique » : OpenAI lance GPT-6 Cyber, son IA la plus dangereuse à ce jour",
       "url": "https://www.01net.com/actualites/critique-openai-lance-gpt-6-cyber-son-ia-la-plus-dangereuse-a-ce-jour.html",
@@ -655,18 +907,6 @@
       "published": "2026-11-06T05:39:10+00:00",
       "desc": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "bdfce63afd4321945049",
-      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-      "source": "BleepingComputer",
-      "date": "2026-11-06",
-      "published": "2026-11-06T00:56:44+00:00",
-      "desc": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -827,18 +1067,6 @@
       "category": "fuite"
     },
     {
-      "id": "2ae34dc126e9b6408266",
-      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-      "source": "BleepingComputer",
-      "date": "2026-11-05",
-      "published": "2026-11-05T21:30:30+00:00",
-      "desc": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dad4181f1819f7223028",
       "title": "Forum Pompier",
       "url": "https://frenchbreaches.com/alertes/forum-pompier-mw3torgolvlit23wfc9",
@@ -989,9 +1217,9 @@
       "source": "French Breaches",
       "date": "2026-11-05",
       "published": "2026-11-05T13:11:00+00:00",
-      "desc": "La Fédération française de tennis de table visée par une fuite revendiquée de 2,2 millions de lignes et 9,3 Go de données La Fédération française de tennis de table (FFTT) est visée par une nouvelle revendication de fuite massive de données personnelles. Le 5 novembre 2026, un in…",
-      "type": "fuite",
-      "sev": "Haute",
+      "desc": "La Fédération française de tennis de table visée par une fuite revendiquée de 2,2 millions de lignes et 9,3 Go de données Mise à jour du 9 novembre 2026 à 10h00 La Fédération française de tennis de table (FFTT) confirme officiellement avoir subi une nouvelle cyberattaque et un vo…",
+      "type": "alerte",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
@@ -1415,18 +1643,6 @@
       "category": "actualite"
     },
     {
-      "id": "2f0a0de9b745856bd1db",
-      "title": "Nos conseils de cybersécurité pour garder le cap face aux menaces",
-      "url": "https://www.cyber-securite.fr/nos-conseils-de-cybersecurite-pour-garder-le-cap-dans-le-labyrinthe-des-menaces-daujourdhui/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-04",
-      "published": "2026-11-04T13:59:39+00:00",
-      "desc": "Les cybermenaces changent vite, mais les réflexes solides réduisent leur impact. Pour une PME, chaque ... Lire plus L’article Nos conseils de cybersécurité pour garder le cap face aux menaces est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "eeeb8b0c17d409045420",
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -1506,18 +1722,6 @@
       "date": "2026-11-04",
       "published": "2026-11-04T11:22:00+00:00",
       "desc": "L'Assemblée nationale vote la suspension de la facturation électronique pour les TPE, PME et auto-entrepreneurs. La réforme reste en vigueur.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a6c5696bca46265beaeb",
-      "title": "HYBE : des passeports et des informations bancaires exposés",
-      "url": "https://www.cyber-securite.fr/hybe-des-passeports-et-des-informations-bancaires-exposes/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-04",
-      "published": "2026-11-04T10:39:36+00:00",
-      "desc": "HYBE a révélé l’accès non autorisé à deux systèmes internes, avec des données d’employés et ... Lire plus L’article HYBE : des passeports et des informations bancaires exposés est apparu en premier sur jeuxderole.com .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2039,18 +2243,6 @@
       "category": "actualite"
     },
     {
-      "id": "3bdf14fcecaa4e70199f",
-      "title": "Botnets IoT : les réseaux domestiques sous surveillance",
-      "url": "https://www.cyber-securite.fr/botnets-iot-les-reseaux-domestiques-sous-surveillance/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-03",
-      "published": "2026-11-03T10:00:27+00:00",
-      "desc": "Les cyberattaques IoT commencent souvent par une exploration automatisée des réseaux domestiques. Selon le rapport ... Lire plus L’article Botnets IoT : les réseaux domestiques sous surveillance est apparu en premier sur jeuxderole.com .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "cdcba13e8b77916a5445",
       "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
@@ -2087,18 +2279,6 @@
       "category": "actualite"
     },
     {
-      "id": "a8dc2b16ab89a42c7863",
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T07:27:07+00:00",
-      "desc": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "19756072e6893aaae094",
       "title": "Une vague d’arnaques au téléphone vise la police nationale",
       "url": "https://www.01net.com/actualites/une-vague-darnaques-au-telephone-vise-la-police-nationale.html",
@@ -2107,30 +2287,6 @@
       "published": "2026-11-03T06:00:15+00:00",
       "desc": "Le directeur général de la Police nationale et Laurent Nuñez, ministre de l’Intérieur, alertent les forces de l’ordre sur la recrudescence des arnaques au spoofing. Les victimes de ce type d’arnaque sont invitées à utiliser la technique du contre-appel.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b9ba4e436fc8e927c57d",
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T05:34:41+00:00",
-      "desc": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for a critical function that could be exploited by an unauthenticated remote attacker to run arbitrary code. \"SIMATIC IoT2050 Advanced devices running",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "d80473442c7abc7649d7",
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T05:34:37+00:00",
-      "desc": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2291,42 +2447,6 @@
       "category": "fuite"
     },
     {
-      "id": "a3562df3fff969c304c8",
-      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T16:57:56+00:00",
-      "desc": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against",
-      "type": "phishing",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "7a8b5fe3b630ce05e697",
-      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T15:50:26+00:00",
-      "desc": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "772d27d38d32d9015ad1",
-      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T14:46:05+00:00",
-      "desc": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "e10b4da7f0f45c4e8dc6",
       "title": "Plus de 100 frigos de supermarchés ont été piratés à travers l’Europe, des montagnes de nourritures jetées",
       "url": "https://www.01net.com/actualites/cyberattaque-frigos-supermarches-apres-france-pirates-attaquent-belgique.html",
@@ -2339,18 +2459,6 @@
       "category": "actualite"
     },
     {
-      "id": "0bed561f10e179cb3266",
-      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T11:50:00+00:00",
-      "desc": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither flaw is in CISA's Known",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "acf484fdb3c8c1df5645",
       "title": "Panique sur l’iPhone : Apple met en garde contre une opération d’espionnage dans 99 pays, dont la France",
       "url": "https://www.01net.com/actualites/panique-iphone-apple-garde-operation-espionnage-99-pays-france.html",
@@ -2359,18 +2467,6 @@
       "published": "2026-11-02T11:30:50+00:00",
       "desc": "Apple vient d'envoyer une nouvelle vague d'alertes à des utilisateurs d'iPhone. Ceux-ci ont été visés par des logiciels espions mercenaires, déployés par des gouvernements étrangers. L'alerte a été émise dans 99 pays, dont la France et l'Allemagne.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "bfff44c21cc75a582d8e",
-      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-      "source": "The Hacker News",
-      "date": "2026-11-02",
-      "published": "2026-11-02T11:30:00+00:00",
-      "desc": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2579,18 +2675,6 @@
       "category": "fuite"
     },
     {
-      "id": "e376766cc96fe4911178",
-      "title": "« À la vitesse de la machine » : 4 gangs de pirates ont confié leurs cyberattaques à l’IA",
-      "url": "https://www.01net.com/actualites/a-la-vitesse-de-la-machine-4-gangs-de-pirates-ont-confie-leurs-cyberattaques-a-lia.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-01",
-      "published": "2026-11-01T08:00:41+00:00",
-      "desc": "CrowdStrike vient de lever le voile sur une nouvelle vague de cyberattaques animées par l'IA. Les chercheurs ont découvert que quatre groupes de pirates, jusqu'ici inconnus, ont délégué toutes leurs opérations à des agents IA. Les intelligences artificielles ont agi en toute autonomie en piratant des établissements de santé, des administrations et des bases de données russes.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "fe3606c17d1b6ac15d20",
       "title": "Vaud (DGEP)",
       "url": "https://frenchbreaches.com/alertes/vaud-dgep-mvx1oi7bzi3yhco1z9",
@@ -2795,18 +2879,6 @@
       "category": "fuite"
     },
     {
-      "id": "1d848909bc994aff4f36",
-      "title": "Attention à ce message WhatsApp, il permet aux pirates de prendre le contrôle de votre compte",
-      "url": "https://www.01net.com/actualites/attention-a-ce-message-whatsapp-il-permet-aux-pirates-de-prendre-le-controle-de-votre-compte.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-31",
-      "published": "2026-10-31T08:00:22+00:00",
-      "desc": "La gendarmerie nationale alerte sur une arnaque qui vise les utilisateurs de WhatsApp à travers un faux concours de danse. En invitant leurs victimes à voter pour une jeune fille, les pirates cherchent à prendre le contrôle de leur compte. Voici comment ne pas tomber dans ce piège.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "639e2f8f9c6b91da06a2",
       "title": "Careco Group",
       "url": "https://frenchbreaches.com/alertes/careco-group-mvvnj5l8phekqbinmxf",
@@ -2887,18 +2959,6 @@
       "published": "2026-10-30T15:46:00+00:00",
       "desc": "Six mois après la cyberattaque de France Titres (ex-ANTS), la CNIL annonce des contrôles. Une action collective se prépare pour indemniser les victimes.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1060b51a3b52c9131ef4",
-      "title": "« Le SMS de la mort » : ce simple message peut rendre votre smartphone inutilisable",
-      "url": "https://www.01net.com/actualites/le-sms-de-la-mort-ce-simple-message-peut-rendre-votre-smartphone-inutilisable.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-10-30",
-      "published": "2026-10-30T13:30:54+00:00",
-      "desc": "Un SMS au contenu bien particulier peut faire planter un téléphone Android, sans aucune action de la victime, aucun clic sur un lien. Baptisée « SMS of Death », cette faille peut rendre le téléphone difficile à utiliser même après un redémarrage.",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3179,18 +3239,6 @@
       "category": "actualite"
     },
     {
-      "id": "64876bb2387df0e5c3c8",
-      "title": "Service public fédéral Finances (SPF Finances)",
-      "url": "https://frenchbreaches.com/alertes/service-public-f-d-ral-finances-spf-finances-mvsmhff1or8rv1qbcab",
-      "source": "French Breaches",
-      "date": "2026-10-28",
-      "published": "2026-10-28T21:22:00+00:00",
-      "desc": "Belgique : une cyberattaque paralyse une partie des services des impôts Le ministère des Finances belge est victime d'une cyberattaque ce mercredi 28 octobre 2026. Plusieurs services numériques, dont la plateforme fiscale MyMinfin, ont été rendus temporairement inaccessibles par…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "b43a2c2adc290c6dbf2c",
       "title": "Fuite de données : une compagnie de trains présente en France victime d'une cyberattaque",
       "url": "https://frenchbreaches.com/blog/fuite-de-donnees-une-compagnie-de-trains-presente-en-france-victime-dune-cyberattaque",
@@ -3239,30 +3287,6 @@
       "category": "actualite"
     },
     {
-      "id": "dc7f237919b4a86a2763",
-      "title": "France : près de 9,5 millions de données automobiles menacées par un piratage ?",
-      "url": "https://frenchbreaches.com/blog/france-pres-de-95-millions-de-donnees-automobiles-menacees-par-un-piratage",
-      "source": "French Breaches-blog",
-      "date": "2026-10-27",
-      "published": "2026-10-27T14:20:00+00:00",
-      "desc": "Un pirate vend un accès à une faille qui exposerait des millions de données françaises, dont des noms, adresses et plaques d'immatriculation",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "cfa40963e83ec701b5c5",
-      "title": "Cyberattaque : le studio derrière Kingdom Come Deliverance victime d'un piratage",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-le-studio-derriere-kingdom-come-deliverance-victime-dun-piratage",
-      "source": "French Breaches-blog",
-      "date": "2026-10-27",
-      "published": "2026-10-27T13:37:00+00:00",
-      "desc": "Warhorse Studios, créateur de Kingdom Come Deliverance, confirme une cyberattaque et un accès non autorisé à ses données internes",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c67cf62fcc6ed47bcf04",
       "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
@@ -3297,18 +3321,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "c50443f76e89237d0851",
-      "title": "IA : l'Europe veut permettre d'utiliser vos données sans votre accord",
-      "url": "https://frenchbreaches.com/blog/ia-leurope-veut-permettre-dutiliser-vos-donnees-sans-votre-accord",
-      "source": "French Breaches-blog",
-      "date": "2026-10-27",
-      "published": "2026-10-27T08:49:00+00:00",
-      "desc": "Une réforme du RGPD pourrait permettre aux entreprises d'utiliser des données personnelles pour entraîner leurs IA sans consentement préalable",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f6b4dc44bc2f931c0e19",
@@ -3537,18 +3549,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "aaebf12b008c78722ecb",
-      "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
-      "url": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-16",
-      "published": "2026-10-16T12:00:00+00:00",
-      "desc": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&nbsp;De la protection des données à la création de valeur en finance&nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises et des acteurs financiers.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     }
   ]
 }
