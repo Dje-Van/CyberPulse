@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:00:41.638884+00:00",
+  "generated_at": "2026-11-10T14:01:57.375045+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,318 @@
     }
   ],
   "items": [
+    {
+      "id": "28191e0c40c20ff1030f",
+      "title": "Apple : une faille sur iPhone pourrait permettre à des pirates d'accéder à vos données",
+      "url": "https://frenchbreaches.com/blog/apple-une-faille-sur-iphone-pourrait-permettre-a-des-pirates-dacceder-a-vos-donnees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:50:00+00:00",
+      "desc": "Une faille de sécurité sur iPhone pourrait permettre à des applications malveillantes d'accéder aux mots de passe et aux données privées des utilisateurs.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0c0a90fbefc00ccdb98c",
+      "title": "SOS Oxygène",
+      "url": "https://frenchbreaches.com/alertes/sos-oxyg-ne-mwaolkk5amxzzehojql",
+      "source": "French Breaches",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:40:00+00:00",
+      "desc": "Fuite de données chez SOS Oxygène, les informations de plus de 15 000 patients potentiellement exposées Le secteur de la santé français est confronté à une nouvelle alerte de cybersécurité. SOS Oxygène, prestataire spécialisé dans l'assistance respiratoire et les soins à domicile…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d195f153eca009845102",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:15:31+00:00",
+      "desc": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit released the escape, called worse_query, on Sunday, a",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4864fb36b4782d0a5b79",
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "source": "BleepingComputer",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:07:03+00:00",
+      "desc": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3f5f3c0d2650f71be3ff",
+      "title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
+      "url": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:00:00+00:00",
+      "desc": "Du 24 au 26 novembre 2026, la CNIL sera présente au Salon des maires et des collectivités locales pour échanger avec les élus et agents territoriaux et répondre à leurs questions.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "435fd47ef96955658652",
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T11:38:13+00:00",
+      "desc": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in. After the alert The alert tells you something happened. However, gaining",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7968a9c5c9159985941b",
+      "title": "Anthropic accusé d’avoir divulgué les adresses e-mail de ses utilisateurs via Claude Code",
+      "url": "https://frenchbreaches.com/blog/anthropic-accuse-davoir-divulgue-les-adresses-e-mail-de-ses-utilisateurs-via-claude-code",
+      "source": "French Breaches-blog",
+      "date": "2026-11-10",
+      "published": "2026-11-10T11:32:00+00:00",
+      "desc": "Anthropic fait face à plusieurs alertes de sécurité concernant Claude Code. Des milliers de secrets, mots de passe et adresses e-mail potentiellement exposés.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "64d25263fccd734116c3",
+      "title": "Cisco et IBM vont intégrer Mythos à leurs outils de cybersécurité",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cisco-et-ibm-vont-integrer-mythos-a-leurs-outils-d",
+      "source": "Actualités securite",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:58:58+00:00",
+      "desc": "Cisco et IBM préparent l’intégration de Claude Mythos dans leurs produits de sécurité. Le premier utilisera le modèle d’Anthropic pour renforcer les tests offensifs des systèmes d’IA. Le second vise la détection et la correction de vulnérabilités logicielles. Ces projets élargissent l’accès aux capacités de Mythos, avec des conditions d’utilisation et des calendriers distincts.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9512959e7441f82f510b",
+      "title": "Après les cyberattaques, la loi « résilience » revient à l’Assemblée nationale",
+      "url": "https://www.cyber-securite.fr/apres-les-cyberattaques-la-loi-resilience-revient-a-lassemblee-nationale/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:26:49+00:00",
+      "desc": "Après un été marqué par des cyberattaques et une longue pause parlementaire, le projet de ... Lire plus L’article Après les cyberattaques, la loi « résilience » revient à l’Assemblée nationale est apparu en premier sur jeuxderole.com .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fdab5e09d527af8f412e",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:16:51+00:00",
+      "desc": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "40f3a464061387e77509",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "source": "BleepingComputer",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:10:20+00:00",
+      "desc": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "f91af9aa9454d040d24b",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:07:29+00:00",
+      "desc": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a2b42747a7210ba7a3b6",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:04:32+00:00",
+      "desc": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c110ef77ed0278863603",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T10:02:40+00:00",
+      "desc": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "db918bafa08cb13b8fcb",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T09:08:20+00:00",
+      "desc": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "009b503b04017ffe0b4f",
+      "title": "Installez vite iOS 27.2.1 : Apple colmate des failles dans iMessage et le Bluetooth de votre iPhone",
+      "url": "https://www.01net.com/actualites/installez-vite-ios-27-2-1-apple-colmate-des-failles-dans-imessage-bluetooth-iphone.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-10",
+      "published": "2026-11-10T09:00:25+00:00",
+      "desc": "Apple vient de déployer la mise à jour iOS 27.2.1 sur tous les iPhone compatibles. Cette mise à jour corrige un total de neuf failles de sécurité, dont une vulnérabilité d'iMessage. Des failles dans le Bluetooth et le protocole AirPlay ont aussi été colmatées par le géant de Cupertino.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "cf90f68ee6bef3655e86",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "source": "BleepingComputer",
+      "date": "2026-11-10",
+      "published": "2026-11-10T08:51:25+00:00",
+      "desc": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "324a5559d0e2e6e632dd",
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T08:16:14+00:00",
+      "desc": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4e06135bcc131ff84257",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-10",
+      "published": "2026-11-10T07:49:58+00:00",
+      "desc": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d1a4e64ac0c48dfbc5c3",
+      "title": "Qubole : des accès cloud oubliés exposent les entreprises au vol de données",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/qubole-des-acces-cloud-oublies-exposent-les-entrep",
+      "source": "Actualités securite",
+      "date": "2026-11-10",
+      "published": "2026-11-10T07:47:39+00:00",
+      "desc": "Des attaquants ont détourné les accès AWS de Qubole pour voler des secrets et des données chez plusieurs entreprises clientes. Certaines avaient abandonné la plateforme sans révoquer ses autorisations. Rendue publique le 9 novembre 2026, la campagne a été observée du 14 au 26 octobre",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "01d0c29aeb1fc7b064b2",
+      "title": "Fuites de données : le bilan du Cybermois 2026",
+      "url": "https://www.cyber-securite.fr/fuites-de-donnees-le-bilan-du-cybermois-2026/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-10",
+      "published": "2026-11-10T07:10:00+00:00",
+      "desc": "Le Cybermois 2026 s’achève sur un constat préoccupant : 45 % des Français ont été ... Lire plus L’article Fuites de données : le bilan du Cybermois 2026 est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "749cd79bf9b6b051f921",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T06:52:54+00:00",
+      "desc": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "f0d40b6eb5cac62ee86c",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T06:44:36+00:00",
+      "desc": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "757da075eddc423f08fe",
+      "title": "Auditeur cybersécurité, quel rôle dans l’entreprise ?",
+      "url": "https://www.cyber-securite.fr/auditeur-cybersecurite-quel-role-dans-lentreprise/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-10",
+      "published": "2026-11-10T06:34:09+00:00",
+      "desc": "L’auditeur cybersécurité examine les défenses numériques d’une entreprise et repère les failles avant leur exploitation. ... Lire plus L’article Auditeur cybersécurité, quel rôle dans l’entreprise ? est apparu en premier sur jeuxderole.com .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4703b2a7b4d7d2a2a912",
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "date": "2026-11-10",
+      "published": "2026-11-10T06:31:42+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "73ac3451440c0df72689",
+      "title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
+      "source": "Actualités securite",
+      "date": "2026-11-10",
+      "published": "2026-11-10T06:30:04+00:00",
+      "desc": "Le projet de loi Résilience est examiné en séance publique après plusieurs reports. Son adoption doit permettre de préciser le cadre réglementaire applicable aux milliers d’organisations concernées.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "0540b1b026c2ad6b7cb0",
       "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
@@ -275,18 +587,6 @@
       "category": "fuite"
     },
     {
-      "id": "7f7d898c5eefed4c747a",
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09",
-      "published": "2026-11-09T13:28:56+00:00",
-      "desc": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dca9748487c3dfb8451e",
       "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
       "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
@@ -342,18 +642,6 @@
       "date": "2026-11-09",
       "published": "2026-11-09T12:25:00+00:00",
       "desc": "Une application piégée suffit à déclencher GhostMap, une faille Android capable de bloquer durablement un ... Lire plus L’article GhostMap, le bug Android qui résiste au mode sans échec est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "833fc7066604dd447930",
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09",
-      "published": "2026-11-09T12:16:13+00:00",
-      "desc": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -671,18 +959,6 @@
       "category": "fuite"
     },
     {
-      "id": "f3cdbd0ed89247a33dbf",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-08",
-      "published": "2026-11-08T15:43:08+00:00",
-      "desc": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "df447d451f022be8af46",
       "title": "Omnicasa",
       "url": "https://frenchbreaches.com/alertes/omnicasa-mw803aa86ora2wgn4r9",
@@ -787,30 +1063,6 @@
       "published": "2026-11-07T18:13:00+00:00",
       "desc": "Illicado et Smartbox ont subi des cyberattaques avant Noël. Cartes cadeaux et données clients sont concernées par deux incidents distincts.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "afb29613d255441e0b93",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "source": "BleepingComputer",
-      "date": "2026-11-07",
-      "published": "2026-11-07T15:25:35+00:00",
-      "desc": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "5a763049bef06bb3ec3f",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "source": "BleepingComputer",
-      "date": "2026-11-07",
-      "published": "2026-11-07T14:10:19+00:00",
-      "desc": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1112,18 +1364,6 @@
       "desc": "Google vient de corriger 216 failles de sécurité dans le code d'Android. La plus grave des vulnérabilités recensées permet de pirater un smartphone à distance, sans que son propriétaire ne fasse quoi que ce soit pour ouvrir la porte aux hackers. Le géant de Mountain View vient de déployer une mise à jour truffée de correctifs, mais certains téléphones n'y auront jamais droit.",
       "type": "cve",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "6de67909f2b04ca08dc0",
-      "title": "Bitdefender analyse la méthode derrière le hack de Binance",
-      "url": "https://www.cyber-securite.fr/bitdefender-analyse-la-methode-derriere-le-hack-de-binance/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-06",
-      "published": "2026-11-06T06:00:00+00:00",
-      "desc": "Le piratage de Binance met en lumière la vulnérabilité des infrastructures face aux cybercriminels. Un ... Lire plus L’article Bitdefender analyse la méthode derrière le hack de Binance est apparu en premier sur jeuxderole.com .",
-      "type": "cve",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -1571,30 +1811,6 @@
       "category": "fuite"
     },
     {
-      "id": "45653bb0969056c13a37",
-      "title": "Google neutralise un botnet qui contrôlait 1,3 million d’appareils",
-      "url": "https://www.cyber-securite.fr/google-neutralise-un-botnet-qui-controlait-13-million-dappareils/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-05",
-      "published": "2026-11-05T09:50:04+00:00",
-      "desc": "Un boîtier TV peut rejoindre un réseau criminel avant même sa première connexion domestique. Google ... Lire plus L’article Google neutralise un botnet qui contrôlait 1,3 million d’appareils est apparu en premier sur jeuxderole.com .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4837dbbaad8355595547",
-      "title": "Pourquoi les pirates ciblent les frigo des supermarchés ?",
-      "url": "https://www.cyber-securite.fr/cyberattaques-frigo-connectes/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-05",
-      "published": "2026-11-05T09:37:00+00:00",
-      "desc": "Les cyberattaques contre les supermarchés européens révèlent les faiblesses des équipements frigorifiques connectés. Derrière ces ... Lire plus L’article Pourquoi les pirates ciblent les frigo des supermarchés ? est apparu en premier sur jeuxderole.com .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "51d9a5c499abff0e34a6",
       "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
       "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
@@ -2027,18 +2243,6 @@
       "category": "actualite"
     },
     {
-      "id": "226d22a423412bf1bab5",
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04",
-      "published": "2026-11-04T07:46:15+00:00",
-      "desc": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "74ea356599b8ed07593c",
       "title": "Avast lance un VPN gratuit, 100 % illimité et sans pub",
       "url": "https://www.01net.com/actualites/avast-lance-vpn-gratuit-illimite-sans-pub.html",
@@ -2047,18 +2251,6 @@
       "published": "2026-11-04T06:00:56+00:00",
       "desc": "Avast dégaine un VPN 100 % gratuit en France. L'offre bouscule le marché des VPN gratuits, notoirement truffé de pièges et de solutions médiocres inondées d'annonces publicitaires.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "0f2962e63e0897034eaf",
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04",
-      "published": "2026-11-04T05:43:11+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2267,30 +2459,6 @@
       "category": "fuite"
     },
     {
-      "id": "e357dd7a35d8f16c4ad0",
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T18:46:38+00:00",
-      "desc": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "49acf98068f7a42dd82c",
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T18:16:19+00:00",
-      "desc": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week. \"An external attacker gained unauthorized access to part of",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "8274ea721c6598c75dc5",
       "title": "Cyberattaques IA : le pire serait encore à venir, alerte le Royaume-Uni",
       "url": "https://www.01net.com/actualites/cyberattaques-ia-le-pire-serait-encore-a-venir-alerte-le-royaume-uni.html",
@@ -2303,18 +2471,6 @@
       "category": "actualite"
     },
     {
-      "id": "62e23c789fbfd2f85d19",
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T16:55:58+00:00",
-      "desc": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers. \"It was not a single isolated breach or a simple phishing incident,\"",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "889d6e292a2367c6f230",
       "title": "Vague de cyberattaques contre les supermarchés : l’Europe veut des plans d’urgence face à des menaces « profondément préoccupantes »",
       "url": "https://www.01net.com/actualites/vague-de-cyberattaques-contre-les-supermarches-leurope-veut-des-plans-durgence-face-a-des-menaces-profondement-preoccupantes.html",
@@ -2323,42 +2479,6 @@
       "published": "2026-11-03T16:00:36+00:00",
       "desc": "Après la vague de cyberattaques qui a visé les frigos de supermarchés dans au moins six pays de l'Union, Bruxelles réagit. La Commission européenne va passer au crible les plans d'urgence des enseignes. Le commissaire Christophe Hansen dénonce « une tentative délibérée de perturber notre chaîne d'approvisionnement alimentaire ».",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "5350cf64f29cdc8ac80e",
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T15:59:19+00:00",
-      "desc": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c5631e1fe7c280d41ea0",
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T15:41:53+00:00",
-      "desc": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c3e615c4c5d6d791ca5e",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T15:16:32+00:00",
-      "desc": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2385,30 +2505,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "b84cad2a2e67203e1c8e",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T11:23:53+00:00",
-      "desc": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e168d5f8ea0683e50921",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "source": "The Hacker News",
-      "date": "2026-11-03",
-      "published": "2026-11-03T11:18:20+00:00",
-      "desc": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "e087e0cbf7962ffa7c9d",
@@ -2697,18 +2793,6 @@
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "77366e9c7d8aa832d227",
-      "title": "Failles PHP : 10 jours après, près de 30 millions de sites et services web toujours vulnérables",
-      "url": "https://www.01net.com/actualites/failles-php-onze-jours-apres-pres-de-30-millions-de-sites-et-services-web-toujours-vulnerables.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-01",
-      "published": "2026-11-01T11:59:44+00:00",
-      "desc": "Les failles PHP2Shell continuent de mettre en danger Internet, alors que des correctifs sont disponibles depuis plus de dix jours. Près de 30 millions de services PHP tournent encore sur une version vulnérable, dont 2 millions en France. Pire, la grande majorité de ces cibles potentielles s'appuie sur des versions de PHP qui ne sont plus mises à jour.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "ab267d8a96ef7c1bbcf7",
@@ -3179,18 +3263,6 @@
       "category": "actualite"
     },
     {
-      "id": "89c2bd99b4a72c7df76b",
-      "title": "Polymarket piraté : des utilisateurs signalent des fonds volés, les transactions suspendues",
-      "url": "https://frenchbreaches.com/blog/polymarket-pirate-des-utilisateurs-signalent-des-fonds-voles-les-transactions-suspendues",
-      "source": "French Breaches-blog",
-      "date": "2026-10-29",
-      "published": "2026-10-29T19:41:00+00:00",
-      "desc": "Polymarket confirme un incident chez un prestataire externe. Des utilisateurs signalent des fonds volés et les transactions ont été suspendues.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c56002aeeaf24daa3bc0",
       "title": "Liberté FM",
       "url": "https://frenchbreaches.com/alertes/libert-fm-mvtp7y5u8aoocygj9gc",
@@ -3199,18 +3271,6 @@
       "published": "2026-10-29T15:29:00+00:00",
       "desc": "Cyberattaque : une radio locale affirme avoir perdu plus de 10 ans de travail Une petite radio associative française affirme avoir été victime d'une cyberattaque aux conséquences dramatiques. Liberté FM, qui émet sur la fréquence 96.1, annonce avoir perdu plus de dix ans de trava…",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "9faa6cec9c8647a59b6c",
-      "title": "Pierres et Mer",
-      "url": "https://frenchbreaches.com/alertes/pierres-et-mer-mvtoua6prfvty5sn388",
-      "source": "French Breaches",
-      "date": "2026-10-29",
-      "published": "2026-10-29T15:15:00+00:00",
-      "desc": "Piratage immobilier : des milliers de messages et rendez-vous de Pierres et Mer exposés Une nouvelle fuite de données pourrait toucher le secteur immobilier français. Ce jeudi 29 octobre 2026, un pirate a publié sur un forum spécialisé une base attribuée à Pierres et Mer, un rése…",
-      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -3285,18 +3345,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "a4fcc53e902226fd4dad",
-      "title": "Contrôle technique : 14 millions de plaques d'immatriculation menacées par des pirates",
-      "url": "https://frenchbreaches.com/blog/controle-technique-14-millions-de-plaques-dimmatriculation-menacees-par-des-pirates",
-      "source": "French Breaches-blog",
-      "date": "2026-10-28",
-      "published": "2026-10-28T23:43:00+00:00",
-      "desc": "Une cyberattaque visant Auto-Planning pourrait exposer les données de 18 millions de personnes et près de 14 millions de plaques d'immatriculation.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "22d2ccd53543886c59b8",
@@ -3534,18 +3582,6 @@
       "date": "2026-10-20",
       "published": "2026-10-20T12:00:00+00:00",
       "desc": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "6b483b1190c73ddb0799",
-      "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
-      "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-19",
-      "published": "2026-10-19T12:00:00+00:00",
-      "desc": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
