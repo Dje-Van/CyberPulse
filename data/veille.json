@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:19:04.132762+00:00",
+  "generated_at": "2026-11-11T23:54:35.220030+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,174 @@
     }
   ],
   "items": [
+    {
+      "id": "2fa347656b166d577488",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T23:01:31+00:00",
+      "desc": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8ecf3ded8f74d009a9f2",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T22:56:21+00:00",
+      "desc": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c13c660071cbc757b808",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T21:27:40+00:00",
+      "desc": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3c445f1213014085411e",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T20:54:20+00:00",
+      "desc": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e5bfaa411432cb401ee9",
+      "title": "[Vidéo] Arnaque aux impôts : comment reconnaître ce faux courrier de la DGFiP",
+      "url": "https://www.cyber-securite.fr/videoarnaque-aux-impots-comment-reconnaitre-ce-faux-courrier-de-la-dgfip/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-11",
+      "published": "2026-11-11T20:31:22+00:00",
+      "desc": "Une arnaque aux impôts circule actuellement par courrier. Un faux document de la DGFiP réclame ... Lire plus L’article [Vidéo] Arnaque aux impôts : comment reconnaître ce faux courrier de la DGFiP est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d899f76a8cf91386ae66",
+      "title": "Monceau Fleurs",
+      "url": "https://frenchbreaches.com/alertes/monceau-fleurs-mwcjxgef1vk3k83cnmx",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T20:07:00+00:00",
+      "desc": "Cyberattaque chez un prestataire de Monceau Fleurs : des données personnelles de clients compromises Monceau Fleurs alerte ses clients après une cyberattaque survenue le 30 octobre 2026 chez un prestataire chargé de la gestion des caisses de ses magasins. Des informations personn…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "cda8efb132689d35553d",
+      "title": "ARTE TV",
+      "url": "https://frenchbreaches.com/alertes/arte-tv-mwci00v7k0eq5jt966i",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T19:09:00+00:00",
+      "desc": "Fuite de données chez ARTE, plus de 600 000 adresses e-mail de membres revendiquées par un pirate La chaîne de télévision franco-allemande ARTE est visée par une importante revendication de fuite de données. Sur un forum de pirates informatiques, un individu affirme avoir divulgu…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "9d0e65808ab58d160439",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T16:24:18+00:00",
+      "desc": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "95bc7c63c87673bf5406",
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T16:12:46+00:00",
+      "desc": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could allow an unauthenticated user to conduct an escalation of privilege via",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "99d239565756098b9428",
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T15:34:27+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting AntiFox interfaces were associated with confirmed malicious actions against",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f7bee101ee0275bf0de8",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T15:12:59+00:00",
+      "desc": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "acc7a2d0e9799faadcff",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T15:01:11+00:00",
+      "desc": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b654f0cfe95872af0980",
+      "title": "Carrefour, Intermarché, Leclerc, Darty : les données de 46 000 employés potentiellement exposées",
+      "url": "https://frenchbreaches.com/blog/carrefour-intermarche-leclerc-darty-les-donnees-de-46-000-employes-potentiellement-exposees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-11",
+      "published": "2026-11-11T15:01:00+00:00",
+      "desc": "Les données personnelles de plus de 46 000 salariés de Carrefour, Intermarché, Leclerc, Darty et d'autres enseignes seraient diffusées sur un forum de pirates. 215 magasins sont cités.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d8637e378806af0b6063",
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T14:01:00+00:00",
+      "desc": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "bdeaa663db3a36c6e20b",
       "title": "OpenAI neutralise une IA incontrôlable en 35 secondes",
@@ -335,18 +503,6 @@
       "category": "actualite"
     },
     {
-      "id": "70a133457da5c93bae15",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T19:07:36+00:00",
-      "desc": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "f29f69f4917f066d6c7a",
       "title": "Geofixe",
       "url": "https://frenchbreaches.com/alertes/geofixe-mwb1l72h9v4in2jyrj",
@@ -378,18 +534,6 @@
       "date": "2026-11-10",
       "published": "2026-11-10T18:39:00+00:00",
       "desc": "Un pirate revendique une fuite de 173 146 enregistrements liés à Lithos, une plateforme crypto. Identifiants, adresses IP et portefeuilles seraient exposés.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e84e0783f52d90d21d49",
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T18:33:26+00:00",
-      "desc": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -431,18 +575,6 @@
       "category": "actualite"
     },
     {
-      "id": "f71a910c08b11a93964a",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T16:17:16+00:00",
-      "desc": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "db01d072adb842da9f5a",
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
@@ -450,18 +582,6 @@
       "date": "2026-11-10",
       "published": "2026-11-10T16:00:55+00:00",
       "desc": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9d3024bd726af4612dda",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T15:59:19+00:00",
-      "desc": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
       "type": "cve",
       "sev": "Faible",
       "category": "actualite"
@@ -501,18 +621,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "451800d549b3393d701c",
-      "title": "Ransomware recovery is now a client retention metric",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T15:01:11+00:00",
-      "desc": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "actualite"
     },
     {
       "id": "db9e4e8f49644e9e1add",
@@ -570,18 +678,6 @@
       "date": "2026-11-10",
       "published": "2026-11-10T12:15:31+00:00",
       "desc": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit, in collaboration with 0xjohnny,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4864fb36b4782d0a5b79",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T12:07:03+00:00",
-      "desc": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -668,18 +764,6 @@
       "desc": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "40f3a464061387e77509",
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T10:10:20+00:00",
-      "desc": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "type": "actualite",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -1679,18 +1763,6 @@
       "category": "fuite"
     },
     {
-      "id": "7fce4769f9acab0402b3",
-      "title": "Comparatif des 7 meilleures solutions de centre de contact cloud",
-      "url": "https://www.cyber-securite.fr/comparatif-des-7-meilleures-solutions-de-centre-de-contact-cloud/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-06",
-      "published": "2026-11-06T18:08:22+00:00",
-      "desc": "Vos clients vous confient leurs coordonnées, leurs demandes, et parfois des informations sensibles lors d’un ... Lire plus L’article Comparatif des 7 meilleures solutions de centre de contact cloud est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "319e7df558d145a47452",
       "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
       "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -2147,18 +2219,6 @@
       "category": "fuite"
     },
     {
-      "id": "7d3fdba5d29111d07393",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T14:41:10+00:00",
-      "desc": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
-      "type": "actualite",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
       "id": "48d812cc3968489b7cec",
       "title": "Flandre Opale Habitat (Maileva)",
       "url": "https://frenchbreaches.com/alertes/flandre-opale-habitat-maileva-mw3ltx0iuevuslsihe",
@@ -2193,30 +2253,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "1bd927d85a48e504f33c",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:25:00+00:00",
-      "desc": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "c7e59b0d46842b639261",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:08:54+00:00",
-      "desc": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "384cea25d0e901e614e7",
@@ -3191,18 +3227,6 @@
       "category": "actualite"
     },
     {
-      "id": "33c7e02724b5cd98ddf2",
-      "title": "Rassemblement national : un pirate revendique les données de 150 000 adhérents",
-      "url": "https://frenchbreaches.com/blog/rassemblement-national-un-pirate-revendique-les-donnees-de-150-000-adherents",
-      "source": "French Breaches-blog",
-      "date": "2026-10-31",
-      "published": "2026-10-31T09:05:00+00:00",
-      "desc": "Un pirate affirme avoir divulgué les données de 150 000 adhérents du Rassemblement national, mais des milliers d’anomalies sèment le doute.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "e4878750b988cbe1d19c",
       "title": "Fédération française de montagne (FFME)",
       "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-montagne-ffme-mvw6cunak1v4g2awu4",
@@ -3259,30 +3283,6 @@
       "published": "2026-10-30T21:31:00+00:00",
       "desc": "Epitech Paris : un pirate publie les données personnelles de 351 étudiants Des centaines d'étudiants d'Epitech Paris pourraient voir leurs informations personnelles circuler sur Internet. Ce vendredi 30 octobre 2026, un pirate a publié sur un forum spécialisé un fichier présenté…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "3da8f977ace90381b6fa",
-      "title": "La Halle au Sommeil",
-      "url": "https://frenchbreaches.com/alertes/la-halle-au-sommeil-mvvftt6xg1jmb2rypz",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T20:41:00+00:00",
-      "desc": "La Halle au Sommeil victime d'un piratage : données bancaires et mots de passe de clients compromis L'enseigne française La Halle au Sommeil confirme une cyberattaque contre son site de vente en ligne. Des données personnelles de clients ont été copiées par une personne malveilla…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "76949643dcc529607712",
-      "title": "Bourse Direct",
-      "url": "https://frenchbreaches.com/alertes/bourse-direct-mvuyn5mfi8mn9058gb",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T12:38:00+00:00",
-      "desc": "Bourse Direct victime d'une cyberattaque : les IBAN de 800 comptes clients exposés Bourse Direct, l'un des principaux courtiers en ligne français, confirme avoir été victime d'un incident de cybersécurité dans la nuit du 27 au 28 octobre 2026. Les données personnelles et bancaire…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
