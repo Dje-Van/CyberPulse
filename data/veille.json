@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:57:38.818213+00:00",
+  "generated_at": "2026-11-11T13:19:04.132762+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,234 @@
     }
   ],
   "items": [
+    {
+      "id": "bdeaa663db3a36c6e20b",
+      "title": "OpenAI neutralise une IA incontrôlable en 35 secondes",
+      "url": "https://www.cyber-securite.fr/openai-neutraliser-une-ia-incontrolable-en-35-secondes/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-11",
+      "published": "2026-11-11T12:39:12+00:00",
+      "desc": "OpenAI a testé un dispositif d’arrêt pour un agent autonome. La neutralisation annoncée prend au ... Lire plus L’article OpenAI neutralise une IA incontrôlable en 35 secondes est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fdb07bf27f816d37cdd6",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T12:32:27+00:00",
+      "desc": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "8eeaa5e81881cd502a1f",
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T12:19:40+00:00",
+      "desc": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "00bfb3e3b49bef1af6f5",
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T12:01:59+00:00",
+      "desc": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such agents should be defended. When a browser agent acts inside a user’s authenticated",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d875e13ba5ae8418ccd3",
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T12:00:53+00:00",
+      "desc": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs compromised in October had a different problem: a single line in the script",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5513a550969c5ca7113a",
+      "title": "Hôpital Foch",
+      "url": "https://frenchbreaches.com/alertes/h-pital-foch-mwc2c69j52j9n2rnqb6",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:54:00+00:00",
+      "desc": "Fuite de données à l'Hôpital Foch, des informations personnelles de patients exposées Nouvelle alerte concernant les données personnelles de patients français. L'Hôpital Foch, important établissement de santé situé à Suresnes, dans les Hauts-de-Seine, informe certains patients qu…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "7094b4f5f7294c1f89c0",
+      "title": "Effy (Airtech)",
+      "url": "https://frenchbreaches.com/alertes/effy-airtech-mwc29dnnzabvhpzxkup",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:52:00+00:00",
+      "desc": "Effy, spécialiste de la rénovation énergétique, alerte sur une fuite de données personnelles Nouvelle alerte concernant les données personnelles de particuliers français. Effy, entreprise spécialisée dans la rénovation énergétique des logements, informe certains de ses clients d'…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8bab1c7f2d6a56344231",
+      "title": "Cerballiance",
+      "url": "https://frenchbreaches.com/alertes/cerballiance-mwc1a4xgry7gewnhac",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:23:00+00:00",
+      "desc": "Fuite de données chez Cerballiance : plus de 2,1 millions de dossiers médicaux revendiqués à la vente, un lien possible avec les piratages de 2025 ou 2026 Nouvelle alerte concernant les données personnelles de patients français. Plus de 2,1 millions de dossiers médicaux seraient…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "eef0141eb80065585ed7",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T11:18:36+00:00",
+      "desc": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "22463fa6921d14b34a5e",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T10:12:08+00:00",
+      "desc": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "01168e0f75671ade0eba",
+      "title": "Sécuritest : près de 23 millions d’informations exposées",
+      "url": "https://www.cyber-securite.fr/securitest-pres-de-23-millions-dinformations-exposees/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-11",
+      "published": "2026-11-11T09:53:47+00:00",
+      "desc": "Une fuite de données attribuée aux réseaux liés à SGS pourrait toucher près de 23 ... Lire plus L’article Sécuritest : près de 23 millions d’informations exposées est apparu en premier sur cyber-securite.fr .",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "84fe717a7ff183965a7c",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-11-11",
+      "published": "2026-11-11T09:07:27+00:00",
+      "desc": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1b9540fe68c04ee91c84",
+      "title": "Microsoft corrige plus de 1 200 failles Windows, dont une brèche d’Outlook déjà exploitée par des pirates",
+      "url": "https://www.01net.com/actualites/microsoft-corrige-plus-de-1-200-failles-windows-dont-une-breche-doutlook-deja-exploitee-par-des-pirates.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-11",
+      "published": "2026-11-11T08:30:45+00:00",
+      "desc": "Microsoft vient de publier son Patch Tuesday mensuel. La mise à jour corrige 1 235 failles de sécurité dans Windows, Office et les autres logiciels de l'éditeur. Parmi les vulnérabilités colmatées, on trouve une brèche d'Outlook. Celle-ci est déjà utilisée par des pirates pour dérober des identifiants.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9c1db4a3acafb4576037",
+      "title": "Groupe MGEL / MVS",
+      "url": "https://frenchbreaches.com/alertes/groupe-mgel-mvs-mwbvyd1s60d6xygo7vh",
+      "source": "French Breaches",
+      "date": "2026-11-11",
+      "published": "2026-11-11T08:27:00+00:00",
+      "desc": "Le groupe MGEL touché par une fuite de données, des informations bancaires potentiellement exposées Le groupe MGEL, connu notamment pour ses mutuelles et ses services destinés aux étudiants, signale un incident de sécurité informatique qui pourrait avoir exposé des données person…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b4b549aacbc41c785d54",
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T08:17:53+00:00",
+      "desc": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "74289a15fb94903acdd0",
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T07:49:04+00:00",
+      "desc": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "aa7a33eee693a50c9d66",
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T07:21:05+00:00",
+      "desc": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights. The team tested the method on",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1464b0623b06bfba4277",
+      "title": "Un singe, un canard et Elon Musk : les pirates nord-coréens blanchissent le butin de Binance d’une façon inattendue",
+      "url": "https://www.01net.com/actualites/un-singe-un-canard-et-elon-musk-les-pirates-nord-coreens-blanchissent-le-butin-de-binance-dune-facon-inattendue.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-11",
+      "published": "2026-11-11T07:11:47+00:00",
+      "desc": "Pour écouler les 6,4 milliards de dollars volés à Binance, les pirates nord-coréens ont trouvé une astuce plutôt inattendue. Les truands ont en effet créé leurs propres memecoins, des cryptomonnaies parodiques, et ils s'en servent massivement pour brouiller les pistes. Les memecoins utilisés par les hackers représentent notamment des singes, un canard et Elon Musk.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "85ce9be08e6465936d95",
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-11-11",
+      "published": "2026-11-11T06:04:02+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "43b50136d94d33902fc6",
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
@@ -467,18 +695,6 @@
       "category": "actualite"
     },
     {
-      "id": "a2b42747a7210ba7a3b6",
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T10:04:32+00:00",
-      "desc": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c110ef77ed0278863603",
       "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
       "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
@@ -515,18 +731,6 @@
       "category": "actualite"
     },
     {
-      "id": "cf90f68ee6bef3655e86",
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T08:51:25+00:00",
-      "desc": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "324a5559d0e2e6e632dd",
       "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
       "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
@@ -535,18 +739,6 @@
       "published": "2026-11-10T08:16:14+00:00",
       "desc": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4e06135bcc131ff84257",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-10",
-      "published": "2026-11-10T07:49:58+00:00",
-      "desc": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -581,7 +773,7 @@
       "source": "The Hacker News",
       "date": "2026-11-10",
       "published": "2026-11-10T06:52:54+00:00",
-      "desc": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+      "desc": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
       "type": "cve",
       "sev": "Critique",
       "category": "actualite"
@@ -765,18 +957,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "0540b1b026c2ad6b7cb0",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "source": "BleepingComputer",
-      "date": "2026-11-09",
-      "published": "2026-11-09T23:52:12+00:00",
-      "desc": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "actualite"
     },
     {
       "id": "437753942c754ab8003f",
@@ -1421,7 +1601,7 @@
       "source": "French Breaches",
       "date": "2026-11-07",
       "published": "2026-11-07T11:18:00+00:00",
-      "desc": "Fuite de données chez Aréas Assurances : plus de 21 700 assurés français potentiellement concernés Aréas Assurances, compagnie française spécialisée dans l'assurance des particuliers et des professionnels, fait l'objet d'une revendication de fuite de données. Un pirate affirme ve…",
+      "desc": "Fuite de données chez Aréas Assurances : plus de 21 700 assurés français potentiellement concernés Mise à jour du 11 novembre à 10h Le groupe Aréas Assurances confirme avoir été victime d'un incident de sécurité le 7 novembre 2026, ayant potentiellement entraîné une fuite de donn…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -1619,18 +1799,6 @@
       "category": "actualite"
     },
     {
-      "id": "e078494b02d643f9ef16",
-      "title": "Discord abandonne Electron au profit de Rust",
-      "url": "https://www.cyber-securite.fr/discord-abandonne-electron-au-profit-de-rust/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-06",
-      "published": "2026-11-06T10:48:42+00:00",
-      "desc": "Discord prépare une nouvelle version de son application de bureau, écrite en Rust et GPUI. ... Lire plus L’article Discord abandonne Electron au profit de Rust est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "da4bac98b7cf1663b753",
       "title": "Rassemblement National",
       "url": "https://frenchbreaches.com/alertes/rassemblement-national-mw4ufbdh16487h5qolv",
@@ -1675,18 +1843,6 @@
       "published": "2026-11-06T08:04:49+00:00",
       "desc": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "9d6a4390e210e562dc1a",
-      "title": "GPT-6 Cyber : une IA signé OpenAI qui détecte les failles avant les hackers",
-      "url": "https://www.cyber-securite.fr/gpt-6-cyber-une-ia-signe-openai-qui-detecte-les-failles-avant-les-hackers/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-06",
-      "published": "2026-11-06T08:01:33+00:00",
-      "desc": "OpenAI place l’intelligence artificielle au cœur de la chasse aux vulnérabilités avec GPT-6 Cyber. Ce ... Lire plus L’article GPT-6 Cyber : une IA signé OpenAI qui détecte les failles avant les hackers est apparu en premier sur cyber-securite.fr .",
-      "type": "cve",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2123,18 +2279,6 @@
       "category": "fuite"
     },
     {
-      "id": "e5838da8e52e7046a05b",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T10:06:19+00:00",
-      "desc": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "39fa254e8f867e367c2d",
       "title": "Beauty Success (Novi)",
       "url": "https://frenchbreaches.com/alertes/beauty-success-novi-mw3dloy5vziu3xxamr",
@@ -2145,18 +2289,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "51d9a5c499abff0e34a6",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T09:13:28+00:00",
-      "desc": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "5135bbcc90206a417489",
@@ -2171,30 +2303,6 @@
       "category": "actualite"
     },
     {
-      "id": "9fb3d806b5214e2e6b9d",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T08:42:03+00:00",
-      "desc": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d2b8633e1a6f94d63a71",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T07:06:33+00:00",
-      "desc": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "8d8a71f79f71e5d6f027",
       "title": "Le bouclier ultime d’Apple aurait cédé : un iPhone 18 Pro piraté malgré le mode Isolement",
       "url": "https://www.01net.com/actualites/le-bouclier-ultime-dapple-aurait-cede-un-iphone-18-pro-pirate-malgre-le-mode-isolement.html",
@@ -2204,18 +2312,6 @@
       "desc": "Vidéo à l’appui, le groupe de hackers Calif affirme être parvenu à jailbreaker un iPhone 18 Pro alors que le mode Isolement était activé. Un mystérieux document PDF contenant le CV d’un chat semble être à l’origine du piratage. Le téléchargement d’iOS 27.2 n’a pas résolu le problème.",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "16bf85bfb533fefee48b",
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-05",
-      "published": "2026-11-05T05:17:04+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
-      "type": "cve",
-      "sev": "Moyenne",
       "category": "actualite"
     },
     {
@@ -2361,30 +2457,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "f72f567cab23b3cbd0ec",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04",
-      "published": "2026-11-04T17:00:46+00:00",
-      "desc": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "28cc7a562c85ad38a67f",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "source": "The Hacker News",
-      "date": "2026-11-04",
-      "published": "2026-11-04T17:00:38+00:00",
-      "desc": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "a709ab0cb60ce36007f6",
@@ -2819,30 +2891,6 @@
       "category": "actualite"
     },
     {
-      "id": "0d367baad7345f365a64",
-      "title": "Trois jours après la cyberattaque, Binance relance les retraits de cryptomonnaies",
-      "url": "https://www.01net.com/actualites/trois-jours-apres-la-cyberattaque-binance-relance-les-retraits-de-cryptomonnaies.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-02",
-      "published": "2026-11-02T08:00:41+00:00",
-      "desc": "Trois jours après un piratage record de 6,3 milliards de dollars, Binance a commencé à rouvrir les retraits. La plateforme d'échange de cryptomonnaies assure avoir déjà reconstitué 95 % des fonds volés par les pirates. Elle promet aussi que ses clients ne seront pas lésés par le vol.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "70da4f8e9d216dbc4016",
-      "title": "Ces 319 extensions Chrome ont espionné des millions d’internautes pendant 10 ans",
-      "url": "https://www.01net.com/actualites/ces-319-extensions-chrome-ont-espionne-des-millions-dinternautes-pendant-10-ans.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-02",
-      "published": "2026-11-02T06:11:57+00:00",
-      "desc": "Un réseau de 319 extensions Chrome aurait détourné les recherches d’internautes. Les requêtes transitaient par des serveurs proxy contrôlés par les opérateurs des extensions. Ces dernières semblaient de prime abord inoffensives.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d88e77c657e5730bcce9",
       "title": "Dekra Norisko",
       "url": "https://frenchbreaches.com/alertes/dekra-norisko-mvybe57prsagt6a61l",
@@ -3239,42 +3287,6 @@
       "category": "fuite"
     },
     {
-      "id": "07f34b95122c07f531e3",
-      "title": "Cherry Rocher",
-      "url": "https://frenchbreaches.com/alertes/cherry-rocher-mvuyevrzxepmkshpet",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T12:33:00+00:00",
-      "desc": "Cherry Rocher victime d'une cyberattaque : les données personnelles de clients potentiellement exposées Cherry Rocher – Distillerie du Périgord confirme avoir été victime d'un incident de sécurité informatique touchant sa boutique en ligne. Identifié le 20 octobre 2026, cet incid…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "86a7e8821704a7669cfe",
-      "title": "Autorité des marchés financiers (AMF)",
-      "url": "https://frenchbreaches.com/alertes/autorit-des-march-s-financiers-amf-mvuy51z3ozeems9avn9",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T12:24:00+00:00",
-      "desc": "Autorité des marchés financiers : un pirate revendique la fuite de plus de 11 000 fiches financières L'Autorité des marchés financiers (AMF), le régulateur français des marchés financiers, est visée par une revendication de fuite de données. Ce vendredi 30 octobre 2026, un pirate…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "42d3c3ffc27bcecdd39b",
-      "title": "Fédération suisse de basketball",
-      "url": "https://frenchbreaches.com/alertes/f-d-ration-suisse-de-basketball-mvuxxch97tc2qxlgrdy",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T12:19:00+00:00",
-      "desc": "Fédération suisse de basketball : les données de plus de 52 000 licenciés exposées, des milliers de mineurs concernés Mise à jour — 1er novembre 2026 à 12h00 Swiss Basketball confirme un incident de sécurité affectant les données personnelles de ses licenciés via Basketplan. La f…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "f635e51b46992649ab09",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -3285,18 +3297,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "1bb8bdf00136758cdfb2",
-      "title": "Fédération française des échecs (FFE)",
-      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-des-checs-ffe-mvuvucknfz4wtsag966",
-      "source": "French Breaches",
-      "date": "2026-10-30",
-      "published": "2026-10-30T11:21:00+00:00",
-      "desc": "Fédération française des échecs : les données de plus de 8 600 personnes potentiellement exposées Le site echecs.asso.fr, associé à la Fédération française des échecs (FFE), est visé par une revendication de fuite de données. Ce vendredi 30 octobre 2026, un pirate affirme avoir d…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "550e95ef6ab5f80bdb7e",
