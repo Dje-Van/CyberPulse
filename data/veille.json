@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:24:05.561074+00:00",
+  "generated_at": "2026-11-13T13:42:47.912611+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,198 @@
     }
   ],
   "items": [
+    {
+      "id": "53b1d1645f89232be3c6",
+      "title": "Microsoft says November security updates cause printing issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13",
+      "published": "2026-11-13T12:27:40+00:00",
+      "desc": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "053fa16f4f619881eae7",
+      "title": "Union française des œuvres laïques d'éducation physique (UFOLEP)",
+      "url": "https://frenchbreaches.com/alertes/union-fran-aise-des-uvres-la-ques-d-ducation-physique-ufolep-mweyewmv3xnit6jbgiw",
+      "source": "French Breaches",
+      "date": "2026-11-13",
+      "published": "2026-11-13T12:24:00+00:00",
+      "desc": "Cyberattaque contre l'UFOLEP, les données de 564 000 licenciés et adhérents mises en vente ? Les informations personnelles de plus de 564 000 personnes liées à l'UFOLEP, une fédération sportive française, seraient proposées à la vente sur un forum cybercriminel. Un pirate utilisa…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "23792561308d4225fd86",
+      "title": "Location-Etudiant",
+      "url": "https://frenchbreaches.com/alertes/location-etudiant-mwe6xjvslqe6ohbbzel",
+      "source": "French Breaches",
+      "date": "2026-11-13",
+      "published": "2026-11-13T12:10:00+00:00",
+      "desc": "Location-Étudiant piraté, les données de 825 000 personnes potentiellement mises en vente Les données personnelles d'environ 825 000 personnes ayant utilisé Location-Étudiant seraient proposées à la vente sur un forum cybercriminel. Un pirate utilisant le pseudonyme « Bonjour » a…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ed1f4b35eca7ef25af3f",
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "published": "2026-11-13T11:52:31+00:00",
+      "desc": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "97ddfadf87e9daec58f8",
+      "title": "CHU de Reims (via Softway Medical)",
+      "url": "https://frenchbreaches.com/alertes/chu-de-reims-via-softway-medical-mwewyeju95i6tlgwbfq",
+      "source": "French Breaches",
+      "date": "2026-11-13",
+      "published": "2026-11-13T11:47:00+00:00",
+      "desc": "Cyberattaque chez un éditeur de logiciels médicaux, le CHU de Reims confirme une fuite de données Le CHU de Reims confirme être concerné par une violation de données personnelles survenue chez Softway Medical Imaging, un éditeur de logiciels utilisé par plusieurs établissements d…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7f22b6cf300a8942da8f",
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "published": "2026-11-13T11:10:40+00:00",
+      "desc": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fed3eb86774449581330",
+      "title": "6 millions d’identifiants volés ont été récupérés par la police : comment savoir si vous êtes concerné ?",
+      "url": "https://www.01net.com/actualites/6-millions-identifiants-voles-recuperes-police-verifiez-si-vous-etes-concerne.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-13",
+      "published": "2026-11-13T11:00:06+00:00",
+      "desc": "Europol vient de démanteler l'infrastructure de trois logiciels malveillants, massivement utilisés par des gangs spécialisés dans les attaques par ransomware. En fouillant les serveurs saisis, les enquêteurs ont retrouvé plus de 6 millions d'identifiants volés à des victimes. Celles-ci vont pouvoir vérifier si elles sont concernées.",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "d25f99854f909af54099",
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "published": "2026-11-13T10:55:03+00:00",
+      "desc": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "02c1dcd61c66dc6cf7fe",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13",
+      "published": "2026-11-13T10:44:22+00:00",
+      "desc": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "9c5c30b78fe1e9b23067",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13",
+      "published": "2026-11-13T09:36:18+00:00",
+      "desc": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "85ca66e0646794ae54fa",
+      "title": "Panne mondiale de Microsoft 365 : Outlook hors-service !",
+      "url": "https://www.cyber-securite.fr/panne-mondiale-de-microsoft-365-outlook-hors-service/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-13",
+      "published": "2026-11-13T08:34:35+00:00",
+      "desc": "Déclenchée jeudi en début de soirée, la panne mondiale de Microsoft 365 a perturbé des ... Lire plus L’article Panne mondiale de Microsoft 365 : Outlook hors-service ! est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e539d9a442d599497eba",
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "source": "BleepingComputer",
+      "date": "2026-11-13",
+      "published": "2026-11-13T08:34:20+00:00",
+      "desc": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "69d1a63879fd152b3ec7",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "published": "2026-11-13T08:05:49+00:00",
+      "desc": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "06f5d353ec9c54e201f5",
+      "title": "Black Friday pCloud : jusqu’à -60 % pour chiffrer, sauvegarder et garder le contrôle de vos données",
+      "url": "https://www.cyber-securite.fr/black-friday-pcloud-jusqua-60-pour-chiffrer-sauvegarder-et-garder-le-controle-de-vos-donnees/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-13",
+      "published": "2026-11-13T07:00:00+00:00",
+      "desc": "Ne choisissez plus entre praticité et sécurité absolue. Du 13 au 28 novembre 2026, le ... Lire plus L’article Black Friday pCloud : jusqu’à -60 % pour chiffrer, sauvegarder et garder le contrôle de vos données est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "8d1826d40cf87fb698db",
+      "title": "Cybersécurité : OpenAI enrichit Daybreak de deux outils d’IA pour traquer les failles",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-openai-enrichit-daybreak-de-deux-out",
+      "source": "Actualités securite",
+      "date": "2026-11-13",
+      "published": "2026-11-13T06:37:37+00:00",
+      "desc": "OpenAI étoffe sa plateforme de cybersécurité Daybreak avec deux solutions reposant sur des agents d’intelligence artificielle. Présentés le 12 novembre 2026, Daybreak Red Team et Daybreak Defense Factory visent respectivement à automatiser les tests d’intrusion et à accélérer la préparation des correctifs. Avec cette nouvelle offre, l’éditeur entend renforcer les capacités des équipes de sécurité face à des cybermenaces de plus en plus sophistiquées.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5f110aa5732b2dc45743",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-13",
+      "published": "2026-11-13T05:43:28+00:00",
+      "desc": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "afe79ee14497cedd484f",
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
@@ -503,18 +695,6 @@
       "category": "actualite"
     },
     {
-      "id": "5af37a8a0588718db6bd",
-      "title": "Hackers plant GSocket on Linux servers for persistent access",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T09:38:00+00:00",
-      "desc": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c776eb51cbacc6fa91c6",
       "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
       "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
@@ -981,42 +1161,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "2fa347656b166d577488",
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11",
-      "published": "2026-11-11T23:01:31+00:00",
-      "desc": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8ecf3ded8f74d009a9f2",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11",
-      "published": "2026-11-11T22:56:21+00:00",
-      "desc": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c13c660071cbc757b808",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "source": "BleepingComputer",
-      "date": "2026-11-11",
-      "published": "2026-11-11T21:27:40+00:00",
-      "desc": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "e5bfaa411432cb401ee9",
@@ -1667,18 +1811,6 @@
       "category": "actualite"
     },
     {
-      "id": "01d0c29aeb1fc7b064b2",
-      "title": "Fuites de données : le bilan du Cybermois 2026",
-      "url": "https://www.cyber-securite.fr/fuites-de-donnees-le-bilan-du-cybermois-2026/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-10",
-      "published": "2026-11-10T07:10:00+00:00",
-      "desc": "Le Cybermois 2026 s’achève sur un constat préoccupant : 45 % des Français ont été ... Lire plus L’article Fuites de données : le bilan du Cybermois 2026 est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "749cd79bf9b6b051f921",
       "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
       "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
@@ -1700,18 +1832,6 @@
       "desc": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the",
       "type": "cve",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "757da075eddc423f08fe",
-      "title": "Auditeur cybersécurité, quel rôle dans l’entreprise ?",
-      "url": "https://www.cyber-securite.fr/auditeur-cybersecurite-quel-role-dans-lentreprise/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-10",
-      "published": "2026-11-10T06:34:09+00:00",
-      "desc": "L’auditeur cybersécurité examine les défenses numériques d’une entreprise et repère les failles avant leur exploitation. ... Lire plus L’article Auditeur cybersécurité, quel rôle dans l’entreprise ? est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -1991,18 +2111,6 @@
       "category": "actualite"
     },
     {
-      "id": "99ca2ce9ce5fc1e7f33e",
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "published": "2026-11-09T14:31:29+00:00",
-      "desc": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "1af6beaf379c3d4be39a",
       "title": "Nature et Découvertes",
       "url": "https://frenchbreaches.com/alertes/nature-et-d-couvertes-mu1euyvui0h3fnzm19",
@@ -2013,18 +2121,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "dca9748487c3dfb8451e",
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "published": "2026-11-09T13:28:25+00:00",
-      "desc": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f5ce56aca9d5fc8c3685",
@@ -2085,42 +2181,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "3b71139034dea3967b03",
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "published": "2026-11-09T11:27:53+00:00",
-      "desc": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "ea46f00bd91b0c6562a5",
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "published": "2026-11-09T10:56:25+00:00",
-      "desc": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4cf8ced66f8a8e1b3330",
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "source": "The Hacker News",
-      "date": "2026-11-09",
-      "published": "2026-11-09T10:01:21+00:00",
-      "desc": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "d0ee4c74c8ecc78bfa70",
@@ -3011,18 +3071,6 @@
       "category": "actualite"
     },
     {
-      "id": "19756072e6893aaae094",
-      "title": "Une vague d’arnaques au téléphone vise la police nationale",
-      "url": "https://www.01net.com/actualites/une-vague-darnaques-au-telephone-vise-la-police-nationale.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-03",
-      "published": "2026-11-03T06:00:15+00:00",
-      "desc": "Le directeur général de la Police nationale et Laurent Nuñez, ministre de l’Intérieur, alertent les forces de l’ordre sur la recrudescence des arnaques au spoofing. Les victimes de ce type d’arnaque sont invitées à utiliser la technique du contre-appel.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "92f1d45e60bcffb468a5",
       "title": "Binance piraté : la Corée du Nord soupçonnée d'avoir volé 6,3 milliards de dollars",
       "url": "https://frenchbreaches.com/blog/binance-pirate-la-coree-du-nord-soupconnee-davoir-vole-63-milliards-de-dollars",
@@ -3354,42 +3402,6 @@
       "date": "2026-10-31",
       "published": "2026-10-31T15:53:00+00:00",
       "desc": "Fédération nationale des chasseurs : un pirate revendique la fuite de données de près de 5 000 membres La Fédération nationale des chasseurs (FNC), qui représente les chasseurs en France, est visée par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "5e8f0431fce0d3bc65e8",
-      "title": "Zone de secours Hainaut-Est (ZOHE)",
-      "url": "https://frenchbreaches.com/alertes/zone-de-secours-hainaut-est-zohe-mvwkwpu250s39frwzvg",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T15:50:00+00:00",
-      "desc": "ZOHE : un pirate revendique une fuite de données touchant un service de secours belge La Zone de secours Hainaut-Est (ZOHE), un service public belge chargé des interventions de pompiers et de secours, est visée par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pi…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "ddd226eb803068ddca2a",
-      "title": "Solnet",
-      "url": "https://frenchbreaches.com/alertes/solnet-mvwjqg7ow72iqngt8te",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T15:16:00+00:00",
-      "desc": "Solnet : un pirate revendique la fuite des données de milliers de clients en Suisse Solnet, fournisseur suisse d'accès à Internet et de services de télécommunications, est visé par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme vendre 6 804 enregist…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "36964f394af2e465e61f",
-      "title": "Les Écologistes",
-      "url": "https://frenchbreaches.com/alertes/les-cologistes-mvwjdoxbwq7dfh3sm5",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T15:04:00+00:00",
-      "desc": "Les Écologistes : un pirate revendique la fuite de données de comptes liés au parti Le parti politique Les Écologistes, anciennement Europe Écologie Les Verts (EELV), est visé par une fuite de données revendiquée ce samedi 31 octobre 2026. Un pirate affirme avoir publié 125 enreg…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
