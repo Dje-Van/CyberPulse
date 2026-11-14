@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:20:19.994992+00:00",
+  "generated_at": "2026-11-14T12:46:37.518701+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -1457,9 +1457,9 @@
       "source": "French Breaches",
       "date": "2026-11-11",
       "published": "2026-11-11T19:09:00+00:00",
-      "desc": "Fuite de données chez ARTE, plus de 600 000 adresses e-mail de membres revendiquées par un pirate La chaîne de télévision franco-allemande ARTE est visée par une importante revendication de fuite de données. Sur un forum de pirates informatiques, un individu affirme avoir divulgu…",
+      "desc": "Fuite de données chez ARTE, plus de 600 000 adresses e-mail de membres revendiquées par un pirate Mise à jour — 14/11/2026 à 10h11 ARTE confirme un incident de cybersécurité ayant entraîné la divulgation d'une base de données d'adresses email de son service ARTE VOD, découvert le…",
       "type": "fuite",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
