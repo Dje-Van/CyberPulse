@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:04:55.681014+00:00",
+  "generated_at": "2026-11-14T04:20:19.994992+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,18 @@
     }
   ],
   "items": [
+    {
+      "id": "a2750e98e7fdf14135e7",
+      "title": "1001RDV Santé (Logicielnet)",
+      "url": "https://frenchbreaches.com/alertes/1001rdv-sant-logicielnet-mwdia94d23smfjnrr15",
+      "source": "French Breaches",
+      "date": "2026-11-13",
+      "published": "2026-11-13T23:10:00+00:00",
+      "desc": "Piratage de 1001RDV, les données de 9 millions de patients mises en vente par un hacker Les données de plus de 9 millions de patients français seraient proposées à la vente sur un forum cybercriminel par un pirate utilisant le pseudonyme « ChimeraZ ». Celui-ci affirme avoir dérob…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "1f0a428e178a024b60ec",
       "title": "Centre Hospitalier d'Armentières",
@@ -2759,18 +2771,6 @@
       "category": "fuite"
     },
     {
-      "id": "b04c239b5b6c4a066e6d",
-      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
-      "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "7f216d22de1343ddee34",
       "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
       "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
@@ -2778,6 +2778,18 @@
       "date": "2026-11-05",
       "published": "2026-11-05T12:00:00+00:00",
       "desc": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b04c239b5b6c4a066e6d",
+      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3402,18 +3414,6 @@
       "date": "2026-10-31",
       "published": "2026-10-31T20:14:00+00:00",
       "desc": "Terre de Son : les données de 95 000 clients revendiquées après un piratage Le site français Terre de Son (terredeson.com), spécialisé dans la vente de matériel de sonorisation, d'éclairage, de DJ et d'équipements de studio, est visé par une fuite de données revendiquée par le cy…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "2392f76d40503ebc76b8",
-      "title": "Ma Déco de Fête",
-      "url": "https://frenchbreaches.com/alertes/ma-d-co-de-f-te-mvwtz6zebtsf4j2tmhh",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T20:12:00+00:00",
-      "desc": "Ma Déco de Fête : 45 000 fiches clients revendiquées, des données bancaires exposées Le site français Ma Déco de Fête (madecofete.com), spécialisé dans les articles de décoration et de fête, est visé par une fuite de données revendiquée par le cybercriminel ChimeraZ sur un forum…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
