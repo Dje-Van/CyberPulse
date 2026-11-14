@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:46:37.518701+00:00",
+  "generated_at": "2026-11-14T21:51:14.859404+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -11,13 +11,109 @@
   ],
   "items": [
     {
+      "id": "83338c36113dc769f5c5",
+      "title": "OPSYSWEB",
+      "url": "https://frenchbreaches.com/alertes/opsysweb-mwgs0eslvhonv4dghx",
+      "source": "French Breaches",
+      "date": "2026-11-14",
+      "published": "2026-11-14T19:14:00+00:00",
+      "desc": "Optical Center, Afflelou, Krys et Optic 2000 cités dans une fuite de plus de 4 millions de commandes Plus de 4 millions de commandes de lunettes pourraient avoir été exposées. Un pirate informatique affirme avoir diffusé gratuitement 18,3 Go de données liées au logiciel d'optique…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "50904524d91cf9735d47",
+      "title": "Optical Center, Afflelou, Krys et Optic 2000 cités dans une fuite de plus de 4 millions de commandes",
+      "url": "https://frenchbreaches.com/blog/optical-center-afflelou-krys-et-optic-2000-cites-dans-une-fuite-de-plus-de-4-millions-de-commandes",
+      "source": "French Breaches-blog",
+      "date": "2026-11-14",
+      "published": "2026-11-14T19:07:00+00:00",
+      "desc": "Une fuite de données revendiquée par ChimeraZ vise le logiciel d'optique Opsysweb. Plus de 4,3 millions de commandes, liées notamment à Optical Center, Afflelou, Krys et Optic 2000, seraient disponibles gratuitement sur un forum de pirates.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "474b5c9c70cbb9fb1d47",
+      "title": "Facebook : Meta écope de 805 millions d'euros d'amende pour avoir accédé aux photos des utilisateurs",
+      "url": "https://frenchbreaches.com/blog/facebook-meta-ecope-de-805-millions-deuros-damende-pour-avoir-accede-aux-photos-des-utilisateurs",
+      "source": "French Breaches-blog",
+      "date": "2026-11-14",
+      "published": "2026-11-14T17:28:00+00:00",
+      "desc": "Facebook sanctionné en Italie : Meta écope d'une amende de 805 millions d'euros pour avoir accédé aux photos et vidéos d'utilisateurs Android sans consentement spécifique. Environ 20 millions de personnes sont concernées.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2396f465be9396c94b74",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "date": "2026-11-14",
+      "published": "2026-11-14T17:27:25+00:00",
+      "desc": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0172f5a126c7017a14c8",
+      "title": "Impossible de porter plainte en ligne depuis trois jours : trois services officiels à l'arrêt",
+      "url": "https://frenchbreaches.com/blog/impossible-de-porter-plainte-en-ligne-depuis-trois-jours-trois-services-officiels-a-larret",
+      "source": "French Breaches-blog",
+      "date": "2026-11-14",
+      "published": "2026-11-14T17:08:00+00:00",
+      "desc": "Depuis le 11 novembre 2026, le dépôt de plainte en ligne est perturbé en France. Plainte en ligne, Visioplainte et Perceval sont en maintenance pour une opération de sécurisation. Voici ce que l'on sait et comment déposer plainte.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "345967731bb0816935bc",
+      "title": "Il interroge l’intelligence artificielle Claude sur une arme de guerre : les gendarmes interviennent dans sa commune",
+      "url": "https://frenchbreaches.com/blog/il-interroge-lintelligence-artificielle-claude-sur-une-arme-de-guerre-les-gendarmes-interviennent-dans-sa-commune",
+      "source": "French Breaches-blog",
+      "date": "2026-11-14",
+      "published": "2026-11-14T16:50:00+00:00",
+      "desc": "Une recherche sur l'intelligence artificielle Claude évoquant une arme de guerre et une banque a déclenché une importante intervention de gendarmerie à Valençay, dans l'Indre.",
+      "type": "actualite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "0eb645ca70f53d6af896",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "BleepingComputer",
+      "date": "2026-11-14",
+      "published": "2026-11-14T15:15:49+00:00",
+      "desc": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e577b898eca3316fd935",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "source": "The Hacker News",
+      "date": "2026-11-14",
+      "published": "2026-11-14T12:38:35+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "a2750e98e7fdf14135e7",
       "title": "1001RDV Santé (Logicielnet)",
       "url": "https://frenchbreaches.com/alertes/1001rdv-sant-logicielnet-mwdia94d23smfjnrr15",
       "source": "French Breaches",
       "date": "2026-11-13",
       "published": "2026-11-13T23:10:00+00:00",
-      "desc": "Piratage de 1001RDV, les données de 9 millions de patients mises en vente par un hacker Les données de plus de 9 millions de patients français seraient proposées à la vente sur un forum cybercriminel par un pirate utilisant le pseudonyme « ChimeraZ ». Celui-ci affirme avoir dérob…",
+      "desc": "Piratage de 1001RDV et Logicielnet : les données de 9 millions de patients mises en vente, des personnalités publiques potentiellement citées Mise à jour le 14 novembre 2026 De nouveaux éléments obtenus par FrenchBreaches dans l'affaire 1001RDV et Logicielnet font état d'un ensem…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -731,18 +827,6 @@
       "category": "actualite"
     },
     {
-      "id": "1dc09f8d2480496ec9d6",
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T16:04:00+00:00",
-      "desc": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "96d21dc534c051cb0f29",
       "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
       "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
@@ -762,18 +846,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T15:15:40+00:00",
       "desc": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "438aee711143d40b19ca",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T15:07:20+00:00",
-      "desc": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2063,18 +2135,6 @@
       "category": "actualite"
     },
     {
-      "id": "749cd79bf9b6b051f921",
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T06:52:54+00:00",
-      "desc": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. \"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "73ac3451440c0df72689",
       "title": "NIS 2 : la loi Résilience arrive enfin à l’Assemblée",
       "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee",
@@ -2357,9 +2417,9 @@
       "source": "French Breaches",
       "date": "2026-11-08",
       "published": "2026-11-08T10:40:00+00:00",
-      "desc": "Fuite de données liée au groupe SGS : plus de 40 millions de plaques d'immatriculation potentiellement exposées Les réseaux de contrôle technique Sécuritest, Auto Sécurité et Vérif'Autos, liés au groupe SGS, sont cités dans une importante affaire de fuite de données revendiquée.…",
+      "desc": "Fuite de données liée au groupe SGS : plus de 40 millions de plaques d'immatriculation potentiellement exposées Mise à jour le 14 novembre à 12h00 Le groupe SGS confirme un incident de cybersécurité touchant les systèmes de prise de rendez-vous en ligne de ses réseaux Sécuritest,…",
       "type": "fuite",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
@@ -3239,18 +3299,6 @@
       "category": "fuite"
     },
     {
-      "id": "73157019150d6878b498",
-      "title": "Cyberattaques : trois pharmacies visées en 48 heures, des centaines d'autres ciblées",
-      "url": "https://frenchbreaches.com/blog/cyberattaques-trois-pharmacies-visees-en-48-heures-des-centaines-dautres-ciblees",
-      "source": "French Breaches-blog",
-      "date": "2026-11-02",
-      "published": "2026-11-02T10:51:00+00:00",
-      "desc": "Trois pharmacies à Paris, Strasbourg et Dijon visées par des pirates en 48 heures. Plus de 436 000 dossiers revendiqués, dont des données de santé sensibles.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d88e77c657e5730bcce9",
       "title": "Dekra Norisko",
       "url": "https://frenchbreaches.com/alertes/dekra-norisko-mvybe57prsagt6a61l",
@@ -3297,18 +3345,6 @@
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "5a644c5b253fb9c1d73b",
-      "title": "France : plus de 19 millions de plaques d’immatriculation visées par des fuites de données",
-      "url": "https://frenchbreaches.com/blog/france-plus-de-19-millions-de-plaques-dimmatriculation-visees-par-des-fuites-de-donnees",
-      "source": "French Breaches-blog",
-      "date": "2026-11-01",
-      "published": "2026-11-01T15:03:00+00:00",
-      "desc": "Plus de 19 millions de plaques d’immatriculation françaises seraient exposées dans plusieurs fuites de données, avec des risques pour les automobilistes.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "9a2166ed0d223e5b2628",
@@ -3383,18 +3419,6 @@
       "category": "fuite"
     },
     {
-      "id": "6e44225386f760df4b11",
-      "title": "France : les plaques d'immatriculation de 2,9 millions de véhicules mises en vente sur le dark web",
-      "url": "https://frenchbreaches.com/blog/france-les-plaques-dimmatriculation-de-29-millions-de-vehicules-mises-en-vente-sur-le-dark-web",
-      "source": "French Breaches-blog",
-      "date": "2026-10-31",
-      "published": "2026-10-31T21:13:00+00:00",
-      "desc": "Une base de 2,9 millions de plaques d'immatriculation françaises est proposée à la vente avec les noms, téléphones et e-mails de 1,8 million de personnes.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ec618270e0f4873517c1",
       "title": "AUTOSUR (SECTA)",
       "url": "https://frenchbreaches.com/alertes/autosur-secta-mvwpal5glsxnn6t0fz9",
@@ -3405,30 +3429,6 @@
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "30beb6cd6efef23d879c",
-      "title": "Terre de Son",
-      "url": "https://frenchbreaches.com/alertes/terre-de-son-mvwud3cd5jgpeniqcp8",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T20:14:00+00:00",
-      "desc": "Terre de Son : les données de 95 000 clients revendiquées après un piratage Le site français Terre de Son (terredeson.com), spécialisé dans la vente de matériel de sonorisation, d'éclairage, de DJ et d'équipements de studio, est visé par une fuite de données revendiquée par le cy…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "9f004f2f46249475b26d",
-      "title": "Cryptomonnaies : les données de milliers de visiteurs et clients d'une boutique spécialisée visées",
-      "url": "https://frenchbreaches.com/blog/cryptomonnaies-les-donnees-de-milliers-de-visiteurs-et-clients-dune-boutique-specialisee-visees",
-      "source": "French Breaches-blog",
-      "date": "2026-10-31",
-      "published": "2026-10-31T17:28:00+00:00",
-      "desc": "Une boutique allemande de portefeuilles physiques pour cryptomonnaies visée par une fuite de données revendiquée, avec des informations de clients et de paiements.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f635e51b46992649ab09",
