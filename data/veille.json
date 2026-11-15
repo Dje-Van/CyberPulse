@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:51:14.859404+00:00",
+  "generated_at": "2026-11-15T04:04:06.909834+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,18 @@
     }
   ],
   "items": [
+    {
+      "id": "7c077ea6ca3ee268952c",
+      "title": "FIC Expertise",
+      "url": "https://frenchbreaches.com/alertes/fic-expertise-mwh5pp7midv7xjtntz",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T01:28:00+00:00",
+      "desc": "Fuite de données chez FIC Expertise, 2 500 contacts potentiellement exposés Le cabinet français FIC Expertise, spécialisé dans la comptabilité, l'audit et le conseil, est cité dans une nouvelle fuite de données présumée. Un pirate informatique affirme avoir récupéré et diffusé un…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "83338c36113dc769f5c5",
       "title": "OPSYSWEB",
@@ -3414,18 +3426,6 @@
       "date": "2026-10-31",
       "published": "2026-10-31T23:38:00+00:00",
       "desc": "Suisse : les données de 41 500 élèves et enseignants volées, un étudiant suspecté Une importante fuite de données touche les gymnases et les écoles professionnelles du canton de Vaud, en Suisse. Les informations personnelles d'environ 41 500 élèves et enseignants ont été dérobées…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "ec618270e0f4873517c1",
-      "title": "AUTOSUR (SECTA)",
-      "url": "https://frenchbreaches.com/alertes/autosur-secta-mvwpal5glsxnn6t0fz9",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T20:40:00+00:00",
-      "desc": "AUTOSUR : les données de plus de 615 000 personnes revendiquées dans une fuite massive Mise à jour du 1er novembre 2026 Contacté par FrenchBreaches, AUTOSUR confirme avoir détecté une intrusion concernant une cinquantaine de centres et avoir immédiatement isolé le système concern…",
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
