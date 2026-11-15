@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:14:27.783512+00:00",
+  "generated_at": "2026-11-15T22:20:40.980533+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,90 @@
     }
   ],
   "items": [
+    {
+      "id": "d5f7ce2e8851bb5596a6",
+      "title": "Burger King et McDonald's : pourquoi d'anciens tweets affichent-ils désormais Hitler et le 11 Septembre ?",
+      "url": "https://frenchbreaches.com/blog/burger-king-et-mcdonalds-pourquoi-danciens-tweets-affichent-ils-desormais-hitler-et-le-11-septembre",
+      "source": "French Breaches-blog",
+      "date": "2026-11-15",
+      "published": "2026-11-15T18:30:00+00:00",
+      "desc": "Des publications historiques de Burger King et McDonald's affichent des liens vers Hitler, les camps nazis et le 11 Septembre. Comment est-ce possible ?",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ddd80cd3bed8cfd4e521",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-15",
+      "published": "2026-11-15T18:29:53+00:00",
+      "desc": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a277f142961816073b09",
+      "title": "Trynet",
+      "url": "https://frenchbreaches.com/alertes/trynet-mwi4hro6pir6ksru0ek",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T17:40:00+00:00",
+      "desc": "Trynet visé par une fuite de données, 45 Go de documents et des informations bancaires revendiqués Une entreprise française spécialisée dans les solutions informatiques se retrouve au cœur d'une nouvelle affaire de fuite de données. Ce dimanche 15 novembre 2026, un internaute a p…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "288ae0a72da3a810158b",
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "source": "BleepingComputer",
+      "date": "2026-11-15",
+      "published": "2026-11-15T15:23:48+00:00",
+      "desc": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "27d9adb24c180b72f963",
+      "title": "Fuite de données géante à La Poste : « 22 millions de personnes sont concernées » par une cyberattaque massive",
+      "url": "https://www.01net.com/actualites/fuite-donnees-geante-poste-22-millions-personnes-concernees-cyberattaque-massive.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-15",
+      "published": "2026-11-15T14:05:47+00:00",
+      "desc": "Maileva, une filiale de La Poste spécialisée dans l'envoi de courriers pour les entreprises, a été piratée. Les noms, les prénoms et les adresses postales de 22 millions de personnes ont été dérobés. Le groupe a porté plainte. On vous dit tout ce qu'il faut savoir sur cette nouvelle fuite massive.",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "fa2968860efda0ea5e70",
+      "title": "Ninkasi",
+      "url": "https://frenchbreaches.com/alertes/ninkasi-mwhvhb7awtx8rivjpb",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T13:28:00+00:00",
+      "desc": "Ninkasi victime d'un piratage, les données personnelles et mots de passe de clients exposés Ninkasi, l'enseigne lyonnaise connue pour ses bières et ses restaurants, confirme avoir été victime d'une cyberattaque le 12 novembre 2026. Sa boutique en ligne a subi une intrusion inform…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d8e40e6097c8ac9f0d50",
+      "title": "CodInGame",
+      "url": "https://frenchbreaches.com/alertes/codingame-mwhuwpvf6a7j8567qx",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T13:07:00+00:00",
+      "desc": "Fuite de données chez CodinGame, tous les comptes potentiellement concernés par un piratage La plateforme française CodinGame, connue pour ses jeux de programmation et ses compétitions de code, confirme avoir été victime d'une cyberattaque dans la nuit du 7 au 8 novembre 2026. Da…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "dabf7b9c559f7a5e27a3",
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
@@ -35,6 +119,18 @@
       "category": "actualite"
     },
     {
+      "id": "e426bd618a485a243a7a",
+      "title": "JASP-K9",
+      "url": "https://frenchbreaches.com/alertes/jasp-k9-mw17nkhxufxntcyogu",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T09:36:00+00:00",
+      "desc": "Cyberattaque : un fournisseur français des forces de l'ordre visé, 1 699 factures revendiquées Mise à jour du 15 novembre 2026 à 13 h 45 Un pirate affirme désormais mettre en vente plus de 2 000 factures attribuées à JASP-K9, l'entreprise française spécialisée dans les équipement…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "d5585df40181d87d8a2f",
       "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
       "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
@@ -57,6 +153,18 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "f6155ef6557343d981a8",
+      "title": "Cyberattaque en Ardèche : 21 sites liés aux collectivités et à des entreprises visés",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-en-ardeche-21-sites-lies-aux-collectivites-et-a-des-entreprises-vises",
+      "source": "French Breaches-blog",
+      "date": "2026-11-14",
+      "published": "2026-11-14T22:26:00+00:00",
+      "desc": "En Ardèche, 21 sites et services web sont cités dans une possible cyberattaque. Des données auraient été exfiltrées selon nos informations.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
     },
     {
       "id": "83338c36113dc769f5c5",
@@ -197,9 +305,9 @@
       "source": "French Breaches",
       "date": "2026-11-13",
       "published": "2026-11-13T17:59:00+00:00",
-      "desc": "Cyberattaque contre Entre Bièvre et Rhône, les données de milliers d'habitants divulguées La communauté de communes Entre Bièvre et Rhône, située en Isère, fait l'objet d'une importante revendication de cyberattaque. Des hackers se présentant sous les noms de Blackhatsect0r, DXQR…",
+      "desc": "Cyberattaque contre Entre Bièvre et Rhône, les données de milliers d'habitants divulguées Mise à jour du 15 novembre 2026 Contactée par FrenchBreaches, la collectivité a confirmé avoir détecté un incident de cybersécurité affectant une partie de son système informatique. Elle ind…",
       "type": "alerte",
-      "sev": "Haute",
+      "sev": "Faible",
       "category": "fuite"
     },
     {
@@ -740,30 +848,6 @@
       "desc": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "7f23aad252df2a55742b",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T19:51:16+00:00",
-      "desc": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "e1501a330e51ba127340",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T19:12:55+00:00",
-      "desc": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -3131,18 +3215,6 @@
       "category": "fuite"
     },
     {
-      "id": "e426bd618a485a243a7a",
-      "title": "JASP-K9",
-      "url": "https://frenchbreaches.com/alertes/jasp-k9-mw17nkhxufxntcyogu",
-      "source": "French Breaches",
-      "date": "2026-11-03",
-      "published": "2026-11-03T21:36:00+00:00",
-      "desc": "Cyberattaque : un fournisseur français des forces de l'ordre visé, 1 699 factures revendiquées Une entreprise française spécialisée dans les équipements destinés notamment aux forces de l'ordre et aux professionnels de la sécurité est visée par une revendication de piratage. Ce 3…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "89cfe01e674b3f90b57f",
       "title": "Association française des intermédiaires en bancassurance (AFIB)",
       "url": "https://frenchbreaches.com/alertes/association-fran-aise-des-interm-diaires-en-bancassurance-afib-mw17ijim057x0bd68k6",
@@ -3203,18 +3275,6 @@
       "category": "alerte"
     },
     {
-      "id": "e087e0cbf7962ffa7c9d",
-      "title": "Crypto : la Corée du Nord dément avoir piraté Binance et dénonce une « provocation » américaine",
-      "url": "https://www.01net.com/actualites/piratage-binance-coree-du-nord-dement-provocation-americaine.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-03",
-      "published": "2026-11-03T10:15:28+00:00",
-      "desc": "La Corée du Nord dément toute implication dans la cyberattaque qui a frappé Binance, la plus grande plateforme d'échange de cryptomonnaies au monde. Répondant aux accusations du FBI, Kim Yo-jong, la sœur du dirigeant suprême Kim Jong-un, dénonce une « rhétorique absurde » et une « provocation » américaine.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "92f1d45e60bcffb468a5",
       "title": "Binance piraté : la Corée du Nord soupçonnée d'avoir volé 6,3 milliards de dollars",
       "url": "https://frenchbreaches.com/blog/binance-pirate-la-coree-du-nord-soupconnee-davoir-vole-63-milliards-de-dollars",
@@ -3222,30 +3282,6 @@
       "date": "2026-11-03",
       "published": "2026-11-03T03:09:00+00:00",
       "desc": "Binance aurait subi un vol record de 6,36 milliards de dollars en cryptomonnaies. Des hackers liés à la Corée du Nord sont mis en cause.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a52659c8a4152cf5d3a9",
-      "title": "Russie : des hackers revendiquent le vol de 23 To de données sensibles de l'État",
-      "url": "https://frenchbreaches.com/blog/russie-des-hackers-revendiquent-le-vol-de-23-to-de-donnees-sensibles-de-letat",
-      "source": "French Breaches-blog",
-      "date": "2026-11-03",
-      "published": "2026-11-03T03:03:00+00:00",
-      "desc": "La Russie confirme une cyberattaque contre Rosstat. Des hackers affirment avoir volé 23 To de données, dont des chiffres sur les pertes en Ukraine.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "37202206f43dbab174ef",
-      "title": "Google démantèle un réseau de 1,3 million de boîtiers Android TV infectés",
-      "url": "https://frenchbreaches.com/blog/google-demantele-un-reseau-de-13-million-de-boitiers-android-tv-infectes",
-      "source": "French Breaches-blog",
-      "date": "2026-11-03",
-      "published": "2026-11-03T02:53:00+00:00",
-      "desc": "Google a démantelé un réseau de 1,3 million de boîtiers Android infectés par un logiciel malveillant installé dès leur fabrication.",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -3392,42 +3428,6 @@
       "desc": "Cyberattaque dans la Loire : les données des habitants de Verrières-en-Forez menacées La mairie de Verrières-en-Forez, commune située dans le département de la Loire, a été victime d'une cyberattaque dans la nuit du 28 octobre 2026. Le serveur informatique de la municipalité a ét…",
       "type": "alerte",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a587a1b1495398240d82",
-      "title": "Institut de Médecine Tropicale d’Anvers",
-      "url": "https://frenchbreaches.com/alertes/institut-de-m-decine-tropicale-d-anvers-mvxl597yo144e46lfj",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T08:44:00+00:00",
-      "desc": "Belgique : l’Institut de médecine tropicale piraté, les données de 2 300 personnes volées L’Institut de médecine tropicale d’Anvers, en Belgique, confirme avoir été victime d’une cyberattaque ayant entraîné le vol de données issues d’une application utilisée pour les soins médica…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1b99989da9bb39f96169",
-      "title": "Cholet",
-      "url": "https://frenchbreaches.com/alertes/cholet-mvxkw4ejwenzpj1t0da",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T08:35:00+00:00",
-      "desc": "Cyberattaque à Cholet : les services de la mairie et de l'agglomération perturbés La ville de Cholet, dans le Maine-et-Loire, fait face à un important incident informatique depuis le vendredi 30 octobre 2026. Plusieurs services municipaux et intercommunaux sont devenus injoignabl…",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "fe3606c17d1b6ac15d20",
-      "title": "Vaud (DGEP)",
-      "url": "https://frenchbreaches.com/alertes/vaud-dgep-mvx1oi7bzi3yhco1z9",
-      "source": "French Breaches",
-      "date": "2026-10-31",
-      "published": "2026-10-31T23:38:00+00:00",
-      "desc": "Suisse : les données de 41 500 élèves et enseignants volées, un étudiant suspecté Une importante fuite de données touche les gymnases et les écoles professionnelles du canton de Vaud, en Suisse. Les informations personnelles d'environ 41 500 élèves et enseignants ont été dérobées…",
-      "type": "fuite",
-      "sev": "Haute",
       "category": "fuite"
     },
     {
