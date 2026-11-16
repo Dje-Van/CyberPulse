@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:20:40.980533+00:00",
+  "generated_at": "2026-11-16T04:03:50.424691+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,42 @@
     }
   ],
   "items": [
+    {
+      "id": "a9e8371252382034a166",
+      "title": "Piratage des impôts, le téléphone de sa mère le trahit, les policiers visés chez eux",
+      "url": "https://frenchbreaches.com/blog/piratage-des-impots-le-telephone-de-sa-mere-le-trahit-les-policiers-vises-chez-eux",
+      "source": "French Breaches-blog",
+      "date": "2026-11-16",
+      "published": "2026-11-16T01:23:00+00:00",
+      "desc": "Deux jeunes soupçonnés du piratage des impôts, un téléphone maternel qui les trahit et des enquêteurs menacés, privés d'électricité, de gaz et d'Internet.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3cd9b3dd5318fd3985c1",
+      "title": "GTA 6 sort mercredi à midi dans un pays, les joueurs français pourraient en profiter",
+      "url": "https://frenchbreaches.com/blog/gta-6-sort-mercredi-a-midi-dans-un-pays-les-joueurs-francais-pourraient-en-profiter",
+      "source": "French Breaches-blog",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:55:00+00:00",
+      "desc": "GTA 6 sera disponible en Nouvelle-Zélande dès mercredi 18 novembre à midi, heure française. Une astuce pourrait permettre de jouer 12 heures plus tôt.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a5c644c82542fa0437f6",
+      "title": "Dagier",
+      "url": "https://frenchbreaches.com/alertes/dagier-mwigonrfd5rkmv46mau",
+      "source": "French Breaches",
+      "date": "2026-11-15",
+      "published": "2026-11-15T23:26:00+00:00",
+      "desc": "Dagier voit sa base de données clients revendiquée sur un forum de pirates informatiques CYBERSÉCURITÉ — Un grossiste français spécialisé dans la distribution de confiseries, boissons et snacks fait l'objet d'une revendication de fuite de données. Le 15 novembre 2026, un internau…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "d5f7ce2e8851bb5596a6",
       "title": "Burger King et McDonald's : pourquoi d'anciens tweets affichent-ils désormais Hitler et le 11 Septembre ?",
@@ -3191,18 +3227,6 @@
       "category": "fuite"
     },
     {
-      "id": "79e8289ef5fef2ce1543",
-      "title": "Cyberattaque : les réserves de l'Établissement français du sang ciblées",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-les-reserves-de-letablissement-francais-du-sang-ciblees",
-      "source": "French Breaches-blog",
-      "date": "2026-11-03",
-      "published": "2026-11-03T22:22:00+00:00",
-      "desc": "Un prestataire de l'Établissement français du sang a subi une cyberattaque. Des pirates auraient manipulé des chambres froides contenant des produits sanguins.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "47415d2a351814ebdd97",
       "title": "Coolworld",
       "url": "https://frenchbreaches.com/alertes/coolworld-mw17qluzro5uv8dn4l",
@@ -3273,18 +3297,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "92f1d45e60bcffb468a5",
-      "title": "Binance piraté : la Corée du Nord soupçonnée d'avoir volé 6,3 milliards de dollars",
-      "url": "https://frenchbreaches.com/blog/binance-pirate-la-coree-du-nord-soupconnee-davoir-vole-63-milliards-de-dollars",
-      "source": "French Breaches-blog",
-      "date": "2026-11-03",
-      "published": "2026-11-03T03:09:00+00:00",
-      "desc": "Binance aurait subi un vol record de 6,36 milliards de dollars en cryptomonnaies. Des hackers liés à la Corée du Nord sont mis en cause.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "f2a93599767f5a2145a2",
@@ -3415,18 +3427,6 @@
       "published": "2026-11-01T09:01:00+00:00",
       "desc": "Strasbourg : une pharmacie visée par une fuite de données de 110 000 personnes La Pharmacie de la Cigogne, située à Strasbourg dans le Bas-Rhin, fait l'objet d'une revendication de piratage publiée sur un forum cybercriminel le 31 octobre 2026. Un individu affirme avoir infiltré…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "c441c97c4a31b9afc972",
-      "title": "Verrières-en-Forez",
-      "url": "https://frenchbreaches.com/alertes/verri-res-en-forez-mvxlia4vti4vk2ufhz",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T08:55:00+00:00",
-      "desc": "Cyberattaque dans la Loire : les données des habitants de Verrières-en-Forez menacées La mairie de Verrières-en-Forez, commune située dans le département de la Loire, a été victime d'une cyberattaque dans la nuit du 28 octobre 2026. Le serveur informatique de la municipalité a ét…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
