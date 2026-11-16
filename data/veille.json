@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T04:03:50.424691+00:00",
+  "generated_at": "2026-11-16T14:24:18.971071+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,234 @@
     }
   ],
   "items": [
+    {
+      "id": "9b1f22329875fb27660e",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T14:00:00+00:00",
+      "desc": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "71db9eda9bdedcdd9817",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T12:53:18+00:00",
+      "desc": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a989c64e51ebb71dbd1d",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T12:34:21+00:00",
+      "desc": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c4086de05142b1d96dc6",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T12:33:18+00:00",
+      "desc": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kaspersky said in an analysis published today. \"The '7z.dll' file was a patched version of the",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "86ad7de4a47a8459b3c2",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T11:18:09+00:00",
+      "desc": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d3122e6e57b4157091e7",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T11:00:00+00:00",
+      "desc": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e33980d0cb31cec63873",
+      "title": "Cyberattaque chez Maileva, filiale de La Poste",
+      "url": "https://www.cyber-securite.fr/cyberattaque-chez-maileva-filiale-de-la-poste/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-16",
+      "published": "2026-11-16T10:57:11+00:00",
+      "desc": "Maileva, filiale de La Poste, a subi une cyberattaque qui expose des données liées à ... Lire plus L’article Cyberattaque chez Maileva, filiale de La Poste est apparu en premier sur cyber-securite.fr .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9ae53f7ff8037359527a",
+      "title": "Piratage de La Poste : la police lance une enquête pour retrouver les pirates",
+      "url": "https://www.01net.com/actualites/piratage-poste-police-lance-enquete-retrouver-pirates.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-16",
+      "published": "2026-11-16T10:00:08+00:00",
+      "desc": "Le parquet de Paris a ouvert une enquête sur la cyberattaque qui vient de frapper Maileva, une filiale de La Poste. L'affaire, confiée à la Brigade de lutte contre la cybercriminalité, doit permettre de remonter jusqu'aux pirates qui ont volé les données de plus de 22 millions de Français.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5ceeaae8e26f5eb828b8",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T09:32:57+00:00",
+      "desc": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR anonymity network to manage CPU and GPU miners. The activity was observed in",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f5ef776679d8464c39fd",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T09:30:04+00:00",
+      "desc": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dfdbf97fc7fea38d3c24",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T08:26:52+00:00",
+      "desc": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d36e3a87fa58da9edeaa",
+      "title": "Mac : les fausses alertes piègent les utilisateurs",
+      "url": "https://www.cyber-securite.fr/mac-les-fausses-alertes-piegent-les-utilisateurs/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-16",
+      "published": "2026-11-16T08:25:08+00:00",
+      "desc": "Les cybermenaces sur Mac passent de plus en plus par la manipulation des utilisateurs. Selon ... Lire plus L’article Mac : les fausses alertes piègent les utilisateurs est apparu en premier sur cyber-securite.fr .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "579ca7278c41d86096c7",
+      "title": "Google corrige 83 nouvelles failles Chrome, dont 5 vulnérabilités critiques",
+      "url": "https://www.01net.com/actualites/google-corrige-83-nouvelles-failles-chrome-dont-5-vulnerabilites-critiques.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-16",
+      "published": "2026-11-16T07:46:42+00:00",
+      "desc": "Google a déployé une nouvelle mise à jour de sécurité pour Chrome. Elle corrige 83 failles, dont cinq brèches jugées critiques. On vous recommande d'installer la mise à jour sans tarder. C'est déjà la deuxième mise à jour de Chrome en une semaine.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "e35a7793603775f45719",
+      "title": "Cursor : une clé volée chez Fireworks AI à l’origine d’une cyberattaque",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cursor-une-cle-volee-chez-fireworks-ai-a-l-origine",
+      "source": "Actualités securite",
+      "date": "2026-11-16",
+      "published": "2026-11-16T07:39:57+00:00",
+      "desc": "Cursor a détaillé les circonstances de la cyberattaque ayant permis la diffusion d’une version malveillante de l’extension Claude Code sur sa marketplace. Dans un rapport publié le 13 novembre 2026, l’éditeur affirme qu’une clé d’accès compromise chez son fournisseur Fireworks AI a permis aux attaquants d’accéder à plusieurs systèmes internes et à des données clients.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c5fdefaa3f57c6ff1d9a",
+      "title": "PostgreSQL corrige 52 failles, dont une vieille de 22 ans",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/postgresql-corrige-52-failles-dont-une-vieille-de-",
+      "source": "Actualités securite",
+      "date": "2026-11-16",
+      "published": "2026-11-16T07:38:50+00:00",
+      "desc": "Le PostgreSQL Global Development Group a publié, le 12 novembre 2026, des mises à jour corrigeant 52 vulnérabilités de sécurité, dont 32 affichent un score CVSS de 8,8. Parmi elles, CVE-2026-6460 permet une exécution de code arbitraire sur le serveur. Cette publication marque également la fin du support de PostgreSQL 14, dont la version 14.25 constitue la dernière mise à jour.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3ac0324fc0182880836e",
+      "title": "Cybersécurité 2027 : les 8 prédictions de Checkmarx",
+      "url": "https://www.cyber-securite.fr/cybersecurite-2027-predictions-de-checkmarx/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-16",
+      "published": "2026-11-16T07:36:24+00:00",
+      "desc": "Les prédictions cybersécurité 2027 de Checkmarx annoncent des attaques plus rapides, des agents IA difficiles ... Lire plus L’article Cybersécurité 2027 : les 8 prédictions de Checkmarx est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d6a0c3df6c7fff40e930",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T07:34:21+00:00",
+      "desc": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1abe8912cb223ae43799",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T06:53:34+00:00",
+      "desc": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b8186f9e76821e1cffba",
+      "title": "Honeynet : simuler un réseau complet pour étudier les hackers",
+      "url": "https://www.cyber-securite.fr/honeynet-simuler-un-reseau-complet-pour-etudier-les-hackers/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-16",
+      "published": "2026-11-16T06:34:08+00:00",
+      "desc": "Une honeynet est un réseau leurre conçu pour attirer des intrusions et observer leur déroulement. ... Lire plus L’article Honeynet : simuler un réseau complet pour étudier les hackers est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "a9e8371252382034a166",
       "title": "Piratage des impôts, le téléphone de sa mère le trahit, les policiers visés chez eux",
@@ -33,6 +261,102 @@
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
+    },
+    {
+      "id": "cf444b334f5f114f2892",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "3b2c41e7ec5cde35ac61",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "70f251fbb221d5cb47e0",
+      "title": "Multiples vulnérabilités dans Kerberos (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1540/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Kerberos. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "386f500c305605a286ba",
+      "title": "Vulnérabilité dans Citrix App Layering (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1545/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Citrix App Layering. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "2e94b6636faaf686b0f6",
+      "title": "Multiples vulnérabilités dans MongoDB (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1544/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "c48e44d62ffdd018f181",
+      "title": "Multiples vulnérabilités dans les produits Trend Micro (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1542/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "0a65ab7cd059c7079d01",
+      "title": "Vulnérabilité dans Git (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Git. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "63b12b71b0ebf8366870",
+      "title": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-16",
+      "published": "2026-11-16T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
     },
     {
       "id": "a5c644c82542fa0437f6",
@@ -587,30 +911,6 @@
       "category": "actualite"
     },
     {
-      "id": "02c1dcd61c66dc6cf7fe",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T10:44:22+00:00",
-      "desc": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "9c5c30b78fe1e9b23067",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T09:36:18+00:00",
-      "desc": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "85ca66e0646794ae54fa",
       "title": "Panne mondiale de Microsoft 365 : Outlook hors-service !",
       "url": "https://www.cyber-securite.fr/panne-mondiale-de-microsoft-365-outlook-hors-service/",
@@ -618,18 +918,6 @@
       "date": "2026-11-13",
       "published": "2026-11-13T08:34:35+00:00",
       "desc": "Déclenchée jeudi en début de soirée, la panne mondiale de Microsoft 365 a perturbé des ... Lire plus L’article Panne mondiale de Microsoft 365 : Outlook hors-service ! est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e539d9a442d599497eba",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T08:34:20+00:00",
-      "desc": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -849,42 +1137,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "afe79ee14497cedd484f",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T22:53:10+00:00",
-      "desc": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "ec46d2ca2fd1c7f3543b",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T22:25:30+00:00",
-      "desc": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "be3a38dc184a3a264e81",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "source": "BleepingComputer",
-      "date": "2026-11-12",
-      "published": "2026-11-12T20:15:16+00:00",
-      "desc": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "96dbcb812f04d6367755",
@@ -1163,6 +1415,18 @@
       "category": "alerte"
     },
     {
+      "id": "abaef7f1e5425c1033ae",
+      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00+00:00",
+      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "7e795b6888f43f77193f",
       "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
       "url": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
@@ -1319,18 +1583,6 @@
       "category": "actualite"
     },
     {
-      "id": "bba183d53644cd8b8a12",
-      "title": "Comment mettre en place l’authentification MFA (2FA) sur Active Directory",
-      "url": "https://www.cyber-securite.fr/comment-mettre-en-place-lauthentification-mfa-2fa-sur-active-directory/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-12",
-      "published": "2026-11-12T06:32:15+00:00",
-      "desc": "Un mot de passe volé peut ouvrir les portes d’un domaine Active Directory et bloquer ... Lire plus L’article Comment mettre en place l’authentification MFA (2FA) sur Active Directory est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b92486adb822eb8ab12a",
       "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
       "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
@@ -1355,30 +1607,6 @@
       "category": "actualite"
     },
     {
-      "id": "0cc0b516575ca76b0639",
-      "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "c04c8ad23af55ad456c5",
-      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "a68d7cbacf979abeb758",
       "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1518/",
@@ -1398,18 +1626,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "f9d3504a1fdd9357b27e",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -1463,18 +1679,6 @@
       "category": "alerte"
     },
     {
-      "id": "64184bd80527d1aa8ed1",
-      "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "4177c5f133c1c5e5deaf",
       "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
@@ -1482,18 +1686,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "9f70d4fba6df3be9db6d",
-      "title": "Multiples vulnérabilités dans HPE Aruba Networking Private 5G Core (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1503/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Private 5G Core. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -1547,18 +1739,6 @@
       "category": "alerte"
     },
     {
-      "id": "5e65deaa8dc3572037e5",
-      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "03bcffdc384cb85694a0",
       "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
@@ -1583,18 +1763,6 @@
       "category": "alerte"
     },
     {
-      "id": "5e298caf3ca9d419151f",
-      "title": "Multiples vulnérabilités dans Laravel (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1504/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "8491b0956220bc3cba76",
       "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
@@ -1602,18 +1770,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "f79693e56698e46c8d40",
-      "title": "Multiples vulnérabilités dans les produits Check Point (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1501/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -1643,18 +1799,6 @@
       "category": "alerte"
     },
     {
-      "id": "4f21acda667ef2e48240",
-      "title": "Multiples vulnérabilités dans les produits Ivanti (12 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1506/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-12",
-      "published": "2026-11-12T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "35af74e160521f404645",
       "title": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1523/",
@@ -1665,18 +1809,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "e5bfaa411432cb401ee9",
-      "title": "[Vidéo] Arnaque aux impôts : comment reconnaître ce faux courrier de la DGFiP",
-      "url": "https://www.cyber-securite.fr/videoarnaque-aux-impots-comment-reconnaitre-ce-faux-courrier-de-la-dgfip/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-11",
-      "published": "2026-11-11T20:31:22+00:00",
-      "desc": "Une arnaque aux impôts circule actuellement par courrier. Un faux document de la DGFiP réclame ... Lire plus L’article [Vidéo] Arnaque aux impôts : comment reconnaître ce faux courrier de la DGFiP est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "d899f76a8cf91386ae66",
@@ -1746,18 +1878,6 @@
       "date": "2026-11-11",
       "published": "2026-11-11T14:01:00+00:00",
       "desc": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "bdeaa663db3a36c6e20b",
-      "title": "OpenAI neutralise une IA incontrôlable en 35 secondes",
-      "url": "https://www.cyber-securite.fr/openai-neutraliser-une-ia-incontrolable-en-35-secondes/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-11",
-      "published": "2026-11-11T12:39:12+00:00",
-      "desc": "OpenAI a testé un dispositif d’arrêt pour un agent autonome. La neutralisation annoncée prend au ... Lire plus L’article OpenAI neutralise une IA incontrôlable en 35 secondes est apparu en premier sur cyber-securite.fr .",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -1833,18 +1953,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "01168e0f75671ade0eba",
-      "title": "Sécuritest : près de 23 millions d’informations exposées",
-      "url": "https://www.cyber-securite.fr/securitest-pres-de-23-millions-dinformations-exposees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-11",
-      "published": "2026-11-11T09:53:47+00:00",
-      "desc": "Une fuite de données attribuée aux réseaux liés à SGS pourrait toucher près de 23 ... Lire plus L’article Sécuritest : près de 23 millions d’informations exposées est apparu en premier sur cyber-securite.fr .",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "1b9540fe68c04ee91c84",
@@ -2147,18 +2255,6 @@
       "category": "fuite"
     },
     {
-      "id": "d195f153eca009845102",
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T12:15:31+00:00",
-      "desc": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit, in collaboration with 0xjohnny,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f4b34728a6f8e3261976",
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
@@ -2183,18 +2279,6 @@
       "category": "fuite"
     },
     {
-      "id": "435fd47ef96955658652",
-      "title": "Beyond the Alert: The Case for Rich Network Data",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T11:38:13+00:00",
-      "desc": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in. After the alert The alert tells you something happened. However, gaining",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "7968a9c5c9159985941b",
       "title": "Anthropic accusé d’avoir divulgué les adresses e-mail de ses utilisateurs via Claude Code",
       "url": "https://frenchbreaches.com/blog/anthropic-accuse-davoir-divulgue-les-adresses-e-mail-de-ses-utilisateurs-via-claude-code",
@@ -2215,42 +2299,6 @@
       "published": "2026-11-10T10:58:58+00:00",
       "desc": "Cisco et IBM préparent l’intégration de Claude Mythos dans leurs produits de sécurité. Le premier utilisera le modèle d’Anthropic pour renforcer les tests offensifs des systèmes d’IA. Le second vise la détection et la correction de vulnérabilités logicielles. Ces projets élargissent l’accès aux capacités de Mythos, avec des conditions d’utilisation et des calendriers distincts.",
       "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "fdab5e09d527af8f412e",
-      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T10:16:51+00:00",
-      "desc": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "f91af9aa9454d040d24b",
-      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T10:07:29+00:00",
-      "desc": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c110ef77ed0278863603",
-      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T10:02:40+00:00",
-      "desc": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2975,18 +3023,6 @@
       "category": "fuite"
     },
     {
-      "id": "7f216d22de1343ddee34",
-      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
-      "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "b04c239b5b6c4a066e6d",
       "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
       "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
@@ -2994,6 +3030,18 @@
       "date": "2026-11-05",
       "published": "2026-11-05T12:00:00+00:00",
       "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7f216d22de1343ddee34",
+      "title": "Outils de rejeu de session : la CNIL publie sa recommandation pour guider les acteurs",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-recommandation",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "La CNIL publie une recommandation relative aux outils de rejeu de session permettant le suivi et l'analyse du comportement en ligne des utilisateurs. L’objectif est d’aider les acteurs qui conçoivent ces outils et ceux qui les utilisent dans leur mise en conformité.",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3249,30 +3297,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "8274ea721c6598c75dc5",
-      "title": "Cyberattaques IA : le pire serait encore à venir, alerte le Royaume-Uni",
-      "url": "https://www.01net.com/actualites/cyberattaques-ia-le-pire-serait-encore-a-venir-alerte-le-royaume-uni.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-03",
-      "published": "2026-11-03T17:08:08+00:00",
-      "desc": "Le Centre national de cybersécurité britannique craint une multiplication des cyberattaques dopées à l’intelligence artificielle contre des infrastructures critiques d’ici 2028. L’IA pourrait notamment permettre aux pirates de mener des attaques de type ransomware particulièrement redoutables.",
-      "type": "alerte",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "889d6e292a2367c6f230",
-      "title": "Vague de cyberattaques contre les supermarchés : l’Europe veut des plans d’urgence face à des menaces « profondément préoccupantes »",
-      "url": "https://www.01net.com/actualites/vague-de-cyberattaques-contre-les-supermarches-leurope-veut-des-plans-durgence-face-a-des-menaces-profondement-preoccupantes.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-03",
-      "published": "2026-11-03T16:00:36+00:00",
-      "desc": "Après la vague de cyberattaques qui a visé les frigos de supermarchés dans au moins six pays de l'Union, Bruxelles réagit. La Commission européenne va passer au crible les plans d'urgence des enseignes. Le commissaire Christophe Hansen dénonce « une tentative délibérée de perturber notre chaîne d'approvisionnement alimentaire ».",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "53ca9309f14b041c6790",
@@ -3635,16 +3659,16 @@
       "category": "alerte"
     },
     {
-      "id": "d7fec0bf7c00fb0da61f",
-      "title": "Ordre du jour de la séance plénière du 22 octobre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-22-octobre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-10-22",
-      "published": "2026-10-22T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 22 octobre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
+      "id": "4387a3e52203cc932065",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-09-28",
+      "published": "2026-09-28T00:00:00+00:00",
+      "desc": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
+      "type": "cve",
       "sev": "Faible",
-      "category": "fuite"
+      "category": "alerte"
     }
   ]
 }
