@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:24:18.971071+00:00",
+  "generated_at": "2026-11-17T01:22:04.077533+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -11,6 +11,258 @@
   ],
   "items": [
     {
+      "id": "5b816394c7b365b78916",
+      "title": "Fédération Française de Cardiologie (FFC)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-cardiologie-ffc-mwjvasinud91d6z1mn",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:56:00+00:00",
+      "desc": "La Fédération française de cardiologie voit les données de 48 389 comptes divulguées La Fédération française de cardiologie (FFC) est concernée par une importante divulgation de données personnelles. Le 16 novembre 2026, un cybercriminel utilisant le pseudonyme Bonjour a publié u…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "94c4d7b387b59e70a52c",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:54:00+00:00",
+      "desc": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "36b57501703e3d35f57d",
+      "title": "SCI Horizon",
+      "url": "https://frenchbreaches.com/alertes/sci-horizon-mwjtyoq4xq4dclkulyk",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:22:00+00:00",
+      "desc": "SCI Horizon visée par une fuite de données, plus de 450 000 contacts immobiliers exposés Une importante fuite de données présumée vise SCI Horizon, une société civile immobilière française présentée comme spécialisée dans la détention, la gestion et la location de biens immobilie…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "fe60e4257d6f5ae438ba",
+      "title": "France Projecteurs",
+      "url": "https://frenchbreaches.com/alertes/france-projecteurs-mwjtv5pecniw02pnful",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:15:00+00:00",
+      "desc": "France Projecteurs visé par une fuite de données, plus de 145 000 adresses e-mail divulguées Le site français France Projecteurs, spécialisé dans la vente de matériel professionnel de sonorisation, d'éclairage et de vidéo, fait l'objet d'une revendication de fuite de données de g…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "2d02e35baca6e28ab95e",
+      "title": "FourniShop",
+      "url": "https://frenchbreaches.com/alertes/fournishop-mwjtmry4pv19a4kp0xr",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T22:12:00+00:00",
+      "desc": "Fournishop visé par une fuite de données, plus de 45 000 adresses e-mail revendiquées Le site français Fournishop, spécialisé dans la vente de présentoirs pour bijoux, d'emballages cadeaux et de matériel de présentation destiné aux professionnels, fait l'objet d'une revendication…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "90f34400313cb14331db",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T21:31:44+00:00",
+      "desc": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fecd5cf0f1ca7f354737",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T20:59:44+00:00",
+      "desc": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ac17c0218f3e057f3e39",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T19:57:13+00:00",
+      "desc": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1b8da2dab9fd3af809d9",
+      "title": "La Fabrique à Filets",
+      "url": "https://frenchbreaches.com/alertes/la-fabrique-filets-mwjlubi1szismsqpjga",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:34:00+00:00",
+      "desc": "La Fabrique à Filets victime d'un piratage, les données personnelles de ses clients dérobées Le site français La Fabrique à Filets, spécialisé dans la vente de filets et d'équipements de protection sur mesure, annonce avoir été victime d'une cyberattaque ayant entraîné l'extracti…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "c8c4fce68d64cd30531e",
+      "title": "Ipsos",
+      "url": "https://frenchbreaches.com/alertes/ipsos-mwjlkku7b6kqw1wm7kr",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:26:00+00:00",
+      "desc": "Cyberattaque chez Ipsos, le géant français des sondages confirme une intrusion informatique Le groupe français Ipsos, l'un des leaders mondiaux des sondages d'opinion et des études de marché, annonce avoir été victime d'un incident de cybersécurité affectant l'un de ses systèmes…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f169cba6cc28b8710adf",
+      "title": "Groupe GRIM (via Softway Medical)",
+      "url": "https://frenchbreaches.com/alertes/groupe-grim-via-softway-medical-mwjl3w8jcxzsifjcj3k",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:15:00+00:00",
+      "desc": "Cyberattaque contre le Groupe GRIM, des données personnelles de patients compromises Le Groupe GRIM, spécialisé dans l'imagerie médicale et membre du réseau Simago, confirme avoir été touché par une fuite de données personnelles de patients à la suite d'une cyberattaque visant so…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "8ff3296156f9837f00ee",
+      "title": "Imagerie des 3 Rivières (via Softway Medical)",
+      "url": "https://frenchbreaches.com/alertes/imagerie-des-3-rivi-res-via-softway-medical-mwjkscamcwniuqr2yle",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T18:05:00+00:00",
+      "desc": "Fuite de données à l'Imagerie des 3 Rivières après une cyberattaque chez un prestataire informatique Le centre médical Imagerie des 3 Rivières (I3R), spécialisé dans les examens de radiologie et d'imagerie médicale, confirme avoir été touché par une fuite de données personnelles…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "5c065a63c6a2bb91068f",
+      "title": "Trezor (via Skladon)",
+      "url": "https://frenchbreaches.com/alertes/trezor-via-skladon-mwjkjxhye52llr9qs3f",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T17:59:00+00:00",
+      "desc": "Trezor touché par une fuite de données chez son prestataire de livraison Skladon Le fabricant de portefeuilles matériels pour cryptomonnaies Trezor informe ses clients d'une fuite de données personnelles survenue chez Skladon, l'un de ses partenaires chargés de la livraison des c…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "3dc742ba9b992f1e39c8",
+      "title": "Fédération française du sport universitaire (FFSU)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-du-sport-universitaire-ffsu-mwffm8in7o7oq00hb5a",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T17:54:00+00:00",
+      "desc": "Fuite de données à la Fédération française du sport universitaire, près d’un million de membres visés La Fédération française du sport universitaire (FFSU) fait face à une nouvelle alerte concernant la sécurité des données personnelles de ses licenciés. Le 16 novembre 2026, un cy…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "798352117feb2dbb1b44",
+      "title": "Fédération Française de Golf (FFGOLF)",
+      "url": "https://frenchbreaches.com/alertes/f-d-ration-fran-aise-de-golf-ffgolf-mwjj22w0j9natnvt1qs",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T17:14:00+00:00",
+      "desc": "Fédération française de golf : les données de 793 509 personnes mises en vente après un nouveau piratage présumé La Fédération française de golf (ffgolf) est de nouveau au cœur d'une affaire de fuite de données. Le 14 novembre 2026, un cybercriminel utilisant le pseudonyme Bonjou…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1014ff16e25a4e95684f",
+      "title": "IMPAAKT",
+      "url": "https://frenchbreaches.com/alertes/impaakt-mwjhoj4vu0k3bjp13le",
+      "source": "French Breaches",
+      "date": "2026-11-16",
+      "published": "2026-11-16T16:46:00+00:00",
+      "desc": "Impaakt, une fuite présumée expose les données sensibles de milliers de salariés Une importante fuite de données présumée concerne Impaakt, une agence française spécialisée dans les services numériques, dont le domaine internet est associé à un logiciel de gestion utilisé par T2M…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "91e784d7cca7318ca4d6",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T16:43:24+00:00",
+      "desc": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "2aaa1f01a92f98a80e6d",
+      "title": "Le chercheur en guerre contre Microsoft dévoile une 16ᵉ faille Windows, elle peut désactiver votre antivirus",
+      "url": "https://www.01net.com/actualites/pc-windows-vulnerables-le-chercheur-en-guerre-contre-microsoft-devoile-une-16e-faille-elle-peut-desactiver-votre-antivirus.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-16",
+      "published": "2026-11-16T16:01:42+00:00",
+      "desc": "NightmareEclipse, un chercheur en guerre contre Microsoft, vient de dévoiler SignDrop, une nouvelle faille zero day dans Windows. La vulnérabilité détourne une protection conçue par Microsoft pour donner les pleins pouvoirs à un pirate. Selon le chercheur, elle permet même de désactiver n'importe quel antivirus. Aucun correctif n'est encore disponible, et 80 % des ordinateurs Windows dans le monde seraient vulnérables.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "0d946a07bc289f653805",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T15:44:21+00:00",
+      "desc": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b138a94eb9b25779d075",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "source": "BleepingComputer",
+      "date": "2026-11-16",
+      "published": "2026-11-16T15:01:11+00:00",
+      "desc": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a863217f46213f9487e0",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T14:00:00+00:00",
+      "desc": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
       "id": "9b1f22329875fb27660e",
       "title": "Google warns that fully-automated AI attacks are coming soon",
       "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
@@ -19,6 +271,18 @@
       "published": "2026-11-16T14:00:00+00:00",
       "desc": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
       "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e021b9febf9ed0b72381",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "source": "The Hacker News",
+      "date": "2026-11-16",
+      "published": "2026-11-16T13:27:20+00:00",
+      "desc": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -563,18 +827,6 @@
       "category": "actualite"
     },
     {
-      "id": "2396f465be9396c94b74",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "source": "BleepingComputer",
-      "date": "2026-11-14",
-      "published": "2026-11-14T17:27:25+00:00",
-      "desc": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "0172f5a126c7017a14c8",
       "title": "Impossible de porter plainte en ligne depuis trois jours : trois services officiels à l'arrêt",
       "url": "https://frenchbreaches.com/blog/impossible-de-porter-plainte-en-ligne-depuis-trois-jours-trois-services-officiels-a-larret",
@@ -596,18 +848,6 @@
       "desc": "Une recherche sur l'intelligence artificielle Claude évoquant une arme de guerre et une banque a déclenché une importante intervention de gendarmerie à Valençay, dans l'Indre.",
       "type": "actualite",
       "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "0eb645ca70f53d6af896",
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "source": "BleepingComputer",
-      "date": "2026-11-14",
-      "published": "2026-11-14T15:15:49+00:00",
-      "desc": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -647,18 +887,6 @@
       "category": "fuite"
     },
     {
-      "id": "d2962957f52f8763d871",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T19:38:36+00:00",
-      "desc": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a418819dd26c919e192e",
       "title": "Communauté de Communes d'Entre Bièvre et Rhône",
       "url": "https://frenchbreaches.com/alertes/communaut-de-communes-d-entre-bi-vre-et-rh-ne-mwf9txigpk5flbkvnm",
@@ -669,18 +897,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "6ce23a8d3c69416c13e2",
-      "title": "German military drone operations disrupted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T17:31:56+00:00",
-      "desc": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "5b556c6e324f1bbfa88a",
@@ -707,18 +923,6 @@
       "category": "actualite"
     },
     {
-      "id": "97c01e9fc4639398b11b",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T16:21:43+00:00",
-      "desc": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "72f23959801dd551f42e",
       "title": "Rennes va accueillir un centre international dédié à l’IA de défense",
       "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/rennes-va-accueillir-un-centre-international-dedie",
@@ -740,18 +944,6 @@
       "desc": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b32ccd39bcb9fea1a0b2",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T15:01:11+00:00",
-      "desc": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
-      "type": "alerte",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -801,18 +993,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "53b1d1645f89232be3c6",
-      "title": "Microsoft says November security updates cause printing issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "source": "BleepingComputer",
-      "date": "2026-11-13",
-      "published": "2026-11-13T12:27:40+00:00",
-      "desc": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "053fa16f4f619881eae7",
@@ -2171,30 +2351,6 @@
       "category": "actualite"
     },
     {
-      "id": "af8c1df07c8f17c510cd",
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T15:58:44+00:00",
-      "desc": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "78de25647db1bd8e2ffc",
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "source": "The Hacker News",
-      "date": "2026-11-10",
-      "published": "2026-11-10T15:33:59+00:00",
-      "desc": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "716ad74984657c9aa21b",
       "title": "Altéal (Maileva)",
       "url": "https://frenchbreaches.com/alertes/alt-al-maileva-mwau4xby5g6dfmapyv7",
@@ -3239,18 +3395,6 @@
       "category": "actualite"
     },
     {
-      "id": "74ea356599b8ed07593c",
-      "title": "Avast lance un VPN gratuit, 100 % illimité et sans pub",
-      "url": "https://www.01net.com/actualites/avast-lance-vpn-gratuit-illimite-sans-pub.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-04",
-      "published": "2026-11-04T06:00:56+00:00",
-      "desc": "Avast dégaine un VPN 100 % gratuit en France. L'offre bouscule le marché des VPN gratuits, notoirement truffé de pièges et de solutions médiocres inondées d'annonces publicitaires.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f5ca8868c0596d4a4d70",
       "title": "Holcim",
       "url": "https://frenchbreaches.com/alertes/holcim-mw1djpwg5xb0yh3d8x",
@@ -3287,18 +3431,6 @@
       "category": "fuite"
     },
     {
-      "id": "89cfe01e674b3f90b57f",
-      "title": "Association française des intermédiaires en bancassurance (AFIB)",
-      "url": "https://frenchbreaches.com/alertes/association-fran-aise-des-interm-diaires-en-bancassurance-afib-mw17ijim057x0bd68k6",
-      "source": "French Breaches",
-      "date": "2026-11-03",
-      "published": "2026-11-03T21:32:00+00:00",
-      "desc": "Cyberattaque : l’AFIB visée par un pirate, près de 3 800 données de membres revendiquées L’Association française des intermédiaires en bancassurance (AFIB) fait l’objet d’une revendication de piratage publiée ce 3 novembre 2026 sur un forum de cybercriminalité. Un pirate utilisan…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "53ca9309f14b041c6790",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -3321,138 +3453,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "f2a93599767f5a2145a2",
-      "title": "Club Alpin Belge (CAB)",
-      "url": "https://frenchbreaches.com/alertes/club-alpin-belge-cab-mvzvlk31ufntxvzt6",
-      "source": "French Breaches",
-      "date": "2026-11-02",
-      "published": "2026-11-02T23:13:00+00:00",
-      "desc": "Club Alpin Belge : les données de milliers d'adhérents diffusées sur un forum de hackers Le Club Alpin Belge est au cœur d'une nouvelle affaire de fuite présumée de données personnelles. Le 2 novembre 2026, un internaute a publié sur un forum de hackers une base présentée comme c…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "ab6bc0c73ac3a612e401",
-      "title": "Association Francophone de Tennis de Table (AFTT)",
-      "url": "https://frenchbreaches.com/alertes/association-francophone-de-tennis-de-table-aftt-mvzsrnxk35tj4f3wisj",
-      "source": "French Breaches",
-      "date": "2026-11-02",
-      "published": "2026-11-02T21:53:00+00:00",
-      "desc": "Tennis de table en Belgique : un pirate revendique les données de plus de 11 700 licenciés de l'AFTT L'Association Francophone de Tennis de Table (AFTT), qui encadre la pratique du tennis de table en Belgique francophone, fait l'objet d'une revendication de fuite de données. Un c…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "4999b0c058e233322689",
-      "title": "Office de tourisme de Strasbourg",
-      "url": "https://frenchbreaches.com/alertes/office-de-tourisme-de-strasbourg-mvzsg6gh30fm2efbxpn",
-      "source": "French Breaches",
-      "date": "2026-11-02",
-      "published": "2026-11-02T21:45:00+00:00",
-      "desc": "Strasbourg : l'office de tourisme victime d'une cyberattaque, des données personnelles exposées L'office de tourisme de Strasbourg a été victime d'un incident de sécurité informatique dans la nuit du 27 au 28 octobre 2026. Des informations personnelles transmises par les internau…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "4d6cc0121fe1115e52cf",
-      "title": "Love and Vibes",
-      "url": "https://frenchbreaches.com/alertes/love-and-vibes-mvzs5akgt0smudxehw7",
-      "source": "French Breaches",
-      "date": "2026-11-02",
-      "published": "2026-11-02T21:36:00+00:00",
-      "desc": "Love and Vibes : le sex-shop victime d'une fuite de données révélant les achats de ses clients Le sex-shop en ligne français Love and Vibes informe ses clients d'un incident de sécurité ayant entraîné un accès non autorisé à son logiciel de gestion des commandes. Des informations…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "c9a0014c98f386d55f3f",
-      "title": "Brico Dépôt",
-      "url": "https://frenchbreaches.com/alertes/brico-d-p-t-mvzs03rq2q09ajnxcgj",
-      "source": "French Breaches",
-      "date": "2026-11-02",
-      "published": "2026-11-02T21:30:00+00:00",
-      "desc": "Brico Dépôt : un pirate revendique le vol de 57 109 factures de location de camions et de données clients L'enseigne française Brico Dépôt fait l'objet d'une revendication de piratage visant son service de location de véhicules utilitaires. Un cybercriminel affirme avoir récupéré…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "d88e77c657e5730bcce9",
-      "title": "Dekra Norisko",
-      "url": "https://frenchbreaches.com/alertes/dekra-norisko-mvybe57prsagt6a61l",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T20:58:00+00:00",
-      "desc": "DEKRA-Norisko : une fuite de données touche des clients ayant réservé un contrôle technique DEKRA Automotive informe ses clients d’un incident de sécurité survenu le 20 octobre 2026 chez l’un de ses sous-traitants. Des données personnelles associées à des réservations de contrôle…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "318f8d3dcfbe3378133d",
-      "title": "Bien’ici",
-      "url": "https://frenchbreaches.com/alertes/bien-ici-mvyb1wxid1nkam4gxdp",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T20:49:00+00:00",
-      "desc": "Bien’ici : un pirate revendique le vol de 13 000 fiches d’agences immobilières Le portail immobilier français Bien’ici fait l’objet d’une revendication de piratage. Un cybercriminel affirme avoir compromis une base de données contenant environ 13 000 fiches liées à des agences im…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a51895702c8724396c89",
-      "title": "HelloDepann",
-      "url": "https://frenchbreaches.com/alertes/hellodepann-mvyayt5u5pwj23lu6kl",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T20:45:00+00:00",
-      "desc": "HelloDepann : un pirate revendique une fuite de données clients, devis et factures La plateforme française de dépannage à domicile HelloDepann fait l'objet d'une revendication de piratage. Un cybercriminel affirme avoir récupéré deux fichiers contenant des informations personnell…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "d6680dd5f890af24df6e",
-      "title": "La Grande Pharmacie Bailly",
-      "url": "https://frenchbreaches.com/alertes/la-grande-pharmacie-bailly-mvxz4mkugvm1fg5v63w",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T16:40:00+00:00",
-      "desc": "Paris : la Grande Pharmacie Bailly visée par une fuite de données de 303 000 personnes Une nouvelle revendication de piratage vise une pharmacie française. La Grande Pharmacie Bailly, située à Paris, serait concernée par une importante fuite de données personnelles et médicales.…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "9a2166ed0d223e5b2628",
-      "title": "Groupe MPA",
-      "url": "https://frenchbreaches.com/alertes/groupe-mpa-mvijiuunz1xmhru7jk",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T13:30:00+00:00",
-      "desc": "Groupe MPA : 3,8 millions de données clients revendiquées sur 11 sites français Le groupe français MPA, spécialisé notamment dans la vente de plaques d'immatriculation, de produits personnalisés et d'accessoires, est visé par une importante fuite de données revendiquée par le cyb…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "ab267d8a96ef7c1bbcf7",
-      "title": "Pharmacie de la Cigogne",
-      "url": "https://frenchbreaches.com/alertes/pharmacie-de-la-cigogne-mvxltey6athigff2ntt",
-      "source": "French Breaches",
-      "date": "2026-11-01",
-      "published": "2026-11-01T09:01:00+00:00",
-      "desc": "Strasbourg : une pharmacie visée par une fuite de données de 110 000 personnes La Pharmacie de la Cigogne, située à Strasbourg dans le Bas-Rhin, fait l'objet d'une revendication de piratage publiée sur un forum cybercriminel le 31 octobre 2026. Un individu affirme avoir infiltré…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "f635e51b46992649ab09",
