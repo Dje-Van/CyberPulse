@@ -1,15 +1,175 @@
 {
-  "generated_at": "2026-11-18T14:52:56.601620+00:00",
+  "generated_at": "2026-11-18T23:44:58.285010+00:00",
   "sources_total": 11,
-  "sources_ok": 10,
-  "sources_failed": 1,
+  "sources_ok": 9,
+  "sources_failed": 2,
   "errors": [
     {
       "source": "CISA — Known Exploited Vulnerabilities",
       "error": "404 Client Error: Not Found for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.xml"
+    },
+    {
+      "source": "CNIL — Actualités",
+      "error": "503 Server Error: Service Unavailable for url: https://www.cnil.fr/fr/rss.xml"
     }
   ],
   "items": [
+    {
+      "id": "98624c3d23ee283ff3bc",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "published": "2026-11-18T23:08:33+00:00",
+      "desc": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "3208f46dd169033595b0",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "published": "2026-11-18T20:49:32+00:00",
+      "desc": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c3f1d9d987e86306defc",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "published": "2026-11-18T19:39:33+00:00",
+      "desc": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "04e49dcbdb74573337af",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18",
+      "published": "2026-11-18T18:31:17+00:00",
+      "desc": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today. F5, the company behind NGINX, says attackers can run code where",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4ab4f5e03685767a0a27",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18",
+      "published": "2026-11-18T18:15:39+00:00",
+      "desc": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "872dd4dae12e588ed6d9",
+      "title": "La Macif écope d’une amende de 5 millions d’euros : les mots de passe étaient laissés à la merci des pirates",
+      "url": "https://www.01net.com/actualites/macif-ecope-amende-5-millions-deuros-mots-passe-clients-etaient-stockes-sans-protection.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-18",
+      "published": "2026-11-18T17:14:23+00:00",
+      "desc": "La Cnil a infligé une amende de cinq millions d’euros à la Macif pour deux importants manquements au RGPD. L’entreprise assure avoir pris les mesures nécessaires et précise qu’aucune donnée de ses clients n’a été divulguée.",
+      "type": "actualite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "6ec0dce548ff06fef168",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18",
+      "published": "2026-11-18T17:10:45+00:00",
+      "desc": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution. \"Deserialization of Untrusted",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "8b3803ef82be5cd0ff6f",
+      "title": "Chargemap",
+      "url": "https://frenchbreaches.com/alertes/chargemap-mwmdclb8whoxcxtuijb",
+      "source": "French Breaches",
+      "date": "2026-11-18",
+      "published": "2026-11-18T16:59:00+00:00",
+      "desc": "Chargemap victime d'une cyberattaque, les données personnelles de ses utilisateurs piratées Chargemap, plateforme française utilisée par les conducteurs de voitures électriques pour trouver des bornes de recharge et payer leurs recharges, a été victime d'une cyberattaque le 8 nov…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "97ef079b76eaf6ad0d5c",
+      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "published": "2026-11-18T16:58:42+00:00",
+      "desc": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "75ee0dd62c455357dd9f",
+      "title": "Vous utilisez l’un des 20 pires mots de passe de France ? Changez-le immédiatement",
+      "url": "https://www.01net.com/actualites/vous-utilisez-lun-des-20-pires-mots-de-passe-de-france-changez-le-immediatement.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-18",
+      "published": "2026-11-18T16:05:17+00:00",
+      "desc": "NordPass dévoile son traditionnel palmarès annuel des pires mots de passe. Cette année, l'indétrônable « 123456 » reprend la première place en France. Entre « azerty », « Marseille13 » et « skibiditoilet », les internautes continuent de faire des choix déplorables en matière de cybersécurité.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1e5048531fe652ef25d3",
+      "title": "Snowleader",
+      "url": "https://frenchbreaches.com/alertes/snowleader-mwm9ll40bzlnlzkioiv",
+      "source": "French Breaches",
+      "date": "2026-11-18",
+      "published": "2026-11-18T15:16:00+00:00",
+      "desc": "Snowleader victime d'un piratage informatique, les données bancaires de clients potentiellement compromises Snowleader, enseigne française spécialisée dans la vente d'équipements de montagne, de ski et de sports outdoor, confirme avoir été victime d'un piratage informatique. Dans…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "993f9d718221ef41a110",
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "BleepingComputer",
+      "date": "2026-11-18",
+      "published": "2026-11-18T15:00:10+00:00",
+      "desc": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d8c1b313803b0f3617cb",
+      "title": "La cybersécurité des PME et des TPE face aux cybermenaces avancées",
+      "url": "https://www.cyber-securite.fr/la-cybersecurite-des-pme-et-des-tpe-face-aux-cybermenaces-avancees/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-18",
+      "published": "2026-11-18T14:54:41+00:00",
+      "desc": "Les petites et moyennes entreprises font face à une montée des cybermenaces sans précédent. Selon ... Lire plus L’article La cybersécurité des PME et des TPE face aux cybermenaces avancées est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Moyenne",
+      "category": "actualite"
+    },
     {
       "id": "6b85433f1a0372fec628",
       "title": "Cyberattaque visant Optimizely : 178 organisations touchées",
@@ -19,6 +179,18 @@
       "published": "2026-11-18T14:52:31+00:00",
       "desc": "Le 16 novembre 2026, une cyberattaque a frappé Optimizely, prestataire utilisé par de nombreuses entreprises. ... Lire plus L’article Cyberattaque visant Optimizely : 178 organisations touchées est apparu en premier sur cyber-securite.fr .",
       "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "16d1e418da7ea1b76c1d",
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "source": "The Hacker News",
+      "date": "2026-11-18",
+      "published": "2026-11-18T14:11:28+00:00",
+      "desc": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
+      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -71,28 +243,16 @@
       "category": "actualite"
     },
     {
-      "id": "8e9b0aa49de6627222de",
-      "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
-      "url": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
-      "source": "CNIL — Actualités",
+      "id": "2bf6e3b53184cd104c37",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-18",
       "published": "2026-11-18T12:00:00+00:00",
-      "desc": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&nbsp;La Voix des jeunesses&nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé mentale et de vie privée liés à ces nouveaux usages.",
-      "type": "fuite",
+      "desc": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate Channel Vulnerability CVE-2026-90436 Apache Axis Unsafe Reflection Vulnerability CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV ",
+      "type": "cve",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "39ea03bd302359d5464d",
-      "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
-      "url": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-18",
-      "published": "2026-11-18T12:00:00+00:00",
-      "desc": "En novembre 2026, la CNIL a infligé une sanction de 5&nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
+      "category": "alerte"
     },
     {
       "id": "5966ac56e61b79d55a1d",
@@ -275,6 +435,18 @@
       "category": "alerte"
     },
     {
+      "id": "cfae49b1e789ae90fff0",
+      "title": "Multiples vulnérabilités dans les produits F5 (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1567/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "ecccdd3daa20bbd50016",
       "title": "Multiples vulnérabilités dans les produits Tenable (18 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1556/",
@@ -395,6 +567,18 @@
       "category": "alerte"
     },
     {
+      "id": "d8f112053b7a33a99848",
+      "title": "Multiples vulnérabilités dans F5 NGINX (18 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-017/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-18",
+      "published": "2026-11-18T00:00:00+00:00",
+      "desc": "Le 18 novembre 2026, F5 a publié deux avis de sécurité concernant les vulnérabilités CVE-2026-123633 et CVE-2026-123007. Celles-ci affectent NGINX Open Source et NGINX Plus permettent à un attaquant non authentifié d'exécuter du code à distance, en utilisant le protocole HTTP en version 2. Le...",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "8a626a9260468ecd2b2e",
       "title": "Vulnérabilité dans Oracle Java SE (18 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-016/",
@@ -473,8 +657,8 @@
       "source": "French Breaches",
       "date": "2026-11-17",
       "published": "2026-11-17T19:43:00+00:00",
-      "desc": "Softway Medical piraté, les données de 18 millions de patients potentiellement mises en vente Les données personnelles de 18 millions de patients seraient proposées à la vente sur un forum cybercriminel. Selon les investigations de FrenchBreaches, le vendeur mentionne 59 référenc…",
-      "type": "fuite",
+      "desc": "Softway Medical piraté, les données de 18 millions de patients potentiellement mises en vente Mise à jour du 18 novembre 2026 à 23 h 49 Softway Medical reconnaît un lien probable entre les données de patients mises en vente depuis le 17 novembre et la cyberattaque de son logiciel…",
+      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -551,18 +735,6 @@
       "category": "actualite"
     },
     {
-      "id": "c05daafd452340b7c56a",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T16:00:00+00:00",
-      "desc": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "07e865a867c80efa70bd",
       "title": "Google découvre une IA capable de pirater des sites presque toute seule, la France ciblée",
       "url": "https://frenchbreaches.com/blog/google-decouvre-une-ia-capable-de-pirater-des-sites-presque-toute-seule-la-france-ciblee",
@@ -599,18 +771,6 @@
       "category": "actualite"
     },
     {
-      "id": "54e4290953ac1ddd1343",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T15:01:11+00:00",
-      "desc": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "e04e0ab7c0515a2e09a8",
       "title": "Attention à ce GTA 6 qui circule avant la sortie du jeu : c’est un piège pour voler vos données",
       "url": "https://www.01net.com/actualites/attention-a-ce-gta-6-qui-circule-avant-la-sortie-du-jeu-cest-un-piege-pour-voler-vos-donnees.html",
@@ -629,8 +789,8 @@
       "source": "French Breaches",
       "date": "2026-11-17",
       "published": "2026-11-17T13:27:00+00:00",
-      "desc": "ConsonanceWeb ciblé par des pirates, plus d'un million de personnes pourraient être concernées Le groupe de pirates Lunarissec revendique une cyberattaque visant ConsonanceWeb, un éditeur français de logiciels de gestion destinés aux professionnels. Selon les informations recueil…",
-      "type": "alerte",
+      "desc": "ConsonanceWeb ciblé par des pirates, plus d'un million de personnes pourraient être concernées Mise à jour du 18 novembre 2026 à 16 h 01 ConsonanceWeb confirme un accès non autorisé à l'une de ses applications entre le 13 et le 15 novembre 2026, mais conteste le chiffre d'un mill…",
+      "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -839,18 +999,6 @@
       "category": "alerte"
     },
     {
-      "id": "1e3a8a0a7e3cd062f91c",
-      "title": "Siemens SIMATIC WinCC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.1 vers:all/* (CVE-2026-59082) CVSS Vendor Equipment v3 7.8 Siemens SIMATIC WinCC V7.5 1 Vulnerability Insufficient UI Warning of Dangerous Operations Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-59082 Affected devices implicitly execute active content when opening files. This could allow an attacker to make the user execute arbitrary code on the device. Read More 3 Affected Products SIMATIC WinCC V7.5 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warning notices and safety instructions. Qualified personnel are those who, based on their training and experience, are capable of identifying risks and avoiding potential hazards when working with the affected product. Also make sure to only open files from trusted sources. None available Currently no fix is available SIMATIC WinCC V8.0 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warn",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "37902359fb183e156991",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -860,6 +1008,18 @@
       "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
       "type": "cve",
       "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "1e3a8a0a7e3cd062f91c",
+      "title": "Siemens SIMATIC WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-17",
+      "published": "2026-11-17T12:00:00+00:00",
+      "desc": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.1 vers:all/* (CVE-2026-59082) CVSS Vendor Equipment v3 7.8 Siemens SIMATIC WinCC V7.5 1 Vulnerability Insufficient UI Warning of Dangerous Operations Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-59082 Affected devices implicitly execute active content when opening files. This could allow an attacker to make the user execute arbitrary code on the device. Read More 3 Affected Products SIMATIC WinCC V7.5 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warning notices and safety instructions. Qualified personnel are those who, based on their training and experience, are capable of identifying risks and avoiding potential hazards when working with the affected product. Also make sure to only open files from trusted sources. None available Currently no fix is available SIMATIC WinCC V8.0 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warn",
+      "type": "cve",
+      "sev": "Critique",
       "category": "alerte"
     },
     {
@@ -873,18 +1033,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "c13578e388c2925f248b",
-      "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
-      "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:00:00+00:00",
-      "desc": "Cookies, sécurité des données, prospection commerciale, non-coopération&nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "c656c545843a47e929cf",
@@ -906,18 +1054,6 @@
       "date": "2026-11-17",
       "published": "2026-11-17T11:20:18+00:00",
       "desc": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "405d067acd3fc3c8b532",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T11:19:51+00:00",
-      "desc": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -947,18 +1083,6 @@
       "category": "actualite"
     },
     {
-      "id": "e6b22b6e2d3bbb64d29d",
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T09:44:22+00:00",
-      "desc": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c3f104b0835f07f7027b",
       "title": "Fishipedia",
       "url": "https://frenchbreaches.com/alertes/fishipedia-mwkpj0zzoqx0i9etei",
@@ -979,18 +1103,6 @@
       "published": "2026-11-17T09:01:00+00:00",
       "desc": "Lors d'un test de sécurité, des agents IA, animés par Gemini, ont attaqué le site web d'une organisation de recherche. Les IA ont tout tenté pour accomplir une mission impossible. Ce nouvel incident s'ajoute aux nombreuses dérives impliquant des intelligences artificielles, survenues dans le courant des derniers mois.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6279c3ce26f4a58698b1",
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T08:35:42+00:00",
-      "desc": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2087,18 +2199,6 @@
       "category": "actualite"
     },
     {
-      "id": "85ca66e0646794ae54fa",
-      "title": "Panne mondiale de Microsoft 365 : Outlook hors-service !",
-      "url": "https://www.cyber-securite.fr/panne-mondiale-de-microsoft-365-outlook-hors-service/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-13",
-      "published": "2026-11-13T08:34:35+00:00",
-      "desc": "Déclenchée jeudi en début de soirée, la panne mondiale de Microsoft 365 a perturbé des ... Lire plus L’article Panne mondiale de Microsoft 365 : Outlook hors-service ! est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "69d1a63879fd152b3ec7",
       "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
@@ -2154,18 +2254,6 @@
       "date": "2026-11-13",
       "published": "2026-11-13T00:00:00+00:00",
       "desc": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "d5b567e3a318af1a7da9",
-      "title": "Multiples vulnérabilités dans Node.js (13 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1531/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-13",
-      "published": "2026-11-13T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Node.js. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -2238,18 +2326,6 @@
       "date": "2026-11-13",
       "published": "2026-11-13T00:00:00+00:00",
       "desc": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "70d3f4d68831a48ea8c7",
-      "title": "Multiples vulnérabilités dans PostgreSQL (13 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1530/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-13",
-      "published": "2026-11-13T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -2483,18 +2559,6 @@
       "category": "alerte"
     },
     {
-      "id": "652c8f30b0994d6c4046",
-      "title": "Siemens RUGGEDCOM APE1808",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications. The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS Product Status: known_affected Remediations Vendor fix Upgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general secur",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "ff020ded0d3324318b1e",
       "title": "Siemens Industrial Edge Management",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
@@ -2519,28 +2583,16 @@
       "category": "alerte"
     },
     {
-      "id": "abaef7f1e5425c1033ae",
-      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
-      "source": "CNIL — Actualités",
+      "id": "652c8f30b0994d6c4046",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+      "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-12",
       "published": "2026-11-12T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "7e795b6888f43f77193f",
-      "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
-      "url": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
+      "desc": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications. The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-111497 A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream. Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1.2.1. Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS Product Status: known_affected Remediations Vendor fix Upgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-787 Out-of-bounds Write CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general secur",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
     },
     {
       "id": "e8aac6829dfb0bdd4a80",
@@ -2552,30 +2604,6 @@
       "desc": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet,\" N-able said in a new advisory. \"Legacy API is",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "cd877208a9d9554b1851",
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T11:51:31+00:00",
-      "desc": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and has since taken down hundreds of attacker domains in an effort the team calls Operation CloudFire.",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2d6f349525d67746f7de",
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T11:33:15+00:00",
-      "desc": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper input validation and deserialization of untrusted data that could result in",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -2603,18 +2631,6 @@
       "category": "actualite"
     },
     {
-      "id": "c776eb51cbacc6fa91c6",
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T09:25:00+00:00",
-      "desc": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fixed versions earlier this week. The affected servers are members of a replica",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "c86c6d40b98e2d29953e",
       "title": "Windows : deux failles BitLocker permettent de lire les fichiers protégés",
       "url": "https://www.01net.com/actualites/windows-deux-failles-bitlocker-permettent-de-lire-les-fichiers-proteges.html",
@@ -2622,18 +2638,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T09:01:03+00:00",
       "desc": "Microsoft vient de corriger deux failles de sécurité dans BitLocker, l'outil qui chiffre le disque dur des PC sous Windows. En exploitant ces brèches, un pirate peut contourner le chiffrement et accéder aux données protégées sur l'ordinateur.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6ee015b627a80bcd5eb6",
-      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T08:20:37+00:00",
-      "desc": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released for all three supported lines: 22.23.5, 24.22.3, and 26.13.1. The crash",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2903,18 +2907,6 @@
       "category": "alerte"
     },
     {
-      "id": "3f5f3c0d2650f71be3ff",
-      "title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
-      "url": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-10",
-      "published": "2026-11-10T12:00:00+00:00",
-      "desc": "Du 24 au 26 novembre 2026, la CNIL sera présente au Salon des maires et des collectivités locales pour échanger avec les élus et agents territoriaux et répondre à leurs questions.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "7968a9c5c9159985941b",
       "title": "Anthropic accusé d’avoir divulgué les adresses e-mail de ses utilisateurs via Claude Code",
       "url": "https://frenchbreaches.com/blog/anthropic-accuse-davoir-divulgue-les-adresses-e-mail-de-ses-utilisateurs-via-claude-code",
@@ -3129,18 +3121,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "c5a97fe599d3c32bd4f8",
-      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
-      "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-09",
-      "published": "2026-11-09T12:00:00+00:00",
-      "desc": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "d0ee4c74c8ecc78bfa70",
@@ -3395,18 +3375,6 @@
       "category": "alerte"
     },
     {
-      "id": "b11c59359777bb2ca107",
-      "title": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
-      "url": "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-06",
-      "published": "2026-11-06T12:00:00+00:00",
-      "desc": "Votre établissement emploie des professionnels de santé qui mènent des recherches internes&nbsp;? La CNIL rappelle les règles.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "da4bac98b7cf1663b753",
       "title": "Rassemblement National",
       "url": "https://frenchbreaches.com/alertes/rassemblement-national-mw4ufbdh16487h5qolv",
@@ -3429,30 +3397,6 @@
       "type": "alerte",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "9045c9ec314b46d60033",
-      "title": "« Critique » : OpenAI lance GPT-6 Cyber, son IA la plus dangereuse à ce jour",
-      "url": "https://www.01net.com/actualites/critique-openai-lance-gpt-6-cyber-son-ia-la-plus-dangereuse-a-ce-jour.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-06",
-      "published": "2026-11-06T09:00:56+00:00",
-      "desc": "OpenAI vient de lancer GPT-6 Cyber, une nouvelle intelligence artificielle spécialisée dans la cybersécurité. Le modèle d'IA a déjà débusqué des centaines de failles dans Linux et Firefox. Jugée trop dangereuse pour le grand public, l’IA est réservée à des experts triés sur le volet.",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "2db2ae7b4b9ab1b88829",
-      "title": "« Aucune interaction n’est nécessaire » : une faille critique met en danger votre smartphone Android, faites vite la mise à jour",
-      "url": "https://www.01net.com/actualites/aucune-interaction-nest-necessaire-une-faille-critique-met-en-danger-votre-smartphone-android-faites-vite-la-mise-a-jour.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-06",
-      "published": "2026-11-06T07:11:54+00:00",
-      "desc": "Google vient de corriger 216 failles de sécurité dans le code d'Android. La plus grave des vulnérabilités recensées permet de pirater un smartphone à distance, sans que son propriétaire ne fasse quoi que ce soit pour ouvrir la porte aux hackers. Le géant de Mountain View vient de déployer une mise à jour truffée de correctifs, mais certains téléphones n'y auront jamais droit.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "f4a18c32e0513b0207a1",
@@ -3515,42 +3459,6 @@
       "category": "fuite"
     },
     {
-      "id": "48d812cc3968489b7cec",
-      "title": "Flandre Opale Habitat (Maileva)",
-      "url": "https://frenchbreaches.com/alertes/flandre-opale-habitat-maileva-mw3ltx0iuevuslsihe",
-      "source": "French Breaches",
-      "date": "2026-11-05",
-      "published": "2026-11-05T13:51:00+00:00",
-      "desc": "Flandre Opale Habitat alerte sur une possible fuite de données de ses locataires Flandre Opale Habitat a annoncé, le 3 novembre 2026, un incident de sécurité informatique survenu chez Maileva, son prestataire chargé de l'envoi de certains courriers. Des données personnelles, admi…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "f7c3d023a0728816e3bb",
-      "title": "Grand Paris EST",
-      "url": "https://frenchbreaches.com/alertes/grand-paris-est-mw3lo4hcssrbezyc6dc",
-      "source": "French Breaches",
-      "date": "2026-11-05",
-      "published": "2026-11-05T13:45:00+00:00",
-      "desc": "Grand Paris Grand Est victime d'une fuite de données : des usagers exposés Grand Paris Grand Est confirme un incident de sécurité ayant entraîné l'exposition de données personnelles d'usagers de son service de collecte des encombrants. Une faille détectée le 28 septembre 2026 sur…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "cddef5bb18e3bcbf0141",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazar",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "384cea25d0e901e614e7",
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
@@ -3563,28 +3471,16 @@
       "category": "alerte"
     },
     {
-      "id": "f3298b7ed26f98c98664",
-      "title": "Ordre du jour de la séance plénière du 5 novembre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-novembre-2026",
-      "source": "CNIL — Actualités",
+      "id": "cddef5bb18e3bcbf0141",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-05",
       "published": "2026-11-05T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
+      "desc": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazar",
+      "type": "alerte",
       "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b04c239b5b6c4a066e6d",
-      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
-      "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
+      "category": "alerte"
     },
     {
       "id": "c5bfeedc9f8814604d6b",
@@ -3630,18 +3526,6 @@
       "date": "2026-10-30",
       "published": "2026-10-30T12:00:00+00:00",
       "desc": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "c0138fec61383be41643",
-      "title": "Siemens Mendix SAML Module",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-10-29",
-      "published": "2026-10-29T12:00:00+00:00",
-      "desc": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix SAML Module are affected: Mendix SAML (Mendix 10 compatible) vers:intdot/<4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 11 compatible) vers:intdot/<4.2.4 (CVE-2026-89209) Mendix SAML (Mendix 9 compatible) vers:intdot/<3.6.29 (CVE-2026-89209) CVSS Vendor Equipment v3 6.8 Siemens Mendix SAML (Mendix 10 compatible) 1 Vulnerability Authentication Bypass by Capture-replay Background Critical Infrastructure Sectors: Critical Manufacturing, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-89209 Affected versions of the module do not properly protect against SAML assertion replay in IdP-initiated authentication flows. This could allow unauthenticated remote attackers to gain unauthorized access to the application by replaying a valid SAML response. Read More 3 Affected Products Mendix SAML (Mendix 10 compatible) < V4.2.4 Product Status: known_affected Remediations Mitigation Disable IdP-initiated SSO Vendor fix Update to V4.2.4 or later version Mendix SAML (Mendix 11 compatible) < V4.2.4 Product Status: known_affected Remediations Mitigation Disable IdP-initiated SSO Vendor fix Update to V4.2.4 or later version Mendix SAML (Mendix 9 compatible) < V3.6.29 Product Status: known_affected Remediations Mitigation Disable IdP-initiated SSO Vendor fix Update to V3.6.29 or later version Additional Metrics Relevant CWE: CWE-294 Authen",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
