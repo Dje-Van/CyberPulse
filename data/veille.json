@@ -1,19 +1,243 @@
 {
-  "generated_at": "2026-11-19T05:18:12.860628+00:00",
+  "generated_at": "2026-11-19T14:58:45.502563+00:00",
   "sources_total": 11,
-  "sources_ok": 9,
-  "sources_failed": 2,
+  "sources_ok": 10,
+  "sources_failed": 1,
   "errors": [
     {
       "source": "CISA — Known Exploited Vulnerabilities",
       "error": "404 Client Error: Not Found for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.xml"
-    },
-    {
-      "source": "CNIL — Actualités",
-      "error": "503 Server Error: Service Unavailable for url: https://www.cnil.fr/fr/rss.xml"
     }
   ],
   "items": [
+    {
+      "id": "03c656aa7f6268581691",
+      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19",
+      "published": "2026-11-19T14:57:24+00:00",
+      "desc": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "7c7941eee23e7faf458e",
+      "title": "Une cyberattaque IA vient de frapper la Commission européenne : 10 jours de systèmes paralysés et des données volées",
+      "url": "https://www.01net.com/actualites/cyberattaque-ia-vient-frapper-commission-europeenne-plusieurs-systemes-paralyses-pendant-dix-jours.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-19",
+      "published": "2026-11-19T14:00:25+00:00",
+      "desc": "La Commission européenne a été visée par une cyberattaque. Menée avec ARTEX, un outil de piratage dopé à l’IA, l'attaque a paralysé plusieurs systèmes internes pendant une dizaine de jours. Une enquête est toujours en cours.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9ca9ce7f9de58cb64d6a",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19",
+      "published": "2026-11-19T13:08:08+00:00",
+      "desc": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "b37a2bd9474e18853388",
+      "title": "« CRITIQUE » : après le chaos PHP2Shell, PHP alerte sur de nouvelles failles de sécurité",
+      "url": "https://www.01net.com/actualites/critique-apres-le-chaos-php2shell-php-alerte-sur-de-nouvelles-failles-de-securite.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:38+00:00",
+      "desc": "Moins d’un mois après PHP2Shell, PHP, le langage informatique qui fait tourner près de 70 % des sites web dans le monde, annonce de nouvelles failles « critiques ». Des correctifs seront rapidement déployés pour colmater les vulnérabilités.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "79fb717d814dd0bdd4ca",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T11:52:23+00:00",
+      "desc": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "abfd462e0ed18e9c8bcf",
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19",
+      "published": "2026-11-19T11:46:00+00:00",
+      "desc": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d800a4839bd2d7ff932c",
+      "title": "Commission européenne piratée, dix jours de perturbations et des données potentiellement volées",
+      "url": "https://frenchbreaches.com/blog/commission-europeenne-piratee-dix-jours-de-perturbations-et-des-donnees-potentiellement-volees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-19",
+      "published": "2026-11-19T11:37:00+00:00",
+      "desc": "La Commission européenne subit une cyberattaque qui perturbe ses services depuis dix jours. Des données personnelles d'agents pourraient avoir été volées.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "81b737f3dfb70f01909b",
+      "title": "OpenAI et l’OTAN s’unissent pour renforcer la cybersécurité grâce à l’IA",
+      "url": "https://www.cyber-securite.fr/openai-et-lotan-sunissent-pour-renforcer-la-cybersecurite-grace-a-lia/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-19",
+      "published": "2026-11-19T11:06:21+00:00",
+      "desc": "L’alliance entre OpenAI et l’OTAN marque un tournant dans la défense numérique des démocraties occidentales. ... Lire plus L’article OpenAI et l’OTAN s’unissent pour renforcer la cybersécurité grâce à l’IA est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b737cfc44cd60b706a67",
+      "title": "Microsoft confirms app installation, launch issues after hotpatch",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19",
+      "published": "2026-11-19T10:35:05+00:00",
+      "desc": "Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "17ce381964b1369d7052",
+      "title": "Fuite de données chez Chargemap : des millions de conducteurs sont touchés par une cyberattaque",
+      "url": "https://www.01net.com/actualites/fuite-donnees-chargemap-millions-conducteurs-touches-cyberattaque.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-19",
+      "published": "2026-11-19T10:00:52+00:00",
+      "desc": "Chargemap, l’application française qui aide les conducteurs de voitures électriques à trouver une borne de recharge sur leur route, a été piratée. Adresses mail, numéros de téléphone, dates de naissance et empreintes de mots de passe… Une multitude de données a été dérobée. L’entreprise strasbourgeoise a commencé à prévenir tous les conducteurs concernés par la cyberattaque.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6ebe391a8b41bbc0d12f",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T09:31:26+00:00",
+      "desc": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "80ce2787a37facf29c44",
+      "title": "Présidentielle 2027 : Numeum propose cinq mesures pour renforcer la souveraineté numérique française",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/presidentielle-2027-numeum-propose-cinq-mesures-pour-renforcer-la-souverainete-numerique-francaise",
+      "source": "Actualités securite",
+      "date": "2026-11-19",
+      "published": "2026-11-19T09:27:33+00:00",
+      "desc": "À l’approche de l’élection présidentielle de 2027, Numeum présente cinq propositions pour faire de la France et de l’Europe une puissance industrielle numérique. Le syndicat professionnel appelle notamment à porter les dépenses de recherche et développement à 4 % du PIB d’ici 2035, à mobiliser davantage la commande publique en faveur des entreprises technologiques et à renforcer la compétitivité européenne.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dc1081452c88c713a0eb",
+      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+      "source": "BleepingComputer",
+      "date": "2026-11-19",
+      "published": "2026-11-19T09:23:21+00:00",
+      "desc": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "29eb33240b0fe5717515",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T08:42:11+00:00",
+      "desc": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said. The project released fixed versions",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3914c4d93285bf9341fb",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T08:14:00+00:00",
+      "desc": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "dd71654a2f478334a00f",
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T08:00:00+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below -",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "b8b91feacf17953f9cd1",
+      "title": "« Improbable et grave » : l’IA a découvert une faille planétaire dans un langage informatique « dont nous dépendons tous »",
+      "url": "https://www.01net.com/actualites/improbable-et-grave-lia-a-decouvert-une-faille-planetaire-dans-un-langage-informatique-dont-nous-dependons-tous.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-19",
+      "published": "2026-11-19T07:33:56+00:00",
+      "desc": "Une faille critique, baptisée Java4Shell, a été découverte dans le code de Java, un langage informatique omniprésent dans les banques, les hôpitaux et les grandes entreprises. Débusquée en une heure grâce à l’IA d’OpenAI, elle permet de prendre le contrôle de serveurs sans mot de passe. Des États-Unis à l’Allemagne, les autorités appellent tout le monde à installer le correctif sans attendre.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "e6aee404ec682a2354ce",
+      "title": "Guide pratique : réaliser un test de pénétration (Pentest) interne",
+      "url": "https://www.cyber-securite.fr/guide-pratique-comment-realiser-un-test-de-penetration-pentest-interne/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-19",
+      "published": "2026-11-19T06:32:40+00:00",
+      "desc": "Le pentest interne teste les défenses réelles, depuis un poste de travail jusqu’aux serveurs métiers. ... Lire plus L’article Guide pratique : réaliser un test de pénétration (Pentest) interne est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6bdf45f5d5188ad7e647",
+      "title": "Chrome croule sous les failles : Google déploie la troisième mise à jour de sécurité en huit jours",
+      "url": "https://www.01net.com/actualites/chrome-croule-sous-les-failles-google-deploie-la-troisieme-mise-a-jour-de-securite-en-huit-jours.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-19",
+      "published": "2026-11-19T06:07:30+00:00",
+      "desc": "Google vient de déployer une nouvelle mise à jour de Chrome qui corrige 204 failles de sécurité, dont six vulnérabilités critiques. C’est la troisième mise à jour de sécurité du navigateur en à peine plus d’une semaine. Cette cadence effrénée repose l'essor sur l’intelligence artificielle, qui débusque les vulnérabilités à un rythme jamais vu.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "75b5f95941280ec24fc1",
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
@@ -277,6 +501,30 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
+    },
+    {
+      "id": "8e9b0aa49de6627222de",
+      "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
+      "url": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-18",
+      "published": "2026-11-18T12:00:00+00:00",
+      "desc": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&nbsp;La Voix des jeunesses&nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et expertises pour éclairer les enjeux de santé mentale et de vie privée liés à ces nouveaux usages.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "39ea03bd302359d5464d",
+      "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
+      "url": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-18",
+      "published": "2026-11-18T12:00:00+00:00",
+      "desc": "En novembre 2026, la CNIL a infligé une sanction de 5&nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "5966ac56e61b79d55a1d",
@@ -651,30 +899,6 @@
       "category": "fuite"
     },
     {
-      "id": "2cac7202a964b936fe17",
-      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T21:27:17+00:00",
-      "desc": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "b578b4efad12031a1ea3",
-      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T20:51:21+00:00",
-      "desc": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "5b9a0a9e91278f7ec1fe",
       "title": "Softway Medical",
       "url": "https://frenchbreaches.com/alertes/softway-medical-mwl0ih77zqb5co09pw",
@@ -707,42 +931,6 @@
       "published": "2026-11-17T19:25:00+00:00",
       "desc": "Une fuite de données revendiquée concernerait 18 millions de patients. Des dizaines de structures médicales sont citées dans les fichiers examinés.",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d82820a08fcb4635dc32",
-      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T19:24:07+00:00",
-      "desc": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a5a96cf48fc1d6fb62cf",
-      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T18:21:24+00:00",
-      "desc": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6ab6f9140451038c2a4e",
-      "title": "Tor releases emergency update amid ongoing DDoS attack",
-      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "source": "BleepingComputer",
-      "date": "2026-11-17",
-      "published": "2026-11-17T18:04:15+00:00",
-      "desc": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1057,6 +1245,18 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
+    },
+    {
+      "id": "c13578e388c2925f248b",
+      "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
+      "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-17",
+      "published": "2026-11-17T12:00:00+00:00",
+      "desc": "Cookies, sécurité des données, prospection commerciale, non-coopération&nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "c656c545843a47e929cf",
@@ -1647,18 +1847,6 @@
       "category": "actualite"
     },
     {
-      "id": "b8186f9e76821e1cffba",
-      "title": "Honeynet : simuler un réseau complet pour étudier les hackers",
-      "url": "https://www.cyber-securite.fr/honeynet-simuler-un-reseau-complet-pour-etudier-les-hackers/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-16",
-      "published": "2026-11-16T06:34:08+00:00",
-      "desc": "Une honeynet est un réseau leurre conçu pour attirer des intrusions et observer leur déroulement. ... Lire plus L’article Honeynet : simuler un réseau complet pour étudier les hackers est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a9e8371252382034a166",
       "title": "Piratage des impôts, le téléphone de sa mère le trahit, les policiers visés chez eux",
       "url": "https://frenchbreaches.com/blog/piratage-des-impots-le-telephone-de-sa-mere-le-trahit-les-policiers-vises-chez-eux",
@@ -2079,18 +2267,6 @@
       "category": "actualite"
     },
     {
-      "id": "5e716b81743504d1a315",
-      "title": "Panne de Microsoft : pouvez-vous obtenir une indemnisation ?",
-      "url": "https://www.cyber-securite.fr/panne-de-microsoft-pouvez-vous-obtenir-une-indemnisation/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-13",
-      "published": "2026-11-13T14:58:27+00:00",
-      "desc": "Une panne Microsoft bloque parfois les outils de travail d’une PME entière. La compensation financière ... Lire plus L’article Panne de Microsoft : pouvez-vous obtenir une indemnisation ? est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "d32b5f97fc676bf8272f",
       "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
@@ -2451,42 +2627,6 @@
       "category": "actualite"
     },
     {
-      "id": "83f9d15e0e3302c8a9c3",
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T16:27:01+00:00",
-      "desc": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "96d21dc534c051cb0f29",
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T15:38:49+00:00",
-      "desc": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below - CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "9d96703e2366c2eb4531",
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T15:15:40+00:00",
-      "desc": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ea44e89cbf90e9e0ce63",
       "title": "Qare",
       "url": "https://frenchbreaches.com/alertes/qare-mwdouz7ym8s0q1o7h4",
@@ -2497,18 +2637,6 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "0c7b196fe26ffd911c70",
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T13:08:28+00:00",
-      "desc": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
     },
     {
       "id": "3cdf143592cca8a1652b",
@@ -2531,18 +2659,6 @@
       "published": "2026-11-12T12:13:00+00:00",
       "desc": "Des pirates revendiquent les données de 9 millions de patients via 1001RDV : identités, numéros de Sécurité sociale et rendez-vous médicaux.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "34b40f857b9f9cf53475",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:09:14+00:00",
-      "desc": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel. The affected",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -2617,6 +2733,30 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
+    },
+    {
+      "id": "abaef7f1e5425c1033ae",
+      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00+00:00",
+      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7e795b6888f43f77193f",
+      "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
+      "url": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00+00:00",
+      "desc": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "022df5a65b2780fe73af",
@@ -2919,6 +3059,18 @@
       "category": "alerte"
     },
     {
+      "id": "3f5f3c0d2650f71be3ff",
+      "title": "La CNIL sera présente au Salon des maires et des collectivités locales 2026",
+      "url": "https://www.cnil.fr/fr/salon-maires-collectivites-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-10",
+      "published": "2026-11-10T12:00:00+00:00",
+      "desc": "Du 24 au 26 novembre 2026, la CNIL sera présente au Salon des maires et des collectivités locales pour échanger avec les élus et agents territoriaux et répondre à leurs questions.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "7968a9c5c9159985941b",
       "title": "Anthropic accusé d’avoir divulgué les adresses e-mail de ses utilisateurs via Claude Code",
       "url": "https://frenchbreaches.com/blog/anthropic-accuse-davoir-divulgue-les-adresses-e-mail-de-ses-utilisateurs-via-claude-code",
@@ -3087,18 +3239,6 @@
       "category": "fuite"
     },
     {
-      "id": "f5ce56aca9d5fc8c3685",
-      "title": "Bornes d’arcade paralysées au Japon : une cyberattaque contre Sega prive les joueurs de plusieurs jeux",
-      "url": "https://www.01net.com/actualites/bornes-arcade-paralysees-japon-cyberattaque-contre-sega-prive-joueurs-mario-kart.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-09",
-      "published": "2026-11-09T13:00:52+00:00",
-      "desc": "De nombreuses bornes d’arcade japonaises sont privées de services en ligne depuis quelques jours. Une intrusion est en effet survenue dans les serveurs d’une filiale de Sega, responsable des bornes sur le sol nippon. L’attaque s’inscrit dans le cadre d'une vague de cyberattaques au Japon, à tel point que le gouvernement s'est engagé à réagir.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c00b73cd17978680073e",
       "title": "Fuite de données chez Expedia, des millions de voyageurs potentiellement concernés",
       "url": "https://frenchbreaches.com/blog/fuite-de-donnees-chez-expedia-des-millions-de-voyageurs-potentiellement-concernes",
@@ -3135,28 +3275,16 @@
       "category": "alerte"
     },
     {
-      "id": "d0ee4c74c8ecc78bfa70",
-      "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
-      "url": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "id": "c5a97fe599d3c32bd4f8",
+      "title": "Cybersécurité des collectivités territoriales : la CNIL prononce dix sanctions",
+      "url": "https://www.cnil.fr/fr/sanctions-cybersecurite-collectivites-territoriales",
+      "source": "CNIL — Actualités",
       "date": "2026-11-09",
-      "published": "2026-11-09T10:00:38+00:00",
-      "desc": "Le FBI et l’agence américaine de cybersécurité tirent la sonnette d’alarme. Dans une alerte commune publiée début novembre, ils mettent en garde contre des pirates qui s’en prennent aux frigos connectés des supermarchés, des entrepôts et du secteur de la santé, « dans le monde entier ». La menace est visiblement parvenue à passer les frontières de l'Europe.",
-      "type": "alerte",
+      "published": "2026-11-09T12:00:00+00:00",
+      "desc": "En novembre 2026, la CNIL a prononcé dix sanctions simplifiées à l’encontre de collectivités territoriales et d’un établissement public, pour des manquements relatifs à la cybersécurité.",
+      "type": "fuite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "888acf3c1f5c9ab045e0",
-      "title": "« Une partie » de l’argent récupérée : le Crédit Mutuel Arkéa limite la casse après la cyberattaque",
-      "url": "https://www.01net.com/actualites/une-partie-de-largent-recuperee-le-credit-mutuel-arkea-limite-la-casse-apres-la-cyberattaque.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-09",
-      "published": "2026-11-09T07:52:17+00:00",
-      "desc": "Le Crédit Mutuel Arkéa a récupéré une partie du butin des pirates. Quelques jours après la cyberattaque massive qui a touché ses systèmes, la banque bretonne indique avoir pu mettre la main sur une partie de l'argent, limitant ainsi la casse.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
+      "category": "fuite"
     },
     {
       "id": "af0cec17e70734328512",
@@ -3219,18 +3347,6 @@
       "category": "fuite"
     },
     {
-      "id": "a568c7fb9c8fdfc365a4",
-      "title": "Après les supermarchés, les hackers ciblent les frigos des hôpitaux « pour les vaccins ou les poches de sang »",
-      "url": "https://www.01net.com/actualites/frigos-pour-vaccins-apres-supermarches-monde-sante-viseur-pirates.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-08",
-      "published": "2026-11-08T12:00:36+00:00",
-      "desc": "Après les cyberattaques sur les frigos de supermarchés, les pirates s'intéressent désormais de près au monde de la santé. Début de semaine, les chambres froides de l’Établissement français du sang ont été piratées. Thales révèle que d'autres acteurs du « monde de la santé » ont découvert que leurs installations réfrigérées ont été approchées par des cybercriminels. Pour Thales Cyber Services, la branche conseil et services cyber du groupe français, « cette histoire va continuer »...",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a9b19303646e93ec239f",
       "title": "SGS Group – Sécuritest, Auto Sécurité et Vérif'Autos",
       "url": "https://frenchbreaches.com/alertes/sgs-group-s-curitest-auto-s-curit-et-v-rif-autos-mw6vd1rbumwau7gc4g",
@@ -3241,30 +3357,6 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
-    },
-    {
-      "id": "7aa04d283294b511796d",
-      "title": "Cette faille peut bloquer votre smartphone et vous forcer à tout effacer : Google n’est pas pressé de la corriger",
-      "url": "https://www.01net.com/actualites/faille-menace-faire-planter-votre-smartphone-android-google-pas-presse-corriger.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-08",
-      "published": "2026-11-08T10:00:37+00:00",
-      "desc": "Les chercheurs de Bitdefender viennent de lever le voile sur GhostMap, une faille qui menace de bloquer un smartphone Android. Il suffit en fait d’installer une application piégée pour se retrouver piégé dans une boucle de plantages. Google refuse pour l’instant de corriger la vulnérabilité de son système d'exploitation.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "2f0fc3b83468e141b083",
-      "title": "Fuite de données chez Sécuritest : 40 millions de plaques d'immatriculation exposées",
-      "url": "https://frenchbreaches.com/blog/fuite-de-donnees-chez-securitest-40-millions-de-plaques-dimmatriculation-exposees",
-      "source": "French Breaches-blog",
-      "date": "2026-11-07",
-      "published": "2026-11-07T21:33:00+00:00",
-      "desc": "Un pirate met en vente 96 Go de données liées au groupe SGS, Sécuritest et Auto Sécurité, dont 40 millions de plaques et 22 millions de personnes.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "8880e5325881f6b09d1c",
@@ -3387,6 +3479,18 @@
       "category": "alerte"
     },
     {
+      "id": "b11c59359777bb2ca107",
+      "title": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
+      "url": "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-06",
+      "published": "2026-11-06T12:00:00+00:00",
+      "desc": "Votre établissement emploie des professionnels de santé qui mènent des recherches internes&nbsp;? La CNIL rappelle les règles.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "da4bac98b7cf1663b753",
       "title": "Rassemblement National",
       "url": "https://frenchbreaches.com/alertes/rassemblement-national-mw4ufbdh16487h5qolv",
@@ -3481,6 +3585,30 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "alerte"
+    },
+    {
+      "id": "f3298b7ed26f98c98664",
+      "title": "Ordre du jour de la séance plénière du 5 novembre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-novembre-2026",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 5 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b04c239b5b6c4a066e6d",
+      "title": "Rejeu de session : ces outils qui enregistrent votre activité en ligne",
+      "url": "https://www.cnil.fr/fr/rejeu-de-session-vos-droits",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "Lorsque vous naviguez sur Internet ou que vous utilisez une application sur votre téléphone, vos actions peuvent être enregistrées par ce que l’on appelle des outils de rejeu de session. À quoi servent-ils et quels sont vos droits&nbsp;?",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
     },
     {
       "id": "c5bfeedc9f8814604d6b",
