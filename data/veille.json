@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:44:58.285010+00:00",
+  "generated_at": "2026-11-19T05:18:12.860628+00:00",
   "sources_total": 11,
   "sources_ok": 9,
   "sources_failed": 2,
@@ -14,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "id": "75b5f95941280ec24fc1",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "source": "The Hacker News",
+      "date": "2026-11-19",
+      "published": "2026-11-19T04:33:46+00:00",
+      "desc": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "d76b063344add31c2862",
+      "title": "Rahma TV",
+      "url": "https://frenchbreaches.com/alertes/rahma-tv-mwmsirnsl6pcm9dbybs",
+      "source": "French Breaches",
+      "date": "2026-11-19",
+      "published": "2026-11-19T00:04:00+00:00",
+      "desc": "Rahma TV visé par une fuite de données, près de 700 utilisateurs potentiellement concernés Rahma TV, plateforme francophone proposant des vidéos et des enseignements autour du Coran, fait l'objet d'une revendication de fuite de données sur un forum cybercriminel. Un individu affi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "98624c3d23ee283ff3bc",
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
@@ -2595,18 +2619,6 @@
       "category": "alerte"
     },
     {
-      "id": "e8aac6829dfb0bdd4a80",
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-      "source": "The Hacker News",
-      "date": "2026-11-12",
-      "published": "2026-11-12T11:51:43+00:00",
-      "desc": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet,\" N-able said in a new advisory. \"Legacy API is",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "022df5a65b2780fe73af",
       "title": "Ciblex",
       "url": "https://frenchbreaches.com/alertes/ciblex-mwdghdju6bib09ixczr",
@@ -3443,18 +3455,6 @@
       "published": "2026-11-05T14:43:00+00:00",
       "desc": "Fuite de données : des patients de plusieurs laboratoires du groupe Inovie concernés Des données personnelles de patients de plusieurs laboratoires du groupe Inovie ont été touchées par un incident de sécurité chez Maileva, un prestataire spécialisé dans l'envoi de courriers. Sel…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "630c9e0345c54a9250a5",
-      "title": "Novabio",
-      "url": "https://frenchbreaches.com/alertes/novabio-mw3nn1zm7tqngz1inio",
-      "source": "French Breaches",
-      "date": "2026-11-05",
-      "published": "2026-11-05T14:42:00+00:00",
-      "desc": "Novabio victime d'une cyberattaque : des données de santé de patients potentiellement exposées Le laboratoire de biologie médicale Novabio a révélé un incident de cybersécurité ayant affecté son système Qualité. Des données d'identité et de santé de certains patients pourraient a…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
