@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T13:57:46.157247+00:00",
+  "generated_at": "2026-11-21T22:38:44.283551+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,114 @@
     }
   ],
   "items": [
+    {
+      "id": "cd00c38abb0c60dda61d",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21",
+      "published": "2026-11-21T18:01:58+00:00",
+      "desc": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "9c3f2473640f00b5e047",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21",
+      "published": "2026-11-21T15:17:27+00:00",
+      "desc": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f37cb58fccc975cff64f",
+      "title": "Orchestra",
+      "url": "https://frenchbreaches.com/alertes/orchestra-mwqjgibjsfgntq6dyuk",
+      "source": "French Breaches",
+      "date": "2026-11-21",
+      "published": "2026-11-21T15:02:00+00:00",
+      "desc": "Cyberattaque chez Voyages E.Leclerc, Carrefour Voyages, Selectour et Havas Voyages à l'arrêt Une cyberattaque visant Orchestra, un fournisseur informatique majeur du tourisme français, a provoqué d'importantes perturbations chez Voyages E.Leclerc, Carrefour Voyages, Selectour et…",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "813f1457edb25e464330",
+      "title": "Les données de près de 19 millions d'automobilistes français mises en vente par un pirate",
+      "url": "https://frenchbreaches.com/blog/les-donnees-de-pres-de-19-millions-dautomobilistes-francais-mises-en-vente-par-un-pirate",
+      "source": "French Breaches-blog",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:50:00+00:00",
+      "desc": "Près de 19 millions de données liées à des plaques françaises mises en vente par un pirate, avec noms, téléphones et e-mails.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ea0fa9f8b9841aecde3f",
+      "title": "Robot Advance",
+      "url": "https://frenchbreaches.com/alertes/robot-advance-mwqip71q8i2uxq55z1x",
+      "source": "French Breaches",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:41:00+00:00",
+      "desc": "Robot Advance visé par une fuite de données, près de 200 000 clients pourraient être concernés Un pirate informatique affirme vendre une importante base de données provenant de Robot Advance, un site français spécialisé dans les robots, les jouets éducatifs et les objets connecté…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "664907f8797fcc004464",
+      "title": "La Maison Des Travaux",
+      "url": "https://frenchbreaches.com/alertes/la-maison-des-travaux-mwqim3512cssbwz8jde",
+      "source": "French Breaches",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:39:00+00:00",
+      "desc": "La Maison des Travaux visée par une fuite de données, des centaines de milliers de clients concernés Une importante fuite de données est revendiquée chez La Maison des Travaux, un réseau français qui accompagne les particuliers dans leurs projets de rénovation. Un pirate affirme…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "7f638c295c0d8fea78e4",
+      "title": "GoTronic",
+      "url": "https://frenchbreaches.com/alertes/gotronic-mwqiij0l351ddo81adu",
+      "source": "French Breaches",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:35:00+00:00",
+      "desc": "GoTronic visé par une fuite de données, plus de 300 000 adresses e-mail de clients revendiquées Un pirate informatique affirme avoir mis en vente une importante base de données provenant de GoTronic, un site français spécialisé dans les composants électroniques et la robotique. P…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "6eaabec128466878a46e",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:26:04+00:00",
+      "desc": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d29ac684f6bef3cc9eed",
+      "title": "Clevermate",
+      "url": "https://frenchbreaches.com/alertes/clevermate-mwqhk4jhz05mfutusn",
+      "source": "French Breaches",
+      "date": "2026-11-21",
+      "published": "2026-11-21T14:07:00+00:00",
+      "desc": "Clevermate victime d'une fuite de données, des diplômes et des IBAN publiés par un pirate Le site français de soutien scolaire Clevermate est visé par une fuite de données revendiquée ce samedi 21 novembre 2026. Un pirate affirme avoir publié des informations personnelles et banc…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "059e30cfca7341a0e49d",
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -815,18 +923,6 @@
       "category": "actualite"
     },
     {
-      "id": "8e443c2964ac625708f2",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T16:28:23+00:00",
-      "desc": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "type": "actualite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "f56a2e4b868e02efe2e9",
       "title": "Web Sage : une extension IA contre le phishing",
       "url": "https://www.cyber-securite.fr/bitdefender-web-sage/",
@@ -859,30 +955,6 @@
       "published": "2026-11-19T15:11:06+00:00",
       "desc": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
       "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "eb38241a0eaffa222fca",
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T15:00:10+00:00",
-      "desc": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical systems and backups. [...]",
-      "type": "fuite",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "03c656aa7f6268581691",
-      "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T14:57:24+00:00",
-      "desc": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
-      "type": "actualite",
       "sev": "Critique",
       "category": "actualite"
     },
@@ -3179,18 +3251,6 @@
       "category": "actualite"
     },
     {
-      "id": "90aaa6b596d73e85683b",
-      "title": "SEGA victime d'une fuite massive de données touchant 2,2 millions d'adresses email",
-      "url": "https://frenchbreaches.com/blog/sega-victime-dune-fuite-massive-de-donnees-touchant-22-millions-dadresses-email",
-      "source": "French Breaches-blog",
-      "date": "2026-11-10",
-      "published": "2026-11-10T19:33:00+00:00",
-      "desc": "SEGA confirme une fuite de données touchant 2,2 millions d'adresses email après une cyberattaque chez son prestataire de newsletters ARARA.",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
       "id": "f29f69f4917f066d6c7a",
       "title": "Geofixe",
       "url": "https://frenchbreaches.com/alertes/geofixe-mwb1l72h9v4in2jyrj",
@@ -3551,30 +3611,6 @@
       "category": "fuite"
     },
     {
-      "id": "b75304d67b0029c74ecf",
-      "title": "Secours Islamique France (SIF)",
-      "url": "https://frenchbreaches.com/alertes/secours-islamique-france-sif-mw5dy2dqdh2n7otqgxd",
-      "source": "French Breaches",
-      "date": "2026-11-06",
-      "published": "2026-11-06T19:45:00+00:00",
-      "desc": "Cyberattaque au Secours Islamique France : les données personnelles de donateurs exposées Le Secours Islamique France (SIF), une organisation humanitaire française, confirme avoir été victime d'une cyberattaque ayant entraîné l'exposition de données personnelles de donateurs. Nom…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "11e3f7d61bae12f64c36",
-      "title": "Transcontinents",
-      "url": "https://frenchbreaches.com/alertes/transcontinents-mw5am0zv9dgfruhlnxs",
-      "source": "French Breaches",
-      "date": "2026-11-06",
-      "published": "2026-11-06T18:12:00+00:00",
-      "desc": "Cyberattaque chez Transcontinents : des données de voyageurs volées, une alerte lancée aux clients L'agence de voyages Transcontinents, implantée à La Réunion, confirme avoir été victime d'un accès informatique non autorisé ayant entraîné le vol de données de réservation. Des cli…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "2e68c4969154600586c3",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -3585,42 +3621,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
-    },
-    {
-      "id": "da4bac98b7cf1663b753",
-      "title": "Rassemblement National",
-      "url": "https://frenchbreaches.com/alertes/rassemblement-national-mw4ufbdh16487h5qolv",
-      "source": "French Breaches",
-      "date": "2026-11-06",
-      "published": "2026-11-06T10:33:00+00:00",
-      "desc": "Cyberattaque du Rassemblement national : le RN confirme une fuite de données après la revendication d'un pirate Mise à jour le 04 novembre 2026 à 15h Le Rassemblement national confirme avoir subi une cyberattaque ayant entraîné la divulgation de données personnelles de certains a…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "2accadf127e83668fa36",
-      "title": "ISAE-Supméca",
-      "url": "https://frenchbreaches.com/alertes/isae-supm-ca-mw4w3zidii5j32t03la",
-      "source": "French Breaches",
-      "date": "2026-11-06",
-      "published": "2026-11-06T09:30:00+00:00",
-      "desc": "Cyberattaque : une école d'ingénieurs française paralysée par un rançongiciel, l'ANSSI mobilisée L'école d'ingénieurs ISAE-Supméca, spécialisée dans l'ingénierie mécanique et numérique, a été victime d'une importante cyberattaque ayant affecté l'ensemble de son infrastructure inf…",
-      "type": "alerte",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "f4a18c32e0513b0207a1",
-      "title": "Centre communal d'action sociale de Dunkerque (CCAS)",
-      "url": "https://frenchbreaches.com/alertes/centre-communal-d-action-sociale-de-dunkerque-ccas-mw45w2n69mvn7m090v4",
-      "source": "French Breaches",
-      "date": "2026-11-05",
-      "published": "2026-11-05T23:15:00+00:00",
-      "desc": "CCAS de Dunkerque : les données personnelles de 66 659 usagers republiées après un piratage Le Centre communal d'action sociale (CCAS) de Dunkerque, organisme chargé d'accompagner les habitants dans leurs démarches sociales, voit de nouveau des données qui lui sont attribuées app…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "cddef5bb18e3bcbf0141",
