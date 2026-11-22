@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:21:38.295681+00:00",
+  "generated_at": "2026-11-22T13:51:06.377375+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,42 @@
     }
   ],
   "items": [
+    {
+      "id": "aeb0b770f8ed7878da35",
+      "title": "Espionnage russe : des journalistes et un député français visés sur Signal et Telegram",
+      "url": "https://frenchbreaches.com/blog/espionnage-russe-des-journalistes-et-un-depute-francais-vises-sur-signal-et-telegram",
+      "source": "French Breaches-blog",
+      "date": "2026-11-22",
+      "published": "2026-11-22T08:51:00+00:00",
+      "desc": "Des espions russes tentent de pirater les comptes Signal et Telegram de journalistes, du député Éric Bothorel et de militants soutenant l'Ukraine.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6d087c898942cc0c2503",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "source": "The Hacker News",
+      "date": "2026-11-22",
+      "published": "2026-11-22T05:06:55+00:00",
+      "desc": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a3c63e958cb92eef3df0",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "source": "The Hacker News",
+      "date": "2026-11-22",
+      "published": "2026-11-22T05:03:41+00:00",
+      "desc": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "1fa3870c33e20a339984",
       "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -2471,30 +2507,6 @@
       "category": "actualite"
     },
     {
-      "id": "e021b9febf9ed0b72381",
-      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16",
-      "published": "2026-11-16T13:27:20+00:00",
-      "desc": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a989c64e51ebb71dbd1d",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "source": "The Hacker News",
-      "date": "2026-11-16",
-      "published": "2026-11-16T12:34:21+00:00",
-      "desc": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "9ae53f7ff8037359527a",
       "title": "Piratage de La Poste : la police lance une enquête pour retrouver les pirates",
       "url": "https://www.01net.com/actualites/piratage-poste-police-lance-enquete-retrouver-pirates.html",
@@ -3235,18 +3247,6 @@
       "published": "2026-11-11T07:11:47+00:00",
       "desc": "Pour écouler les 6,4 milliards de dollars volés à Binance, les pirates nord-coréens ont trouvé une astuce plutôt inattendue. Les truands ont en effet créé leurs propres memecoins, des cryptomonnaies parodiques, et ils s'en servent massivement pour brouiller les pistes. Les memecoins utilisés par les hackers représentent notamment des singes, un canard et Elon Musk.",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "7776f285c46c1a7fc3f9",
-      "title": "Torcal, géant espagnol des auto-écoles, visé par un piratage massif de données de 500 000 élèves",
-      "url": "https://frenchbreaches.com/blog/torcal-geant-espagnol-des-auto-ecoles-vise-par-un-piratage-massif-de-donnees-de-500-000-eleves",
-      "source": "French Breaches-blog",
-      "date": "2026-11-10",
-      "published": "2026-11-10T19:54:00+00:00",
-      "desc": "Torcal, l'un des leaders des auto-écoles en Espagne, est visé par une cyberattaque revendiquée. Les données de 500 000 élèves seraient menacées.",
-      "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
     },
