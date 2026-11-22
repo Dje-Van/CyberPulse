@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:38:44.283551+00:00",
+  "generated_at": "2026-11-22T04:21:38.295681+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,18 @@
     }
   ],
   "items": [
+    {
+      "id": "1fa3870c33e20a339984",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "date": "2026-11-21",
+      "published": "2026-11-21T22:59:58+00:00",
+      "desc": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "cd00c38abb0c60dda61d",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -871,18 +883,6 @@
       "published": "2026-11-19T18:47:58+00:00",
       "desc": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "37781c126ada26176a3e",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T18:20:01+00:00",
-      "desc": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
