@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:51:06.377375+00:00",
+  "generated_at": "2026-11-22T23:02:08.891437+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,78 @@
     }
   ],
   "items": [
+    {
+      "id": "7e2318959da96aef1f83",
+      "title": "Wanda Collection",
+      "url": "https://frenchbreaches.com/alertes/wanda-collection-mws8a88mjga465247dj",
+      "source": "French Breaches",
+      "date": "2026-11-22",
+      "published": "2026-11-22T19:25:00+00:00",
+      "desc": "Wanda Collection visée par une fuite de données, près de 100 000 clients potentiellement exposés Wanda Collection, une boutique française spécialisée dans la vente de meubles et d'articles de décoration pour la maison, fait l'objet d'une importante revendication de fuite de donné…",
+      "type": "fuite",
+      "sev": "Haute",
+      "category": "fuite"
+    },
+    {
+      "id": "6345b79ea4d312df8bd5",
+      "title": "La Chouette Mauve",
+      "url": "https://frenchbreaches.com/alertes/la-chouette-mauve-mws87da0l7uyj8br0n8",
+      "source": "French Breaches",
+      "date": "2026-11-22",
+      "published": "2026-11-22T19:22:00+00:00",
+      "desc": "La Chouette Mauve visée par une fuite de données concernant plus de 111 000 e-mails de clients La Chouette Mauve, une boutique française en ligne spécialisée dans les cadeaux personnalisés et les créations originales, fait l'objet d'une revendication de fuite de données. Un pirat…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "9ebc6504ec0a5126d9e0",
+      "title": "Subtil Diamant",
+      "url": "https://frenchbreaches.com/alertes/subtil-diamant-mws83vattepri3sjcq",
+      "source": "French Breaches",
+      "date": "2026-11-22",
+      "published": "2026-11-22T19:19:00+00:00",
+      "desc": "Subtil Diamant victime d'une fuite de données revendiquée par un pirate informatique Un cybercriminel affirme avoir mis en vente une base de données provenant de Subtil Diamant, une bijouterie française spécialisée dans la vente de bijoux, de diamants et de montres. Le fichier co…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f7511684402b8adf536b",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22",
+      "published": "2026-11-22T18:45:37+00:00",
+      "desc": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "c75a4d0a4b580d8c6208",
+      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22",
+      "published": "2026-11-22T15:43:04+00:00",
+      "desc": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "daee16a474d467015095",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+      "source": "BleepingComputer",
+      "date": "2026-11-22",
+      "published": "2026-11-22T15:15:25+00:00",
+      "desc": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "aeb0b770f8ed7878da35",
       "title": "Espionnage russe : des journalistes et un député français visés sur Signal et Telegram",
@@ -647,18 +719,6 @@
       "category": "actualite"
     },
     {
-      "id": "15f220796a18084d9a07",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20",
-      "published": "2026-11-20T00:26:25+00:00",
-      "desc": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
       "id": "52fc319b6051ad3c3f01",
       "title": "Multiples vulnérabilités dans les produits VMware (20 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1598/",
@@ -875,18 +935,6 @@
       "category": "alerte"
     },
     {
-      "id": "f234841cd5e8d0a97c8a",
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T22:25:42+00:00",
-      "desc": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "31c6ac99380a02181a20",
       "title": "JPMorgan, Visa et Mastercard touchés par une cyberattaque et une fuite de données clients",
       "url": "https://frenchbreaches.com/blog/jpmorgan-visa-et-mastercard-touches-par-une-cyberattaque-et-une-fuite-de-donnees-clients",
@@ -896,18 +944,6 @@
       "desc": "Trois géants de la finance américaine sont concernés par une cyberattaque visant des prestataires informatiques. Des milliers d'adresses e-mail de clients auraient été divulguées par un groupe de pirates qui revendique l'opération. JPMorgan, Visa et Mastercard assurent que leurs systèmes de paiement n'ont pas été compromis.",
       "type": "fuite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "8ea9e80818a4bc392e09",
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "source": "BleepingComputer",
-      "date": "2026-11-19",
-      "published": "2026-11-19T21:15:59+00:00",
-      "desc": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-      "type": "actualite",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -3570,42 +3606,6 @@
       "date": "2026-11-07",
       "published": "2026-11-07T11:58:00+00:00",
       "desc": "Cyberattaque chez Smartbox : des données personnelles de clients potentiellement exposées Smartbox, spécialiste des coffrets cadeaux et des expériences à offrir, confirme avoir été victime d'une cyberattaque le 3 novembre 2026. Dans un e-mail adressé à ses clients, l'entreprise a…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "b5551736299472d5e45c",
-      "title": "Aréas Assurance",
-      "url": "https://frenchbreaches.com/alertes/ar-as-assurance-mw6baq6okzuyarkesx",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T11:18:00+00:00",
-      "desc": "Fuite de données chez Aréas Assurances : plus de 21 700 assurés français potentiellement concernés Mise à jour du 11 novembre à 10h Le groupe Aréas Assurances confirme avoir été victime d'un incident de sécurité le 7 novembre 2026, ayant potentiellement entraîné une fuite de donn…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "dc8857562cd7821d1677",
-      "title": "Caverne des Jouets",
-      "url": "https://frenchbreaches.com/alertes/caverne-des-jouets-mw6azxay5sfe24oknka",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T11:14:00+00:00",
-      "desc": "Fuite de données à La Caverne des Jouets : près d'un million de clients potentiellement concernés À quelques semaines de Noël, La Caverne des Jouets, boutique française de vente de jouets et de jeux en ligne, fait l'objet d'une importante revendication de fuite de données. Un pir…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "b706cf77ae964ac4ee41",
-      "title": "Delcampe",
-      "url": "https://frenchbreaches.com/alertes/delcampe-mw5j6omoqu90qlrib2",
-      "source": "French Breaches",
-      "date": "2026-11-06",
-      "published": "2026-11-06T22:11:00+00:00",
-      "desc": "Cyberattaque chez Delcampe : les données personnelles d'utilisateurs téléchargées par des pirates Delcampe, plateforme de vente en ligne spécialisée dans les objets de collection, confirme un incident de sécurité ayant entraîné l'exposition de données personnelles de certains uti…",
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
