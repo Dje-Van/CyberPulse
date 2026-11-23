@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:02:08.891437+00:00",
+  "generated_at": "2026-11-23T04:58:17.615112+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,66 @@
     }
   ],
   "items": [
+    {
+      "id": "1b075de5004f5747602b",
+      "title": "Fondation des femmes",
+      "url": "https://frenchbreaches.com/alertes/fondation-des-femmes-mwslzfr9dmmcraechdu",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T03:32:00+00:00",
+      "desc": "Fuite de données à la Fondation des Femmes, plus de 118 000 adresses e-mail dans des fichiers La Fondation des Femmes, fondation française qui finance et soutient des associations de défense des droits des femmes, fait l'objet d'une revendication de fuite de données publiée le 23…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "45e2bf59522f309aaba9",
+      "title": "Decathlon",
+      "url": "https://frenchbreaches.com/alertes/decathlon-mwsnl2jcqpydbdbuhw",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T02:29:00+00:00",
+      "desc": "Decathlon, les données de 163 000 clients potentiellement exposées dans une fuite Decathlon, enseigne française spécialisée dans les articles de sport, est visée par une revendication de fuite de données publiée le 22 novembre 2026 sur un forum cybercriminel. Un pirate utilisant…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d2893ecbe43748ace81f",
+      "title": "CHU de Guadeloupe",
+      "url": "https://frenchbreaches.com/alertes/chu-de-guadeloupe-mwsn70em60u7iz2azyi",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T02:22:00+00:00",
+      "desc": "Cyberattaque au CHU de Guadeloupe, le plan blanc déclenché et des opérations reportées Le CHU de la Guadeloupe a été victime d'une cyberattaque le samedi 21 novembre 2026. L'incident perturbe ses systèmes informatiques et téléphoniques, obligeant l'établissement à déclencher le p…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a8644495faa3b764d213",
+      "title": "Agence d'Accompagnement Actif à l'Évaluation Psychotechnique (AAAEP)",
+      "url": "https://frenchbreaches.com/alertes/agence-d-accompagnement-actif-l-valuation-psychotechnique-aaaep-mwsfi1x6xgz6drfbeak",
+      "source": "French Breaches",
+      "date": "2026-11-22",
+      "published": "2026-11-22T23:32:00+00:00",
+      "desc": "AAAEP, spécialiste des tests pour récupérer son permis, visé par une fuite de données Le groupe de pirates BlackHatSect0r revendique une intrusion dans les systèmes d'AAAEP, un organisme français spécialisé dans les tests psychotechniques du permis de conduire. Les pirates affirm…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "40000ce37aad50fe184e",
+      "title": "Laboratoire pour la Santé Animale (LAPSA)",
+      "url": "https://frenchbreaches.com/alertes/laboratoire-pour-la-sant-animale-lapsa-mwsgiojqs5jtk67611h",
+      "source": "French Breaches",
+      "date": "2026-11-22",
+      "published": "2026-11-22T23:14:00+00:00",
+      "desc": "LAPSA, marque française de croquettes pour chiens et chats, visée par une fuite de données Une marque française spécialisée dans l'alimentation des chiens et des chats fait l'objet d'une revendication de fuite de données concernant 80 000 clients. Un pirate affirme diffuser des i…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
     {
       "id": "7e2318959da96aef1f83",
       "title": "Wanda Collection",
@@ -3547,66 +3607,6 @@
       "published": "2026-11-08T15:39:00+00:00",
       "desc": "Fuite de données chez Omnicasa : plus de 465 000 adresses e-mail potentiellement exposées Près de 3,9 Go de données attribuées à Omnicasa, un logiciel utilisé par des professionnels de l'immobilier en Belgique, sont proposés à la vente sur un forum cybercriminel. Un pirate affirm…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a9b19303646e93ec239f",
-      "title": "SGS Group – Sécuritest, Auto Sécurité et Vérif'Autos",
-      "url": "https://frenchbreaches.com/alertes/sgs-group-s-curitest-auto-s-curit-et-v-rif-autos-mw6vd1rbumwau7gc4g",
-      "source": "French Breaches",
-      "date": "2026-11-08",
-      "published": "2026-11-08T10:40:00+00:00",
-      "desc": "Fuite de données liée au groupe SGS : plus de 40 millions de plaques d'immatriculation potentiellement exposées Mise à jour le 14 novembre à 12h00 Le groupe SGS confirme un incident de cybersécurité touchant les systèmes de prise de rendez-vous en ligne de ses réseaux Sécuritest,…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8880e5325881f6b09d1c",
-      "title": "Auto-Planning",
-      "url": "https://frenchbreaches.com/alertes/auto-planning-mvsr5k8z732ik7zcded",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T20:03:00+00:00",
-      "desc": "Fuite de données chez Auto-Planning : 242 millions de lignes et 34,6 Go de fichiers mis en vente par un pirate Nouveau rebondissement dans la cyberattaque d'Auto-Planning, une entreprise française spécialisée dans les réservations de contrôles techniques automobiles. Le 7 novembr…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8f453ad4500d24efc0c5",
-      "title": "Titres Services",
-      "url": "https://frenchbreaches.com/alertes/titres-services-mw49chlrygke8bvq1b",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T19:29:00+00:00",
-      "desc": "Fuite de données chez I.L. & C. – Titres Services, plus de 71 Go de fichiers revendiqués par des pirates Une entreprise belge spécialisée dans le ménage et l'aide à domicile est visée par le groupe de ransomware SafePay. Un inventaire attribué à I.L. & C. – Titres Services répert…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "967de9dc2648c02c7fca",
-      "title": "Burda Style",
-      "url": "https://frenchbreaches.com/alertes/burda-style-mw6qlcon9wdev310pd5",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T18:27:00+00:00",
-      "desc": "Fuite de données chez Burda Style après un piratage, les informations de clients potentiellement exposées Burda Style, marque spécialisée dans les patrons de couture et les loisirs créatifs, informe ses clients avoir été victime d'une cyberattaque à la mi-octobre 2026. Des inform…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "6ea73284689e1546a939",
-      "title": "Smartbox",
-      "url": "https://frenchbreaches.com/alertes/smartbox-mw6cp9hcqplas85uka",
-      "source": "French Breaches",
-      "date": "2026-11-07",
-      "published": "2026-11-07T11:58:00+00:00",
-      "desc": "Cyberattaque chez Smartbox : des données personnelles de clients potentiellement exposées Smartbox, spécialiste des coffrets cadeaux et des expériences à offrir, confirme avoir été victime d'une cyberattaque le 3 novembre 2026. Dans un e-mail adressé à ses clients, l'entreprise a…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
