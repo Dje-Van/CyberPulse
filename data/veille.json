@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:58:09.458138+00:00",
+  "generated_at": "2026-11-24T03:40:40.234970+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,234 @@
     }
   ],
   "items": [
+    {
+      "id": "429b5afbfe3c94ab3d02",
+      "title": "GTA 6 sur PC avant l'heure, Rockstar aurait fait bannir le projet Leonida de GitHub et Discord",
+      "url": "https://frenchbreaches.com/blog/gta-6-sur-pc-avant-lheure-rockstar-aurait-fait-bannir-le-projet-leonida-de-github-et-discord",
+      "source": "French Breaches-blog",
+      "date": "2026-11-24",
+      "published": "2026-11-24T01:03:00+00:00",
+      "desc": "Le projet Leonida, qui ambitionnait de faire fonctionner GTA 6 sur PC à partir de sa version Xbox Series, disparaît de GitHub et Discord.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b18f0538c240a724de4c",
+      "title": "LoveAndVibes",
+      "url": "https://frenchbreaches.com/alertes/loveandvibes-mwtyy9k91lngkrrrtg2",
+      "source": "French Breaches",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:37:00+00:00",
+      "desc": "Love and Vibes visé par un piratage, plus de 237 000 commandes mises en vente Les informations personnelles et les achats intimes de milliers de Français pourraient se retrouver entre les mains de cybercriminels. Ce mardi 24 novembre 2026, un pirate utilisant le pseudonyme Chimer…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "6811c107e4ee2a729ae0",
+      "title": "Des numéros de cartes bancaires et leurs cryptogrammes volés lors du piratage de Cleverbridge",
+      "url": "https://frenchbreaches.com/blog/des-numeros-de-cartes-bancaires-et-leurs-cryptogrammes-voles-lors-du-piratage-de-cleverbridge",
+      "source": "French Breaches-blog",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:59:00+00:00",
+      "desc": "Cleverbridge confirme une cyberattaque ayant entraîné le vol de numéros de cartes bancaires, de dates d'expiration et de cryptogrammes de sécurité.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "bd46fabe256c765cd36b",
+      "title": "Univers du Cuir (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/univers-du-cuir-via-arobases-mwtx487wztth7gkpme",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:49:00+00:00",
+      "desc": "Fuite de données chez Univers du Cuir, plus de 32 000 adresses e-mail potentiellement compromises Une nouvelle enseigne française de mobilier est visée par une revendication de fuite de données. Ce lundi 23 novembre 2026, un cybercriminel opérant sous le pseudonyme Chimera a anno…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "9d1aad196764b0f7ec44",
+      "title": "Expert Canapé (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/expert-canap-via-arobases-mwtx16afew242r61btp",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:47:00+00:00",
+      "desc": "Expert Canapé victime d'une fuite de données, des informations personnelles de clients diffusées Une nouvelle enseigne française est concernée par une revendication de fuite de données. Ce lundi 23 novembre 2026, un cybercriminel opérant sous le pseudonyme Chimera a annoncé sur u…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1e9c5c8a5257de131532",
+      "title": "Rapid-Sign (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/rapid-sign-via-arobases-mwtwy8jdxkna7s4ko",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:42:00+00:00",
+      "desc": "Rapid Sign victime d’une fuite de données, plus de 22 000 adresses e-mail potentiellement exposées Rapid Sign, entreprise française spécialisée dans les services de prépresse et d'impression professionnelle, est à son tour concernée par une revendication de fuite de données. Un p…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ed4edaf95939a0d2a45d",
+      "title": "L'Empreinte du Bois (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/l-empreinte-du-bois-via-arobases-mwtwj3fsaa6v5s572l",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:31:00+00:00",
+      "desc": "Noms, adresses et factures de clients de L'Empreinte du Bois exposés par un pirate L'Empreinte du Bois, entreprise française spécialisée dans les produits en bois, est visée par une revendication de fuite de données ce lundi 23 novembre 2026. Un pirate informatique utilisant le p…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "7e54680901c3ac8eca1d",
+      "title": "Bocklip (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/bocklip-via-arobases-mwtwfs5rrpthaimsfq9",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T23:28:00+00:00",
+      "desc": "Bocklip visé par une fuite de données, des informations clients et bancaires partiellement exposées Bocklip, entreprise spécialisée dans la personnalisation de meubles et de cuisines, est visé par une revendication de fuite de données ce lundi 23 novembre 2026. Un pirate informat…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "3728acf46681f6d99270",
+      "title": "Euro Vanille (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/euro-vanille-via-arobases-mwtv5gpu310w15fg1cg",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T22:52:00+00:00",
+      "desc": "Eurovanille visé par une fuite de données, des informations clients et de paiement exposées Eurovanille, entreprise française spécialisée dans la vanille naturelle et les ingrédients destinés aux professionnels de l'alimentation, est visé par une revendication de fuite de données…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "a9610f7323be92c6d30c",
+      "title": "Les Gazons Parisiens (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/les-gazons-parisiens-via-arobases-mwtv29sb8dyt5f4mtl6",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T22:50:00+00:00",
+      "desc": "Les Gazons Parisiens ciblé par un pirate qui revendique plus de 320 000 lignes de données Les Gazons Parisiens, entreprise française spécialisée dans la production et la commercialisation de gazon naturel en rouleaux, est visé par une revendication de fuite de données ce lundi 23…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "31d1d182c1ad80cab5fd",
+      "title": "La Fabrique d’Écharpe (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/la-fabrique-d-charpe-via-arobases-mwtuyslfziyg0gpig68",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T22:49:00+00:00",
+      "desc": "La Fabrique d’Écharpe visée par un pirate, des milliers de coordonnées potentiellement exposées La Fabrique d’Écharpe, une entreprise française spécialisée dans la conception et la fabrication d’écharpes et de châles, est visée par une nouvelle revendication de fuite de données.…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b4b4451fad30e0042558",
+      "title": "Happy Candy (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/happy-candy-via-arobases-mwtuteuvw9w64w09gg",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T22:43:00+00:00",
+      "desc": "Fuite de données chez Happy Candy, plus de 7 200 adresses e-mail revendiquées après le piratage d'Arobases Happy Candy, une boutique française spécialisée dans les bonbons et les gâteaux de confiserie personnalisés, fait l'objet d'une revendication de fuite de données publiée le…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "9b832f56756b02d51de7",
+      "title": "Idil Diffusion (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/idil-diffusion-via-arobases-mwtuplwhuw2izdzcl2",
+      "source": "French Breaches",
+      "date": "2026-11-23",
+      "published": "2026-11-23T22:39:00+00:00",
+      "desc": "Fuite de données chez Idil Diffusion, plus de 1,4 million d'enregistrements revendiqués après le piratage d'Arobases Idil Diffusion, fournisseur français de composants et d'accessoires pour les professionnels de la bijouterie, est visé par une nouvelle revendication de fuite de d…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "957088ac58c071d1f397",
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "source": "BleepingComputer",
+      "date": "2026-11-23",
+      "published": "2026-11-23T20:54:51+00:00",
+      "desc": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7b86d265d0e5ec071e3b",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "source": "BleepingComputer",
+      "date": "2026-11-23",
+      "published": "2026-11-23T20:00:20+00:00",
+      "desc": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "351ef75337d427e12b86",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "source": "BleepingComputer",
+      "date": "2026-11-23",
+      "published": "2026-11-23T19:42:20+00:00",
+      "desc": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6a4ef98e17a46e46919c",
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "source": "BleepingComputer",
+      "date": "2026-11-23",
+      "published": "2026-11-23T18:38:40+00:00",
+      "desc": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5495a06dee26529fd91c",
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "source": "The Hacker News",
+      "date": "2026-11-23",
+      "published": "2026-11-23T17:45:15+00:00",
+      "desc": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified variant \"implements various tricks to hide itself from security tools,\"",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "756a71f7aceeab2ad88e",
+      "title": "Le pirate de GTA 6 condamné à sept ans de prison après avoir attaqué Rockstar Games, Uber et Revolut",
+      "url": "https://frenchbreaches.com/blog/le-pirate-de-gta-6-condamne-a-sept-ans-de-prison-apres-avoir-attaque-rockstar-games-uber-et-revolut",
+      "source": "French Breaches-blog",
+      "date": "2026-11-23",
+      "published": "2026-11-23T17:32:00+00:00",
+      "desc": "Arion Kurtaj, membre du groupe Lapsus$, écope de sept ans de prison pour plusieurs cyberattaques, dont le piratage de Rockstar Games et la fuite de 90 vidéos de GTA 6.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "355e3ccfadfc5a328deb",
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
@@ -203,6 +431,18 @@
       "category": "fuite"
     },
     {
+      "id": "75ea09ea3e752e0248bf",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-23",
+      "published": "2026-11-23T12:00:00+00:00",
+      "desc": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "375d50a0c636207cf37f",
       "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
       "url": "https://www.cnil.fr/fr/trophees-des-classes-2027",
@@ -353,8 +593,8 @@
       "source": "French Breaches",
       "date": "2026-11-23",
       "published": "2026-11-23T02:29:00+00:00",
-      "desc": "Decathlon, les données de 163 000 clients potentiellement exposées dans une fuite Decathlon, enseigne française spécialisée dans les articles de sport, est visée par une revendication de fuite de données publiée le 22 novembre 2026 sur un forum cybercriminel. Un pirate utilisant…",
-      "type": "fuite",
+      "desc": "Decathlon, les données de 163 000 clients potentiellement exposées dans une fuite Mise à jour du 23 novembre 2026 à 18 h 00 — Decathlon confirme la cyberattaque Contacté par Ouest-France, Decathlon confirme un accès malveillant aux données personnelles de certains clients de deca…",
+      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
@@ -647,18 +887,6 @@
       "category": "actualite"
     },
     {
-      "id": "9c3f2473640f00b5e047",
-      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-      "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-      "source": "BleepingComputer",
-      "date": "2026-11-21",
-      "published": "2026-11-21T15:17:27+00:00",
-      "desc": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "f37cb58fccc975cff64f",
       "title": "Orchestra",
       "url": "https://frenchbreaches.com/alertes/orchestra-mwqjgibjsfgntq6dyuk",
@@ -717,18 +945,6 @@
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
-    },
-    {
-      "id": "6eaabec128466878a46e",
-      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-      "source": "BleepingComputer",
-      "date": "2026-11-21",
-      "published": "2026-11-21T14:26:04+00:00",
-      "desc": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "d29ac684f6bef3cc9eed",
@@ -911,18 +1127,6 @@
       "category": "actualite"
     },
     {
-      "id": "a1277bddeebe52e04d12",
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20",
-      "published": "2026-11-20T18:51:43+00:00",
-      "desc": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b44c0a854e15b1852d0e",
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
@@ -932,18 +1136,6 @@
       "desc": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.",
       "type": "cve",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "209648e572bdea41ada3",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "source": "BleepingComputer",
-      "date": "2026-11-20",
-      "published": "2026-11-20T17:30:00+00:00",
-      "desc": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -2351,18 +2543,6 @@
       "category": "actualite"
     },
     {
-      "id": "88d6d55f0b06ce11ebd6",
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:25:06+00:00",
-      "desc": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "2257fa32fd5feafe8021",
       "title": "Apple serre la vis aux IA qui fouillent dans les fichiers de votre Mac",
       "url": "https://www.01net.com/actualites/apple-serre-vis-face-ia-fouillent-fichiers-mac.html",
@@ -2375,13 +2555,13 @@
       "category": "actualite"
     },
     {
-      "id": "3989b95c68b62c6d091e",
-      "title": "Siemens Simcenter Femap",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "id": "4a756643b0596f8c2c40",
+      "title": "Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/<2606.0002 (CVE-2026-64629) CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-64629 The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. Read More 1 Affected Product Simcenter Femap < V2606.0002 Product Status: known_affected Remediations Vendor fix Update to V2606.0002 or later version Additional Metrics Relevant CWE: CWE-125 Out-of-bounds Read CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manual",
+      "desc": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/<2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109097 Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Read More 1 Affected Product ROS# < V2.3.1 Product Status: known_affected Remediations Vendor fix Update to V2.3.1 or later version Additional Metrics Relevant CWE: CWE-94 Improper Control of Generation of Code ('Code Injection') CVSS Version Base Score Base Severity Vector String 3.1 8.2 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recom",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2447,13 +2627,13 @@
       "category": "alerte"
     },
     {
-      "id": "4a756643b0596f8c2c40",
-      "title": "Siemens ROS#",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "id": "3989b95c68b62c6d091e",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/<2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109097 Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Read More 1 Affected Product ROS# < V2.3.1 Product Status: known_affected Remediations Vendor fix Update to V2.3.1 or later version Additional Metrics Relevant CWE: CWE-94 Improper Control of Generation of Code ('Code Injection') CVSS Version Base Score Base Severity Vector String 3.1 8.2 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recom",
+      "desc": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/<2606.0002 (CVE-2026-64629) CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-64629 The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. Read More 1 Affected Product Simcenter Femap < V2606.0002 Product Status: known_affected Remediations Vendor fix Update to V2606.0002 or later version Additional Metrics Relevant CWE: CWE-125 Out-of-bounds Read CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manual",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2975,30 +3155,6 @@
       "category": "actualite"
     },
     {
-      "id": "0172f5a126c7017a14c8",
-      "title": "Impossible de porter plainte en ligne depuis trois jours : trois services officiels à l'arrêt",
-      "url": "https://frenchbreaches.com/blog/impossible-de-porter-plainte-en-ligne-depuis-trois-jours-trois-services-officiels-a-larret",
-      "source": "French Breaches-blog",
-      "date": "2026-11-14",
-      "published": "2026-11-14T17:08:00+00:00",
-      "desc": "Depuis le 11 novembre 2026, le dépôt de plainte en ligne est perturbé en France. Plainte en ligne, Visioplainte et Perceval sont en maintenance pour une opération de sécurisation. Voici ce que l'on sait et comment déposer plainte.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "345967731bb0816935bc",
-      "title": "Il interroge l’intelligence artificielle Claude sur une arme de guerre : les gendarmes interviennent dans sa commune",
-      "url": "https://frenchbreaches.com/blog/il-interroge-lintelligence-artificielle-claude-sur-une-arme-de-guerre-les-gendarmes-interviennent-dans-sa-commune",
-      "source": "French Breaches-blog",
-      "date": "2026-11-14",
-      "published": "2026-11-14T16:50:00+00:00",
-      "desc": "Une recherche sur l'intelligence artificielle Claude évoquant une arme de guerre et une banque a déclenché une importante intervention de gendarmerie à Valençay, dans l'Indre.",
-      "type": "actualite",
-      "sev": "Haute",
-      "category": "actualite"
-    },
-    {
       "id": "a2750e98e7fdf14135e7",
       "title": "1001RDV Santé (Logicielnet)",
       "url": "https://frenchbreaches.com/alertes/1001rdv-sant-logicielnet-mwdia94d23smfjnrr15",
@@ -3227,18 +3383,6 @@
       "category": "actualite"
     },
     {
-      "id": "080b0156fa47a7e1ac2b",
-      "title": "Cyberattaque dans la santé, des pirates revendiquent les données de 9 millions de patients",
-      "url": "https://frenchbreaches.com/blog/cyberattaque-dans-la-sante-des-pirates-revendiquent-les-donnees-de-9-millions-de-patients",
-      "source": "French Breaches-blog",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:13:00+00:00",
-      "desc": "Des pirates revendiquent les données de 9 millions de patients via 1001RDV : identités, numéros de Sécurité sociale et rendez-vous médicaux.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c776b6ab11f9f310ebfb",
       "title": "Après les frigos des supermarchés, l’Europe s’inquiète des cyberattaques contre « les appareils ménagers »",
       "url": "https://www.01net.com/actualites/apres-les-frigos-des-supermarches-leurope-sinquiete-des-cyberattaques-contre-les-appareils-menagers.html",
@@ -3443,66 +3587,6 @@
       "category": "fuite"
     },
     {
-      "id": "9c1db4a3acafb4576037",
-      "title": "Groupe MGEL / MVS",
-      "url": "https://frenchbreaches.com/alertes/groupe-mgel-mvs-mwbvyd1s60d6xygo7vh",
-      "source": "French Breaches",
-      "date": "2026-11-11",
-      "published": "2026-11-11T08:27:00+00:00",
-      "desc": "Le groupe MGEL touché par une fuite de données, des informations bancaires potentiellement exposées Le groupe MGEL, connu notamment pour ses mutuelles et ses services destinés aux étudiants, signale un incident de sécurité informatique qui pourrait avoir exposé des données person…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "f29f69f4917f066d6c7a",
-      "title": "Geofixe",
-      "url": "https://frenchbreaches.com/alertes/geofixe-mwb1l72h9v4in2jyrj",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T18:45:00+00:00",
-      "desc": "Geofixe, service téléphonique pour les détenus, visé par une fuite de données bancaires Une nouvelle fuite de données présumée concerne un service français utilisé par les familles de personnes incarcérées. Geofixe, une plateforme proposant des numéros de téléphone permettant aux…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1f81340bc869f0198d98",
-      "title": "EduGroupe",
-      "url": "https://frenchbreaches.com/alertes/edugroupe-mwb1h5mwykuf9f5xce",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T18:42:00+00:00",
-      "desc": "EduGroupe, organisme français de formation informatique, visé par une fuite de données Mise à jour du 12 novembre 2026 à 14 h 35 Contacté à la suite de notre article, EduGroupe confirme un incident de sécurité, désormais maîtrisé, et affirme avoir corrigé la vulnérabilité. Selon…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1973ad8f6f0ddcf2335f",
-      "title": "Letsignit",
-      "url": "https://frenchbreaches.com/alertes/letsignit-mwb0k7o4zusncty4xf",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T18:14:00+00:00",
-      "desc": "Letsignit signale une faille de sécurité pouvant exposer les données de ses utilisateurs Une nouvelle alerte de sécurité concerne les données personnelles utilisées dans le monde professionnel. Letsignit, une entreprise spécialisée dans la gestion des signatures email, informe se…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "716ad74984657c9aa21b",
-      "title": "Altéal (Maileva)",
-      "url": "https://frenchbreaches.com/alertes/alt-al-maileva-mwau4xby5g6dfmapyv7",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T15:15:00+00:00",
-      "desc": "Cyberattaque chez Maileva : des données personnelles de locataires d'Altéal exposées Une nouvelle cyberattaque soulève des inquiétudes concernant la protection des données personnelles. Altéal, un bailleur social implanté en Haute-Garonne, informe ses locataires d'une violation d…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "db9e4e8f49644e9e1add",
       "title": "Scality devient autorité de numérotation CVE sous l’égide de l’ENISA",
       "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/scality-devient-autorite-de-numerotation-cve-sous-",
@@ -3513,30 +3597,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "2aa1e0fd9a4085c8e3df",
-      "title": "Softway Medical",
-      "url": "https://frenchbreaches.com/alertes/softway-medical-mwat712goehadd13u5r",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T14:50:00+00:00",
-      "desc": "Cyberattaque dans le secteur de la santé : Softway Medical confirme une fuite de données Le secteur de la santé est une nouvelle fois confronté à un incident de cybersécurité. Le groupe français Softway Medical a officiellement confirmé avoir été victime d'une cyberattaque ayant…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "0c0a90fbefc00ccdb98c",
-      "title": "SOS Oxygène",
-      "url": "https://frenchbreaches.com/alertes/sos-oxyg-ne-mwaolkk5amxzzehojql",
-      "source": "French Breaches",
-      "date": "2026-11-10",
-      "published": "2026-11-10T12:40:00+00:00",
-      "desc": "Fuite de données chez SOS Oxygène, les informations de plus de 15 000 patients potentiellement exposées Le secteur de la santé français est confronté à une nouvelle alerte de cybersécurité. SOS Oxygène, prestataire spécialisé dans l'assistance respiratoire et les soins à domicile…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "f4b34728a6f8e3261976",
@@ -3587,42 +3647,6 @@
       "category": "actualite"
     },
     {
-      "id": "437753942c754ab8003f",
-      "title": "ADEMS",
-      "url": "https://frenchbreaches.com/alertes/adems-mw9n9kzy4t9ybhn7s02",
-      "source": "French Breaches",
-      "date": "2026-11-09",
-      "published": "2026-11-09T19:15:00+00:00",
-      "desc": "Fuite de données chez ADEMS14, les informations de 36 000 personnes exposées par un pirate L'entreprise française ADEMS14, spécialisée dans le chauffage, la climatisation et la maintenance technique en Normandie, est visée par une importante revendication de fuite de données. Ce…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "38cd4c3ebb3926953e45",
-      "title": "Color Box",
-      "url": "https://frenchbreaches.com/alertes/color-box-mw9n5pk24gh3ajbtzyt",
-      "source": "French Breaches",
-      "date": "2026-11-09",
-      "published": "2026-11-09T19:14:00+00:00",
-      "desc": "Fuite de données chez Color-Box, les informations de clients et garages exposées par un pirate Le site français Color-Box.eu, spécialisé dans la vente en ligne de peintures automobiles et de produits de carrosserie destinés notamment aux garages professionnels, est visé par une i…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1af6beaf379c3d4be39a",
-      "title": "Nature et Découvertes",
-      "url": "https://frenchbreaches.com/alertes/nature-et-d-couvertes-mu1euyvui0h3fnzm19",
-      "source": "French Breaches",
-      "date": "2026-11-09",
-      "published": "2026-11-09T14:00:00+00:00",
-      "desc": "Nature et Découvertes, plus de 500 000 commandes potentiellement issues du piratage mises en vente Quelques semaines après la confirmation d'un piratage chez l'un de ses prestataires, Nature et Découvertes voit plus de 500 000 commandes attribuées à ses clients proposées à la ven…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "b13d0e78edd1a3e70a4e",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -3635,18 +3659,6 @@
       "category": "alerte"
     },
     {
-      "id": "af0cec17e70734328512",
-      "title": "Pharmatomic",
-      "url": "https://frenchbreaches.com/alertes/pharmatomic-mw83jrx4jmw1xda8ud8",
-      "source": "French Breaches",
-      "date": "2026-11-08",
-      "published": "2026-11-08T17:17:00+00:00",
-      "desc": "Fuite de données chez Pharmatomic, des comptes de pharmacies potentiellement exposés Une entreprise française liée au secteur pharmaceutique est visée par une revendication de piratage. Le 8 novembre 2026, un cybercriminel a publié des extraits d'une base de données attribuée à P…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "2e68c4969154600586c3",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -3655,18 +3667,6 @@
       "published": "2026-11-06T12:00:00+00:00",
       "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
       "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "cddef5bb18e3bcbf0141",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazar",
-      "type": "alerte",
       "sev": "Faible",
       "category": "alerte"
     },
@@ -3683,14 +3683,14 @@
       "category": "alerte"
     },
     {
-      "id": "c5bfeedc9f8814604d6b",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "id": "cddef5bb18e3bcbf0141",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
       "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-04",
-      "published": "2026-11-04T12:00:00+00:00",
-      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
+      "date": "2026-11-05",
+      "published": "2026-11-05T12:00:00+00:00",
+      "desc": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazar",
+      "type": "alerte",
       "sev": "Faible",
       "category": "alerte"
     }
