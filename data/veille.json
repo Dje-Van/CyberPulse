@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:40:40.234970+00:00",
+  "generated_at": "2026-11-24T16:46:17.591519+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,438 @@
     }
   ],
   "items": [
+    {
+      "id": "9078000bd51be7512e2a",
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T16:30:19+00:00",
+      "desc": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0ddde081cc792cb26377",
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T16:22:44+00:00",
+      "desc": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "53f2a1acf59665bb0e1f",
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T16:15:23+00:00",
+      "desc": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b7ec001944de15e54014",
+      "title": "Un mois après le casse du siècle, les hackers de Binance accélèrent : 247 millions de dollars déjà blanchis",
+      "url": "https://www.01net.com/actualites/un-mois-apres-le-casse-du-siecle-les-hackers-de-binance-accelerent-247-millions-de-dollars-deja-blanchis.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-24",
+      "published": "2026-11-24T15:22:02+00:00",
+      "desc": "Un mois après le plus gros vol de cryptomonnaies de l’histoire, le blanchiment d'argent s’accélère. Les pirates nord-coréens qui se sont attaqués à Binance ont déjà blanchi au moins 247 millions de dollars. Alors que les hackers nord-coréens appuient sur la pédale d'accélérateur pour disparaître sur la blockchain, la justice américaine tente de récupérer plus d’un milliard de dollars.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "4b426317322a83e3c5b0",
+      "title": "Étude : forte dépendance en cybersécurité hors Europe",
+      "url": "https://www.cyber-securite.fr/dependances-cybersecurite-etude-forte/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-24",
+      "published": "2026-11-24T15:11:53+00:00",
+      "desc": "Le Campus Cyber et le CESIN publient leur première étude sur les dépendances cybersécurité des organisations françaises. La moitié des répondants disposent de moins de 20 % de solutions européennes.L’article Étude : forte dépendance en cybersécurité hors Europe est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d8bd6941027644c8bc83",
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T15:10:10+00:00",
+      "desc": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1f0ade1a2280679276ba",
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T15:01:11+00:00",
+      "desc": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5ace2d927e38a58ac649",
+      "title": "Mandats d’arrêt, personnes disparues, casiers… des hackers ont piraté la base de données du FBI",
+      "url": "https://www.01net.com/actualites/mandats-darret-personnes-disparues-casiers-des-hackers-ont-pirate-la-base-de-donnees-du-fbi.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-24",
+      "published": "2026-11-24T14:33:47+00:00",
+      "desc": "Le FBI s'est retrouvé dans le viseur des cybercriminels. La police fédérale américaine enquête sur le piratage du NCIC, la base de données criminelles utilisée chaque jour par toutes les polices des États-Unis. À la surprise générale, Donald Trump y voit un « aspect positif ».",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f249978bf6d5abc361c8",
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T14:09:37+00:00",
+      "desc": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "5fdfc9b8efe4d5349aeb",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "date": "2026-11-24",
+      "published": "2026-11-24T13:34:23+00:00",
+      "desc": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "aa014f4b55f462a96af7",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T13:28:26+00:00",
+      "desc": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\"). \"A malicious actor with",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "c4ed564253ff3bb566e8",
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T13:28:21+00:00",
+      "desc": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "f640178d7db37be41e08",
+      "title": "Cyberattaques en France, près de six communes sur dix ne se sentent pas suffisamment préparées",
+      "url": "https://frenchbreaches.com/blog/cyberattaques-en-france-pres-de-six-communes-sur-dix-ne-se-sentent-pas-suffisamment-preparees",
+      "source": "French Breaches-blog",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:50:00+00:00",
+      "desc": "Une étude OpinionWay pour Cybermalveillance.gouv.fr révèle que 59 % des petites et moyennes communes françaises se sentent mal préparées aux cyberattaques.",
+      "type": "alerte",
+      "sev": "Moyenne",
+      "category": "actualite"
+    },
+    {
+      "id": "88d6d55f0b06ce11ebd6",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:42:09+00:00",
+      "desc": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "372382395c6e6dd9c78d",
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:02:00+00:00",
+      "desc": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's process hardening on Windows hosts, tracked as CVE-2026-87268, and Windows code integrity, tracked",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "446e0a68acf810671a62",
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:01:54+00:00",
+      "desc": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations, repeated checks, and unnecessary escalations continue to drain resources. As",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7b6115f8e21f6eecb0f9",
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:00:00+00:00",
+      "desc": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local attackers being able to exploit these issues to potentially execute arbitrary code. The following versions of Schneider Electric EcoStruxure Power Build Rapsody software are affected: EcoStruxure Power Build Rapsody software vers:generic/<=2.9.1.0_FR, 2.9.12.0101_FR, vers:generic/<=2.8.5.0301_ESP, 2.9.5.0000_ESP, vers:generic/<=2.8.7.0101_PT, 2.9.7.0000_PT, vers:generic/<=2.8.8.0201_BEL(FR), 2.9.8.0000_BELFR, vers:generic/<=2.8.3.0201_BEL(EN), 2.9.3.0000_BELEN, vers:generic/<=2.8.4.0401_INT(EN), 2.9.4.0000_INTEN, vers:generic/<=2.8.6.0000_INT(FR), 2.9.6.0000_INTFR, vers:generic/<=2.8.2.0000_NL, 2.9.6.0000_NL (CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055, CVE-2026-119055) CVSS Vendor Equipment v3 5.3 Schneider Electric EcoStruxure Power Build Rapsody software 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Energy, Critical Manufacturing, Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: France Vulnerabilities CVE-2026-119055 A CWE- 416: Use After Free vulnerability exists that could cause arbitrary code execution when a local attacker could trick the end user to open a specially crafted malicious SSD file. Read More 8 Affected Products EcoStruxure",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "3a8ad132bbb8c2a03e0e",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:00:00+00:00",
+      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to memory corruption, webserver restart and hypothetically potential arbitrary code execution with webserver privileges. Authentication is not required to exploit this vulnerability. Read More 1 Affected Product Danfoss AK-SM8xxA <=5.4.0 Product Status: known_affected Remediations Mitigation This vulnerability will be addressed in an upcoming Danfoss AK-SM 800A Series software release (version 5.5.x). Mitigation In addition, Danfoss will remove the ability for users to disable Strict Mode in future software releases. Additional Metrics Relevant CWE: CWE-121 Stack-based Buffer Overflow CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 4.0 9.3 CRITICAL CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Carlo Meijer of Midnight Blue reported CVE-2026-129713 to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "3ed1970e74313c87defd",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:00:00+00:00",
+      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-127280 C-More EA9 Programming Software V6.80 does not adequately validate data read from a project file before using it in heap memory operations. A crafted file causes a heap buffer overrun during file open, resulting in heap corruption and instability within the application. An attacker can exploit this vulnerability by convincing a user to open a malicious project file delivered through common distribution channels such as email, file sharing, or removable media. Read More 1 Affected Product AutomationDirect C-More EA9 Programming Software <=V6.80 Product Status: known_affected Remediations Vendor fix Update C-More EA9 Programming Software to V6.81: https://www.automationdirect.com/support/software-downloads Additional Metrics Relevant CWE: CWE-122 Heap-based Buffer Overflow CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H 4.0 8.4 HIGH CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments rgod of TrendAI Zero Day Initiative reported this vulnerability ",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "2fbe2b7dde35145698de",
+      "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+      "url": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:00:00+00:00",
+      "desc": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas systématique. Comment clarifier les rôles de chacun&nbsp;?",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "90b2d992ad71e8cdf9b9",
+      "title": "L'Institut national du cancer (INCa)",
+      "url": "https://frenchbreaches.com/alertes/l-institut-national-du-cancer-inca-mwumwnln69x0vrvmv45",
+      "source": "French Breaches",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:49:00+00:00",
+      "desc": "L'Institut national du cancer victime d'une cyberattaque, une fuite de données personnelles confirmée Une nouvelle cyberattaque touche le secteur de la santé en France. L'Institut national du cancer (INCa) a annoncé, lundi 23 novembre 2026, avoir été victime d'une attaque informa…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "61411bd9fabf4f4dc18d",
+      "title": "La ville de Quimper",
+      "url": "https://frenchbreaches.com/alertes/la-ville-de-quimper-mwumsdhecox20bbpnou",
+      "source": "French Breaches",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:47:00+00:00",
+      "desc": "Cyberattaque à Quimper, la mairie et l'agglomération victimes d'un piratage informatique Une nouvelle cyberattaque touche des collectivités territoriales françaises. La ville de Quimper et Quimper Bretagne Occidentale, dans le Finistère, annoncent être victimes d'une intrusion in…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "ea1788d2f48351957d62",
+      "title": "Cybersécurité : des failles Bluetooth permettent de contrôler à distance les freins de remorques",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/cybersecurite-des-failles-bluetooth-permettent-de-controler-a-distance-les-freins-de-remorques",
+      "source": "Actualités securite",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:45:01+00:00",
+      "desc": "Des chercheurs en cybersécurité ont découvert plusieurs vulnérabilités critiques dans les contrôleurs de freinage Bluetooth du fabricant australien Elecbrakes. Ces failles permettent à une personne située à portée du signal radio d'activer ou de modifier la puissance de freinage d'une remorque sans authentification préalable. Deux modèles ont reçu des correctifs, mais un équipement plus ancien reste exposé. L'agence américaine CISA a publié une alerte concernant trois vulnérabilités, dont deux présentent un niveau de criticité de 9,6 sur 10.",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "b22d0a1abfcf3caa2a3c",
+      "title": "Direction générale de l'aviation civile (DGAC)",
+      "url": "https://frenchbreaches.com/alertes/direction-g-n-rale-de-l-aviation-civile-dgac-mwumgm25fozd06vnjy7",
+      "source": "French Breaches",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:36:00+00:00",
+      "desc": "Cyberattaque dans l'aviation civile, des données personnelles et bancaires compromises Une nouvelle administration française touchée par une fuite de données. La Direction de la sécurité de l'aviation civile (DSAC), rattachée à la Direction générale de l'aviation civile (DGAC) et…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f04ecf06e427f29b00d7",
+      "title": "IA et Cybersécurité : les entreprises contraintes de revoir leur priorités",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/la-bataille-des-priorites-dans-les-budgets-it",
+      "source": "Actualités securite",
+      "date": "2026-11-24",
+      "published": "2026-11-24T11:25:03+00:00",
+      "desc": "Face au renchérissement des infrastructures et à la multiplication des projets d'IA, les entreprises doivent revoir leurs arbitrages numériques. Lors d'une table ronde organisée au TechShow Paris le 18 novembre, trois intervenants ont plaidé pour des investissements guidés par les besoins métiers, la maîtrise des compétences et la continuité d'activité.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "47c6e40ac66c9d3b81c5",
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T10:44:49+00:00",
+      "desc": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM,\" NSM said. \"It is still uncertain how",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b55197ac0ffdb889d8aa",
+      "title": "Onepoint défense et souveraineté intègre 500 talents",
+      "url": "https://www.cyber-securite.fr/onepoint-defense-souverainete-integre-500/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-24",
+      "published": "2026-11-24T10:11:37+00:00",
+      "desc": "Onepoint défense et souveraineté annonce l'intégration de 500 talents pour accompagner le secteur public et les organisations stratégiques. L'objectif annoncé : identifier les dépendances critiques et prévoir des solutions de repli.L’article Onepoint défense et souveraineté intègre 500 talents est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "c33971e13ca37fea758c",
+      "title": "Cyberattaque chez Delubac & Cie et tentative de vol déjouée",
+      "url": "https://www.cyber-securite.fr/cyberattaque-chez-delubac-cie-et-tentative-de-vol-dejouee/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-24",
+      "published": "2026-11-24T10:03:00+00:00",
+      "desc": "Le 20 novembre 2026, Delubac & Cie a détecté une intrusion informatique. La tentative de ... Lire plus L’article Cyberattaque chez Delubac & Cie et tentative de vol déjouée est apparu en premier sur cyber-securite.fr .",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "7805197673071df4d5cd",
+      "title": "Règlementation : les entreprises doivent intégrer les contraintes dès la conception de leurs systèmes IT",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/reglementation-les-entreprises-doivent-integrer-les-contraintes-des-la-conception-de-leurs-systemes-it",
+      "source": "Actualités securite",
+      "date": "2026-11-24",
+      "published": "2026-11-24T09:30:57+00:00",
+      "desc": "Avec l'accumulation des réglementations européennes, de l'IA Act à NIS 2 en passant par le RGPD et DORA, la conformité devient un enjeu structurant pour les directions IT. Lors d'une conférence organisée au TechShow Paris le 18 novembre, trois intervenants ont plaidé pour une approche intégrée dès la conception des systèmes, tout en alertant sur la complexité du cadre réglementaire européen.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "63045753ac0089989528",
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T08:34:20+00:00",
+      "desc": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d64fb414cfe6c5894480",
+      "title": "Cyberattaque contre la Commission européenne : des données personnelles ont été volées, des hackers chinois sont suspectés",
+      "url": "https://www.01net.com/actualites/cyberattaque-contre-commission-europeenne-chine-soupconnee-donnees-personnelles-volees.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-24",
+      "published": "2026-11-24T07:59:49+00:00",
+      "desc": "On en sait un peu plus sur la cyberattaque qui a frappé la Commission européenne. Selon la Commission, les noms et adresses e-mail des utilisateurs de l’EU Academy, une plateforme de formation en ligne, ont été dérobés. En interne, Bruxelles soupçonne un groupe de pirates chinois, mandatés par Pékin.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "6481c06c6a33d2de7aca",
+      "title": "Black Friday NordVPN : une protection contre le phishing et les malwares",
+      "url": "https://www.cyber-securite.fr/black-friday-nordvpn-une-protection-contre-le-phishing-et-les-malwares/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-24",
+      "published": "2026-11-24T07:00:00+00:00",
+      "desc": "Identifiants volés, cartes bancaires siphonnées, malwares cachés derrière de faux bons plans : pour les ... Lire plus L’article Black Friday NordVPN : une protection contre le phishing et les malwares est apparu en premier sur cyber-securite.fr .",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "a9eecd97c86ead234980",
+      "title": "Ingénieur sécurité cloud, un métier en pleine évolution",
+      "url": "https://www.cyber-securite.fr/ingenieur-securite-cloud-un-metier-en-pleine-evolution/",
+      "source": "CYBER-SECURITE.FR",
+      "date": "2026-11-24",
+      "published": "2026-11-24T06:33:44+00:00",
+      "desc": "L’ingénieur sécurité cloud conçoit des services numériques capables de résister aux erreurs de configuration et ... Lire plus L’article Ingénieur sécurité cloud, un métier en pleine évolution est apparu en premier sur cyber-securite.fr .",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "b0d72916ebeceea8cb41",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T06:02:57+00:00",
+      "desc": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches,\" OpenAI said in a post on X. The AI upstart called the initiative a",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "d70285cdacc0c3a7734f",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "date": "2026-11-24",
+      "published": "2026-11-24T06:02:45+00:00",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "actualite"
+    },
+    {
+      "id": "de852e03603a5dd8ff44",
+      "title": "Une arnaque vise les stations-service et les distributeurs de billets en France : comment éviter de se faire piéger ?",
+      "url": "https://www.01net.com/actualites/une-arnaque-vise-les-stations-service-et-les-distributeurs-de-billets-en-france-comment-eviter-de-se-faire-pieger.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-24",
+      "published": "2026-11-24T06:00:39+00:00",
+      "desc": "Une nouvelle arnaque particulièrement sophistiquée cible les stations-service et les distributeurs de billets. Pour parvenir à leurs fins, les arnaqueurs utilisent une minuscule caméra et un dispositif capable de copier les données bancaires. S’il est difficile de repérer cette arnaque, un élément précis peut alerter sur la situation.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "429b5afbfe3c94ab3d02",
       "title": "GTA 6 sur PC avant l'heure, Rockstar aurait fait bannir le projet Leonida de GitHub et Discord",
@@ -33,6 +465,90 @@
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "90e3a6fa4a56e8b659ae",
+      "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "326f047ea3672e71e19e",
+      "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "26885f6bf5a792c5ad79",
+      "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "a8a70c9858ce470b480c",
+      "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "0a8e226027a3aaa27d99",
+      "title": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "f9b456d8574f2d4319f2",
+      "title": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
+      "id": "dc557fe9e16c60ac96d0",
+      "title": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-24",
+      "published": "2026-11-24T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
     },
     {
       "id": "6811c107e4ee2a729ae0",
@@ -467,6 +983,18 @@
       "category": "fuite"
     },
     {
+      "id": "f11f62044fee133fe6b8",
+      "title": "Contrôles de la CNIL : une charte pour tout comprendre",
+      "url": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+      "source": "CNIL — Actualités",
+      "date": "2026-11-23",
+      "published": "2026-11-23T12:00:00+00:00",
+      "desc": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL présente une charte des contrôles.",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
       "id": "570ccf6bb6663c23b9b7",
       "title": "Sûreté physique des sites multiples : pourquoi la cybersécurité et la souveraineté des données deviennent des critères de choix ?",
       "url": "https://www.cyber-securite.fr/surete-physique-des-sites-multiples-pourquoi-la-cybersecurite-et-la-souverainete-des-donnees-deviennent-des-criteres-de-choix/",
@@ -503,18 +1031,6 @@
       "category": "actualite"
     },
     {
-      "id": "8ff53fd940c18e3a56bf",
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23",
-      "published": "2026-11-23T09:11:15+00:00",
-      "desc": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "8dee64bf666c5ac0461a",
       "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
@@ -548,18 +1064,6 @@
       "desc": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at banking and financial services entities, as well as technology service providers",
       "type": "actualite",
       "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "a3400f3457d4e983be38",
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "source": "BleepingComputer",
-      "date": "2026-11-23",
-      "published": "2026-11-23T07:44:19+00:00",
-      "desc": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "type": "cve",
-      "sev": "Critique",
       "category": "actualite"
     },
     {
@@ -791,42 +1295,6 @@
       "category": "fuite"
     },
     {
-      "id": "f7511684402b8adf536b",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "source": "BleepingComputer",
-      "date": "2026-11-22",
-      "published": "2026-11-22T18:45:37+00:00",
-      "desc": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "c75a4d0a4b580d8c6208",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-22",
-      "published": "2026-11-22T15:43:04+00:00",
-      "desc": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "daee16a474d467015095",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "source": "BleepingComputer",
-      "date": "2026-11-22",
-      "published": "2026-11-22T15:15:25+00:00",
-      "desc": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "aeb0b770f8ed7878da35",
       "title": "Espionnage russe : des journalistes et un député français visés sur Signal et Telegram",
       "url": "https://frenchbreaches.com/blog/espionnage-russe-des-journalistes-et-un-depute-francais-vises-sur-signal-et-telegram",
@@ -859,30 +1327,6 @@
       "published": "2026-11-22T05:03:41+00:00",
       "desc": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
       "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1fa3870c33e20a339984",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "source": "BleepingComputer",
-      "date": "2026-11-21",
-      "published": "2026-11-21T22:59:58+00:00",
-      "desc": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "cd00c38abb0c60dda61d",
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "source": "BleepingComputer",
-      "date": "2026-11-21",
-      "published": "2026-11-21T18:01:58+00:00",
-      "desc": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-      "type": "fuite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1619,18 +2063,6 @@
       "category": "actualite"
     },
     {
-      "id": "f56a2e4b868e02efe2e9",
-      "title": "Web Sage : une extension IA contre le phishing",
-      "url": "https://www.cyber-securite.fr/bitdefender-web-sage/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-19",
-      "published": "2026-11-19T15:37:00+00:00",
-      "desc": "Bitdefender lance Web Sage, une extension de navigateur qui associe intelligence artificielle et détection des ... Lire plus L’article Web Sage : une extension IA contre le phishing est apparu en premier sur cyber-securite.fr .",
-      "type": "phishing",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "dcfa8134ceac9ad36d39",
       "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
       "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
@@ -1703,18 +2135,6 @@
       "category": "alerte"
     },
     {
-      "id": "bf2611689a6fa7cb9958",
-      "title": "libumqtt",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-19",
-      "published": "2026-11-19T12:00:00+00:00",
-      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities CVE-2026-125132 The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. Read More 1 Affected Product libumqtt libumqtt <=1.1.1 Product Status: known_affected Remediations None available The repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt. Additional Metrics Relevant CWE: CWE-191 Integer Underflow (Wrap or Wraparound) CVSS Version Base Score Base Severity Vector String 3.1 8.6 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H 4.0 8.8 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Joseph Devasia reported this vulnerability to CISA Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet . Locate control system networks and remote devices behind firewalls and isolating them f",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "ad267eaa2b1154828ea1",
       "title": "Autonomy Logic OpenPLC Runtime",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
@@ -1722,6 +2142,18 @@
       "date": "2026-11-19",
       "published": "2026-11-19T12:00:00+00:00",
       "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Transportation Systems, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-126088 In Autonomy Logic OpenPLC Runtime versions 4.2.4 and prior, a race condition allows multiple concurrent requests to pass the existence check before any user is committed, resulting in several unauthenticated admin accounts being created. Read More 1 Affected Product Autonomy Logic OpenPLC Runtime <=4.2.4 Product Status: known_affected Remediations Vendor fix Update to OpenPLC Runtime version 4.3.0 or later. Additional Metrics Relevant CWE: CWE-362 Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') CVSS Version Base Score Base Severity Vector String 3.1 8.1 HIGH CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H 4.0 9.2 CRITICAL CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Noureddin Lutfi reported this vulnerability to CISA. Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet . Locate control system networks and remote devices behind firewalls an",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "bf2611689a6fa7cb9958",
+      "title": "libumqtt",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-19",
+      "published": "2026-11-19T12:00:00+00:00",
+      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities CVE-2026-125132 The affected product is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. Read More 1 Affected Product libumqtt libumqtt <=1.1.1 Product Status: known_affected Remediations None available The repository owners of libumqtt did not respond to CISA's request for coordination. Users are encouraged to reach out to libumqtt for support. Their GitHub page is located at https://github.com/zhaojh329/libumqtt. Additional Metrics Relevant CWE: CWE-191 Integer Underflow (Wrap or Wraparound) CVSS Version Base Score Base Severity Vector String 3.1 8.6 HIGH CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H 4.0 8.8 HIGH CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:L/VI:L/VA:H/SC:N/SI:N/SA:N View CVE Details Acknowledgments Joseph Devasia reported this vulnerability to CISA Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet . Locate control system networks and remote devices behind firewalls and isolating them f",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -1747,18 +2179,6 @@
       "published": "2026-11-19T11:37:00+00:00",
       "desc": "La Commission européenne subit une cyberattaque qui perturbe ses services depuis dix jours. Des données personnelles d'agents pourraient avoir été volées.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "81b737f3dfb70f01909b",
-      "title": "OpenAI et l’OTAN s’unissent pour renforcer la cybersécurité grâce à l’IA",
-      "url": "https://www.cyber-securite.fr/openai-et-lotan-sunissent-pour-renforcer-la-cybersecurite-grace-a-lia/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-19",
-      "published": "2026-11-19T11:06:21+00:00",
-      "desc": "L’alliance entre OpenAI et l’OTAN marque un tournant dans la défense numérique des démocraties occidentales. ... Lire plus L’article OpenAI et l’OTAN s’unissent pour renforcer la cybersécurité grâce à l’IA est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -1847,18 +2267,6 @@
       "category": "actualite"
     },
     {
-      "id": "e6aee404ec682a2354ce",
-      "title": "Guide pratique : réaliser un test de pénétration (Pentest) interne",
-      "url": "https://www.cyber-securite.fr/guide-pratique-comment-realiser-un-test-de-penetration-pentest-interne/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-19",
-      "published": "2026-11-19T06:32:40+00:00",
-      "desc": "Le pentest interne teste les défenses réelles, depuis un poste de travail jusqu’aux serveurs métiers. ... Lire plus L’article Guide pratique : réaliser un test de pénétration (Pentest) interne est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "6bdf45f5d5188ad7e647",
       "title": "Chrome croule sous les failles : Google déploie la troisième mise à jour de sécurité en huit jours",
       "url": "https://www.01net.com/actualites/chrome-croule-sous-les-failles-google-deploie-la-troisieme-mise-a-jour-de-securite-en-huit-jours.html",
@@ -1895,54 +2303,6 @@
       "category": "fuite"
     },
     {
-      "id": "7c0273a4fed6b5fb511c",
-      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "0862ca218b076d89a3fc",
-      "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "1293ec57f3670afc604d",
-      "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "e903b51af36e7230568e",
-      "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "8f3d2d726cd18e94b9d9",
       "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1580/",
@@ -1967,42 +2327,6 @@
       "category": "alerte"
     },
     {
-      "id": "e2ee939b625302e39e15",
-      "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "719ecb8a289dda001a99",
-      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "e4362f416abcc6c0ed6e",
-      "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
       "id": "2956d8b1b7151539b77e",
       "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
@@ -2010,18 +2334,6 @@
       "date": "2026-11-19",
       "published": "2026-11-19T00:00:00+00:00",
       "desc": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "11827f51d4ab426238ce",
-      "title": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
-      "source": "CERT-FR — Avis et alertes",
-      "date": "2026-11-19",
-      "published": "2026-11-19T00:00:00+00:00",
-      "desc": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "type": "cve",
       "sev": "Faible",
       "category": "alerte"
@@ -2123,30 +2435,6 @@
       "category": "fuite"
     },
     {
-      "id": "d8c1b313803b0f3617cb",
-      "title": "La cybersécurité des PME et des TPE face aux cybermenaces avancées",
-      "url": "https://www.cyber-securite.fr/la-cybersecurite-des-pme-et-des-tpe-face-aux-cybermenaces-avancees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-18",
-      "published": "2026-11-18T14:54:41+00:00",
-      "desc": "Les petites et moyennes entreprises font face à une montée des cybermenaces sans précédent. Selon ... Lire plus L’article La cybersécurité des PME et des TPE face aux cybermenaces avancées est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Moyenne",
-      "category": "actualite"
-    },
-    {
-      "id": "6b85433f1a0372fec628",
-      "title": "Cyberattaque visant Optimizely : 178 organisations touchées",
-      "url": "https://www.cyber-securite.fr/cyberattaque-visant-optimizely-178-organisations-touchees/",
-      "source": "CYBER-SECURITE.FR",
-      "date": "2026-11-18",
-      "published": "2026-11-18T14:52:31+00:00",
-      "desc": "Le 16 novembre 2026, une cyberattaque a frappé Optimizely, prestataire utilisé par de nombreuses entreprises. ... Lire plus L’article Cyberattaque visant Optimizely : 178 organisations touchées est apparu en premier sur cyber-securite.fr .",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "16d1e418da7ea1b76c1d",
       "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
       "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
@@ -2243,30 +2531,6 @@
       "category": "fuite"
     },
     {
-      "id": "5966ac56e61b79d55a1d",
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T11:55:49+00:00",
-      "desc": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature. Tracked as",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "1df2f3726abcb8b78e69",
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T11:03:57+00:00",
-      "desc": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "c72d99b261adb350b74e",
       "title": "Une assurance-vie condamnée à 5 millions d'euros d'amende pour 1,8 million de mots de passe non protégés",
       "url": "https://frenchbreaches.com/blog/une-assurance-vie-condamnee-a-5-millions-deuros-damende-pour-18-million-de-mots-de-passe-non-proteges",
@@ -2303,42 +2567,6 @@
       "category": "fuite"
     },
     {
-      "id": "eeab189c347513181f34",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T08:24:31+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation. The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "e739030404770d0d4734",
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T08:24:23+00:00",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions. \"This critical memory-corruption",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "533b590042a015080bb5",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T06:45:26+00:00",
-      "desc": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b36ea2d93d2a273c3479",
       "title": "IKEA, ASOS, Zoom… Plus de 175 sites piratés ont peut-être tenté de voler vos données bancaires",
       "url": "https://www.01net.com/actualites/ikea-asos-zoom-plus-de-175-sites-pirates-ont-peut-etre-tente-de-voler-vos-donnees-bancaires.html",
@@ -2346,18 +2574,6 @@
       "date": "2026-11-18",
       "published": "2026-11-18T06:30:05+00:00",
       "desc": "178 sites d'entreprises et d'organisations, dont IKEA, ASOS, HSBC et Zoom, ont été exposés à un malware à la suite d'une compromission de la plateforme Optimizely. Ce malware était capable de voler des données bancaires, de remplacer les adresses des portefeuilles de cryptomonnaies et d'installer des kits d'exploitation sur des iPhone et iPad non mis à jour.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "4816a5c313d508c2d8b0",
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "source": "The Hacker News",
-      "date": "2026-11-18",
-      "published": "2026-11-18T05:58:04+00:00",
-      "desc": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
@@ -2399,18 +2615,6 @@
       "category": "fuite"
     },
     {
-      "id": "6bab39afba048d48cb97",
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17",
-      "published": "2026-11-17T19:34:20+00:00",
-      "desc": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their demonstration on a Telegram test server, because only approved bots can send",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "3f8b029183c6c924da6a",
       "title": "18 millions de patients, des dizaines de cliniques : une fuite de données qui inquiète",
       "url": "https://frenchbreaches.com/blog/18-millions-de-patients-des-dizaines-de-cliniques-une-fuite-de-donnees-qui-inquiete",
@@ -2442,30 +2646,6 @@
       "date": "2026-11-17",
       "published": "2026-11-17T15:21:00+00:00",
       "desc": "Google révèle un outil d'IA capable de trouver et d'exploiter des failles automatiquement. Des sites français figurent parmi les cibles.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "e5492f9867506c1763a9",
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17",
-      "published": "2026-11-17T15:17:36+00:00",
-      "desc": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "4f9516b8f5d72d7aacdd",
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "source": "The Hacker News",
-      "date": "2026-11-17",
-      "published": "2026-11-17T15:17:28+00:00",
-      "desc": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -2555,13 +2735,13 @@
       "category": "actualite"
     },
     {
-      "id": "4a756643b0596f8c2c40",
-      "title": "Siemens ROS#",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "id": "1e3a8a0a7e3cd062f91c",
+      "title": "Siemens SIMATIC WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/<2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109097 Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Read More 1 Affected Product ROS# < V2.3.1 Product Status: known_affected Remediations Vendor fix Update to V2.3.1 or later version Additional Metrics Relevant CWE: CWE-94 Improper Control of Generation of Code ('Code Injection') CVSS Version Base Score Base Severity Vector String 3.1 8.2 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recom",
+      "desc": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.1 vers:all/* (CVE-2026-59082) CVSS Vendor Equipment v3 7.8 Siemens SIMATIC WinCC V7.5 1 Vulnerability Insufficient UI Warning of Dangerous Operations Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-59082 Affected devices implicitly execute active content when opening files. This could allow an attacker to make the user execute arbitrary code on the device. Read More 3 Affected Products SIMATIC WinCC V7.5 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warning notices and safety instructions. Qualified personnel are those who, based on their training and experience, are capable of identifying risks and avoiding potential hazards when working with the affected product. Also make sure to only open files from trusted sources. None available Currently no fix is available SIMATIC WinCC V8.0 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warn",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2627,6 +2807,18 @@
       "category": "alerte"
     },
     {
+      "id": "37902359fb183e156991",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-17",
+      "published": "2026-11-17T12:00:00+00:00",
+      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
+    },
+    {
       "id": "3989b95c68b62c6d091e",
       "title": "Siemens Simcenter Femap",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
@@ -2634,6 +2826,18 @@
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
       "desc": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/<2606.0002 (CVE-2026-64629) CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-64629 The affected applications contains an out of bounds read vulnerability while parsing specially crafted X_T files. This could allow an attacker to execute code in the context of the current process. Read More 1 Affected Product Simcenter Femap < V2606.0002 Product Status: known_affected Remediations Vendor fix Update to V2606.0002 or later version Additional Metrics Relevant CWE: CWE-125 Out-of-bounds Read CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recommendations in the product manual",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "4a756643b0596f8c2c40",
+      "title": "Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-17",
+      "published": "2026-11-17T12:00:00+00:00",
+      "desc": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/<2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109097 Affected systems do not properly escape text of message definition files. This could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Read More 1 Affected Product ROS# < V2.3.1 Product Status: known_affected Remediations Vendor fix Update to V2.3.1 or later version Additional Metrics Relevant CWE: CWE-94 Improper Control of Generation of Code ('Code Injection') CVSS Version Base Score Base Severity Vector String 3.1 8.2 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-security), and to follow the recom",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2675,18 +2879,6 @@
       "category": "alerte"
     },
     {
-      "id": "1e3a8a0a7e3cd062f91c",
-      "title": "Siemens SIMATIC WinCC",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.1 vers:all/* (CVE-2026-59082) CVSS Vendor Equipment v3 7.8 Siemens SIMATIC WinCC V7.5 1 Vulnerability Insufficient UI Warning of Dangerous Operations Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-59082 Affected devices implicitly execute active content when opening files. This could allow an attacker to make the user execute arbitrary code on the device. Read More 3 Affected Products SIMATIC WinCC V7.5 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warning notices and safety instructions. Qualified personnel are those who, based on their training and experience, are capable of identifying risks and avoiding potential hazards when working with the affected product. Also make sure to only open files from trusted sources. None available Currently no fix is available SIMATIC WinCC V8.0 Product Status: known_affected Remediations Mitigation The affected product may be operated only by personnel qualified for the specific task in accordance with the relevant documentation, in particular its warn",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "fae4ec42780a6b53cc83",
       "title": "Siemens meta-iot2050",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
@@ -2696,18 +2888,6 @@
       "desc": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens meta-iot2050 are affected: meta-iot2050 vers:intdot/>=01.03.01 (CVE-2026-109830) CVSS Vendor Equipment v3 7.3 Siemens meta-iot2050 1 Vulnerability Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-109830 Affected devices take parts from a configuration file and execute them unchecked. This could allow an attacker which is able to manipulate the configuration file to make the user execute arbitrary code on the device. Read More 1 Affected Product meta-iot2050 >= V01.03.01 Product Status: known_affected Remediations None available Currently no fix is available Additional Metrics Relevant CWE: CWE-78 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') CVSS Version Base Score Base Severity Vector String 3.1 7.3 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure ",
       "type": "cve",
       "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "37902359fb183e156991",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:00:00+00:00",
-      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
-      "sev": "Faible",
       "category": "alerte"
     },
     {
@@ -2781,6 +2961,18 @@
       "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
+    },
+    {
+      "id": "ca88e09da19f1c7030fa",
+      "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+      "source": "CERT-FR — Avis et alertes",
+      "date": "2026-11-17",
+      "published": "2026-11-17T00:00:00+00:00",
+      "desc": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
     },
     {
       "id": "5b816394c7b365b78916",
@@ -3143,18 +3335,6 @@
       "category": "actualite"
     },
     {
-      "id": "474b5c9c70cbb9fb1d47",
-      "title": "Facebook : Meta écope de 805 millions d'euros d'amende pour avoir accédé aux photos des utilisateurs",
-      "url": "https://frenchbreaches.com/blog/facebook-meta-ecope-de-805-millions-deuros-damende-pour-avoir-accede-aux-photos-des-utilisateurs",
-      "source": "French Breaches-blog",
-      "date": "2026-11-14",
-      "published": "2026-11-14T17:28:00+00:00",
-      "desc": "Facebook sanctionné en Italie : Meta écope d'une amende de 805 millions d'euros pour avoir accédé aux photos et vidéos d'utilisateurs Android sans consentement spécifique. Environ 20 millions de personnes sont concernées.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a2750e98e7fdf14135e7",
       "title": "1001RDV Santé (Logicielnet)",
       "url": "https://frenchbreaches.com/alertes/1001rdv-sant-logicielnet-mwdia94d23smfjnrr15",
@@ -3347,18 +3527,6 @@
       "category": "fuite"
     },
     {
-      "id": "6eaffeacfe56514f2728",
-      "title": "« Un problème au niveau d’iOS » : Binance alerte sur une faille de l’iPhone qui menace tous les portefeuilles crypto",
-      "url": "https://www.01net.com/actualites/un-probleme-au-niveau-dios-binance-alerte-sur-une-faille-de-liphone-qui-menace-tous-les-portefeuilles-crypto.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-12",
-      "published": "2026-11-12T16:31:07+00:00",
-      "desc": "Binance met en garde les propriétaires d'iPhone. Une faille, baptisée worse_query, vient d’être découverte dans le système d’exploitation iOS. Elle permet à une application malveillante de lire les fichiers des autres applications, y compris les phrases de récupération des portefeuilles crypto. Selon les chercheurs, la brèche n'a toujours pas été corrigée par Apple, ce qui met en danger les investisseurs qui utilisent un iPhone.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "ea44e89cbf90e9e0ce63",
       "title": "Qare",
       "url": "https://frenchbreaches.com/alertes/qare-mwdouz7ym8s0q1o7h4",
@@ -3371,30 +3539,6 @@
       "category": "fuite"
     },
     {
-      "id": "3cdf143592cca8a1652b",
-      "title": "Google corrige d’urgence une 8e faille Chrome exploitée par des pirates, installez vite la mise à jour",
-      "url": "https://www.01net.com/actualites/google-corrige-urgence-8e-faille-chrome-exploitee-pirates-installez-vite-mise-jour.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-12",
-      "published": "2026-11-12T13:01:07+00:00",
-      "desc": "Google vient de déployer une mise à jour de sécurité d'urgence sur Chrome. Le géant de Mountain View corrige ainsi une faille zero-day déjà exploitée par des pirates dans des cyberattaques. C'est déjà la huitième faille zero-day de l'année identifiée sur le navigateur.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "c776b6ab11f9f310ebfb",
-      "title": "Après les frigos des supermarchés, l’Europe s’inquiète des cyberattaques contre « les appareils ménagers »",
-      "url": "https://www.01net.com/actualites/apres-les-frigos-des-supermarches-leurope-sinquiete-des-cyberattaques-contre-les-appareils-menagers.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:32+00:00",
-      "desc": "L'agence européenne de cybersécurité est sur le qui-vive. Après les frigos des supermarchés, les appareils électroménagers des citoyens pourraient être les prochaines cibles des pirates, estime l'agence. Cet avertissement survient à la suite de plusieurs semaines de cyberattaques, allant des supermarchés européens à une poignée d'établissements de santé.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "89146ff5418730c287f6",
       "title": "Siemens Building Automation and Energy Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
@@ -3402,18 +3546,6 @@
       "date": "2026-11-12",
       "published": "2026-11-12T12:00:00+00:00",
       "desc": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines, and to follow the recommendations in the product manuals. Siemens is actively monitoring the situation and assessing the implications of these vulnerabilities on our portfolio. Because this evaluation is ongoing, our findings are subject to change as new technical details and vendor updates emerge. We will publish updated findings, guidance, and remediation recommendations as soon as they become available. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens Building Automation and Energy Products are affected: AMIS TS vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX - S vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V2.0SP9 vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V3.1SP1 vers:all/* (CVE-2026-109618, CVE-2026-109619) Heliox Rapid vers:all/* ()Local Monitoring bt-monitoring-vm vers:intdot/<20261103 (CVE-2026-1096",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "057c02b04cc39ce1e69c",
-      "title": "Siemens RUGGEDCOM APE1808",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications. The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fix Upgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, g",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -3443,6 +3575,18 @@
       "category": "alerte"
     },
     {
+      "id": "057c02b04cc39ce1e69c",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00+00:00",
+      "desc": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications. The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM APE1808 1 Vulnerability Use After Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities Expand All + CVE-2026-109618 PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE). Read More 1 Affected Product RUGGEDCOM APE1808 with Palo Alto Networks PAN-OS (10.2 All, 11.1 All, 11.2 All, 12.1 All, 12.2 All) Product Status: known_affected Remediations Vendor fix Upgrade to corresponding available PAN-OS version. Contact customer support to receive additional patch and update information. Additional Metrics Relevant CWE: CWE-416 Use After Free CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H View CVE Details CVE-2026-109619 PHP has various global state that temporarily points into request memory. In some scenarios, g",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
       "id": "ff020ded0d3324318b1e",
       "title": "Siemens Industrial Edge Management",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
@@ -3453,30 +3597,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "abaef7f1e5425c1033ae",
-      "title": "Ordre du jour de la séance plénière du 12 novembre 2026",
-      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-novembre-2026",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 12 novembre 2026 à 9&nbsp;h&nbsp;30 avec l’ordre du jour suivant&nbsp;:",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "7e795b6888f43f77193f",
-      "title": "Actualité du CEPD : adéquation de la Corée du Sud, versions finales des BCR-ST, et action coordonnée sur le recrutement via IA",
-      "url": "https://www.cnil.fr/fr/actualite-du-cepd-adequation-de-la-coree-du-sud-versions-finales-des-bcr-st-et-action-coordonnee-sur",
-      "source": "CNIL — Actualités",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "Le 10 novembre 2026, le Comité européen de la protection des données (CEPD) a adopté une déclaration sur l’adéquation de la Corée du Sud en matière de protection des données, ses recommandations finales sur les règles d’entreprises contraignantes et le thème de la sixième action coordonnée (CEF).",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "022df5a65b2780fe73af",
@@ -3500,18 +3620,6 @@
       "desc": "Zoom a publié des correctifs pour deux vulnérabilités affectant Workplace sous Windows, dont une faille critique d’élévation de privilèges notée 9,6 sur l’échelle CVSS. Référencées CVE-2026-108186 et CVE-2026-108187, elles pourraient permettre à un attaquant non authentifié d’obtenir des privilèges supplémentaires à distance, à condition que l’utilisateur interagisse. Les entreprises sont invitées à déployer rapidement les mises à jour.",
       "type": "cve",
       "sev": "Critique",
-      "category": "actualite"
-    },
-    {
-      "id": "c86c6d40b98e2d29953e",
-      "title": "Windows : deux failles BitLocker permettent de lire les fichiers protégés",
-      "url": "https://www.01net.com/actualites/windows-deux-failles-bitlocker-permettent-de-lire-les-fichiers-proteges.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-12",
-      "published": "2026-11-12T09:01:03+00:00",
-      "desc": "Microsoft vient de corriger deux failles de sécurité dans BitLocker, l'outil qui chiffre le disque dur des PC sous Windows. En exploitant ces brèches, un pirate peut contourner le chiffrement et accéder aux données protégées sur l'ordinateur.",
-      "type": "actualite",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -3546,42 +3654,6 @@
       "date": "2026-11-11",
       "published": "2026-11-11T19:09:00+00:00",
       "desc": "Fuite de données chez ARTE, plus de 600 000 adresses e-mail de membres revendiquées par un pirate Mise à jour — 14/11/2026 à 10h11 ARTE confirme un incident de cybersécurité ayant entraîné la divulgation d'une base de données d'adresses email de son service ARTE VOD, découvert le…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "5513a550969c5ca7113a",
-      "title": "Hôpital Foch",
-      "url": "https://frenchbreaches.com/alertes/h-pital-foch-mwc2c69j52j9n2rnqb6",
-      "source": "French Breaches",
-      "date": "2026-11-11",
-      "published": "2026-11-11T11:54:00+00:00",
-      "desc": "Fuite de données à l'Hôpital Foch, des informations personnelles de patients exposées Nouvelle alerte concernant les données personnelles de patients français. L'Hôpital Foch, important établissement de santé situé à Suresnes, dans les Hauts-de-Seine, informe certains patients qu…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "7094b4f5f7294c1f89c0",
-      "title": "Effy (Airtech)",
-      "url": "https://frenchbreaches.com/alertes/effy-airtech-mwc29dnnzabvhpzxkup",
-      "source": "French Breaches",
-      "date": "2026-11-11",
-      "published": "2026-11-11T11:52:00+00:00",
-      "desc": "Effy, spécialiste de la rénovation énergétique, alerte sur une fuite de données personnelles Nouvelle alerte concernant les données personnelles de particuliers français. Effy, entreprise spécialisée dans la rénovation énergétique des logements, informe certains de ses clients d'…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "8bab1c7f2d6a56344231",
-      "title": "Cerballiance",
-      "url": "https://frenchbreaches.com/alertes/cerballiance-mwc1a4xgry7gewnhac",
-      "source": "French Breaches",
-      "date": "2026-11-11",
-      "published": "2026-11-11T11:23:00+00:00",
-      "desc": "Fuite de données chez Cerballiance : plus de 2,1 millions de dossiers médicaux revendiqués à la vente, un lien possible avec les piratages de 2025 ou 2026 Nouvelle alerte concernant les données personnelles de patients français. Plus de 2,1 millions de dossiers médicaux seraient…",
       "type": "fuite",
       "sev": "Faible",
       "category": "fuite"
@@ -3655,42 +3727,6 @@
       "published": "2026-11-09T12:00:00+00:00",
       "desc": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and",
       "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "2e68c4969154600586c3",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-06",
-      "published": "2026-11-06T12:00:00+00:00",
-      "desc": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
-    },
-    {
-      "id": "384cea25d0e901e614e7",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC—which includes algorithms capable of withstanding both classical computing and quantum-enabled threats—before CRQCs become available. Many organizations rely on third-party vendors for managed services, cloud capabilities, and other cryptography-dependent products and services. Cryptography is also embedded in systems and devices that are difficult to update, tied to long asset lifecycles, and require vendor support or replacement—such as industrial control systems and Internet of Things (IoT) devices. Reliance on vendors means that effective PQC transition depends on vendor readiness, and early, structured engagement with these vendors is critical to planning efforts. Organizations can use the vendor-neutral questions outlined in this guidance to determine whether a vendor understands quantum-related risks, maintains transparency over its cryptographic implementations, and supports a secure, cost-effective and timely transition to PQC. Visit CISA’s PQC Initiative page for additional resources.",
-      "type": "alerte",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "cddef5bb18e3bcbf0141",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-05",
-      "published": "2026-11-05T12:00:00+00:00",
-      "desc": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, and energy optimization. The authoring organizations urge owners and operators to defend against this activity by using strong authentication, keeping systems updated, identifying any systems that are accessible from the internet, removing unnecessary remote access, and securing any necessary remote access. Threat The authoring organizations are aware of malicious cyber actors targeting electronic temperature controllers and commercial refrigeration controllers in retail grocery and cold storage facilities. The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards. Specifically, the actors may exploit these flaws through multiple vectors: Authentication bypass; Arbitrary code injection; and Weak configurations. Upon successful exploitation of the flaws, the actors could achieve the following effects: Change of temperature, which could: Affect the service life of the system; Create a fire hazar",
-      "type": "alerte",
       "sev": "Faible",
       "category": "alerte"
     }
