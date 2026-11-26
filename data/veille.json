@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:34:21.045197+00:00",
+  "generated_at": "2026-11-26T01:23:03.068017+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,138 @@
     }
   ],
   "items": [
+    {
+      "id": "85d71203b57ce129093e",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25",
+      "published": "2026-11-25T22:05:09+00:00",
+      "desc": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "29838573f890e4f70a25",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25",
+      "published": "2026-11-25T21:33:33+00:00",
+      "desc": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "abae330a84fc55c76ec0",
+      "title": "Ligue Nationale de Basket (LNB)",
+      "url": "https://frenchbreaches.com/alertes/ligue-nationale-de-basket-lnb-mwwlwpp0qjfg3uqezl",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T20:55:00+00:00",
+      "desc": "Cyberattaque à la Ligue nationale de basket, les données de 40 000 membres potentiellement compromises Mauvaise surprise pour les amateurs de basket français. Ce mercredi 25 novembre 2026, la Ligue nationale de basket (LNB) a confirmé avoir été victime d'un incident de sécurité i…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "02d8707f691eb96a8cbc",
+      "title": "Le gestionnaire de mots de passe 1Password piraté, des données personnelles de clients dérobées",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-1password-fuite-donnees-clients",
+      "source": "French Breaches-blog",
+      "date": "2026-11-25",
+      "published": "2026-11-25T20:44:00+00:00",
+      "desc": "Le gestionnaire de mots de passe 1Password confirme une cyberattaque ayant entraîné le vol de données clients, mais assure que les mots de passe sont épargnés.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "721bbe205a21e346d26b",
+      "title": "Alexandre de Paris (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/alexandre-de-paris-via-arobases-mwwjrmysvollt2fgodc",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:56:00+00:00",
+      "desc": "Fuite de données chez Alexandre de Paris, plus de 90 000 adresses e-mail potentiellement compromises Une nouvelle marque française est visée par une fuite de données dans le sillage du piratage de l'agence web Arobases. Ce mercredi 25 novembre 2026, un cybercriminel utilisant le…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "bd6e923310a6a7a71938",
+      "title": "Creativ'Sign (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/creativ-sign-via-arobases-mwwjnbr1k1jpsqejyl",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:54:00+00:00",
+      "desc": "Cyberattaque chez Arobases, le spécialiste français de la signalétique Creativ'Sign à son tour visé Les publications de données potentiellement issues du piratage de l'agence web française Arobases se poursuivent. Ce mercredi 25 novembre 2026, un cybercriminel utilisant le pseudo…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "b3d54eef2bdced475744",
+      "title": "Stickers Folies (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/stickers-folies-via-arobases-mwwjjyo63fg4d75pyzb",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:51:00+00:00",
+      "desc": "Stickers Folies visé par un piratage, plus de 28 000 empreintes de mots de passe exposées La liste des sites marchands potentiellement touchés par le piratage de l'agence web française Arobases continue de s'allonger. Ce mercredi 25 novembre 2026, un cybercriminel utilisant le ps…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "bd1a5bfa1fb81b874648",
+      "title": "Lehning (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/lehning-via-arobases-mwwjgcnamj5kgh4tljj",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:49:00+00:00",
+      "desc": "Les laboratoires Lehning visés par un piratage, des données de clients et de pharmacies exposées Une nouvelle entreprise française du secteur de la santé potentiellement touchée par les conséquences du piratage de l'agence web Arobases. Ce mercredi 25 novembre 2026, un cybercrimi…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "87607c93d50c4f1eb4ad",
+      "title": "Idéa-Bois (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/id-a-bois-via-arobases-mwwjddyxr8usjrxqfn",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:45:00+00:00",
+      "desc": "Idéa Bois visé par un piratage, des données clients, des factures et des mots de passe exposés Les conséquences du piratage de l'agence web française Arobases continuent de se faire sentir. Ce mercredi 25 novembre 2026, un cybercriminel utilisant le pseudonyme Chimera a annoncé s…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "1444a0198c144be5308f",
+      "title": "TechniMusic (via Arobases)",
+      "url": "https://frenchbreaches.com/alertes/technimusic-via-arobases-mwwj9jxte6ys59fc627",
+      "source": "French Breaches",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:42:00+00:00",
+      "desc": "Fuite de données chez Technimusic, plus de 10 000 adresses e-mail potentiellement compromises La liste des sites marchands potentiellement touchés par le piratage de l'agence web française Arobases continue de s'allonger. Ce mercredi 25 novembre 2026, un cybercriminel utilisant l…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "bb8a3d866a040418bdfe",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "source": "BleepingComputer",
+      "date": "2026-11-25",
+      "published": "2026-11-25T19:39:31+00:00",
+      "desc": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "type": "alerte",
+      "sev": "Critique",
+      "category": "actualite"
+    },
     {
       "id": "820a6be24763a5428c47",
       "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
@@ -177,6 +309,18 @@
       "type": "fuite",
       "sev": "Haute",
       "category": "fuite"
+    },
+    {
+      "id": "c0fdeca5bfd2c130fa49",
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-25",
+      "published": "2026-11-25T12:00:00+00:00",
+      "desc": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450 Danfoss AK-SM 800A Series Improper Authentication Vulnerability CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability CVE-2026-133275 Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-133303 Mitel MiCollab XML Injection Vulnerability CVE-2026-133311 Mitel MiCollab Weak Authentication Vulnerability CVE-2026-133323 Mitel MiCollab OS Command Injection Vulnerability CVE-2026-133324 Mitel MiCollab Not Failing Securely Vulnerability CVE-2026-133469 Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system ",
+      "type": "cve",
+      "sev": "Faible",
+      "category": "alerte"
     },
     {
       "id": "2d3fe69c638a5cdab3fe",
@@ -587,30 +731,6 @@
       "category": "actualite"
     },
     {
-      "id": "0ddde081cc792cb26377",
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T16:22:44+00:00",
-      "desc": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "53f2a1acf59665bb0e1f",
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T16:15:23+00:00",
-      "desc": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "b7ec001944de15e54014",
       "title": "Un mois après le casse du siècle, les hackers de Binance accélèrent : 247 millions de dollars déjà blanchis",
       "url": "https://www.01net.com/actualites/un-mois-apres-le-casse-du-siecle-les-hackers-de-binance-accelerent-247-millions-de-dollars-deja-blanchis.html",
@@ -630,18 +750,6 @@
       "date": "2026-11-24",
       "published": "2026-11-24T15:11:53+00:00",
       "desc": "Le Campus Cyber et le CESIN publient leur première étude sur les dépendances cybersécurité des organisations françaises. La moitié des répondants disposent de moins de 20 % de solutions européennes.L’article Étude : forte dépendance en cybersécurité hors Europe est apparu en premier sur cyber-securite.fr .",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "d8bd6941027644c8bc83",
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T15:10:10+00:00",
-      "desc": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
       "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
@@ -731,6 +839,18 @@
       "category": "actualite"
     },
     {
+      "id": "3ed1970e74313c87defd",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-24",
+      "published": "2026-11-24T12:00:00+00:00",
+      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-127280 C-More EA9 Programming Software V6.80 does not adequately validate data read from a project file before using it in heap memory operations. A crafted file causes a heap buffer overrun during file open, resulting in heap corruption and instability within the application. An attacker can exploit this vulnerability by convincing a user to open a malicious project file delivered through common distribution channels such as email, file sharing, or removable media. Read More 1 Affected Product AutomationDirect C-More EA9 Programming Software <=V6.80 Product Status: known_affected Remediations Vendor fix Update C-More EA9 Programming Software to V6.81: https://www.automationdirect.com/support/software-downloads Mitigation If you cannot update to the latest software or firmware version right away, apply the following compensating controls to reduce risk until the update can be performed. These measures are temporary and do not replace the update, which remains the primary and recommended remediation. Apply these controls as appropriate based on the vulnerabi",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
       "id": "165729c3cbfbb2e3eb18",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
@@ -738,18 +858,6 @@
       "date": "2026-11-24",
       "published": "2026-11-24T12:00:00+00:00",
       "desc": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog vulnerabilities . CISA will continue to add vulnerabilities to the catalog that meet the specified criteria . Aware of an exploited vulnerability not currently listed in the KEV Catalog? Submit it for potential addition through CISA’s KEV Nomination Form . Potential KEV additions must have a CVE ID, evidence of exploitation, and clear mitigation guidance.",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
-      "id": "3a8ad132bbb8c2a03e0e",
-      "title": "Danfoss AK-SM 8xxA Series",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-24",
-      "published": "2026-11-24T12:00:00+00:00",
-      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to memory corruption, webserver restart and hypothetically potential arbitrary code execution with webserver privileges. Authentication is not required to exploit this vulnerability. Read More 1 Affected Product Danfoss AK-SM8xxA <=5.4.0 Product Status: known_affected Remediations Mitigation This vulnerability will be addressed in an upcoming Danfoss AK-SM 800A Series software release (version 5.5.x). In addition, Danfoss will remove the ability for users to disable Strict Mode in future software releases. Mitigation Until a software update is available, Danfoss recommends the following mitigations: * Follow the guidance provided in the product documentation and do not expose devices directly to the Internet or assign them public IP addresses. * Restrict remote access to affected devices by using a secure VPN or other protected network architecture. * Configure all affected devices to operate in Strict Mode, which provides enhanced security protections. * Use strong, unique passwords for all user accounts and administrative access. * For additional security recommendations and best practi",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -767,13 +875,13 @@
       "category": "alerte"
     },
     {
-      "id": "3ed1970e74313c87defd",
-      "title": "AutomationDirect C-More EA9 Programming Software",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "id": "3a8ad132bbb8c2a03e0e",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-24",
       "published": "2026-11-24T12:00:00+00:00",
-      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-127280 C-More EA9 Programming Software V6.80 does not adequately validate data read from a project file before using it in heap memory operations. A crafted file causes a heap buffer overrun during file open, resulting in heap corruption and instability within the application. An attacker can exploit this vulnerability by convincing a user to open a malicious project file delivered through common distribution channels such as email, file sharing, or removable media. Read More 1 Affected Product AutomationDirect C-More EA9 Programming Software <=V6.80 Product Status: known_affected Remediations Vendor fix Update C-More EA9 Programming Software to V6.81: https://www.automationdirect.com/support/software-downloads Mitigation If you cannot update to the latest software or firmware version right away, apply the following compensating controls to reduce risk until the update can be performed. These measures are temporary and do not replace the update, which remains the primary and recommended remediation. Apply these controls as appropriate based on the vulnerabi",
+      "desc": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to memory corruption, webserver restart and hypothetically potential arbitrary code execution with webserver privileges. Authentication is not required to exploit this vulnerability. Read More 1 Affected Product Danfoss AK-SM8xxA <=5.4.0 Product Status: known_affected Remediations Mitigation This vulnerability will be addressed in an upcoming Danfoss AK-SM 800A Series software release (version 5.5.x). In addition, Danfoss will remove the ability for users to disable Strict Mode in future software releases. Mitigation Until a software update is available, Danfoss recommends the following mitigations: * Follow the guidance provided in the product documentation and do not expose devices directly to the Internet or assign them public IP addresses. * Restrict remote access to affected devices by using a secure VPN or other protected network architecture. * Configure all affected devices to operate in Strict Mode, which provides enhanced security protections. * Use strong, unique passwords for all user accounts and administrative access. * For additional security recommendations and best practi",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -2939,13 +3047,13 @@
       "category": "actualite"
     },
     {
-      "id": "b408794a3196e1df425e",
-      "title": "Siemens RUGGEDCOM APE1808",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "id": "91475641f52fb30dbb22",
+      "title": "Siemens Industrial Software Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
       "source": "CISA — Cybersecurity Advisories",
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-106175) CVSS Vendor Equipment v3 2.3 Siemens RUGGEDCOM APE1808 1 Vulnerability Double Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-106175 A Double Free vulnerability [CWE-415] in FortiOS, FortiProxy and FortiSwitch may allow a local authenticated attacker to crash the newcli daemon via crafted CLI commands. Read More 1 Affected Product RUGGEDCOM APE1808 with Fortinet NGFW Product Status: known_affected Remediations Vendor fix Update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information Additional Metrics Relevant CWE: CWE-415 Double Free CVSS Version Base Score Base Severity Vector String 3.1 2.3 LOW CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:L View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-",
+      "desc": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Please also have a look on following Software Field Bulletins: Teamcenter: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204 Polarion: https://support.sw.siemens.com/en-US/knowledge-base/PL8869197 Manufacturing Operations Center (Opcenter) and Process Preparation X: https://support.sw.siemens.com/en-US/knowledge-base/PL8869211 Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Software Products are affected: HyperLynx vers:all/* (CVE-2026-111497) Innexis Architecture Native Acceleration 2026 vers:all/* (CVE-2026-111497) Insights Hub vers:all/* (CVE-2026-111497) Opcenter Connect Electronics vers:all/* (CVE-2026-111497) Opcenter Connect MOM vers:all/* (CVE-2026-111497) Opcenter Execution Core vers:all/* (CVE-2026-111497) Opcenter Execution Discrete vers:all/* (CVE-2026-111497) Opcenter Execution Foundation vers:all/* (CVE-2026-111497) Opcenter Execution Pharma vers:all/* (CVE-2026-111497) Opcenter Execution Process vers:all/* (CVE-2026-111497) Opcenter Intelligence vers:all/* (CVE-2026-111497) Opcenter Intra Plant Logistics vers:all/* (CVE-2026-111497) Opcenter Quality vers:all/* (CVE-2026-111497) Opcenter RDnL vers:all/* (CVE-2026-111497) Opcenter X vers:all/* (CVE-2026-111497) PADS Pro Essentials ve",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -3011,18 +3119,6 @@
       "category": "alerte"
     },
     {
-      "id": "91475641f52fb30dbb22",
-      "title": "Siemens Industrial Software Products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:00:00+00:00",
-      "desc": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Please also have a look on following Software Field Bulletins: Teamcenter: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204 Polarion: https://support.sw.siemens.com/en-US/knowledge-base/PL8869197 Manufacturing Operations Center (Opcenter) and Process Preparation X: https://support.sw.siemens.com/en-US/knowledge-base/PL8869211 Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Software Products are affected: HyperLynx vers:all/* (CVE-2026-111497) Innexis Architecture Native Acceleration 2026 vers:all/* (CVE-2026-111497) Insights Hub vers:all/* (CVE-2026-111497) Opcenter Connect Electronics vers:all/* (CVE-2026-111497) Opcenter Connect MOM vers:all/* (CVE-2026-111497) Opcenter Execution Core vers:all/* (CVE-2026-111497) Opcenter Execution Discrete vers:all/* (CVE-2026-111497) Opcenter Execution Foundation vers:all/* (CVE-2026-111497) Opcenter Execution Pharma vers:all/* (CVE-2026-111497) Opcenter Execution Process vers:all/* (CVE-2026-111497) Opcenter Intelligence vers:all/* (CVE-2026-111497) Opcenter Intra Plant Logistics vers:all/* (CVE-2026-111497) Opcenter Quality vers:all/* (CVE-2026-111497) Opcenter RDnL vers:all/* (CVE-2026-111497) Opcenter X vers:all/* (CVE-2026-111497) PADS Pro Essentials ve",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "fae4ec42780a6b53cc83",
       "title": "Siemens meta-iot2050",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
@@ -3078,6 +3174,18 @@
       "date": "2026-11-17",
       "published": "2026-11-17T12:00:00+00:00",
       "desc": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens products. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Automation Software Products are affected: COMOS Walkinside vers:all/* (CVE-2026-111497) gDAP (gPROMS Digital Application Platform) vers:all/* () Project Server Web Administration Tool vers:all/* (CVE-2026-111497) SIMATIC BRAUMAT vers:intdot/>=8.2.0.1|<8.2.0.5 (CVE-2026-111497) SIMATIC Profiling Tool vers:all/* (CVE-2026-111497) SIMATIC SISTAR vers:intdot/>=8.2.0.1|<8.2.0.5 (CVE-2026-111497) SIMATIC WinCC Companion vers:all/* (CVE-2026-111497) SIMATIC WinCC OA V3.20 vers:intdot/<3.20.17.1 (CVE-2026-111497) SIMATIC WinCC OA V3.21 vers:all/* (CVE-2026-111497) SIMATIC WinCC Runtime Professional vers:all/* (CVE-2026-111497) SIMATIC WinCC Unified for Industrial Edge vers:all/* (CVE-2026-111497) SIMATIC WinCC Unified PC Runtime vers:all/* (CVE-2026-111497) SIMATIC WinCC Unified SIQENCE vers:all/* (CVE-2026-111497) SIMATIC WinCC V7/V8 vers:all/* (CVE-2026-111497) TIA Administrator vers:all/* (CVE-2026-111497) User Management Component (UMC) vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens COMOS Walkinside 1 Vulnerability Out-of-bounds Write ",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "b408794a3196e1df425e",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-17",
+      "published": "2026-11-17T12:00:00+00:00",
+      "desc": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-106175) CVSS Vendor Equipment v3 2.3 Siemens RUGGEDCOM APE1808 1 Vulnerability Double Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-106175 A Double Free vulnerability [CWE-415] in FortiOS, FortiProxy and FortiSwitch may allow a local authenticated attacker to crash the newcli daemon via crafted CLI commands. Read More 1 Affected Product RUGGEDCOM APE1808 with Fortinet NGFW Product Status: known_affected Remediations Vendor fix Update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information Additional Metrics Relevant CWE: CWE-415 Double Free CVSS Version Base Score Base Severity Vector String 3.1 2.3 LOW CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:L View CVE Details Acknowledgments Siemens ProductCERT reported this vulnerability to CISA. General Recommendations As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines for Industrial Security (Download: https://www.siemens.com/cert/operational-guidelines-industrial-",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -3359,18 +3467,6 @@
       "category": "actualite"
     },
     {
-      "id": "3cd9b3dd5318fd3985c1",
-      "title": "GTA 6 sort mercredi à midi dans un pays, les joueurs français pourraient en profiter",
-      "url": "https://frenchbreaches.com/blog/gta-6-sort-mercredi-a-midi-dans-un-pays-les-joueurs-francais-pourraient-en-profiter",
-      "source": "French Breaches-blog",
-      "date": "2026-11-16",
-      "published": "2026-11-16T00:55:00+00:00",
-      "desc": "GTA 6 sera disponible en Nouvelle-Zélande dès mercredi 18 novembre à midi, heure française. Une astuce pourrait permettre de jouer 12 heures plus tôt.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "a5c644c82542fa0437f6",
       "title": "Dagier",
       "url": "https://frenchbreaches.com/alertes/dagier-mwigonrfd5rkmv46mau",
@@ -3527,30 +3623,6 @@
       "category": "fuite"
     },
     {
-      "id": "053fa16f4f619881eae7",
-      "title": "Union française des œuvres laïques d'éducation physique (UFOLEP)",
-      "url": "https://frenchbreaches.com/alertes/union-fran-aise-des-uvres-la-ques-d-ducation-physique-ufolep-mweyewmv3xnit6jbgiw",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T12:24:00+00:00",
-      "desc": "Cyberattaque contre l'UFOLEP, les données de 564 000 licenciés et adhérents mises en vente ? Les informations personnelles de plus de 564 000 personnes liées à l'UFOLEP, une fédération sportive française, seraient proposées à la vente sur un forum cybercriminel. Un pirate utilisa…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "23792561308d4225fd86",
-      "title": "Location-Etudiant",
-      "url": "https://frenchbreaches.com/alertes/location-etudiant-mwe6xjvslqe6ohbbzel",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T12:10:00+00:00",
-      "desc": "Location-Étudiant piraté, les données de 825 000 personnes potentiellement mises en vente Les données personnelles d'environ 825 000 personnes ayant utilisé Location-Étudiant seraient proposées à la vente sur un forum cybercriminel. Un pirate utilisant le pseudonyme « Bonjour » a…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "7b5dacba886b8db54898",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -3561,18 +3633,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "97ddfadf87e9daec58f8",
-      "title": "CHU de Reims (via Softway Medical)",
-      "url": "https://frenchbreaches.com/alertes/chu-de-reims-via-softway-medical-mwewyeju95i6tlgwbfq",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T11:47:00+00:00",
-      "desc": "Cyberattaque chez un éditeur de logiciels médicaux, le CHU de Reims confirme une fuite de données Le CHU de Reims confirme être concerné par une violation de données personnelles survenue chez Softway Medical Imaging, un éditeur de logiciels utilisé par plusieurs établissements d…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
     },
     {
       "id": "8d1826d40cf87fb698db",
@@ -3587,54 +3647,6 @@
       "category": "actualite"
     },
     {
-      "id": "96dbcb812f04d6367755",
-      "title": "HomeMaison",
-      "url": "https://frenchbreaches.com/alertes/homemaison-mwdvazyv3mb86n3dls6",
-      "source": "French Breaches",
-      "date": "2026-11-12",
-      "published": "2026-11-12T18:10:00+00:00",
-      "desc": "Cyberattaque chez HomeMaison, les données de 1,6 million de clients potentiellement exposées Une importante fuite de données est revendiquée contre HomeMaison.com, un site français spécialisé dans la décoration et l'ameublement. Un pirate affirme avoir récupéré 10,4 Go de fichier…",
-      "type": "fuite",
-      "sev": "Haute",
-      "category": "fuite"
-    },
-    {
-      "id": "f3f940e0f7d8e2dfd2c4",
-      "title": "La Rez",
-      "url": "https://frenchbreaches.com/alertes/la-rez-mwdv3l7xq5l0ihms94l",
-      "source": "French Breaches",
-      "date": "2026-11-12",
-      "published": "2026-11-12T18:07:00+00:00",
-      "desc": "Cyberattaque contre une résidence étudiante, des IBAN et mots de passe exposés Une résidence étudiante située près de Nancy est visée par une fuite de données revendiquée par un pirate informatique. Près de 3 000 enregistrements seraient concernés, avec des informations personnel…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a2283beefc10873d5999",
-      "title": "LaSante.net",
-      "url": "https://frenchbreaches.com/alertes/lasante-net-mwdnilalmh5f4qoohd",
-      "source": "French Breaches",
-      "date": "2026-11-12",
-      "published": "2026-11-12T18:03:00+00:00",
-      "desc": "Cyberattaque chez LaSante.net, les données de 430 000 clients mises en vente par un pirate Les données attribuées à plus de 430 000 clients de LaSante.net sont proposées à la vente sur un forum cybercriminel. Un pirate affirme détenir des informations personnelles et des données…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "dad057c0b39e2b77a7e8",
-      "title": "Macif Avantages (Qwertys)",
-      "url": "https://frenchbreaches.com/alertes/macif-avantages-qwertys-mwdsq50je5xpxp9xx7",
-      "source": "French Breaches",
-      "date": "2026-11-12",
-      "published": "2026-11-12T16:58:00+00:00",
-      "desc": "Cyberattaque chez un partenaire de la Macif, des données personnelles de clients exposées La Macif alerte ses clients après une cyberattaque visant Qwertys, un partenaire proposant des bons d'achat dans le cadre du programme Macif Avantages. Des noms, prénoms, adresses postales,…",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
       "id": "89146ff5418730c287f6",
       "title": "Siemens Building Automation and Energy Products",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
@@ -3642,6 +3654,18 @@
       "date": "2026-11-12",
       "published": "2026-11-12T12:00:00+00:00",
       "desc": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices in a protected IT environment, Siemens recommends to configure the environment according to Siemens' operational guidelines, and to follow the recommendations in the product manuals. Siemens is actively monitoring the situation and assessing the implications of these vulnerabilities on our portfolio. Because this evaluation is ongoing, our findings are subject to change as new technical details and vendor updates emerge. We will publish updated findings, guidance, and remediation recommendations as soon as they become available. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens Building Automation and Energy Products are affected: AMIS TS vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX vers:all/* (CVE-2026-109618, CVE-2026-109619) blueplanet 360 NX3 M6 WM OD IISX - S vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V2.0SP9 vers:all/* (CVE-2026-109618, CVE-2026-109619) Energy Engage V3.1SP1 vers:all/* (CVE-2026-109618, CVE-2026-109619) Heliox Rapid vers:all/* ()Local Monitoring bt-monitoring-vm vers:intdot/<20261103 (CVE-2026-1096",
+      "type": "cve",
+      "sev": "Critique",
+      "category": "alerte"
+    },
+    {
+      "id": "ff020ded0d3324318b1e",
+      "title": "Siemens Industrial Edge Management",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "source": "CISA — Cybersecurity Advisories",
+      "date": "2026-11-12",
+      "published": "2026-11-12T12:00:00+00:00",
+      "desc": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the affected functionality is not used or exposed. The same applies to IEDK. - Management Applications installed: Follow the specific mitigations until a fix is available. - Device Applications installed: Follow the specific mitigations until a fix is available. For Siemens-managed services, Industrial Edge Hub and Industrial Edge Management Cloud, appropriate Firewall/WAF protection has already been implemented. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Management are affected: Cloud Connector Configurator vers:intdot/<1.24.3 (CVE-2026-111497) Common Configurator (CC on IEM) vers:all/* (CVE-2026-111497) Common Configurator on Device (CC on Edge) vers:all/* (CVE-2026-111497) Data Flow Monitoring vers:intdot/<3.0.18 (CVE-2026-111497) Databus Configurator vers:intdot/<4.0.1 (CVE-2026-111497) DataXess Configurator vers:intdot/<1.5.7 (CVE-2026-111497) Edge OPC UA Server Configurator vers:intdot/<2.3.10 (CVE-2026-111497) Flow Creator Configurator vers:intdot/<1.15.1 (CVE-2026-111497) Industrial Edge Hub vers:all/* (CVE-2026-111497) Industrial Edge Management Cloud vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens Cloud Connector Configurator 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Se",
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
@@ -3683,18 +3707,6 @@
       "category": "alerte"
     },
     {
-      "id": "ff020ded0d3324318b1e",
-      "title": "Siemens Industrial Edge Management",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-12",
-      "published": "2026-11-12T12:00:00+00:00",
-      "desc": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the affected functionality is not used or exposed. The same applies to IEDK. - Management Applications installed: Follow the specific mitigations until a fix is available. - Device Applications installed: Follow the specific mitigations until a fix is available. For Siemens-managed services, Industrial Edge Hub and Industrial Edge Management Cloud, appropriate Firewall/WAF protection has already been implemented. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Management are affected: Cloud Connector Configurator vers:intdot/<1.24.3 (CVE-2026-111497) Common Configurator (CC on IEM) vers:all/* (CVE-2026-111497) Common Configurator on Device (CC on Edge) vers:all/* (CVE-2026-111497) Data Flow Monitoring vers:intdot/<3.0.18 (CVE-2026-111497) Databus Configurator vers:intdot/<4.0.1 (CVE-2026-111497) DataXess Configurator vers:intdot/<1.5.7 (CVE-2026-111497) Edge OPC UA Server Configurator vers:intdot/<2.3.10 (CVE-2026-111497) Flow Creator Configurator vers:intdot/<1.15.1 (CVE-2026-111497) Industrial Edge Hub vers:all/* (CVE-2026-111497) Industrial Edge Management Cloud vers:all/* (CVE-2026-111497) CVSS Vendor Equipment v3 9.8 Siemens Cloud Connector Configurator 1 Vulnerability Out-of-bounds Write Background Critical Infrastructure Se",
-      "type": "cve",
-      "sev": "Critique",
-      "category": "alerte"
-    },
-    {
       "id": "2015b3b494eebe9e7c01",
       "title": "Zoom Workplace : une faille critique et une faille élevée corrigées sous Windows",
       "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/zoom-workplace-une-faille-critique-et-une-faille-e",
@@ -3729,18 +3741,6 @@
       "type": "cve",
       "sev": "Faible",
       "category": "actualite"
-    },
-    {
-      "id": "f4b34728a6f8e3261976",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "source": "CISA — Cybersecurity Advisories",
-      "date": "2026-11-10",
-      "published": "2026-11-10T12:00:00+00:00",
-      "desc": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability CVE-2026-125350 Google Chromium Use-After-Free Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically those identified by Common Vulnerabilities and Exposures (CVEs) listed in CISA’s KEV Catalog on publicly exposed assets that grant total control of the asset post-exploitation, while deferring action for lower-risk vulnerabilities. BOD 26-04 further establishes basic expectations for when agencies must check whether threat actors compromised the system before the patch was applied. While BOD 26-04 applies only to FCEB agencies, CISA encourages all organizations to adopt risk-based vulnerability management and prioritize remediation of KEV Catalog",
-      "type": "cve",
-      "sev": "Faible",
-      "category": "alerte"
     },
     {
       "id": "64d25263fccd734116c3",
