@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:06:38.091058+00:00",
+  "generated_at": "2026-11-27T01:21:26.885076+00:00",
   "sources_total": 11,
   "sources_ok": 10,
   "sources_failed": 1,
@@ -10,6 +10,174 @@
     }
   ],
   "items": [
+    {
+      "id": "b9cffd8fda62b9809aed",
+      "title": "Pagès",
+      "url": "https://frenchbreaches.com/alertes/pag-s-mwya6wddvce4hzm32yi",
+      "source": "French Breaches",
+      "date": "2026-11-27",
+      "published": "2026-11-27T01:04:00+00:00",
+      "desc": "La marque française de thés et d'infusions Pagès victime d'une cyberattaque, ses clients alertés La célèbre marque française de thés, tisanes et infusions Pagès annonce avoir été victime d'une cyberattaque ayant affecté sa boutique en ligne. Des informations personnelles de clien…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "5bf924965269640b6656",
+      "title": "Agence France-Presse (AFP)",
+      "url": "https://frenchbreaches.com/alertes/agence-france-presse-afp-mwya0bfxo0fqjvarsgg",
+      "source": "French Breaches",
+      "date": "2026-11-27",
+      "published": "2026-11-27T00:58:00+00:00",
+      "desc": "L'AFP victime d'une intrusion informatique, des perturbations pour de nombreux médias L'Agence France-Presse (AFP), l'une des trois plus grandes agences de presse au monde, a été victime d'une cyberattaque dans la nuit du mercredi 25 au jeudi 26 novembre 2026. L'intrusion informa…",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "d25b9f86f6010f02a991",
+      "title": "Buffalo Grill (via Brevo)",
+      "url": "https://frenchbreaches.com/alertes/buffalo-grill-via-brevo-mwy2f0gsrj74f1h7yp",
+      "source": "French Breaches",
+      "date": "2026-11-26",
+      "published": "2026-11-26T21:27:00+00:00",
+      "desc": "Fuite de données chez Buffalo Grill, l'enseigne confirme un piratage chez son prestataire Brevo La célèbre chaîne française de restaurants Buffalo Grill informe ses clients avoir été victime d'une fuite de données personnelles à la suite d'un incident de cybersécurité survenu che…",
+      "type": "fuite",
+      "sev": "Faible",
+      "category": "fuite"
+    },
+    {
+      "id": "f688c12fdd7ef8148948",
+      "title": "Cyberattaque chez Burger King, les données de plus de 126 000 clients potentiellement compromises",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-burger-king-popeyes-fuite-donnees-inception",
+      "source": "French Breaches-blog",
+      "date": "2026-11-26",
+      "published": "2026-11-26T21:20:00+00:00",
+      "desc": "Le groupe Inception revendique le piratage de la maison mère de Burger King et Popeyes, menaçant de divulguer 234 Go de données concernant notamment 126 038 clients américains.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "ac6c22bfffe5cdc2a6ea",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26",
+      "published": "2026-11-26T21:06:22+00:00",
+      "desc": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "fcf9c221e77a1d87314a",
+      "title": "Cyberattaque chez Mattel, le fabricant de Barbie, Hot Wheels et UNO visé par une fuite présumée de données",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-mattel-barbie-hot-wheels-ransomware-inception",
+      "source": "French Breaches-blog",
+      "date": "2026-11-26",
+      "published": "2026-11-26T20:42:00+00:00",
+      "desc": "Le groupe Inception revendique le piratage de Mattel, fabricant de Barbie, Hot Wheels et UNO, et menace de divulguer 313 Go de données confidentielles.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "e57008c15821680aa7b4",
+      "title": "Cyberattaque chez McDonald's, les données de plus de 780 000 clients potentiellement compromises",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-mcdonalds-fuite-donnees-ransomware-inception",
+      "source": "French Breaches-blog",
+      "date": "2026-11-26",
+      "published": "2026-11-26T20:29:00+00:00",
+      "desc": "Le groupe de pirates Inception revendique le piratage de McDonald's et menace de publier 293 Go de données concernant notamment plus de 780 000 fiches clients.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "3f05045145225799f462",
+      "title": "Cyberattaque chez GoDaddy, des données personnelles et salariales d'employés auraient été dérobées",
+      "url": "https://frenchbreaches.com/blog/cyberattaque-godaddy-fuite-donnees-ransomware-inception",
+      "source": "French Breaches-blog",
+      "date": "2026-11-26",
+      "published": "2026-11-26T20:20:00+00:00",
+      "desc": "Le groupe de pirates Inception revendique le piratage de GoDaddy et annonce la divulgation de 37,5 Go de données internes, soit 10 783 fichiers.",
+      "type": "alerte",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0b75246ced860331ec95",
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "source": "The Hacker News",
+      "date": "2026-11-26",
+      "published": "2026-11-26T19:39:57+00:00",
+      "desc": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "0bd18f3d2e78de9a9839",
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26",
+      "published": "2026-11-26T17:58:42+00:00",
+      "desc": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "deebe28bb42d9ba3bda4",
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "BleepingComputer",
+      "date": "2026-11-26",
+      "published": "2026-11-26T17:15:27+00:00",
+      "desc": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+      "type": "phishing",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "1d21d09dd775b8aa0bf1",
+      "title": "Megaupload, Kim Dotcom offre 100 millions de dollars pour prouver qu'il a été victime d'un complot",
+      "url": "https://frenchbreaches.com/blog/megaupload-kim-dotcom-recompense-100-millions-dollars",
+      "source": "French Breaches-blog",
+      "date": "2026-11-26",
+      "published": "2026-11-26T17:05:00+00:00",
+      "desc": "Près de 15 ans après la fermeture de Megaupload, Kim Dotcom promet 100 millions de dollars à quiconque apportera des preuves de corruption dans son affaire.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
+    {
+      "id": "24dec74d050a3419c330",
+      "title": "La FIFA a été piratée : des données personnelles et professionnelles ont été compromises",
+      "url": "https://www.01net.com/actualites/la-fifa-a-ete-piratee-des-donnees-personnelles-et-professionnelles-ont-ete-compromises.html",
+      "source": "Cybersécurité : Actualités, analyses et tendances",
+      "date": "2026-11-26",
+      "published": "2026-11-26T16:31:05+00:00",
+      "desc": "La FIFA confirme avoir été victime d’une cyberattaque. Les pirates ont eu accès à une foule de données personnelles et professionnelles à la suite de l'intrusion. Un nouveau gang spécialisé dans les attaques par ransomware, le Handsome Boys Hacking Club, revendique la cyberattaque.",
+      "type": "alerte",
+      "sev": "Haute",
+      "category": "actualite"
+    },
+    {
+      "id": "1c7b22ad738c806b3405",
+      "title": "Les lunettes Meta dans le viseur de la justice néerlandaise",
+      "url": "https://www.lemondeinformatique.fr/cybersecurite-conformite/les-lunettes-meta-dans-le-viseur-de-la-justice-neerlandaise",
+      "source": "Actualités securite",
+      "date": "2026-11-26",
+      "published": "2026-11-26T16:18:59+00:00",
+      "desc": "Deux associations néerlandaises demandent à la justice de suspendre la commercialisation des lunettes connectées de Meta et Ray-Ban. Elles dénoncent un dispositif qui permet de filmer des personnes à leur insu, en contradiction avec les règles européennes sur la protection de la vie privée.",
+      "type": "actualite",
+      "sev": "Faible",
+      "category": "actualite"
+    },
     {
       "id": "57d73d788295d6a09683",
       "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -1007,18 +1175,6 @@
       "category": "alerte"
     },
     {
-      "id": "2b855346dd50d4dcf8c1",
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T21:37:30+00:00",
-      "desc": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "be8d95b52d8c2cf13804",
       "title": "La CIA victime d'une cyberattaque, des données du renseignement américain compromises",
       "url": "https://frenchbreaches.com/blog/la-cia-victime-dune-cyberattaque-des-donnees-du-renseignement-americain-compromises",
@@ -1026,30 +1182,6 @@
       "date": "2026-11-24",
       "published": "2026-11-24T20:32:00+00:00",
       "desc": "La CIA et la direction du renseignement américain ont découvert une cyberattaque ayant compromis des informations non classifiées, selon le New York Times.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "347042e7abf2992ce7da",
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T20:21:20+00:00",
-      "desc": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "6c5bc98dced3225cd102",
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "source": "BleepingComputer",
-      "date": "2026-11-24",
-      "published": "2026-11-24T18:59:52+00:00",
-      "desc": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
       "type": "alerte",
       "sev": "Faible",
       "category": "actualite"
@@ -2711,18 +2843,6 @@
       "category": "actualite"
     },
     {
-      "id": "cc7a5715391457a2474f",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "source": "The Hacker News",
-      "date": "2026-11-19",
-      "published": "2026-11-19T18:47:58+00:00",
-      "desc": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "52ef8c8995c1d1d0e8ba",
       "title": "Godot & Fils : une fuite de données qui aurait permis à des escrocs de voler des centaines de milliers d’euros en or",
       "url": "https://frenchbreaches.com/blog/godot-fils-une-fuite-de-donnees-qui-aurait-permis-a-des-escrocs-de-voler-des-centaines-de-milliers-deuros-en-or",
@@ -3071,18 +3191,6 @@
       "category": "fuite"
     },
     {
-      "id": "3f8b029183c6c924da6a",
-      "title": "18 millions de patients, des dizaines de cliniques : une fuite de données qui inquiète",
-      "url": "https://frenchbreaches.com/blog/18-millions-de-patients-des-dizaines-de-cliniques-une-fuite-de-donnees-qui-inquiete",
-      "source": "French Breaches-blog",
-      "date": "2026-11-17",
-      "published": "2026-11-17T19:25:00+00:00",
-      "desc": "Une fuite de données revendiquée concernerait 18 millions de patients. Des dizaines de structures médicales sont citées dans les fichiers examinés.",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "4a8c02bff6711f923771",
       "title": "Google a découvert des agents IA pirates à l’assaut de plusieurs sites français",
       "url": "https://www.01net.com/actualites/google-decouvert-agents-ia-pirates-assaut-plusieurs-sites-francais.html",
@@ -3091,18 +3199,6 @@
       "published": "2026-11-17T16:01:01+00:00",
       "desc": "Google a découvert que des pirates ont confié une série de cyberattaques à l'intelligence artificielle. Tout le travail de piratage, de la recherche de failles jusqu'à l'attaque, a été pris en charge par des agents IA taillés pour le piratage. Ils se sont notamment attaqués à des sites web français, notamment dans les médias, le divertissement et l'éducation.",
       "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "07e865a867c80efa70bd",
-      "title": "Google découvre une IA capable de pirater des sites presque toute seule, la France ciblée",
-      "url": "https://frenchbreaches.com/blog/google-decouvre-une-ia-capable-de-pirater-des-sites-presque-toute-seule-la-france-ciblee",
-      "source": "French Breaches-blog",
-      "date": "2026-11-17",
-      "published": "2026-11-17T15:21:00+00:00",
-      "desc": "Google révèle un outil d'IA capable de trouver et d'exploiter des failles automatiquement. Des sites français figurent parmi les cibles.",
-      "type": "actualite",
       "sev": "Faible",
       "category": "actualite"
     },
@@ -3131,18 +3227,6 @@
       "category": "fuite"
     },
     {
-      "id": "a4eec301cc00a74ed35b",
-      "title": "Mots de passe trop faibles, cookies illégaux, la CNIL sanctionne 38 organismes",
-      "url": "https://frenchbreaches.com/blog/mots-de-passe-trop-faibles-cookies-illegaux-la-cnil-sanctionne-38-organismes",
-      "source": "French Breaches-blog",
-      "date": "2026-11-17",
-      "published": "2026-11-17T13:12:00+00:00",
-      "desc": "La CNIL inflige 302 800 euros d'amendes à 38 organismes pour des manquements à la sécurité des données, aux cookies et au RGPD.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
       "id": "53a702bcadbe7359914a",
       "title": "Le hacker de GTA 6 plaide coupable : il a bien piraté Rockstar Games en 2022",
       "url": "https://www.01net.com/actualites/le-hacker-de-gta-6-plaide-coupable-il-a-bien-pirate-rockstar-games-en-2022.html",
@@ -3152,30 +3236,6 @@
       "desc": "Arion Kurtaj, le Britannique à l’origine de la fuite massive de Grand Theft Auto VI en 2022, a plaidé coupable le 16 novembre 2026 devant la justice britannique. Le tout à quelques jours de la sortie du jeu le plus attendu de tous les temps.",
       "type": "actualite",
       "sev": "Haute",
-      "category": "actualite"
-    },
-    {
-      "id": "82b055119118d1980e2c",
-      "title": "Air France, Zoom, BBC et Ledger touchés par une cyberattaque visant 178 organisations",
-      "url": "https://frenchbreaches.com/blog/air-france-zoom-bbc-et-ledger-touches-par-une-cyberattaque-visant-178-organisations",
-      "source": "French Breaches-blog",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:54:00+00:00",
-      "desc": "Une cyberattaque via Optimizely a exposé les visiteurs de 178 organisations à un logiciel capable de voler des données.",
-      "type": "alerte",
-      "sev": "Faible",
-      "category": "actualite"
-    },
-    {
-      "id": "5976b01100afcf6cf76b",
-      "title": "Contabo victime d'une cyberattaque, l'hébergeur allemand confirme une intrusion dans ses systèmes",
-      "url": "https://frenchbreaches.com/blog/contabo-victime-dune-cyberattaque-lhebergeur-allemand-confirme-une-intrusion-dans-ses-systemes",
-      "source": "French Breaches-blog",
-      "date": "2026-11-17",
-      "published": "2026-11-17T12:39:00+00:00",
-      "desc": "L'hébergeur Contabo confirme un accès non autorisé à ses systèmes le 14 novembre 2026. Une enquête est en cours.",
-      "type": "alerte",
-      "sev": "Faible",
       "category": "actualite"
     },
     {
@@ -3345,18 +3405,6 @@
       "type": "cve",
       "sev": "Critique",
       "category": "alerte"
-    },
-    {
-      "id": "c656c545843a47e929cf",
-      "title": "Fausses pubs sur Facebook et Instagram : la Française des jeux attaque Meta en justice",
-      "url": "https://www.01net.com/actualites/fausses-pubs-facebook-instagram-francaise-des-jeux-attaque-meta-en-justice.html",
-      "source": "Cybersécurité : Actualités, analyses et tendances",
-      "date": "2026-11-17",
-      "published": "2026-11-17T11:25:54+00:00",
-      "desc": "La Française des jeux tape du poing sur la table et attaque directement la maison mère de Facebook et Instagram en justice. La FDJ accuse en effet Meta de diffuser des publicités trompeuses qui détournent sa marque.",
-      "type": "actualite",
-      "sev": "Faible",
-      "category": "actualite"
     },
     {
       "id": "c3f104b0835f07f7027b",
@@ -3631,42 +3679,6 @@
       "published": "2026-11-14T19:14:00+00:00",
       "desc": "Optical Center, Afflelou, Krys et Optic 2000 cités dans une fuite de plus de 4 millions de commandes Plus de 4 millions de commandes de lunettes pourraient avoir été exposées. Un pirate informatique affirme avoir diffusé gratuitement 18,3 Go de données liées au logiciel d'optique…",
       "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a2750e98e7fdf14135e7",
-      "title": "1001RDV Santé (Logicielnet)",
-      "url": "https://frenchbreaches.com/alertes/1001rdv-sant-logicielnet-mwdia94d23smfjnrr15",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T23:10:00+00:00",
-      "desc": "Piratage de 1001RDV et Logicielnet : les données de 9 millions de patients mises en vente, des personnalités publiques potentiellement citées Mise à jour le 14 novembre 2026 De nouveaux éléments obtenus par FrenchBreaches dans l'affaire 1001RDV et Logicielnet font état d'un ensem…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "1f0a428e178a024b60ec",
-      "title": "Centre Hospitalier d'Armentières",
-      "url": "https://frenchbreaches.com/alertes/centre-hospitalier-d-armenti-res-mwfft916jbpzxl5xg0q",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T20:35:00+00:00",
-      "desc": "Centre hospitalier d'Armentières, une fuite de 2024 republiée avec 261 948 enregistrements Une ancienne fuite de données attribuée au Centre hospitalier d'Armentières, dans le Nord, refait surface sur un forum de cybercriminalité. Ce vendredi 13 novembre 2026, un pirate utilisant…",
-      "type": "fuite",
-      "sev": "Faible",
-      "category": "fuite"
-    },
-    {
-      "id": "a418819dd26c919e192e",
-      "title": "Communauté de Communes d'Entre Bièvre et Rhône",
-      "url": "https://frenchbreaches.com/alertes/communaut-de-communes-d-entre-bi-vre-et-rh-ne-mwf9txigpk5flbkvnm",
-      "source": "French Breaches",
-      "date": "2026-11-13",
-      "published": "2026-11-13T17:59:00+00:00",
-      "desc": "Cyberattaque contre Entre Bièvre et Rhône, les données de milliers d'habitants divulguées Mise à jour du 15 novembre 2026 Contactée par FrenchBreaches, la collectivité a confirmé avoir détecté un incident de cybersécurité affectant une partie de son système informatique. Elle ind…",
-      "type": "alerte",
       "sev": "Faible",
       "category": "fuite"
     },
